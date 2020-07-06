@@ -1,0 +1,19 @@
+<html> 
+  <head>
+    <title>List of Flows</title> 
+  </head>
+
+  <body> 
+    <h1>List of Flows</h1> 
+    <p>The script below should show the list of flows in the file santiago-testing-file.</p>
+    <p id="demo"></p>
+    <script>
+        var txt = '{"name":"John", "age":30, "city":"New York"}'
+        var obj = JSON.parse(txt);
+        document.getElementById("demo").innerHTML = obj.name + ", " + obj.age;
+        var data = JSON.stringify(obj)
+        var fs = require('fs');
+        fs.writeFile("file.json",data)
+    </script>
+  </body>
+</html>
