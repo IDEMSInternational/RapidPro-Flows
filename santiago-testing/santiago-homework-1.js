@@ -114685,11 +114685,17 @@ var obj = {
       }
     ]
   };
-for (i:0,i<obj.flows.length,i++) {
-    
-}
-var data = JSON.stringify(obj)
+// manipulate
+var props= Object.getOwnPropertyNames(obj.flows[0])[0];
+var i = 0;
+var flows_list = {};
+for (i = 0; i<obj.flows.length; i++){
+    if (Object.getOwnPropertyNames(obj.flows[i])[0]="name") {
+        flows_list['Flow_'+(i+1)]=obj.flows[i].name;
+    }
+} 
+flows_list = JSON.stringify(flows_list);
 var fs = require('fs');
-fs.writeFile("santigo-output.json",data, function(err, result) {
+fs.writeFile("santigo-output.json",flows_list, function(err, result) {
     if(err) console.log('error', err);
 });
