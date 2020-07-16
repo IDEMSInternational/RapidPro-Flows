@@ -6,6 +6,7 @@ var obj = JSON.parse(json_string);
 
 var bits_to_translate = {};
 var localization = {};
+var eng_localization = {};
 
 var fl;
 var n;
@@ -34,7 +35,7 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                 trasl_to_add = {};
                 trasl_to_add.text = [curr_act.text];
                 trasl_to_add.quick_replies = curr_act.quick_replies;
-                localization[msg_id] = trasl_to_add;
+                eng_localization[msg_id] = trasl_to_add;
             }
         }
         if (obj.flows[fl].nodes[n].hasOwnProperty('router')) {
@@ -45,7 +46,7 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                         case_id = curr_case.uuid;
                         trasl_to_add = {};
                         trasl_to_add.arguments = curr_case.arguments;
-                        localization[case_id] = trasl_to_add;
+                        eng_localization[case_id] = trasl_to_add;
 
                     }
                 }
@@ -60,9 +61,11 @@ for (fl = 0; fl < obj.flows.length; fl++) {
         flow_id = obj.flows[fl].uuid;
         flow_info = {};
         flow_info.flowid = flow_id;
-        flow_info.localization = localization;
+        localization.eng = eng_localization;
+        flow_info.localization = localization; 
         bits_to_translate[flow_id] = flow_info;
         localization = {};
+        eng_localization = {};
     }
     new_flows = JSON.stringify(bits_to_translate, null, 2);
     var output_path = path.join(__dirname, "../chiara-testing/file_for_traslation.json");

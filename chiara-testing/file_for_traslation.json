@@ -2,84 +2,88 @@
   "cd24e2fc-b9ca-412e-a0d3-5f3aa9e25657": {
     "flowid": "cd24e2fc-b9ca-412e-a0d3-5f3aa9e25657",
     "localization": {
-      "2240ba9b-5c48-4719-9831-f281e301b211": {
-        "text": [
-          "first message : which direction?\n"
-        ],
-        "quick_replies": [
-          "right",
-          "left"
-        ]
-      },
-      "c157a46e-80bd-4ea2-b3d1-cfa3cd6c33cc": {
-        "arguments": [
-          "right, rg, r"
-        ]
-      },
-      "aa20809b-1e28-4c9e-bfa6-740e2ed906de": {
-        "arguments": [
-          "left lf l"
-        ]
-      },
-      "05fdb521-9b5c-454d-9715-aa9d30bf9745": {
-        "text": [
-          "other"
-        ],
-        "quick_replies": []
-      },
-      "4efb4d80-75bc-4be4-9c3c-e7c748bfb5cd": {
-        "text": [
-          "You have chosen to go @fields.reason_for_quitting\nAnimal?"
-        ],
-        "quick_replies": [
-          "cat",
-          "dog",
-          "fish",
-          "bird"
-        ]
-      },
-      "58f32505-a485-4ce5-bb57-a511ae757818": {
-        "arguments": [
-          "dog d"
-        ]
-      },
-      "4eda9807-651d-4bf2-9806-39f6e2897a9b": {
-        "arguments": [
-          "cat c"
-        ]
-      },
-      "cd82f8b1-cc0f-4bc9-9f06-1063a1604a9e": {
-        "arguments": [
-          "bird b"
-        ]
-      },
-      "18786640-0497-447a-9e0b-f3988cc0391e": {
-        "arguments": [
-          "fish f"
-        ]
-      },
-      "5c0220ea-adab-45eb-b735-ff75caa4f505": {
-        "text": [
-          "HELLO"
-        ],
-        "quick_replies": []
-      },
-      "3932238c-d567-443b-83cb-1cd174b2a2b3": {
-        "text": [
-          "You love cats"
-        ],
-        "quick_replies": []
+      "eng": {
+        "2240ba9b-5c48-4719-9831-f281e301b211": {
+          "text": [
+            "first message : which direction?\n"
+          ],
+          "quick_replies": [
+            "right",
+            "left"
+          ]
+        },
+        "c157a46e-80bd-4ea2-b3d1-cfa3cd6c33cc": {
+          "arguments": [
+            "right, rg, r"
+          ]
+        },
+        "aa20809b-1e28-4c9e-bfa6-740e2ed906de": {
+          "arguments": [
+            "left lf l"
+          ]
+        },
+        "05fdb521-9b5c-454d-9715-aa9d30bf9745": {
+          "text": [
+            "other"
+          ],
+          "quick_replies": []
+        },
+        "4efb4d80-75bc-4be4-9c3c-e7c748bfb5cd": {
+          "text": [
+            "You have chosen to go @fields.reason_for_quitting\nAnimal?"
+          ],
+          "quick_replies": [
+            "cat",
+            "dog",
+            "fish",
+            "bird"
+          ]
+        },
+        "58f32505-a485-4ce5-bb57-a511ae757818": {
+          "arguments": [
+            "dog d"
+          ]
+        },
+        "4eda9807-651d-4bf2-9806-39f6e2897a9b": {
+          "arguments": [
+            "cat c"
+          ]
+        },
+        "cd82f8b1-cc0f-4bc9-9f06-1063a1604a9e": {
+          "arguments": [
+            "bird b"
+          ]
+        },
+        "18786640-0497-447a-9e0b-f3988cc0391e": {
+          "arguments": [
+            "fish f"
+          ]
+        },
+        "5c0220ea-adab-45eb-b735-ff75caa4f505": {
+          "text": [
+            "HELLO"
+          ],
+          "quick_replies": []
+        },
+        "3932238c-d567-443b-83cb-1cd174b2a2b3": {
+          "text": [
+            "You love cats"
+          ],
+          "quick_replies": []
+        }
       }
     }
   },
   "8923c17c-35b6-43bd-8d34-351077dd9f62": {
     "flowid": "8923c17c-35b6-43bd-8d34-351077dd9f62",
     "localization": {
-      "8f6b2fb2-871e-4abb-9efa-d8e884f8be50": {
-        "text": [
-          "You have entered flow A"
-        ],
-        "quick_replies": []
+      "eng": {
+        "8f6b2fb2-871e-4abb-9efa-d8e884f8be50": {
+          "text": [
+            "You have entered flow A"
+          ],
+          "quick_replies": []
+        }
       }
     }
   }
