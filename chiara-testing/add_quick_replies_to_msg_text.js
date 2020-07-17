@@ -44,7 +44,7 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                                             arg_list = obj.flows[fl].nodes[j].router.cases[c].arguments[0].split(/[\s,]+/);
 
                                             for (ar = 0; ar < arg_list.length; ar++) {
-                                                
+
                                                 arg = arg_list[ar];
                                                 r_exp = new RegExp(arg, "i");
 
@@ -83,13 +83,48 @@ for (fl = 0; fl < obj.flows.length; fl++) {
 
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_phrase") {
-                                            //obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
+                                            arg = obj.flows[fl].nodes[j].router.cases[c].arguments[0];
+
+                                            for (qr = 0; qr < curr_quick_replies.length; qr++) {
+                                                quick_reply = curr_quick_replies[qr];
+
+                                                r_exp = new RegExp(arg, "i");
+
+
+                                                if (r_exp.test(quick_reply)) {
+                                                    obj.flows[fl].nodes[j].router.cases[c].arguments = [count[qr]];
+
+
+                                                }
+
+
+
+                                            }
+
+
 
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_only_phrase") {
-                                            //obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
+                                            arg = obj.flows[fl].nodes[j].router.cases[c].arguments[0];
+
+                                            for (qr = 0; qr < curr_quick_replies.length; qr++) {
+                                                quick_reply = curr_quick_replies[qr];
+                                                
+                                                if (quick_reply.toLowerCase().trim() == arg.toLowerCase().trim()) {
+                                                    obj.flows[fl].nodes[j].router.cases[c].arguments = [count[qr]];
+
+
+                                                }
+
+
+
+                                            }
+
+
 
                                         }
+
+
 
                                         obj.flows[fl].nodes[j].router.cases[c].type = "has_only_phrase";
 
@@ -98,17 +133,21 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                                 }
 
 
-                            }
+                            
 
-                            break;
+
+
                         }
+
+                        break;
                     }
                 }
             }
-
-
         }
+
+
     }
+}
 
 }
 new_flows = JSON.stringify(obj, null, 2);
