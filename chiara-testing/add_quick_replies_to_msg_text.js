@@ -41,37 +41,56 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                                 if (obj.flows[fl].nodes[j].router.operand == "@input.text") {
                                     for (c = 0; c < obj.flows[fl].nodes[j].router.cases.length; c++) {
                                         if (obj.flows[fl].nodes[j].router.cases[c].type == "has_any_word") {
-                                           arg_list = obj.flows[fl].nodes[j].router.cases[c].arguments[0].split(/[\s,]+/);
-                                           
-                                           for (ar = 0; ar < arg_list.length; ar++){
-                                               arg = arg_list[ar];
-                                               r_exp = new RegExp(arg, "i");
-                                               console.log(r_exp);
-                                               for (qr = 0; qr < curr_quick_replies.length; qr++){
-                                                quick_reply = curr_quick_replies[qr];
+                                            arg_list = obj.flows[fl].nodes[j].router.cases[c].arguments[0].split(/[\s,]+/);
+
+                                            for (ar = 0; ar < arg_list.length; ar++) {
                                                 
-                                                if (r_exp.test(quick_reply)){
+                                                arg = arg_list[ar];
+                                                r_exp = new RegExp(arg, "i");
+
+                                                for (qr = 0; qr < curr_quick_replies.length; qr++) {
+                                                    quick_reply = curr_quick_replies[qr];
+
+                                                    if (r_exp.test(quick_reply)) {
+                                                        obj.flows[fl].nodes[j].router.cases[c].arguments = [count[qr]];
+
+                                                    }
+                                                }
+                                            }
+
+                                        }
+                                        else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_all_words") {
+
+                                            arg_list = obj.flows[fl].nodes[j].router.cases[c].arguments[0].split(/[\s,]+/);
+
+                                            for (qr = 0; qr < curr_quick_replies.length; qr++) {
+                                                quick_reply = curr_quick_replies[qr];
+                                                var match_all = arg_list.every(function (word) {
+
+                                                    r_exp = new RegExp(word, "i");
+                                                    return r_exp.test(quick_reply)
+
+                                                });
+
+                                                if (match_all) {
                                                     obj.flows[fl].nodes[j].router.cases[c].arguments = [count[qr]];
 
                                                 }
-                                               } 
-                                           }
-                                            
-                                        }
-                                        else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_all_words") {
-                                            
-                                            //obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
-                                            
+
+
+
+                                            }
+
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_phrase") {
                                             //obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
-                                            
+
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_only_phrase") {
                                             //obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
-                                            
+
                                         }
-                                       
+
                                         obj.flows[fl].nodes[j].router.cases[c].type = "has_only_phrase";
 
                                     }
