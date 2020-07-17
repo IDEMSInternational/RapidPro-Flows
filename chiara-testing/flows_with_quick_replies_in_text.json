@@ -36,7 +36,7 @@
             "cases": [
               {
                 "arguments": [
-                  "A"
+                  "C"
                 ],
                 "type": "has_only_phrase",
                 "uuid": "0bee9cbe-e158-4d95-b152-af50475f3341",
@@ -52,7 +52,7 @@
               },
               {
                 "arguments": [
-                  "C"
+                  "A"
                 ],
                 "type": "has_only_phrase",
                 "uuid": "7fac0822-d82f-4225-9bf6-727a2c1c04f2",

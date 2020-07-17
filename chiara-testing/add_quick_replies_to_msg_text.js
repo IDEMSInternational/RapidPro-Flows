@@ -12,11 +12,13 @@ var j;
 var c;
 var ac;
 var qr;
+var ar;
 
 var curr_quick_replies;
 var curr_act;
 var arg_list;
 var r_exp;
+var arg;
 
 
 
@@ -41,12 +43,13 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                                         if (obj.flows[fl].nodes[j].router.cases[c].type == "has_any_word") {
                                            arg_list = obj.flows[fl].nodes[j].router.cases[c].arguments[0].split(/[\s,]+/);
                                            
-                                           for (arg in arg_list){
+                                           for (ar = 0; ar < arg_list.length; ar++){
+                                               arg = arg_list[ar];
                                                r_exp = new RegExp(arg, "i");
-                                               
-                                               for (qr = 0; qr < curr_act.quick_replies.length; qr++){
+                                               console.log(r_exp);
+                                               for (qr = 0; qr < curr_quick_replies.length; qr++){
                                                 quick_reply = curr_quick_replies[qr];
-                                                obj.flows[fl].nodes[j].router.cases[c].arguments = r_exp.test(quick_reply);
+                                                
                                                 if (r_exp.test(quick_reply)){
                                                     obj.flows[fl].nodes[j].router.cases[c].arguments = [count[qr]];
 
@@ -57,15 +60,15 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_all_words") {
                                             
-                                            obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
+                                            //obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
                                             
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_phrase") {
-                                            obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
+                                            //obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
                                             
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_only_phrase") {
-                                            obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
+                                            //obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
                                             
                                         }
                                        
