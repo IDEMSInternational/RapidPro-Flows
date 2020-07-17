@@ -30,7 +30,7 @@ for (fl = 0; fl < obj.flows.length; fl++) {
     for (n = 0; n < obj.flows[fl].nodes.length; n++) {
         for (ac = 0; ac < obj.flows[fl].nodes[n].actions.length; ac++) {
             curr_act = obj.flows[fl].nodes[n].actions[ac];
-            if (curr_act.type === "send_msg") {
+            if (curr_act.type == "send_msg") {
                 msg_id = curr_act.uuid;
                 trasl_to_add = {};
                 trasl_to_add.text = [curr_act.text];
@@ -39,7 +39,7 @@ for (fl = 0; fl < obj.flows.length; fl++) {
             }
         }
         if (obj.flows[fl].nodes[n].hasOwnProperty('router')) {
-            if (obj.flows[fl].nodes[n].router.operand === "@input.text") {
+            if (obj.flows[fl].nodes[n].router.operand == "@input.text") {
                 for (c = 0; c < obj.flows[fl].nodes[n].router.cases.length; c++) {
                     curr_case = obj.flows[fl].nodes[n].router.cases[c];
                     if (word_tests.includes(curr_case.type)) {
