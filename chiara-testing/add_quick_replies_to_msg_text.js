@@ -15,6 +15,8 @@ var qr;
 
 var curr_quick_replies;
 var curr_act;
+var arg_list;
+var r_exp;
 
 
 
@@ -37,22 +39,34 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                                 if (obj.flows[fl].nodes[j].router.operand == "@input.text") {
                                     for (c = 0; c < obj.flows[fl].nodes[j].router.cases.length; c++) {
                                         if (obj.flows[fl].nodes[j].router.cases[c].type == "has_any_word") {
-                                            loop curr_quick_replies, individul words check if they are included in argument
-                                            --> add index of curr_quick_reply
-                                            obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
+                                           arg_list = obj.flows[fl].nodes[j].router.cases[c].arguments[0].split(/[\s,]+/);
+                                           
+                                           for (arg in arg_list){
+                                               r_exp = new RegExp(arg, "i");
+                                               
+                                               for (qr = 0; qr < curr_act.quick_replies.length; qr++){
+                                                quick_reply = curr_quick_replies[qr];
+                                                obj.flows[fl].nodes[j].router.cases[c].arguments = r_exp.test(quick_reply);
+                                                if (r_exp.test(quick_reply)){
+                                                    obj.flows[fl].nodes[j].router.cases[c].arguments = [count[qr]];
+
+                                                }
+                                               } 
+                                           }
+                                            
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_all_words") {
+                                            
                                             obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
-                                            all inividual words in arguments are included in quick replies
-
+                                            
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_phrase") {
                                             obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
-                                            search for whole argument text in quick replies
+                                            
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_only_phrase") {
                                             obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
-                                            check if equal (up to trimming)
+                                            
                                         }
                                        
                                         obj.flows[fl].nodes[j].router.cases[c].type = "has_only_phrase";
