@@ -7,29 +7,68 @@ var obj = JSON.parse(json_string);
 var count = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
 
 var fl;
-var n;
+var nd;
+var j;
+var c;
 var ac;
 var qr;
 
+var curr_quick_replies;
 var curr_act;
-
-var word_tests = ["has_any_word", "has_all_words", "has_phrase", "has_only_phrase", "has_beginning"];
 
 
 
 for (fl = 0; fl < obj.flows.length; fl++) {
-    for (n = 0; n < obj.flows[fl].nodes.length; n++) {
-        for (ac = 0; ac < obj.flows[fl].nodes[n].actions.length; ac++) {
-            curr_act = obj.flows[fl].nodes[n].actions[ac];
+    for (nd = 0; nd < obj.flows[fl].nodes.length; nd++) {
+        for (ac = 0; ac < obj.flows[fl].nodes[nd].actions.length; ac++) {
+            curr_act = obj.flows[fl].nodes[nd].actions[ac];
             if (curr_act.type === "send_msg") {
-                for (qr = 0; qr < curr_act.quick_replies.length; qr++) {
-                    obj.flows[fl].nodes[n].actions[ac].text = curr_act.text + "\n" + count[qr] + ". " + curr_act.quick_replies[qr];
+                if (curr_act.quick_replies.length > 0) {
+                    for (qr = 0; qr < curr_act.quick_replies.length; qr++) {
+                        obj.flows[fl].nodes[nd].actions[ac].text = curr_act.text + "\n" + count[qr] + ". " + curr_act.quick_replies[qr];
 
+                    }
+                    curr_quick_replies = obj.flows[fl].nodes[nd].actions[ac].quick_replies;
+                    obj.flows[fl].nodes[nd].actions[ac].quick_replies = [];
+                    dest_id = obj.flows[fl].nodes[nd].exits[0].destination_uuid;
+                    for (j = 0; j < obj.flows[fl].nodes.length; j++) {
+                        if (obj.flows[fl].nodes[j].uuid === dest_id) {
+                            if (obj.flows[fl].nodes[j].hasOwnProperty('router')) {
+                                if (obj.flows[fl].nodes[j].router.operand === "@input.text") {
+                                    for (c = 0; c < obj.flows[fl].nodes[j].router.cases.length; c++) {
+                                        if (obj.flows[fl].nodes[j].router.cases[c].type === "has_any_word") {
+                                            obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
+                                        }
+                                        else if (obj.flows[fl].nodes[j].router.cases[c].type === "has_all_words") {
+                                            obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
+
+                                        }
+                                        else if (obj.flows[fl].nodes[j].router.cases[c].type === "has_phrase") {
+                                            obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
+                                        }
+                                        else if (obj.flows[fl].nodes[j].router.cases[c].type === "has_only_phrase") {
+                                            obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
+                                        }
+                                        else if (obj.flows[fl].nodes[j].router.cases[c].type === "has_beginning") {
+                                            obj.flows[fl].nodes[j].router.cases[c].arguments = [count[c]];
+                                        }
+
+                                        obj.flows[fl].nodes[j].router.cases[c].type = "has_only_phrase";
+
+                                    }
+
+                                }
+
+
+                            }
+
+                            break;
+                        }
+                    }
                 }
-
             }
-            obj.flows[fl].nodes[n].actions[ac].quick_replies = [];
-            dest_id = curr_act.exits[0].destination_uuid;
+
+
         }
     }
 

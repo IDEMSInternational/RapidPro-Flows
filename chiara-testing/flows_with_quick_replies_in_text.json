@@ -16,12 +16,7 @@
               "attachments": [],
               "text": "What's your favourite colour?\nA. yellow\nB. green\nC. blue\nD. red",
               "type": "send_msg",
-              "quick_replies": [
-                "yellow",
-                "green",
-                "blue",
-                "red"
-              ],
+              "quick_replies": [],
               "uuid": "f85da7a8-b36b-4415-aab2-1c28ccfe591d"
             }
           ],
@@ -41,33 +36,33 @@
             "cases": [
               {
                 "arguments": [
-                  "blue"
+                  "A"
                 ],
-                "type": "has_any_word",
+                "type": "has_only_phrase",
                 "uuid": "0bee9cbe-e158-4d95-b152-af50475f3341",
                 "category_uuid": "31995067-f1ab-4ea3-96f2-b58e12410be0"
               },
               {
                 "arguments": [
-                  "green"
+                  "B"
                 ],
-                "type": "has_any_word",
+                "type": "has_only_phrase",
                 "uuid": "395c4570-fc62-4946-a34a-f30232e38522",
                 "category_uuid": "acb80708-64b3-470d-b3f8-81d4f5e8ad9c"
               },
               {
                 "arguments": [
-                  "yellow"
+                  "C"
                 ],
-                "type": "has_any_word",
+                "type": "has_only_phrase",
                 "uuid": "7fac0822-d82f-4225-9bf6-727a2c1c04f2",
                 "category_uuid": "9a8b93e4-6748-4897-b2b6-0884900d552d"
               },
               {
                 "arguments": [
-                  "red"
+                  "D"
                 ],
-                "type": "has_any_word",
+                "type": "has_only_phrase",
                 "uuid": "9326fe38-394b-4239-97ee-dffc57cbdbbc",
                 "category_uuid": "dcdddf62-6027-4fa5-a389-31902268d531"
               }
