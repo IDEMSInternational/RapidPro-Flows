@@ -1,6 +1,6 @@
 var fs = require('fs');
 var path = require("path");
-var input_path = path.join(__dirname, "../products/covid-19-parenting/test_quick_replies.json");
+var input_path = path.join(__dirname, "../products/covid-19-parenting/test_answer_tests.json");
 var json_string = fs.readFileSync(input_path).toString();
 var obj = JSON.parse(json_string);
 
@@ -19,6 +19,7 @@ var curr_act;
 var arg_list;
 var r_exp;
 var arg;
+var new_test = "";
 
 
 
@@ -41,6 +42,7 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                                 if (obj.flows[fl].nodes[j].router.operand == "@input.text") {
                                     for (c = 0; c < obj.flows[fl].nodes[j].router.cases.length; c++) {
                                         if (obj.flows[fl].nodes[j].router.cases[c].type == "has_any_word") {
+
                                             arg_list = obj.flows[fl].nodes[j].router.cases[c].arguments[0].split(/[\s,]+/);
 
                                             for (ar = 0; ar < arg_list.length; ar++) {
@@ -52,11 +54,13 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                                                     quick_reply = curr_quick_replies[qr];
 
                                                     if (r_exp.test(quick_reply)) {
-                                                        obj.flows[fl].nodes[j].router.cases[c].arguments = [count[qr]];
+                                                        new_test = new_test + count[qr] + ",";
 
                                                     }
                                                 }
                                             }
+                                            obj.flows[fl].nodes[j].router.cases[c].arguments = [new_test];
+                                            new_test = "";
 
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_all_words") {
@@ -73,14 +77,16 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                                                 });
 
                                                 if (match_all) {
-                                                    obj.flows[fl].nodes[j].router.cases[c].arguments = [count[qr]];
+                                                    new_test = new_test + count[qr] + ",";
+
 
                                                 }
 
 
 
                                             }
-
+                                            obj.flows[fl].nodes[j].router.cases[c].arguments = [new_test];
+                                            new_test = "";
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_phrase") {
                                             arg = obj.flows[fl].nodes[j].router.cases[c].arguments[0];
@@ -92,15 +98,16 @@ for (fl = 0; fl < obj.flows.length; fl++) {
 
 
                                                 if (r_exp.test(quick_reply)) {
-                                                    obj.flows[fl].nodes[j].router.cases[c].arguments = [count[qr]];
 
+                                                    new_test = new_test + count[qr] + ",";
 
                                                 }
 
 
 
                                             }
-
+                                            obj.flows[fl].nodes[j].router.cases[c].arguments = [new_test];
+                                            new_test = "";
 
 
                                         }
@@ -109,9 +116,9 @@ for (fl = 0; fl < obj.flows.length; fl++) {
 
                                             for (qr = 0; qr < curr_quick_replies.length; qr++) {
                                                 quick_reply = curr_quick_replies[qr];
-                                                
+
                                                 if (quick_reply.toLowerCase().trim() == arg.toLowerCase().trim()) {
-                                                    obj.flows[fl].nodes[j].router.cases[c].arguments = [count[qr]];
+                                                    new_test = new_test + count[qr] + ",";
 
 
                                                 }
@@ -120,38 +127,39 @@ for (fl = 0; fl < obj.flows.length; fl++) {
 
                                             }
 
-
+                                            obj.flows[fl].nodes[j].router.cases[c].arguments = [new_test];
+                                            new_test = "";
 
                                         }
 
 
 
-                                        obj.flows[fl].nodes[j].router.cases[c].type = "has_only_phrase";
+                                        obj.flows[fl].nodes[j].router.cases[c].type = "has_any_word";
 
                                     }
 
                                 }
 
 
-                            
 
 
 
+
+                            }
+
+                            break;
                         }
-
-                        break;
                     }
                 }
             }
+
+
         }
-
-
     }
-}
 
 }
 new_flows = JSON.stringify(obj, null, 2);
-var output_path = path.join(__dirname, "../chiara-testing/flows_with_quick_replies_in_text.json");
+var output_path = path.join(__dirname, "../chiara-testing/test_answer_tests_with_quick_replies_in_text.json");
 fs.writeFile(output_path, new_flows, function (err, result) {
     if (err) console.log('error', err);
 });

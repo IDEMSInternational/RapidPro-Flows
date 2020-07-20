@@ -3,95 +3,95 @@
   "site": "https://rapidpro.idems.international",
   "flows": [
     {
-      "name": "Test quick replies",
-      "uuid": "40b9d447-277e-4fbf-bd58-1b2ab4e8b14d",
+      "name": "ANSWER TESTS",
+      "uuid": "4e56e321-b6f5-4eb2-88d3-4955fc8db6bc",
       "spec_version": "13.1.0",
       "language": "eng",
       "type": "messaging",
       "nodes": [
         {
-          "uuid": "ebec374a-6ec5-494c-869b-76eb5b7eb906",
+          "uuid": "27ec7d36-43ff-4f49-99b6-c047866fb5ad",
           "actions": [
             {
               "attachments": [],
-              "text": "What's your favourite colour?\nA. yellow\nB. green\nC. blue\nD. red",
+              "text": "I like to\nA. swim and dance\nB. run and play and eat\nC. sing and run and play\nD. run and play",
               "type": "send_msg",
               "quick_replies": [],
-              "uuid": "f85da7a8-b36b-4415-aab2-1c28ccfe591d"
+              "uuid": "88703ff9-5c9e-4e23-b4fe-da7632c8b458"
             }
           ],
           "exits": [
             {
-              "uuid": "3be22fc2-c60c-47d9-bcb2-376bd364e846",
-              "destination_uuid": "f71b1bab-cbc7-42b5-a6f7-4c1639e81509"
+              "uuid": "b43d3b07-5e6b-4746-a155-3a7b4db1a56c",
+              "destination_uuid": "2ca61965-9e00-401c-9ada-c0bcca25b058"
             }
           ]
         },
         {
-          "uuid": "f71b1bab-cbc7-42b5-a6f7-4c1639e81509",
+          "uuid": "2ca61965-9e00-401c-9ada-c0bcca25b058",
           "actions": [],
           "router": {
             "type": "switch",
-            "default_category_uuid": "2b16bb5f-1b88-4038-be57-56028a971b59",
+            "default_category_uuid": "889a59ab-b6c3-4329-9ce0-bf9d0af4b991",
             "cases": [
               {
                 "arguments": [
-                  "C"
+                  "A"
                 ],
                 "type": "has_only_phrase",
-                "uuid": "0bee9cbe-e158-4d95-b152-af50475f3341",
-                "category_uuid": "31995067-f1ab-4ea3-96f2-b58e12410be0"
+                "uuid": "220cde8a-6055-4fb0-b6ac-77c27651554d",
+                "category_uuid": "533b226a-f262-4ba9-9dc0-9db50ee06e3f"
               },
               {
                 "arguments": [
                   "B"
                 ],
                 "type": "has_only_phrase",
-                "uuid": "395c4570-fc62-4946-a34a-f30232e38522",
-                "category_uuid": "acb80708-64b3-470d-b3f8-81d4f5e8ad9c"
+                "uuid": "2e645b0d-cb1f-48ba-9b78-d598e67ffff1",
+                "category_uuid": "10340854-92c1-4989-8c6b-8830cfb5be71"
               },
               {
                 "arguments": [
-                  "A"
+                  "C"
                 ],
                 "type": "has_only_phrase",
-                "uuid": "7fac0822-d82f-4225-9bf6-727a2c1c04f2",
-                "category_uuid": "9a8b93e4-6748-4897-b2b6-0884900d552d"
+                "uuid": "a23280f9-b788-4f6f-ac13-107993cd1dec",
+                "category_uuid": "ac48a7ea-28fd-4931-b8c0-a88047bfae30"
               },
               {
                 "arguments": [
                   "D"
                 ],
                 "type": "has_only_phrase",
-                "uuid": "9326fe38-394b-4239-97ee-dffc57cbdbbc",
-                "category_uuid": "dcdddf62-6027-4fa5-a389-31902268d531"
+                "uuid": "135a9228-223e-4219-bb8f-3648a6b07112",
+                "category_uuid": "9e0319f0-62b0-43cc-8b1f-9a98cd3d53cd"
               }
             ],
             "categories": [
               {
-                "uuid": "31995067-f1ab-4ea3-96f2-b58e12410be0",
-                "name": "Blue",
-                "exit_uuid": "2bcc7f18-44d3-4b3d-b6d9-8eab17a60769"
+                "uuid": "533b226a-f262-4ba9-9dc0-9db50ee06e3f",
+                "name": "Swim dance",
+                "exit_uuid": "f03f251b-c4b9-49ab-a030-161fbfcad1ec"
               },
               {
-                "uuid": "acb80708-64b3-470d-b3f8-81d4f5e8ad9c",
-                "name": "Green",
-                "exit_uuid": "56c66343-99bb-4f61-a7f6-6a88583c83f0"
+                "uuid": "10340854-92c1-4989-8c6b-8830cfb5be71",
+                "name": "Run play eat",
+                "exit_uuid": "2a481ed0-16f2-4ae1-8032-db11cf99220f"
               },
               {
-                "uuid": "9a8b93e4-6748-4897-b2b6-0884900d552d",
-                "name": "Yellow",
-                "exit_uuid": "9d311263-537d-4a6e-9c89-e9ccb6ded60c"
+                "uuid": "ac48a7ea-28fd-4931-b8c0-a88047bfae30",
+                "name": "Sing run play",
+                "exit_uuid": "8766839b-03a6-4cfc-9fb0-8359bdd407a6"
               },
               {
-                "uuid": "dcdddf62-6027-4fa5-a389-31902268d531",
-                "name": "Red",
-                "exit_uuid": "2652b45f-b494-420b-af23-3b53a0d587f7"
+                "uuid": "9e0319f0-62b0-43cc-8b1f-9a98cd3d53cd",
+                "name": "Run and play",
+                "exit_uuid": "531a04c6-c508-4bf7-8fcc-ab4af5ca9d30"
               },
               {
-                "uuid": "2b16bb5f-1b88-4038-be57-56028a971b59",
+                "uuid": "889a59ab-b6c3-4329-9ce0-bf9d0af4b991",
                 "name": "Other",
-                "exit_uuid": "8e149f5e-e961-4c20-b275-7f397a28bcc9"
+                "exit_uuid": "8a178626-f797-4d89-823f-161bb43c8671"
               }
             ],
             "operand": "@input.text",
@@ -102,113 +102,95 @@
           },
           "exits": [
             {
-              "uuid": "2bcc7f18-44d3-4b3d-b6d9-8eab17a60769",
-              "destination_uuid": "a30d0fa9-6bc5-47ff-a282-16eaa7be6f8e"
+              "uuid": "f03f251b-c4b9-49ab-a030-161fbfcad1ec",
+              "destination_uuid": "83ccc835-35a3-4dc2-9497-200bc68d52c3"
             },
             {
-              "uuid": "56c66343-99bb-4f61-a7f6-6a88583c83f0",
-              "destination_uuid": "bbf9f9ed-3a14-492a-97cc-0c0aad7be2de"
+              "uuid": "2a481ed0-16f2-4ae1-8032-db11cf99220f",
+              "destination_uuid": "5208b0cd-4ca5-49ee-81f7-2e724b0b17ab"
             },
             {
-              "uuid": "9d311263-537d-4a6e-9c89-e9ccb6ded60c",
-              "destination_uuid": "b98c0938-aa7f-464d-9cb7-987569d3af4a"
+              "uuid": "8766839b-03a6-4cfc-9fb0-8359bdd407a6",
+              "destination_uuid": "be9dff94-f60b-4ce9-892e-9849f3002b22"
             },
             {
-              "uuid": "2652b45f-b494-420b-af23-3b53a0d587f7",
-              "destination_uuid": "cd134203-d2eb-4fa9-bc04-06ce775d4b0c"
+              "uuid": "531a04c6-c508-4bf7-8fcc-ab4af5ca9d30",
+              "destination_uuid": "b6857c1c-6b52-4f1e-b2da-9d8d64be0ce2"
             },
             {
-              "uuid": "8e149f5e-e961-4c20-b275-7f397a28bcc9",
-              "destination_uuid": "171404ec-a583-4cc8-9bce-b5979721649e"
-            }
-          ]
-        },
-        {
-          "uuid": "171404ec-a583-4cc8-9bce-b5979721649e",
-          "actions": [
-            {
-              "attachments": [],
-              "text": "Sorry I don't understand",
-              "type": "send_msg",
-              "quick_replies": [],
-              "uuid": "c56d3a27-a401-463e-b8c5-a63598a9fd11"
-            }
-          ],
-          "exits": [
-            {
-              "uuid": "f2366a95-b8c5-48f7-bb29-5211b5e438db",
-              "destination_uuid": "ebec374a-6ec5-494c-869b-76eb5b7eb906"
-            }
-          ]
-        },
-        {
-          "uuid": "b98c0938-aa7f-464d-9cb7-987569d3af4a",
-          "actions": [
-            {
-              "attachments": [],
-              "text": "You like yellow",
-              "type": "send_msg",
-              "quick_replies": [],
-              "uuid": "a020121c-8929-485f-8a5f-aa5bcc0b15c4"
-            }
-          ],
-          "exits": [
-            {
-              "uuid": "30704ba7-7755-4d4f-9cec-1c865bd1a81d",
+              "uuid": "8a178626-f797-4d89-823f-161bb43c8671",
               "destination_uuid": null
             }
           ]
         },
         {
-          "uuid": "a30d0fa9-6bc5-47ff-a282-16eaa7be6f8e",
+          "uuid": "83ccc835-35a3-4dc2-9497-200bc68d52c3",
           "actions": [
             {
               "attachments": [],
-              "text": "You like blue",
+              "text": "a",
               "type": "send_msg",
               "quick_replies": [],
-              "uuid": "29107ae7-4a02-43e0-aff1-ffffd20c0b04"
+              "uuid": "3f4b644c-984c-45cb-971a-6663c1b85308"
             }
           ],
           "exits": [
             {
-              "uuid": "9b9c3fcd-2925-49ff-8fa8-62346a672b94",
+              "uuid": "ef80b6ce-089b-4d06-ad5c-00f1d0dd1326",
               "destination_uuid": null
             }
           ]
         },
         {
-          "uuid": "bbf9f9ed-3a14-492a-97cc-0c0aad7be2de",
+          "uuid": "5208b0cd-4ca5-49ee-81f7-2e724b0b17ab",
           "actions": [
             {
               "attachments": [],
-              "text": "You like green",
+              "text": "b",
               "type": "send_msg",
               "quick_replies": [],
-              "uuid": "cfcddf76-2f03-4405-92d9-9b7dba160893"
+              "uuid": "204bf94b-ff88-4039-976c-bd2fd24c7b55"
             }
           ],
           "exits": [
             {
-              "uuid": "125fa812-5879-4b05-9cad-4ee2ce7b6921",
+              "uuid": "31297262-f1c6-43e0-a764-d00ea8138277",
               "destination_uuid": null
             }
           ]
         },
         {
-          "uuid": "cd134203-d2eb-4fa9-bc04-06ce775d4b0c",
+          "uuid": "b6857c1c-6b52-4f1e-b2da-9d8d64be0ce2",
           "actions": [
             {
               "attachments": [],
-              "text": "You like red",
+              "text": "d",
               "type": "send_msg",
               "quick_replies": [],
-              "uuid": "33082a16-1f2c-467b-bd5d-c31af7cea2b1"
+              "uuid": "6f098190-af35-419d-a3e6-b456477cbfe3"
             }
           ],
           "exits": [
             {
-              "uuid": "efc168ed-c723-4399-952d-91a82274ce75",
+              "uuid": "a3b0ec1d-e70b-4e40-8477-e30c384db6a9",
+              "destination_uuid": null
+            }
+          ]
+        },
+        {
+          "uuid": "be9dff94-f60b-4ce9-892e-9849f3002b22",
+          "actions": [
+            {
+              "attachments": [],
+              "text": "c",
+              "type": "send_msg",
+              "quick_replies": [],
+              "uuid": "ebeb248d-972f-4dda-93c4-6c42bdc47c7b"
+            }
+          ],
+          "exits": [
+            {
+              "uuid": "8564c2ff-0a9d-44e3-ba27-772be7755316",
               "destination_uuid": null
             }
           ]
@@ -216,64 +198,57 @@
       ],
       "_ui": {
         "nodes": {
-          "ebec374a-6ec5-494c-869b-76eb5b7eb906": {
+          "27ec7d36-43ff-4f49-99b6-c047866fb5ad": {
             "position": {
-              "left": 540,
-              "top": 0
+              "left": 620,
+              "top": 40
             },
             "type": "execute_actions"
           },
-          "b98c0938-aa7f-464d-9cb7-987569d3af4a": {
-            "position": {
-              "left": 120,
-              "top": 320
-            },
-            "type": "execute_actions"
-          },
-          "a30d0fa9-6bc5-47ff-a282-16eaa7be6f8e": {
-            "position": {
-              "left": 320,
-              "top": 420
-            },
-            "type": "execute_actions"
-          },
-          "cd134203-d2eb-4fa9-bc04-06ce775d4b0c": {
-            "position": {
-              "left": 500,
-              "top": 520
-            },
-            "type": "execute_actions"
-          },
-          "f71b1bab-cbc7-42b5-a6f7-4c1639e81509": {
+          "2ca61965-9e00-401c-9ada-c0bcca25b058": {
             "type": "wait_for_response",
             "position": {
-              "left": 560,
+              "left": 620,
               "top": 240
             },
             "config": {
               "cases": {}
             }
           },
-          "bbf9f9ed-3a14-492a-97cc-0c0aad7be2de": {
+          "83ccc835-35a3-4dc2-9497-200bc68d52c3": {
             "position": {
-              "left": 740,
-              "top": 500
+              "left": 420,
+              "top": 420
             },
             "type": "execute_actions"
           },
-          "171404ec-a583-4cc8-9bce-b5979721649e": {
+          "5208b0cd-4ca5-49ee-81f7-2e724b0b17ab": {
             "position": {
-              "left": 960,
-              "top": 260
+              "left": 680,
+              "top": 420
+            },
+            "type": "execute_actions"
+          },
+          "be9dff94-f60b-4ce9-892e-9849f3002b22": {
+            "position": {
+              "left": 880,
+              "top": 520
+            },
+            "type": "execute_actions"
+          },
+          "b6857c1c-6b52-4f1e-b2da-9d8d64be0ce2": {
+            "position": {
+              "left": 1020,
+              "top": 420
             },
             "type": "execute_actions"
           }
         }
       },
-      "revision": 20,
+      "revision": 13,
       "expire_after_minutes": 10080,
       "metadata": {
-        "revision": 11
+        "revision": 4
       },
       "localization": {}
     }
