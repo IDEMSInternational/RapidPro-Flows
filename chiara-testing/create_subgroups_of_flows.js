@@ -11,7 +11,7 @@ var obj = JSON.parse(json_string);
 var fl;
 var N_FL_TOT = obj.flows.length;
 console.log(N_FL_TOT)
-var N_FL_GR = 4;
+var N_FL_GR = 50;
 var n_group = Math.floor(N_FL_TOT/N_FL_GR); 
 console.log(n_group)
 var rem = N_FL_TOT%N_FL_GR;
@@ -26,7 +26,8 @@ var i = 0;
 for (gr = 1; gr <= n_group; gr++) {
     
     new_flows = Object.assign({}, obj);
-    new_flows.flows =[];
+    new_flows.flows = [];
+    new_flows.triggers = [];
     
     for (fl = 0; fl < N_FL_GR; fl++){
         new_flows.flows.push(obj.flows[i]);
@@ -48,7 +49,7 @@ for (gr = 1; gr <= n_group; gr++) {
         i++;
     }
     new_file = JSON.stringify(new_flows, null, 2);
-    var output_path = path.join(__dirname, "../products/covid-19-parenting/split/", file_to_split + "group"+ gr+1 +".json");
+    var output_path = path.join(__dirname, "../products/covid-19-parenting/split/", file_to_split + "group"+ gr +".json");
     fs.writeFile(output_path, new_file, function (err, result) {
         if (err) console.log('error', err);
     });
