@@ -1,0 +1,994 @@
+{
+  "0": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "2d23e927-04cb-468c-9979-1d677142b951",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Create routines! Your children will feel more secure and safe when they know what is expected of them and how each day will go. Make a plan with them with time for play, meals, chores, school, and sleep."
+  },
+  "38": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "93c527d4-6240-4e68-b28c-2dc6bf4ca243",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Would you like to learn more about this tip?"
+  },
+  "47": {
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "93c527d4-6240-4e68-b28c-2dc6bf4ca243",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Yes",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "48": {
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "93c527d4-6240-4e68-b28c-2dc6bf4ca243",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "No",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "49": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "ff116979-b41b-4450-9c13-639be66b140d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean."
+  },
+  "56": {
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "ed26ff45-4eed-4e9d-a17b-210912c5c93a",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "y yes",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "58": {
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "c4b0bde5-19b5-4887-89dc-466aa06d20e8",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "n no",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "60": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "bcd24a05-1bbd-489b-a5f7-9e0bad6d8338",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour."
+  },
+  "81": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "a618ff5b-4095-454d-bc40-5dbb8ef5ae78",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Daily routines, such as time for schoolwork, play, meals, and sleep, can help our children feel safe and secure. They also give our children a sense of security."
+  },
+  "109": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "8db73e7e-9f7a-42d7-9ee8-5efaf67eebcc",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Would you like to learn more?"
+  },
+  "115": {
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "8db73e7e-9f7a-42d7-9ee8-5efaf67eebcc",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Yes",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "116": {
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "8db73e7e-9f7a-42d7-9ee8-5efaf67eebcc",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "No",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "117": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "1e6f1d65-448b-46db-a614-7f83832e3521",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean. "
+  },
+  "125": {
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "ac4f1fd5-ea99-429f-b3d4-42f9d038d47a",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "Y YES",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "127": {
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "6233b6b4-aa1a-471b-8aa7-a03e81358e27",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "NO N",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "129": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "9866490e-84ab-4a26-8e89-0e38d5659813",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Help your younger children learn routines by taking them through the activity step by step. Give one instruction at a time. Praise them each time they follow! "
+  },
+  "157": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "1a7172b1-98c0-4831-bda3-20c0c350a0aa",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Involve your teen in creating daily plans. Set goals and rewards together. They can plan when they do schoolwork and when they relax! "
+  },
+  "181": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "69257460-ad1c-452b-830b-f13b414b4bdc",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Transition warnings can also be very helpful. They give your child some time to prepare for the next activity: \"In 5 minutes it will be time to pack up the toys before bedtime…\""
+  },
+  "214": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "d92560f6-2334-4218-81b9-41cd38a6158e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Help your younger children learn routines by taking them through the activity step by step. Give one instruction at a time. Praise them each time they follow! "
+  },
+  "242": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "887d642f-3ce5-4f0c-9f5e-124073359b21",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Regular eating and sleeping times are especially important for babies. Not enough sleep can make your child cranky, irritable, and short tempered."
+  },
+  "264": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "a99511b6-632f-4bba-b520-4a393d979b95",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Transition warnings can also be very helpful. They give your child some time to prepare for the next activity: \"In 5 minutes it will be time to pack up the toys before bedtime…\""
+  },
+  "297": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "25112a7d-ff00-4ee9-a8a5-1a32f919f4d8",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Regular eating and sleeping times are especially important for young babies. Not enough sleep can make your child cranky, irritable, and short tempered."
+  },
+  "320": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "6e4a6197-4cbb-4e17-9e83-5d3836d7ebbd",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Here are some tips for how to help your child prepare for bedtime:"
+  },
+  "333": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "6e4a6197-4cbb-4e17-9e83-5d3836d7ebbd",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "1. Try to have regular bedtimes each day as much as possible."
+  },
+  "345": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "6e4a6197-4cbb-4e17-9e83-5d3836d7ebbd",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "2. Try to make it quiet and the lights in the room dim. "
+  },
+  "359": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "6e4a6197-4cbb-4e17-9e83-5d3836d7ebbd",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "3. Spend some time with your child. You can sing a lullaby or tell a calm story."
+  },
+  "376": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "6e4a6197-4cbb-4e17-9e83-5d3836d7ebbd",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "4. Give your child a hug and kiss goodnight before leaving the room.  "
+  },
+  "391": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "4ea50086-a347-4ce5-921b-fd4ec1ee1a36",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Here are some tips for how to help your child prepare for bedtime:"
+  },
+  "404": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "4ea50086-a347-4ce5-921b-fd4ec1ee1a36",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "1. Try to have regular bedtimes each day as much as possible."
+  },
+  "416": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "4ea50086-a347-4ce5-921b-fd4ec1ee1a36",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "2. Try to make it quiet and the lights in the room dim. "
+  },
+  "430": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "4ea50086-a347-4ce5-921b-fd4ec1ee1a36",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "3. Spend some time with your child. You can sing a lullaby or tell a calm story."
+  },
+  "447": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "4ea50086-a347-4ce5-921b-fd4ec1ee1a36",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "4. Give your child a hug and kiss goodnight before leaving the room.  "
+  },
+  "462": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "8e4840e7-63a3-44d2-bba7-6f7e0b9f8e1e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Involve your teen in creating daily plans. Set goals and rewards together. Let them plan when they do schoolwork and when they can relax! "
+  },
+  "487": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "5f38ef03-a7b8-4c0d-8fea-6285629aeac9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done! You have added another tool to your Parenting Toolkit.  Here are some suggestions for routines that you could establish with your children:"
+  },
+  "512": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "5f38ef03-a7b8-4c0d-8fea-6285629aeac9",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Bedtime"
+  },
+  "513": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "5f38ef03-a7b8-4c0d-8fea-6285629aeac9",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Schoolwork"
+  },
+  "514": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "5f38ef03-a7b8-4c0d-8fea-6285629aeac9",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Chores"
+  },
+  "515": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "5f38ef03-a7b8-4c0d-8fea-6285629aeac9",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Mealtime"
+  },
+  "516": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "5f38ef03-a7b8-4c0d-8fea-6285629aeac9",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Play/free time"
+  },
+  "518": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "5f38ef03-a7b8-4c0d-8fea-6285629aeac9",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "T.V. or gadget time"
+  },
+  "522": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "5f38ef03-a7b8-4c0d-8fea-6285629aeac9",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "Storytime"
+  },
+  "523": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "5f38ef03-a7b8-4c0d-8fea-6285629aeac9",
+    "bit_type": "text",
+    "type_id": 8,
+    "text": "One-on-One Time"
+  },
+  "525": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "5f38ef03-a7b8-4c0d-8fea-6285629aeac9",
+    "bit_type": "text",
+    "type_id": 9,
+    "text": "You can add more, too!"
+  },
+  "530": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "979b574d-5376-44d6-918e-281d92b706c8",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Be open to your children. They get stressed too - sometimes from different things from you. Allow them to express how they feel and accept their feelings. Try to listen to them and think about how it must feel for them"
+  },
+  "571": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "979b574d-5376-44d6-918e-281d92b706c8",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Type \"Y\" if you want to learn more."
+  },
+  "579": {
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "979b574d-5376-44d6-918e-281d92b706c8",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Y",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "580": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "4b1019f3-c8bb-46ea-bc1d-114c9a1c261a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Keep it positive. It normal to want to say something about your child's negative behaviour, like “Don’t whine,” or “Stop running in the house.” Instead, just say something that you want your child to do, like \"Speak with a calm voice,\" or \"Remember to walk inside the house.\""
+  },
+  "628": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "47d77942-fc94-41dc-94bd-8fb48699edec",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Our children need attention! Attention is a powerful reward for most children, particularly when children are young. "
+  },
+  "646": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "f4e32c17-ee50-4028-be73-ec1a83b2ec7a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Giving calm consequences help teach our children responsibility for what they do. They also allow discipline that is controlled. This is more effective than hitting or shouting."
+  },
+  "673": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "cf5ed59f-e7cc-461c-8ae6-7514ecbd436e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Challenges are stressful. But problem-solving can really help. There are 6 basic steps for problem solving:"
+  },
+  "689": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "65fb869f-291e-4557-a676-ea78f9c4d603",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "1. Identify the problem"
+  },
+  "693": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "65fb869f-291e-4557-a676-ea78f9c4d603",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "2. Think of possible solutions. "
+  },
+  "699": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "65fb869f-291e-4557-a676-ea78f9c4d603",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "3. Figure out what the results of each solution would be."
+  },
+  "710": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "65fb869f-291e-4557-a676-ea78f9c4d603",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "4. Choose one solution "
+  },
+  "715": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "65fb869f-291e-4557-a676-ea78f9c4d603",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "5. Try it out!"
+  },
+  "719": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "65fb869f-291e-4557-a676-ea78f9c4d603",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "6. Did it work? Great! If it did not work, then try another solution."
+  },
+  "733": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "4b04d049-8825-4908-a0bd-0096691227ba",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "If children get plenty of attention for just being themselves, as well as for the “good” things that they do, it helps them to feel good about themselves, and they do more of what they are asked."
+  },
+  "770": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "ec0dc2f6-2339-4f5c-af7e-cca6c71d27c0",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Here are 4 tips for using consequences to help your child follow instructions or household rules:"
+  },
+  "786": {
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "6c943d44-6fac-4645-ab15-0d548f87ca0d",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "y",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "787": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "1430d83b-c5ec-4f6e-922c-5a46e84b637e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Be open to your children's emotions. Your children will look to you for support and reassurance. Listen to your children when they share how they are feeling. Accept how they feel and give them comfort."
+  },
+  "822": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "a8978354-f18d-4180-bbf6-86bffe890bd7",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "When we pay attention to negative behaviours, we teach our children to do more and more of the things we do not want them to do."
+  },
+  "848": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "246aabe1-561c-44a8-93d0-88edc1cf156e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "1. Give your child a choice to follow your instruction before giving them the consequence."
+  },
+  "863": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "a524c6a3-9940-4ac6-a0f2-bd4526749531",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "If your baby is starting to crawl or walk, you can also redirect them by physically picking them up and focusing their attention on something else interesting. Use a lively and cheerful voice!"
+  },
+  "896": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "90b02a6c-e980-40a0-8e4f-73a45ade7042",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "We can also teach our children the same steps."
+  },
+  "905": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "4f1664a2-dddf-49fd-b57a-44c90983109f",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "When something bad happens, we often get upset and blame our children. But what they really need is someone to help them work through their problems. "
+  },
+  "932": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "4f1664a2-dddf-49fd-b57a-44c90983109f",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Take a Pause! Become aware of anger and stress. Take a deep breath or count to 10 before you react. Then respond in a calmer way."
+  },
+  "958": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "92302369-658d-4b6b-a92c-2958064d68ea",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "2. Try to stay calm when giving the consequence."
+  },
+  "967": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "5a61359b-0896-4523-8451-e4e2b43e048d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "When you share your own feelings with your children, you help them recognise their own feelings. It can also help your children learn self-discipline and to understand their own feelings."
+  },
+  "997": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "2676f92a-28ea-409d-bf38-fd032e6ede91",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "These behaviours can take the form of whining, demanding, showing off, tantrums, and lots of other negative attention seeking and demanding behaviours that might make us think of the child as a bad child. "
+  },
+  "1032": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "f0c41ad7-acb4-49ec-b121-1a2b83ed19fc",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done! You have added another tool to your Parenting Toolkit. Remember that redirecting your children only works before or at the beginning of a bad behaviour. "
+  },
+  "1060": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "f0c41ad7-acb4-49ec-b121-1a2b83ed19fc",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "You can also always type \"Help\" for more tips. Have a great day!"
+  },
+  "1073": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "035263f9-5a24-47c1-afd3-f2880de8721d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "3. Make sure you can follow through with the consequence. For example, taking away a teenager’s phone for a week is hard to enforce. Taking it away for one hour is more realistic."
+  },
+  "1106": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "43b39893-47e8-4a96-ad7e-83ea374c5563",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "But there are no bad children, only difficult behaviours!"
+  },
+  "1115": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "30aa8d80-9db6-469f-ab52-b2fabe620d3e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "There are 6 basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. Even babies can feel and express these emotions. As children get older, they learn to identify lots of other emotions, like excited, frustrated, proud, lonely, peaceful, guilty, or confused."
+  },
+  "1156": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "a280bab4-e75e-4497-8659-e9d1b167e658",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Try to find solutions together:"
+  },
+  "1161": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "a280bab4-e75e-4497-8659-e9d1b167e658",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "1. Allow your teen to express how they feel and accept their feelings. "
+  },
+  "1175": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "a280bab4-e75e-4497-8659-e9d1b167e658",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "2. Try to listen to your teen and see things from their perspective. "
+  },
+  "1189": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "a280bab4-e75e-4497-8659-e9d1b167e658",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "3. Thank your teen for being open and trusting you"
+  },
+  "1199": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "a7e69492-647c-4117-a7f4-64aef220bc28",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "4. Once the consequence is over, give your child a chance to do something good, and praise them for it."
+  },
+  "1219": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "dac4bdae-eadd-44f5-b276-6d1cab37858e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "If we respond to these behaviours, our children learn that this behaviour will get them attention – it is like an attention reward for bad behaviour. They sometimes also learn that if they increase the demand, they will get their way. This happens to all of us!"
+  },
+  "1266": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "6dcc2c6c-7ee8-42ea-b564-8e4d7e9fced7",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Consequences can also be used when your children forget a household rule, like going to bed at a certain hour or doing schoolwork before T.V. For example, you can tell your child that if they do not do their schoolwork before dinner, they cannot watch their favourite T.V. show that evening."
+  },
+  "1317": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "d8837eaa-5290-41d5-b090-b4fec530680f",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done! You have added another skill to your Parenting Toolkit. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!"
+  },
+  "1352": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "d0950f33-5e69-4784-b7f8-0c3a1d5d6f55",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "It is normal to have difficulty talking about and expressing emotions and feelings. Many of us were told not to cry when we were sad or laugh when we were happy."
+  },
+  "1383": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "149c7bca-a2d4-4a8d-aa71-cbb991f850d6",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "For example, if your child whines for sweets at the store, you might initially say “no” but then give in to your child when they start to have a tantrum"
+  },
+  "1413": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "eb3d33f7-28e5-48bd-abac-b18151d0fbfe",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Here are some examples of behaviours and possible consequences:"
+  },
+  "1422": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "eb3d33f7-28e5-48bd-abac-b18151d0fbfe",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Fighting with siblings -> Take 1 minute pause in separate parts of the room"
+  },
+  "1436": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "eb3d33f7-28e5-48bd-abac-b18151d0fbfe",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Talking rudely to elders -> Write a letter of apology"
+  },
+  "1446": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "eb3d33f7-28e5-48bd-abac-b18151d0fbfe",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Using gadget over the limit -> No gadget use the next day"
+  },
+  "1458": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "066ab1a8-38a8-433d-b7cf-016828102f31",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "This may be especially the case for boys and men. But we all have the same feelings, and  we can learn how to become aware of our own emotions, to experience them in our body, and to communicate about them."
+  },
+  "1499": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "04884213-9017-4ae0-b4ac-f2422fbf5c6e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sound familiar? But there is an answer! We call it Ignore. And here are 4 steps on how to do it!"
+  },
+  "1520": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "de91adbf-de40-49d5-96b0-bb170b2899cf",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "1. Try to redirect your child's attention to something new when they demand something from you or are trying to get negative attention."
+  },
+  "1543": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "1b4016a2-7597-4bee-9bef-0d08a2812db9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Talking about feelings can help children manage anger, disappointment, and frustration. It can also help your child be more aware of positive emotions such as a sense of peace, happiness, or calmness. It can also allow children to appreciate a beautiful moment or feeling of love!"
+  },
+  "1589": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "e0b4542b-eff6-4443-8b89-193448af4204",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Forgetting safe distancing rules -> Need to hold my hand for 10 minutes (kids)"
+  },
+  "1603": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "e0b4542b-eff6-4443-8b89-193448af4204",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Forgetting safe distancing rules -> Cannot see friends for a day (teen)"
+  },
+  "1615": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "e0b4542b-eff6-4443-8b89-193448af4204",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Refusing to put away toys -> Cannot play with them after dinner (or next hour)"
+  },
+  "1630": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "6e7e27f9-0c71-417f-9739-ade949b2cda6",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "2. If your child persists, ignore your child's behaviour. You could still be aware of what your child is doing while ignoring."
+  },
+  "1652": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "318e2c6a-b859-4873-a9fc-d57bd0857de2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "In summary, consequences should be..."
+  },
+  "1657": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "318e2c6a-b859-4873-a9fc-d57bd0857de2",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "1. Realistic: Consider the age of your child"
+  },
+  "1665": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "318e2c6a-b859-4873-a9fc-d57bd0857de2",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "2. Immediate: Give them as soon as possible"
+  },
+  "1673": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "318e2c6a-b859-4873-a9fc-d57bd0857de2",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "3. Fair: Make sure the consequence is not too harsh"
+  },
+  "1683": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "318e2c6a-b859-4873-a9fc-d57bd0857de2",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "4. Consistent: Make sure you can follow through if you have to"
+  },
+  "1695": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "318e2c6a-b859-4873-a9fc-d57bd0857de2",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "5. The last resort: Try to encourage the positive behaviour to happen more often!"
+  },
+  "1709": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "fc8521f8-2760-4d1f-a0c2-5e437e48f377",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Here are some tips for how we can communicate about emotions with our children, especially about difficult issues:"
+  },
+  "1727": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "fc8521f8-2760-4d1f-a0c2-5e437e48f377",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "1. Accept your child’s feelings – even the difficult ones"
+  },
+  "1737": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "fc8521f8-2760-4d1f-a0c2-5e437e48f377",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "2. Use words to describe how your child and you are feeling"
+  },
+  "1749": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "fc8521f8-2760-4d1f-a0c2-5e437e48f377",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "3. Be open and show your child that you hear what they are saying"
+  },
+  "1763": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "fc8521f8-2760-4d1f-a0c2-5e437e48f377",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "4. Use physical and verbal support to make your child feel accepted and loved"
+  },
+  "1777": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "fc8521f8-2760-4d1f-a0c2-5e437e48f377",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "5. It is okay for you to also feel difficult emotions about the same issues"
+  },
+  "1792": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "336b562e-9d08-425b-9fe1-5a00e1662371",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "3. Your child's behaviour might continue to get worse.  It is important that you continue to ignore the behaviour."
+  },
+  "1812": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "d250f13c-bc84-4429-a86b-9fbab6ee543d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "4. When the behaviour ends, immediately redirect your child to a positive behaviour and praise them."
+  },
+  "1828": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "570a8e71-6ebf-432a-b0e1-344ef2267ebf",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "When you ignore your child's behaviour (but not your child!), your child learns that the demanding behaviour will not work."
+  },
+  "1848": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "c8d1269e-e3c5-4bc4-9a1f-ace998206ce2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done! You have added another skill to your Parenting Toolkit! Using consequences can help teach children self-discipline, independence, decision-making, and responsibility. They help children learn that their actions will have an impact on themselves and others. It is an important step to prepare them for their life outside of the family as they get older."
+  },
+  "1904": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "bd27240d-2bf9-4bce-9211-1d6bc3ea937c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done! You have added another skill to your Parenting Toolkit! Remember that all emotions are okay. It's how we respond to them that is important!"
+  },
+  "1930": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "649e8818-ff67-4239-8432-0c8088e34953",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "This takes time AND patience. Normally the behaviour will get worse because your child will try to test your resolve. This is a good time to Take a Pause and Keep Calm."
+  },
+  "1962": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "1775052b-9e13-4fb4-abae-30c957996a52",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "It sometimes gets worse before it gets better. Often, your child's response will grow more agitated when you start ignoring a specific  behaviour as your child tries to test your resolve. "
+  },
+  "1995": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "37a62551-4500-482b-bf96-d6695aedc558",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Try to remain consistent and calm (you can even Take a Pause). Over time, your child will learn that the demanding behaviour no longer works."
+  },
+  "2020": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "654b403a-6b92-463e-ac2e-976b6acc56be",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "In summary:"
+  },
+  "2022": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "654b403a-6b92-463e-ac2e-976b6acc56be",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "1. Try to redirect your child’s attention before ignoring"
+  },
+  "2031": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "654b403a-6b92-463e-ac2e-976b6acc56be",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "2. Only ignore negative attention seeking and demanding behaviours like whining and tantrums"
+  },
+  "2044": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "654b403a-6b92-463e-ac2e-976b6acc56be",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "3. Ignoring behaviour means removing physical and verbal attention"
+  },
+  "2053": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "654b403a-6b92-463e-ac2e-976b6acc56be",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "4. Praise your child immediately for the next positive behaviour"
+  },
+  "2063": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "654b403a-6b92-463e-ac2e-976b6acc56be",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "5. Be consistent when ignoring"
+  },
+  "2068": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "654b403a-6b92-463e-ac2e-976b6acc56be",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "6. Make sure you are giving your child plenty of positive attention and One-on-One Time"
+  },
+  "2083": {
+    "has_extraline": 0,
+    "flow_id": "9fcaa491-eebd-4987-9c27-a932998c96f9",
+    "bit_id": "ed67c522-75d7-498f-97c8-ced4fbe706a5",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done! You have added another skill to your Parenting Toolkit. Having a tantrum can be just as traumatic and difficult for your child as it is for you. Make sure you give your child plenty of positive attention and love when they have calmed down. Be patient. This is not easy. But you can do this!"
+  }
+}

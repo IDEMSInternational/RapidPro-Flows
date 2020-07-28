@@ -1,0 +1,2029 @@
+{
+  "0": {
+    "has_extraline": 0,
+    "flow_id": "e61de071-8b22-4810-aef4-c52bd1456f3c",
+    "bit_id": "8354f219-7dad-4026-bfa9-d63f5561810e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hi! How are you feeling right now? Are you feeling stressed and worried? Have you only got 30 seconds? Let's take a quick pause together. It might be helpful."
+  },
+  "29": {
+    "has_extraline": 0,
+    "flow_id": "e61de071-8b22-4810-aef4-c52bd1456f3c",
+    "bit_id": "62536b19-2189-4251-aad8-85beb8f851a5",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sit down, close your eyes and listen to your breath as it goes in and out. Notice how you feel. When you are ready open your eyes again. Everything is okay. "
+  },
+  "61": {
+    "has_extraline": 0,
+    "flow_id": "e61de071-8b22-4810-aef4-c52bd1456f3c",
+    "bit_id": "5c8ce93c-5ce4-4d8f-bf89-fbda70f9973c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Would you like other relaxation activities?"
+  },
+  "67": {
+    "flow_id": "e61de071-8b22-4810-aef4-c52bd1456f3c",
+    "bit_id": "5c8ce93c-5ce4-4d8f-bf89-fbda70f9973c",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Yes",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "68": {
+    "flow_id": "e61de071-8b22-4810-aef4-c52bd1456f3c",
+    "bit_id": "5c8ce93c-5ce4-4d8f-bf89-fbda70f9973c",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "No",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "69": {
+    "flow_id": "e61de071-8b22-4810-aef4-c52bd1456f3c",
+    "bit_id": "e4633604-a30f-4428-80d1-068a74ef0309",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "yes y",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "71": {
+    "flow_id": "e61de071-8b22-4810-aef4-c52bd1456f3c",
+    "bit_id": "ddcfd478-a944-4f87-b650-7267377e4b99",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "no n",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "73": {
+    "has_extraline": 0,
+    "flow_id": "e61de071-8b22-4810-aef4-c52bd1456f3c",
+    "bit_id": "be335f0e-4564-42fe-93ca-4a62f9f9b898",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "That's okay! You can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+  },
+  "98": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "f2e00068-3140-423d-9581-613a85519423",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "It‘s hard to feel positive when our kids or teenagers are driving us crazy. We often end up saying “Stop doing that!” But children are much more likely to do what we ask if we give them positive instructions and lots of praise for what they do right. "
+  },
+  "147": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "ca35b555-a7cb-4ce0-9cc7-dcadb8c4fa26",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Would you like to learn more about this tip?"
+  },
+  "156": {
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "ca35b555-a7cb-4ce0-9cc7-dcadb8c4fa26",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Yes",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "157": {
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "ca35b555-a7cb-4ce0-9cc7-dcadb8c4fa26",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "No",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "158": {
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "5bc62877-eb85-467c-a35f-676d4e4921fc",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "YES Y",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "160": {
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "a5c7bee2-0a1d-44ec-b523-87bde5628b15",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "NO N",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "162": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "66bd48b2-3f9a-4efa-9836-f9fa8dde9b68",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Here are 4 steps to help you get your children to follow your instructions more often:"
+  },
+  "178": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "66bd48b2-3f9a-4efa-9836-f9fa8dde9b68",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "1. Get their attention"
+  },
+  "182": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "66bd48b2-3f9a-4efa-9836-f9fa8dde9b68",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "2. Be positive, specific, and realistic"
+  },
+  "188": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "66bd48b2-3f9a-4efa-9836-f9fa8dde9b68",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "3. One instruction at a time"
+  },
+  "194": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "66bd48b2-3f9a-4efa-9836-f9fa8dde9b68",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "4. Praise them for doing it! "
+  },
+  "201": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "66bd48b2-3f9a-4efa-9836-f9fa8dde9b68",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "To learn more about one of these steps, type \"1\" to \"4\". You can also type \"N\" to stop this tip."
+  },
+  "222": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "d787280a-edef-43fd-9cc1-5a45806ecbfd",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean. "
+  },
+  "230": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "91d4c87e-02a4-4962-bada-f93ff578a83d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+  },
+  "251": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "620a8e35-a049-426a-a5a7-4f85ae084e1e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean."
+  },
+  "258": {
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "15ad2b2b-e0d6-4468-b28b-74230540022b",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "1",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "259": {
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "c46efe6c-b551-4f69-a218-8fd19d2ab2ea",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "2",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "260": {
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "7d86f266-59d7-485b-acc5-ee0a2ee7cd44",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "3",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "261": {
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "e63e6cb4-d098-418e-a14c-914f8c03f26c",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "4",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "262": {
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "0c975a76-a902-4f06-8189-28dcb86b43f2",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "n no",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "264": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "e83d1095-905f-469a-9b90-5ae44a3f32bd",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Step 1. Get Your Child's Attention"
+  },
+  "270": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "e83d1095-905f-469a-9b90-5ae44a3f32bd",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Look at your child and say their name when you give your child an instruction. Get down to their level."
+  },
+  "290": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "7f031cf2-850d-4996-b3b6-f63e7c34e062",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Step 2. Be Specific, Positive, and Realistic!"
+  },
+  "297": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "7f031cf2-850d-4996-b3b6-f63e7c34e062",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Describe exactly what you want your child to do. Say, 'Please wash your hands for 20 seconds before coming to dinner, instead of 'Wash your hands.'"
+  },
+  "323": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "897acf33-83c2-4e1c-900b-07f20d832820",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Step 3. Give Instructions One at a Time"
+  },
+  "331": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "897acf33-83c2-4e1c-900b-07f20d832820",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Children are much more likely to do what you ask if you break things up into smaller steps."
+  },
+  "349": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "22665c81-a21c-4642-bddf-c6bcad767504",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Use positive words when telling your child what to do. Say, ‘Please put your clothes away in the cupboard,’ instead of ‘Don’t make a mess’."
+  },
+  "374": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "470bf560-3852-4b52-8d90-b2a02bc9fa8f",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Step 4. Praise Your Children When They Follow Instructions"
+  },
+  "383": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "470bf560-3852-4b52-8d90-b2a02bc9fa8f",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "They will feel good about it and be more likely to follow instructions in the future!"
+  },
+  "399": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "9c831794-d6b0-4612-8f28-77052d3e3458",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Can your child actually do what you are asking them? It is very hard for a child to keep quiet inside for a whole day but maybe they can keep quiet for 15 minutes."
+  },
+  "433": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "48d9d65f-344a-4583-8229-9a3537978b30",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Do you want to go back and learn more about how to get your children to follow instructions more often?"
+  },
+  "453": {
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "48d9d65f-344a-4583-8229-9a3537978b30",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Yes",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "454": {
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "48d9d65f-344a-4583-8229-9a3537978b30",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "No",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "455": {
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "12544607-d7c5-4a7e-8972-0c80dead85af",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "yes y",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "457": {
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "5c60f114-04b0-44dc-882c-cca950488d65",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "no n",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "459": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "65dc8526-78ca-4029-81a3-bf852019f2fa",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean."
+  },
+  "466": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "50afdf7d-1238-4314-8a95-0a188aa9bcf9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done! You have added another tool to your Parenting Toolkit. In summary…"
+  },
+  "479": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "50afdf7d-1238-4314-8a95-0a188aa9bcf9",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "1. Get their attention"
+  },
+  "483": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "50afdf7d-1238-4314-8a95-0a188aa9bcf9",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "2. Be positive, specific, and realistic"
+  },
+  "489": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "50afdf7d-1238-4314-8a95-0a188aa9bcf9",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "3. One instruction at a time"
+  },
+  "495": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "50afdf7d-1238-4314-8a95-0a188aa9bcf9",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "4. Praise them for doing it! "
+  },
+  "502": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "50afdf7d-1238-4314-8a95-0a188aa9bcf9",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "It will make a HUGE DIFFERENCE if you can learn these 4 simple steps!"
+  },
+  "516": {
+    "has_extraline": 0,
+    "flow_id": "8cd4d03b-e061-401c-bf14-4d1bfc733ce1",
+    "bit_id": "e3c5f9a4-75d3-43b7-8342-f0faa552c579",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Remember you can always type \"Help\" if you ever want more parenting tips or support. You can also change the type of messages you receive for an older or younger child. Just select \"Tech Support.\" Chat to you later!"
+  },
+  "555": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "c1eb1c1b-e44d-417c-9c1d-4c3343633c1f",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "One-on-one time"
+  },
+  "557": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "0923fb23-4d35-466f-ab1c-f8ba4c3a6b52",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Taking a Pause"
+  },
+  "560": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "0828c305-143f-4c9d-a841-ade861237fa9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Managing anger"
+  },
+  "562": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "cd2327ca-edde-40c9-8609-997db4cc881e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Giving positive instructions"
+  },
+  "565": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "72ee5947-7e47-4546-8a2e-0164b5fc09e3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Praising your children"
+  },
+  "568": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "3d219cea-8e12-4786-a6ef-2aa73e412246",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Establishing daily routines"
+  },
+  "571": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "9837d2c4-2fdd-44f8-81cf-49632bb1a966",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Setting household rules"
+  },
+  "574": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "e39116d5-5bf4-4d63-b4c4-c9ae03ece6c6",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Redirecting behaviour"
+  },
+  "576": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "f5437857-fccf-4756-b5d2-1fdaef7f8f85",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Using appropriate consequences"
+  },
+  "579": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "d89df1da-3a94-424c-8596-590b5d7c6735",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Shared reading"
+  },
+  "581": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "fb6b82c4-8730-4dbd-bdd1-6f46a6a8ccb1",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Ignoring demanding behaviours"
+  },
+  "584": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "aa9c8d40-fc5e-4d1d-b060-28d5f66f2d53",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Solving problems with your teen"
+  },
+  "589": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "d0decc7e-dac1-49b5-8d91-b60e62847dcf",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Keeping your child safe online"
+  },
+  "594": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "4d15d404-dba1-41da-972a-69cce7e05ae8",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Coping with crying"
+  },
+  "597": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "cdb02fcf-d891-49c8-8fa1-bbc301156590",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Giving emotional support"
+  },
+  "600": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "8dcb45d8-c9db-4003-b064-71c6ed6074b6",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Responding to crises"
+  },
+  "603": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "0732c510-65e6-4820-b1b2-ce02b47a6473",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Understanding safe/unsafe touch"
+  },
+  "606": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "205fc3ad-9802-411e-acb0-9ec4e285b1cd",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Making a happy and peaceful home"
+  },
+  "612": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "58b842cf-1e93-4e19-9896-a7bce2b2ecef",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Family budgeting"
+  },
+  "614": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "df80f2f5-2836-4b3c-9a19-1d6c5ccc1ccd",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Talking about COVID19"
+  },
+  "617": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "92dedef7-7a8c-483f-adfe-5da97e98db98",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Supporting children with disabilities"
+  },
+  "621": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "63a12e60-5a0b-4f4d-a699-a032bd8b172f",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Child Development"
+  },
+  "623": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "97c25774-ce13-45db-a442-8aa9c4b7ac46",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Helping your children learn"
+  },
+  "627": {
+    "has_extraline": 0,
+    "flow_id": "63f862ab-4db2-434f-9e41-916a8dfe85dc",
+    "bit_id": "cf2928d3-8d0a-466f-9205-70c2de16f18f",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Keeping healthy"
+  },
+  "629": {
+    "has_extraline": 0,
+    "flow_id": "bb5fc1dd-59e7-4542-b966-f8b26870d5ef",
+    "bit_id": "d44705cc-4d99-43dc-bd4a-b64859c0d804",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "What kind of activity do you want for your baby?"
+  },
+  "639": {
+    "flow_id": "bb5fc1dd-59e7-4542-b966-f8b26870d5ef",
+    "bit_id": "d44705cc-4d99-43dc-bd4a-b64859c0d804",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Active",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "640": {
+    "flow_id": "bb5fc1dd-59e7-4542-b966-f8b26870d5ef",
+    "bit_id": "d44705cc-4d99-43dc-bd4a-b64859c0d804",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Calm",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "641": {
+    "flow_id": "bb5fc1dd-59e7-4542-b966-f8b26870d5ef",
+    "bit_id": "d44705cc-4d99-43dc-bd4a-b64859c0d804",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "Fun",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "642": {
+    "flow_id": "bb5fc1dd-59e7-4542-b966-f8b26870d5ef",
+    "bit_id": "8fd3e252-a053-4fb3-a866-9d072fa4fe29",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "active",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "643": {
+    "flow_id": "bb5fc1dd-59e7-4542-b966-f8b26870d5ef",
+    "bit_id": "36fa75e7-5687-40d8-a5a4-ebd0d91221b1",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "calm",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "644": {
+    "flow_id": "bb5fc1dd-59e7-4542-b966-f8b26870d5ef",
+    "bit_id": "b0882040-d0d6-4bd0-977b-6976592a5fba",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "fun",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "645": {
+    "has_extraline": 0,
+    "flow_id": "1f9a57af-e67a-4283-8e23-e5aa53edb1be",
+    "bit_id": "532dca2e-564a-433d-9123-8baf933d31b2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "What kind of activity do you want for your child?"
+  },
+  "655": {
+    "flow_id": "1f9a57af-e67a-4283-8e23-e5aa53edb1be",
+    "bit_id": "532dca2e-564a-433d-9123-8baf933d31b2",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Active",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "656": {
+    "flow_id": "1f9a57af-e67a-4283-8e23-e5aa53edb1be",
+    "bit_id": "532dca2e-564a-433d-9123-8baf933d31b2",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Calm",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "657": {
+    "flow_id": "1f9a57af-e67a-4283-8e23-e5aa53edb1be",
+    "bit_id": "532dca2e-564a-433d-9123-8baf933d31b2",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "Fun",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "658": {
+    "flow_id": "1f9a57af-e67a-4283-8e23-e5aa53edb1be",
+    "bit_id": "f0bb72ae-01f2-4ebe-ac85-e2c60243599b",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "active",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "659": {
+    "flow_id": "1f9a57af-e67a-4283-8e23-e5aa53edb1be",
+    "bit_id": "99e01bde-48e3-4bf8-8cd8-8d2bc1f06bef",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "calm",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "660": {
+    "flow_id": "1f9a57af-e67a-4283-8e23-e5aa53edb1be",
+    "bit_id": "c3a8b080-c9ba-4410-9edf-86ea4a711208",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "fun",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "661": {
+    "has_extraline": 0,
+    "flow_id": "81aa1d15-9893-4a08-b1c1-e8f64abae843",
+    "bit_id": "c2515afa-c60a-4287-b722-c28ca1f48bf7",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "What kind of activity do you want for your teen?"
+  },
+  "671": {
+    "flow_id": "81aa1d15-9893-4a08-b1c1-e8f64abae843",
+    "bit_id": "c2515afa-c60a-4287-b722-c28ca1f48bf7",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Active",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "672": {
+    "flow_id": "81aa1d15-9893-4a08-b1c1-e8f64abae843",
+    "bit_id": "c2515afa-c60a-4287-b722-c28ca1f48bf7",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Calm",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "673": {
+    "flow_id": "81aa1d15-9893-4a08-b1c1-e8f64abae843",
+    "bit_id": "c2515afa-c60a-4287-b722-c28ca1f48bf7",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "Fun",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "674": {
+    "flow_id": "81aa1d15-9893-4a08-b1c1-e8f64abae843",
+    "bit_id": "b1a1cfea-da3b-40ac-a975-707ae1fd8a1c",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "active",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "675": {
+    "flow_id": "81aa1d15-9893-4a08-b1c1-e8f64abae843",
+    "bit_id": "ccc925c5-ef72-40a9-a1f8-2e1ac19e79e8",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "calm",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "676": {
+    "flow_id": "81aa1d15-9893-4a08-b1c1-e8f64abae843",
+    "bit_id": "c065449b-40ac-44fb-9677-8a5f5bb910be",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "fun",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "677": {
+    "has_extraline": 0,
+    "flow_id": "61f4233b-589a-473d-950d-6c7bdd450a7e",
+    "bit_id": "68ba0bef-69f1-49d6-b7de-73c7735f08c2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "What kind of activity do you want?"
+  },
+  "684": {
+    "flow_id": "61f4233b-589a-473d-950d-6c7bdd450a7e",
+    "bit_id": "68ba0bef-69f1-49d6-b7de-73c7735f08c2",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Active",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "685": {
+    "flow_id": "61f4233b-589a-473d-950d-6c7bdd450a7e",
+    "bit_id": "68ba0bef-69f1-49d6-b7de-73c7735f08c2",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Calm",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "686": {
+    "flow_id": "61f4233b-589a-473d-950d-6c7bdd450a7e",
+    "bit_id": "68ba0bef-69f1-49d6-b7de-73c7735f08c2",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "Fun",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "687": {
+    "flow_id": "61f4233b-589a-473d-950d-6c7bdd450a7e",
+    "bit_id": "1f0e84a3-f057-42ac-9fb2-781f7bbe0737",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "active",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "688": {
+    "flow_id": "61f4233b-589a-473d-950d-6c7bdd450a7e",
+    "bit_id": "6ddf3465-0df3-4a7f-8f0f-9ad4042e6d4e",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "calm",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "689": {
+    "flow_id": "61f4233b-589a-473d-950d-6c7bdd450a7e",
+    "bit_id": "c5dff638-57c3-4b7f-8a8e-c4b630017dd9",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "fun",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "690": {
+    "has_extraline": 0,
+    "flow_id": "92f813aa-0d6d-45ee-bc4d-4bd409cdcb34",
+    "bit_id": "6a545a48-b3d6-45f0-8f3e-d85ff3953db4",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Crazy Chicken"
+  },
+  "692": {
+    "has_extraline": 0,
+    "flow_id": "92f813aa-0d6d-45ee-bc4d-4bd409cdcb34",
+    "bit_id": "6a545a48-b3d6-45f0-8f3e-d85ff3953db4",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Shake your left hands in the air 8 times while counting to 8 ",
+    "has_bullet": true
+  },
+  "706": {
+    "has_extraline": 0,
+    "flow_id": "92f813aa-0d6d-45ee-bc4d-4bd409cdcb34",
+    "bit_id": "6a545a48-b3d6-45f0-8f3e-d85ff3953db4",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Do it as fast and loud as you can",
+    "has_bullet": true
+  },
+  "715": {
+    "has_extraline": 0,
+    "flow_id": "92f813aa-0d6d-45ee-bc4d-4bd409cdcb34",
+    "bit_id": "6a545a48-b3d6-45f0-8f3e-d85ff3953db4",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Repeat with your other hand. Repeat with both feet",
+    "has_bullet": true
+  },
+  "724": {
+    "has_extraline": 0,
+    "flow_id": "92f813aa-0d6d-45ee-bc4d-4bd409cdcb34",
+    "bit_id": "6a545a48-b3d6-45f0-8f3e-d85ff3953db4",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Do it 7 times, then 6 times and continue until you get to 1.",
+    "has_bullet": true
+  },
+  "738": {
+    "has_extraline": 0,
+    "flow_id": "92f813aa-0d6d-45ee-bc4d-4bd409cdcb34",
+    "bit_id": "6a545a48-b3d6-45f0-8f3e-d85ff3953db4",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Everyone calls out “Crazy chicken” and does their best crazy chicken dance!",
+    "has_bullet": true
+  },
+  "750": {
+    "has_extraline": 0,
+    "flow_id": "1a91ec20-83f5-4422-84de-1266209d5bf9",
+    "bit_id": "e0c851db-f3f6-4e1e-a12c-76e24e214e7d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Drawing"
+  },
+  "751": {
+    "has_extraline": 0,
+    "flow_id": "1a91ec20-83f5-4422-84de-1266209d5bf9",
+    "bit_id": "e0c851db-f3f6-4e1e-a12c-76e24e214e7d",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Children love to draw! It helps build creativity",
+    "has_bullet": true
+  },
+  "759": {
+    "has_extraline": 0,
+    "flow_id": "1a91ec20-83f5-4422-84de-1266209d5bf9",
+    "bit_id": "e0c851db-f3f6-4e1e-a12c-76e24e214e7d",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Get some pens or crayons and a piece of paper or cardboard",
+    "has_bullet": true
+  },
+  "771": {
+    "has_extraline": 0,
+    "flow_id": "1a91ec20-83f5-4422-84de-1266209d5bf9",
+    "bit_id": "e0c851db-f3f6-4e1e-a12c-76e24e214e7d",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Let your children freely whatever they want",
+    "has_bullet": true
+  },
+  "778": {
+    "has_extraline": 0,
+    "flow_id": "1a91ec20-83f5-4422-84de-1266209d5bf9",
+    "bit_id": "e0c851db-f3f6-4e1e-a12c-76e24e214e7d",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "While your child is drawing, use words to describe what they are doing: “I see you are drawing a person” or “I see you are making lines with the red crayon.”",
+    "has_bullet": true
+  },
+  "809": {
+    "has_extraline": 0,
+    "flow_id": "1a91ec20-83f5-4422-84de-1266209d5bf9",
+    "bit_id": "e0c851db-f3f6-4e1e-a12c-76e24e214e7d",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "You can also have fun drawing next to them",
+    "has_bullet": true
+  },
+  "818": {
+    "has_extraline": 0,
+    "flow_id": "1a91ec20-83f5-4422-84de-1266209d5bf9",
+    "bit_id": "e0c851db-f3f6-4e1e-a12c-76e24e214e7d",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Put their drawings up on the wall, refrigerator, or outside to decorate the house – it will make your children feel appreciated!",
+    "has_bullet": true
+  },
+  "840": {
+    "has_extraline": 0,
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "1c5e106a-65de-466a-9b1c-a624addd2685",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Are you a parent/caregiver of a baby (0 to 23 months)? "
+  },
+  "852": {
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "1c5e106a-65de-466a-9b1c-a624addd2685",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Yes",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "853": {
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "1c5e106a-65de-466a-9b1c-a624addd2685",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "No",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "854": {
+    "has_extraline": 0,
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "cac8bc14-5bde-4b7a-9d1a-6217ace8634c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean. "
+  },
+  "862": {
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "7885ab62-a477-47f6-979c-745ede5e52d4",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "yes yep yeah y",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "866": {
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "2fc748b3-3024-4c0d-85a2-fca9911dcd80",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "no not nope n",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "870": {
+    "has_extraline": 0,
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "5f87f2c4-33ca-45aa-90e4-7b41db0bf35b",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Are you a parent/caregiver of a young child (2 to 9 years)?"
+  },
+  "882": {
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "5f87f2c4-33ca-45aa-90e4-7b41db0bf35b",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Yes",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "883": {
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "5f87f2c4-33ca-45aa-90e4-7b41db0bf35b",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "No",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "884": {
+    "has_extraline": 0,
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "b2ef6d83-b2d4-4fdc-89b6-fe6c2ab8a92d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean. "
+  },
+  "892": {
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "252845fc-8c82-473e-ba9f-283a8403cae7",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "yes yep yeah y",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "896": {
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "36259942-53bb-4785-a25e-1f2e5e1906c2",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "no not n nope",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "900": {
+    "has_extraline": 0,
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "6998038d-7da3-4b50-a64a-36c8d2d4e5dd",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Are you a parent/caregiver of a teenager (10 to 17 years)? "
+  },
+  "912": {
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "6998038d-7da3-4b50-a64a-36c8d2d4e5dd",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Yes",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "913": {
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "6998038d-7da3-4b50-a64a-36c8d2d4e5dd",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "No",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "914": {
+    "has_extraline": 0,
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "dafeaa1e-8f79-490d-a457-6c8e83c91969",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean. "
+  },
+  "922": {
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "fb75b29f-e77e-41cb-92c3-ab2425eb6d35",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "yes yeah yep sure y",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "927": {
+    "flow_id": "e1a7059a-a390-4e22-a09d-9138857fbf20",
+    "bit_id": "8396e8b6-8cf3-4743-956b-39f7c449c62d",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "no not nope n",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "931": {
+    "has_extraline": 0,
+    "flow_id": "94bf9ade-dc30-43aa-b185-9ad88f801b71",
+    "bit_id": "72acd5f7-1f01-4f44-834e-227c408d5dd8",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Self-portrait"
+  },
+  "932": {
+    "has_extraline": 0,
+    "flow_id": "94bf9ade-dc30-43aa-b185-9ad88f801b71",
+    "bit_id": "72acd5f7-1f01-4f44-834e-227c408d5dd8",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Here’s how your children can draw a picture of themselves!",
+    "has_bullet": true
+  },
+  "942": {
+    "has_extraline": 0,
+    "flow_id": "94bf9ade-dc30-43aa-b185-9ad88f801b71",
+    "bit_id": "72acd5f7-1f01-4f44-834e-227c408d5dd8",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Find a big piece of paper or cardboard. It needs to be the same length or slightly longer than the height of your child",
+    "has_bullet": true
+  },
+  "966": {
+    "has_extraline": 0,
+    "flow_id": "94bf9ade-dc30-43aa-b185-9ad88f801b71",
+    "bit_id": "72acd5f7-1f01-4f44-834e-227c408d5dd8",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Ask your child to lie down on the paper. Carefully draw the outline of your child.",
+    "has_bullet": true
+  },
+  "982": {
+    "has_extraline": 0,
+    "flow_id": "94bf9ade-dc30-43aa-b185-9ad88f801b71",
+    "bit_id": "72acd5f7-1f01-4f44-834e-227c408d5dd8",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "Now let your child fill in the outline: face, hair, clothes, shoes, or anything they want!",
+    "has_bullet": true
+  },
+  "998": {
+    "has_extraline": 0,
+    "flow_id": "94bf9ade-dc30-43aa-b185-9ad88f801b71",
+    "bit_id": "72acd5f7-1f01-4f44-834e-227c408d5dd8",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "Ask your child to draw things that they like and do not like outside of the outline",
+    "has_bullet": true
+  },
+  "1015": {
+    "has_extraline": 0,
+    "flow_id": "94bf9ade-dc30-43aa-b185-9ad88f801b71",
+    "bit_id": "72acd5f7-1f01-4f44-834e-227c408d5dd8",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "Have a conversation with your child about these things. You may learn something about your child!",
+    "has_bullet": true
+  },
+  "1031": {
+    "has_extraline": 0,
+    "flow_id": "94bf9ade-dc30-43aa-b185-9ad88f801b71",
+    "bit_id": "72acd5f7-1f01-4f44-834e-227c408d5dd8",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "You can put their outline up in their room or anywhere in the house – it will make your children feel appreciated!",
+    "has_bullet": true
+  },
+  "1053": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "336f820b-c3dc-4710-8a39-a73f1962faab",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count   One-on-one time",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1058": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "d6b0a356-46a2-460c-8d1d-1a06f250aa0a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Taking a Pause",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1063": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "871d84cc-5a3b-4015-ab5f-f1db871fee39",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Managing anger",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1067": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "e7ed70a5-4d1c-4eb8-b162-6dcbb94ee28e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Giving positive instructions",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1072": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "7a69e9fb-5b05-4cdc-8f09-5af6127119c8",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Praising your children",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1077": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "6d12412c-a5cd-4bac-bcbe-bbf22e8f3fa3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Establishing daily routines",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1082": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "66915fa9-b7a9-40f1-bc42-9d66e0b23909",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Setting household rules",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1087": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "5266a3fb-2667-4aab-bd33-b9def5243ed6",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Redirecting behaviour",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1091": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "8f4be72c-bb7b-450f-b306-b96139602424",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Using appropriate consequences",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1096": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "c3716c90-b50b-4920-ab47-df02a6349efd",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Shared reading",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1100": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "0136ea88-7f69-4643-8f9d-bcbe76edbd2d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Ignoring demanding behaviours",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1105": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "00a7d8a2-dd66-4b57-b27d-3f92787b60cd",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Solving problems with your teen",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1112": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "a9ddebc2-1e72-4c9f-a8f4-f29b0c25e4a2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Keeping your child safe online",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1119": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "b3c70815-2c66-4ea9-a19c-078ca9a7285a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Coping with crying",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1124": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "552e0927-f78b-4d19-a328-ed12ae55b910",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Giving emotional support",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1129": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "7271df05-f340-468e-b539-1e5880797ad2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Responding to crises",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1134": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "899eeae1-0db8-4cc4-b639-2b7dc71266ef",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Understanding safe/unsafe touch",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1139": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "dbd1c73c-403d-462e-b3da-b101790ed1b9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Making a happy and peaceful home",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1147": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "fe333dd8-6d1f-4ca1-8157-aa11d7d3ba54",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Family budgeting",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1151": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "326d810e-d4b6-44bd-95cd-3ea7269f6d97",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Talking about COVID19",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1156": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "7a90289b-b3d1-4ad1-bf09-d6559a247a9a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Supporting children with disabilities",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1162": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "b366c445-ba14-4f2b-ad04-12562a72b0bf",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Child Development",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1166": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "2c6605f1-3d59-4049-a5c9-99d74317d8f2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Helping your children learn",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1172": {
+    "has_extraline": 0,
+    "flow_id": "5e37fc60-5ebd-4ee3-90d1-8f5fec907213",
+    "bit_id": "20c79cf5-9730-4567-a6b2-3bdef5e3cf00",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Keeping healthy",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1176": {
+    "has_extraline": 0,
+    "flow_id": "7b03fab7-a74d-437e-831d-1153342a1d95",
+    "bit_id": "133da783-56a5-4cbc-b38a-bd527ccf5f5d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Transform the object"
+  },
+  "1179": {
+    "has_extraline": 0,
+    "flow_id": "7b03fab7-a74d-437e-831d-1153342a1d95",
+    "bit_id": "133da783-56a5-4cbc-b38a-bd527ccf5f5d",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Every day household items like brooms, mops, or scarfs can become fun props for games",
+    "has_bullet": true
+  },
+  "1194": {
+    "has_extraline": 0,
+    "flow_id": "7b03fab7-a74d-437e-831d-1153342a1d95",
+    "bit_id": "133da783-56a5-4cbc-b38a-bd527ccf5f5d",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Place an object in the center of the room and whenever someone has an idea, they jump in and show the rest what the object can be",
+    "has_bullet": true
+  },
+  "1221": {
+    "has_extraline": 0,
+    "flow_id": "7b03fab7-a74d-437e-831d-1153342a1d95",
+    "bit_id": "133da783-56a5-4cbc-b38a-bd527ccf5f5d",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "For example, a broom might be ridden as a horse or a microphone or a guitar!",
+    "has_bullet": true
+  },
+  "1237": {
+    "has_extraline": 0,
+    "flow_id": "687e3d76-b71f-4ca6-9545-8f632c51d9f8",
+    "bit_id": "2ea8d502-7692-426f-809f-30448eecead5",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Name that tune"
+  },
+  "1240": {
+    "has_extraline": 0,
+    "flow_id": "687e3d76-b71f-4ca6-9545-8f632c51d9f8",
+    "bit_id": "2ea8d502-7692-426f-809f-30448eecead5",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "First person gets to choose or sing a song",
+    "has_bullet": true
+  },
+  "1249": {
+    "has_extraline": 0,
+    "flow_id": "687e3d76-b71f-4ca6-9545-8f632c51d9f8",
+    "bit_id": "2ea8d502-7692-426f-809f-30448eecead5",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Everyone else must guess the name of the tune (to make it harder they can guess the singer)",
+    "has_bullet": true
+  },
+  "1267": {
+    "has_extraline": 0,
+    "flow_id": "687e3d76-b71f-4ca6-9545-8f632c51d9f8",
+    "bit_id": "2ea8d502-7692-426f-809f-30448eecead5",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "The first one to guess it right becomes the next leader",
+    "has_bullet": true
+  },
+  "1278": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "16b088b6-60fa-4410-8f52-21de3cf1d6b2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "The sound of a baby crying can be very distressing, especially for a parent. It is completely natural to want to make it stop. You might also think that you are not a good parent or that your baby is crying to spite you. But all babies cry. It is one of the main ways a baby can tell you that something is wrong."
+  },
+  "1342": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "d63feff4-02b3-4a90-a522-b08c08d8444a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean. "
+  },
+  "1350": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "d5bdd1a1-8ba3-4b0a-b9b4-4cea4d8f1c97",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Would you like to learn more about this tip?"
+  },
+  "1359": {
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "d5bdd1a1-8ba3-4b0a-b9b4-4cea4d8f1c97",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Yes",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "1360": {
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "d5bdd1a1-8ba3-4b0a-b9b4-4cea4d8f1c97",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "No",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "1361": {
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "018a17e3-db3c-4b5d-ac31-ea5ad2537e3b",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "y yes",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "1363": {
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "bb8bf47e-8a49-4917-8b80-dacbee7efa0e",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "no n",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "1365": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "3248cab1-0417-4f3b-8c70-16ff34130aef",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+  },
+  "1386": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "ebf1a217-ff1a-45c7-843a-15753484e853",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Here are some tips that might help when your baby cries:"
+  },
+  "1397": {
+    "has_extraline": 1,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "ebf1a217-ff1a-45c7-843a-15753484e853",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "1. Why babies cry"
+  },
+  "1401": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "ebf1a217-ff1a-45c7-843a-15753484e853",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "2. Respond as soon as you can"
+  },
+  "1408": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "ebf1a217-ff1a-45c7-843a-15753484e853",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "3. Check to see why your baby is crying"
+  },
+  "1417": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "ebf1a217-ff1a-45c7-843a-15753484e853",
+    "bit_type": "text",
+    "type_id": 5,
+    "text": "4. Comfort your baby"
+  },
+  "1421": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "ebf1a217-ff1a-45c7-843a-15753484e853",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "5. Take a break if you need it"
+  },
+  "1429": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "ebf1a217-ff1a-45c7-843a-15753484e853",
+    "bit_type": "text",
+    "type_id": 7,
+    "text": "6. Be gentle and patient with yourself"
+  },
+  "1436": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "ebf1a217-ff1a-45c7-843a-15753484e853",
+    "bit_type": "text",
+    "type_id": 8,
+    "text": "7. If you think your baby is injured or sick, call or visit a clinic"
+  },
+  "1451": {
+    "has_extraline": 1,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "ebf1a217-ff1a-45c7-843a-15753484e853",
+    "bit_type": "text",
+    "type_id": 10,
+    "text": "To learn more about one of these, type \"1\" to \"7\". You can also type \"N\" to stop this tip."
+  },
+  "1471": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "abfc6e41-4c27-4aca-80d7-8d08cfcc9507",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean."
+  },
+  "1478": {
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "d4a6c10c-dd3c-4dd1-a44d-9427bd4fd712",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "no n",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "1480": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "444ce998-d48a-4343-af70-204fb6c8d4a9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "1. Why do babies cry?"
+  },
+  "1485": {
+    "has_extraline": 1,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "444ce998-d48a-4343-af70-204fb6c8d4a9",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Crying is a normal part of your baby's development. Sometimes babies even have crying patterns. Crying usually increases at 2-3 weeks old and is generally highest when your baby is around 6 to 8 weeks. Often babies will start crying less around 3 to 4 months. Of course, remember that every baby is different!"
+  },
+  "1539": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "99faa471-5e0f-4d72-886b-5acdc19c6751",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "2. Respond as soon as you can"
+  },
+  "1546": {
+    "has_extraline": 1,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "99faa471-5e0f-4d72-886b-5acdc19c6751",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Go to your baby when you hear them crying. You will not spoil your baby by picking them up. Babies who are carried and cuddled frequently, during both fussy and contented periods, may actually cry less."
+  },
+  "1582": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "6b1390e2-6119-4412-ad75-90d98c13b383",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "3.  Check to see why your baby is crying"
+  },
+  "1592": {
+    "has_extraline": 1,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "6b1390e2-6119-4412-ad75-90d98c13b383",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "There are lots of reasons why babies cry. It might be hunger, pain, too much going on, rough handling, feeling cold/hot, wanting contact or attention, or feeling irritable. Babies can cry when they sense tension in the room. And sometimes they cry for no reason at all! "
+  },
+  "1640": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "69a557b8-d4b0-4286-b672-3cd76649da39",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "4. Comfort your baby"
+  },
+  "1644": {
+    "has_extraline": 1,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "69a557b8-d4b0-4286-b672-3cd76649da39",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Try swaddling, gently rocking, or singing or soft music. You might need to feed your baby or change their diaper. They may be too hot or too cold. Or maybe they just need to be held. Take a Pause and try to relax - your baby can actually sense tension from you, too!"
+  },
+  "1697": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "d49d0e76-50fa-4fc6-b7c2-293683ceca3e",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "5. Take a break!"
+  },
+  "1701": {
+    "has_extraline": 1,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "d49d0e76-50fa-4fc6-b7c2-293683ceca3e",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe place and walk away for a bit. Check on your baby every 5-10 minutes. "
+  },
+  "1738": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "17bc707a-c009-4534-a6f8-2ac9b65ecad2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "6. Be gentle and patient with yourself"
+  },
+  "1745": {
+    "has_extraline": 1,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "17bc707a-c009-4534-a6f8-2ac9b65ecad2",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "We know that this is not easy. You are not a bad parent if your baby continues to cry after you have done all they can to calm them. You are doing your best!"
+  },
+  "1779": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "2f87e0b8-50bc-47d9-82eb-b8fbef51e5e9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "7. If you think your baby is injured or sick, call or visit a clinic"
+  },
+  "1794": {
+    "has_extraline": 1,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "2f87e0b8-50bc-47d9-82eb-b8fbef51e5e9",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "If your baby cries for a long time and does not stop, they might be injured or sick. You should seek medical help immediately. "
+  },
+  "1819": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "e18d6988-4007-4eff-b599-b0a8c5576310",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Call someone for help - a family member, a friend. Sometimes just talking with someone is enough, but if you feel overwhelmed, ask someone for help. Calling for help is a sign of strength."
+  },
+  "1853": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "4a5d2507-5eae-448b-8fc5-1997ea1af12a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done! You have added another skill to your Parenting Toolkit. Remember that there are no bad parents. We are all learning here!"
+  },
+  "1876": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "96cfca33-a0ae-459b-b67d-dca153094496",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Do you want to go back and learn more about what to do when your baby is crying?"
+  },
+  "1894": {
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "96cfca33-a0ae-459b-b67d-dca153094496",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Yes",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "1895": {
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "96cfca33-a0ae-459b-b67d-dca153094496",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "No",
+    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+  },
+  "1896": {
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "c94ba9c9-5d0d-4eb6-adae-d3a7317210b7",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "yes y",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "1898": {
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "1c26b987-4495-4bee-8961-00e2d1772aad",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "no n",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "1900": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "cc3bb76d-dfeb-479a-af03-204ea0b3b6c8",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I don't understand what you mean. "
+  },
+  "1908": {
+    "has_extraline": 0,
+    "flow_id": "02829bac-ea39-4f77-abaf-02948c88edcc",
+    "bit_id": "f0ddf7e5-896d-49ca-a47d-c8b5c60255a5",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat to you later!"
+  },
+  "1927": {
+    "has_extraline": 0,
+    "flow_id": "24d401d2-e9c7-4803-9c4e-0af9336eb8e2",
+    "bit_id": "d9e98ea2-029a-4539-9edf-6729cd42021b",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Memory game – “When COVID-19 ends…”"
+  },
+  "1933": {
+    "has_extraline": 0,
+    "flow_id": "24d401d2-e9c7-4803-9c4e-0af9336eb8e2",
+    "bit_id": "d9e98ea2-029a-4539-9edf-6729cd42021b",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "First person says, “When COVID-19 ends, I am going to… (e.g., go to the park)”",
+    "has_bullet": true
+  },
+  "1948": {
+    "has_extraline": 0,
+    "flow_id": "24d401d2-e9c7-4803-9c4e-0af9336eb8e2",
+    "bit_id": "d9e98ea2-029a-4539-9edf-6729cd42021b",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "Second person adds to first person, “When COVID-19 ends, I am going to the park and… (e.g., visit my best friend”",
+    "has_bullet": true
+  },
+  "1969": {
+    "has_extraline": 0,
+    "flow_id": "24d401d2-e9c7-4803-9c4e-0af9336eb8e2",
+    "bit_id": "d9e98ea2-029a-4539-9edf-6729cd42021b",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "Each person adds to the previous trying to think of all of the fun things to do when COVID-19 ends",
+    "has_bullet": true
+  },
+  "1989": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "f53ed664-189c-4bd8-9b2f-344d76a5c64c",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  One-on-one time",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1993": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "5b221180-7748-4ac3-ba71-3720c3a09f01",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Taking a Pause",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "1998": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "9f0e5080-aabd-45a1-88a9-236902a74dd1",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Managing anger",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2002": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "8b13aedd-3ed2-43a1-b606-748d2519fea6",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Giving positive instructions",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2007": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "1bec9949-42e3-4f05-9119-7576e0487340",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Praising your children",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2012": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "b2849029-8fae-4d67-9ab1-5f82c25170c0",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Establishing daily routines",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2017": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "6fe40e79-2bb7-4bb5-baae-743adf3fad4d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Setting household rules",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2022": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "e98af9a5-6ee4-43cb-9621-a8a2362e94e6",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Redirecting behaviour",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2026": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "d53dd056-a4cb-4881-a4c5-4e51006070a2",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Using appropriate consequences",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2031": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "ba5988b0-550c-4dae-8aef-5f3606c7c400",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Shared reading",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2035": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "cf1ee6c1-37ba-4300-a48c-1c04902af516",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Ignoring demanding behaviours",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2040": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "1f71014c-b1a6-4434-8066-2e7986fb7024",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Solving problems with your teen",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2047": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "160a24b3-b9b4-46b1-a8e8-0ae373562125",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Keeping your child safe online",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2054": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "719e3b5a-33e7-40e5-a385-9d5f2de5bd23",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Coping with crying",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2059": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "464540a6-5c12-4cdb-a17f-c3d66b149259",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Giving emotional support",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2064": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "14b69be2-ae31-4d93-a495-6f8c86f27f5b",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Responding to crises",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2069": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "84d840e5-b442-439c-8f28-3ad11f266108",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Understanding safe/unsafe touch",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2074": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "eb41522a-ae34-4f97-854d-28cc9aa689eb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Making a happy and peaceful home",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2082": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "262feed2-3e86-444e-ab63-304be49110dd",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Family budgeting",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2086": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "7b8572f2-2ca1-4eaf-ac3a-7d5912323aca",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Talking about COVID19",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2091": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "bded27b3-249b-44de-9404-673862d2f7d3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Supporting children with disabilities",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2097": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "7009a235-79f9-4f3a-b150-021aee1ceb06",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Child Development",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2101": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "5f581c18-d341-4efd-bce9-969648a861cb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Helping your children learn",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "2107": {
+    "has_extraline": 0,
+    "flow_id": "bf228b31-2219-42fd-9e09-d7dd7b1205f3",
+    "bit_id": "974ca1d3-4b13-401e-bc34-c95a704b6aa4",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.count  Keeping healthy",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  }
+}
