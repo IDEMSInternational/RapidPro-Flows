@@ -13,7 +13,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Male",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "20": {
     "flow_id": "aaad1339-77fa-4bcc-b8de-70d895fd178f",
@@ -21,7 +21,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "Female",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "21": {
     "flow_id": "aaad1339-77fa-4bcc-b8de-70d895fd178f",
@@ -29,7 +29,7 @@
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "Other",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "22": {
     "flow_id": "aaad1339-77fa-4bcc-b8de-70d895fd178f",
@@ -37,7 +37,7 @@
     "bit_type": "quick_replies",
     "type_id": 3,
     "text": "Prefer not to tell",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "26": {
     "has_extraline": 0,
@@ -222,7 +222,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Same frequency",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "247": {
     "flow_id": "3c84caba-8415-4248-92df-da59ea5dafa2",
@@ -230,7 +230,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "A little less often",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "251": {
     "flow_id": "3c84caba-8415-4248-92df-da59ea5dafa2",

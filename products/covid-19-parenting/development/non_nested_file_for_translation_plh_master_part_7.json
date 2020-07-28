@@ -110,7 +110,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Not helpful",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "227": {
     "flow_id": "0d7be1d4-4892-477b-a080-4d59b593e340",
@@ -118,7 +118,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "A little helpful",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "230": {
     "flow_id": "0d7be1d4-4892-477b-a080-4d59b593e340",
@@ -126,7 +126,7 @@
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "Helpful",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "231": {
     "flow_id": "0d7be1d4-4892-477b-a080-4d59b593e340",
@@ -134,7 +134,7 @@
     "bit_type": "quick_replies",
     "type_id": 3,
     "text": "Very helpful",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "233": {
     "flow_id": "0d7be1d4-4892-477b-a080-4d59b593e340",
@@ -142,7 +142,7 @@
     "bit_type": "quick_replies",
     "type_id": 4,
     "text": "Extremely helpful",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "235": {
     "has_extraline": 0,
@@ -158,7 +158,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Not helpful",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "242": {
     "flow_id": "0d7be1d4-4892-477b-a080-4d59b593e340",
@@ -166,7 +166,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "A little helpful",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "245": {
     "flow_id": "0d7be1d4-4892-477b-a080-4d59b593e340",
@@ -174,7 +174,7 @@
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "Helpful",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "246": {
     "flow_id": "0d7be1d4-4892-477b-a080-4d59b593e340",
@@ -182,7 +182,7 @@
     "bit_type": "quick_replies",
     "type_id": 3,
     "text": "Very helpful",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "248": {
     "flow_id": "0d7be1d4-4892-477b-a080-4d59b593e340",
@@ -190,7 +190,7 @@
     "bit_type": "quick_replies",
     "type_id": 4,
     "text": "Extremely helpful",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "250": {
     "flow_id": "0d7be1d4-4892-477b-a080-4d59b593e340",
@@ -366,7 +366,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "474": {
     "flow_id": "ba9e2a38-bf0c-4404-bf8c-3cfc98a27b3b",
@@ -374,7 +374,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "475": {
     "has_extraline": 0,
@@ -502,7 +502,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "692": {
     "flow_id": "97714ddc-b591-4b3b-9bc7-78bd9f47cb1e",
@@ -510,7 +510,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "693": {
     "has_extraline": 0,
@@ -526,7 +526,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "703": {
     "flow_id": "97714ddc-b591-4b3b-9bc7-78bd9f47cb1e",
@@ -534,7 +534,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "704": {
     "has_extraline": 0,
@@ -590,7 +590,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "776": {
     "flow_id": "8f6636b1-a3b9-4e70-bba3-556d61a10f2a",
@@ -598,7 +598,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "777": {
     "has_extraline": 0,
@@ -614,7 +614,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "787": {
     "flow_id": "8f6636b1-a3b9-4e70-bba3-556d61a10f2a",
@@ -622,7 +622,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "788": {
     "flow_id": "8f6636b1-a3b9-4e70-bba3-556d61a10f2a",
@@ -686,7 +686,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Y",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "923": {
     "flow_id": "08b550a6-8ddb-4dde-94c4-48a3bad90e97",
@@ -694,7 +694,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "N",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "924": {
     "flow_id": "08b550a6-8ddb-4dde-94c4-48a3bad90e97",
@@ -726,7 +726,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Y",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "950": {
     "flow_id": "08b550a6-8ddb-4dde-94c4-48a3bad90e97",
@@ -734,7 +734,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "N",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "951": {
     "has_extraline": 0,
@@ -1086,7 +1086,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Y",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1596": {
     "flow_id": "08b550a6-8ddb-4dde-94c4-48a3bad90e97",
@@ -1094,7 +1094,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "N",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1597": {
     "has_extraline": 0,
@@ -1110,7 +1110,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Y",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1627": {
     "flow_id": "08b550a6-8ddb-4dde-94c4-48a3bad90e97",
@@ -1118,7 +1118,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "N",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1628": {
     "flow_id": "08b550a6-8ddb-4dde-94c4-48a3bad90e97",
@@ -1158,7 +1158,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1668": {
     "flow_id": "78fbffe6-f101-4a7b-8c26-5fd709918a0c",
@@ -1166,7 +1166,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1669": {
     "has_extraline": 0,
@@ -1182,7 +1182,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1688": {
     "flow_id": "78fbffe6-f101-4a7b-8c26-5fd709918a0c",
@@ -1190,7 +1190,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1689": {
     "flow_id": "78fbffe6-f101-4a7b-8c26-5fd709918a0c",
@@ -1254,7 +1254,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1776": {
     "flow_id": "f298d705-dbc3-4ab7-a1b3-8ff1d35dcd54",
@@ -1262,7 +1262,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1777": {
     "has_extraline": 0,
@@ -1286,7 +1286,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1803": {
     "flow_id": "f298d705-dbc3-4ab7-a1b3-8ff1d35dcd54",
@@ -1294,7 +1294,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1804": {
     "flow_id": "f298d705-dbc3-4ab7-a1b3-8ff1d35dcd54",
@@ -1350,7 +1350,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Y",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1946": {
     "flow_id": "4794c406-9b19-4a8e-a445-ba62be34db59",
@@ -1358,7 +1358,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "N",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1947": {
     "has_extraline": 0,
@@ -1374,7 +1374,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Y",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1962": {
     "flow_id": "4794c406-9b19-4a8e-a445-ba62be34db59",
@@ -1382,7 +1382,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "N",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "1963": {
     "flow_id": "4794c406-9b19-4a8e-a445-ba62be34db59",
@@ -1430,7 +1430,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "baby",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2003": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1438,7 +1438,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "teen",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2004": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1446,7 +1446,7 @@
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "adult",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2005": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1454,7 +1454,7 @@
     "bit_type": "quick_replies",
     "type_id": 3,
     "text": "other",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2006": {
     "has_extraline": 0,
@@ -1470,7 +1470,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "baby",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2013": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1478,7 +1478,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "adult",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2014": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1486,7 +1486,7 @@
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "other",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2015": {
     "has_extraline": 0,
@@ -1502,7 +1502,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "teenager",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2022": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1510,7 +1510,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "adult",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2023": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1518,7 +1518,7 @@
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "other",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2024": {
     "has_extraline": 0,
@@ -1534,7 +1534,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "baby",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2031": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1542,7 +1542,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "young child",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2033": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1550,7 +1550,7 @@
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "adult",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2034": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1558,7 +1558,7 @@
     "bit_type": "quick_replies",
     "type_id": 3,
     "text": "other",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2035": {
     "has_extraline": 0,
@@ -1574,7 +1574,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "young child",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2043": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1582,7 +1582,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "adult",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2044": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1590,7 +1590,7 @@
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "other",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2045": {
     "has_extraline": 0,
@@ -1606,7 +1606,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "young child",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2053": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1614,7 +1614,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "teenager",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2054": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1622,7 +1622,7 @@
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "adult",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2055": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1630,7 +1630,7 @@
     "bit_type": "quick_replies",
     "type_id": 3,
     "text": "other",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2056": {
     "has_extraline": 0,
@@ -1646,7 +1646,7 @@
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "baby",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2063": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1654,7 +1654,7 @@
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "young child",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2065": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1662,7 +1662,7 @@
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "teenager",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   },
   "2066": {
     "flow_id": "5eb696c8-345c-4098-a0f7-f7b23f8676c3",
@@ -1670,6 +1670,6 @@
     "bit_type": "quick_replies",
     "type_id": 3,
     "text": "adult",
-    "note": "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
   }
 }

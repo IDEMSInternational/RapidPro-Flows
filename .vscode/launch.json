@@ -14,6 +14,15 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\santiago-testing\\.js"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program 2",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\santiago-testing\\.js"
         }
     ]
 }

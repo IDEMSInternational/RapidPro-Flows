@@ -61,7 +61,7 @@ for (fl in obj) {
                 atom_to_translate.bit_type = "quick_replies";
                 atom_to_translate.type_id = qr;
                 atom_to_translate.text = bit.quick_replies[qr];
-                atom_to_translate.note = "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
+                atom_to_translate.note = "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
 
                 new_file[word_count] = Object.assign({}, atom_to_translate);
                 word_count = word_count + atom_to_translate.text.split(" ").length;
