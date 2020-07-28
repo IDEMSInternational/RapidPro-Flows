@@ -8,11 +8,12 @@ var atom_to_translate = {};
 
 var fl;
 var key_bit;
-new_file = "";
+var new_file = {};
 var localization;
 var bit;
 var i;
 var qr;
+var word_count = 0;
 
 
 for (fl in obj) {
@@ -39,7 +40,11 @@ for (fl in obj) {
                     else {
                         atom_to_translate.text = lines[i];
                     }
-                    new_file = new_file + JSON.stringify(atom_to_translate, null, 2);
+                    if (lines[i].indexOf("@")>-1){
+                        atom_to_translate.note = "Strings like @fields.xxx and @results.yyy should not be translated"
+                    }
+                    new_file[word_count] = Object.assign({}, atom_to_translate);
+                    word_count = word_count + atom_to_translate.text.split(" ").length;
                     atom_to_translate = {};
                     atom_to_translate.has_extraline=0;
                 }
@@ -55,7 +60,8 @@ for (fl in obj) {
                 atom_to_translate.text = bit.quick_replies[qr];
                 atom_to_translate.note = "This is a quick reply and its traslation should be uniquely identified by the corresponding argument"
                 
-                new_file = new_file + JSON.stringify(atom_to_translate, null, 2);
+                new_file[word_count] = Object.assign({}, atom_to_translate);
+                word_count = word_count + atom_to_translate.text.split(" ").length;
             }
         }
         if (bit.hasOwnProperty('arguments')){
@@ -68,8 +74,8 @@ for (fl in obj) {
                 atom_to_translate.text = bit.arguments[0];
                 atom_to_translate.note = "This is an argument and it may be used to identify a corresponding quick reply"
                 
-                new_file = new_file + JSON.stringify(atom_to_translate, null, 2);
-            
+                new_file[word_count] = Object.assign({}, atom_to_translate);
+                word_count = word_count + atom_to_translate.text.split(" ").length;
         }
 
 
@@ -81,7 +87,7 @@ for (fl in obj) {
     
 }
 
-
+new_file = JSON.stringify(new_file, null, 2);
 var output_path = path.join(__dirname, "../products/covid-19-parenting/development/non_nested_file_for_translation_plh_master.json");
 fs.writeFile(output_path, new_file, function (err, result) {
     if (err) console.log('error', err);
