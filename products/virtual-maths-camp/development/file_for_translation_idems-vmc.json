@@ -1,0 +1,590 @@
+{
+  "490f5fbc-29a5-4e54-bf3e-5a288e49d70e": {
+    "flowid": "490f5fbc-29a5-4e54-bf3e-5a288e49d70e",
+    "localization": {
+      "eng": {}
+    }
+  },
+  "e5473686-ab33-43d6-a39c-993c04e8a4c0": {
+    "flowid": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "localization": {
+      "eng": {
+        "9606d118-2359-4819-ae98-f882f44019bb": {
+          "text": [
+            "Pegs numbered 1 to 50 are placed in order in a line, with number 1 on the left.\nThey are then knocked over, one at a time, following these two rules:\n\n1. Starting with the first standing peg on the left, alternate pegs are knocked down, until the end of the row is reached.\n2. Each time the end of the row is reached, repeat the previous rule.\n\nWhat is the number of the last peg to be knocked down?"
+          ],
+          "quick_replies": []
+        },
+        "a4f1ea18-b182-46c6-a507-e887169f83ba": {
+          "text": [
+            "Sorry, I'm really not that smart yet. "
+          ],
+          "quick_replies": []
+        },
+        "9ab85a85-bbfc-45dc-a9eb-183c1e8ceafe": {
+          "text": [
+            "@results.s_ans is not correct."
+          ],
+          "quick_replies": [
+            "Can I try again?",
+            "Give me a hint!",
+            "Give me something else to do.",
+            "That’s enough for today! Go away!"
+          ]
+        },
+        "0c336f71-7b66-49ae-b040-2b4abc36f541": {
+          "text": [
+            "Well done! That is absolutely right."
+          ],
+          "quick_replies": [
+            "Tell me more about this puzzle.",
+            "Give me a harder version.",
+            "Give me something else to do.",
+            "That’s enough for today! Go away!"
+          ]
+        },
+        "898e35d2-5941-4021-8843-b03ea55086db": {
+          "arguments": [
+            "again"
+          ]
+        },
+        "3c2a80e2-bf99-4fb5-ba7a-407af2df5d02": {
+          "arguments": [
+            "hint"
+          ]
+        },
+        "2827d21f-46a1-4c35-8bfc-79385ef76d3f": {
+          "arguments": [
+            "else"
+          ]
+        },
+        "b3121373-c90b-45a0-96db-40ffd7556768": {
+          "arguments": [
+            "away"
+          ]
+        },
+        "7306a278-9a17-466d-8391-9ee556406ffe": {
+          "text": [
+            "Sorry, I'm really not that smart yet."
+          ],
+          "quick_replies": []
+        },
+        "f9538939-c8b3-415d-b219-e47f7d29709d": {
+          "text": [
+            "What happens if you only had 5 pegs? What about 10 or 20? Can you spot the pattern?"
+          ],
+          "quick_replies": [
+            "Take me back, I want another go.",
+            "Tell me more about this problem solving technique.",
+            "Give me something else to do.",
+            "That’s enough for today! Go away!"
+          ]
+        },
+        "5bf96bc5-045d-4f9e-9827-f7fa9b2c0ec2": {
+          "arguments": [
+            "more"
+          ]
+        },
+        "74d06981-643f-4bc1-99c3-aceaee0c1304": {
+          "arguments": [
+            "harder"
+          ]
+        },
+        "75e07f5a-5e93-4f0f-9b52-55b0c00714fd": {
+          "arguments": [
+            "else"
+          ]
+        },
+        "dbd8dff4-46ab-4267-80d8-b8d2a2da70ba": {
+          "arguments": [
+            "away"
+          ]
+        },
+        "fbe50d2b-83fa-4d9d-bd4d-0180132f0368": {
+          "text": [
+            "Sorry, I'm really not that smart yet. "
+          ],
+          "quick_replies": []
+        },
+        "e6b19e8f-8441-444d-8a61-cc89566a4473": {
+          "arguments": [
+            "back"
+          ]
+        },
+        "9d98201b-7ea6-42be-a462-cb1d76b274db": {
+          "arguments": [
+            "technique"
+          ]
+        },
+        "f9037231-b3ca-4c28-918e-e821ca0b1de7": {
+          "arguments": [
+            "else"
+          ]
+        },
+        "07c8afb1-d2ba-4199-a257-51fc2d103a90": {
+          "arguments": [
+            "away"
+          ]
+        },
+        "fa7476b3-8f75-4e2e-a428-0d77a23bb5f6": {
+          "text": [
+            "This puzzle comes from https://nrich.maths.org/11677 and is actually related to binary numbers!"
+          ],
+          "quick_replies": [
+            "Give me another puzzle.",
+            "Give me something else to do.",
+            "That’s enough for today! Go away!"
+          ]
+        },
+        "5bf82442-40a2-45fb-be9b-097dd9905de5": {
+          "text": [
+            "Sorry, I'm really not that smart yet. "
+          ],
+          "quick_replies": []
+        },
+        "9c2dc84e-72b1-418b-83ed-28b3a92fa92a": {
+          "arguments": [
+            "puzzle"
+          ]
+        },
+        "69530b43-108f-47e5-a5ab-5865005f0eae": {
+          "arguments": [
+            "else"
+          ]
+        },
+        "8c69fdde-34ec-4a2c-aeb3-9a2a9060c271": {
+          "arguments": [
+            "away"
+          ]
+        },
+        "775a922b-dae7-4206-9984-14ab934c4dc9": {
+          "text": [
+            "*in development*\ngoes to ‘using a smaller’ example activity\n*in development*"
+          ],
+          "quick_replies": []
+        },
+        "4d08661b-5d07-4193-8a05-bb1c053f2fcc": {
+          "text": [
+            "Bye! It was fun chatting. Remember you can just type \"mathscamp\" and I'll come running!"
+          ],
+          "quick_replies": []
+        },
+        "1cc11dd8-7008-43c5-aa65-e6eba5d7c791": {
+          "text": [
+            "Pegs numbered 1 to 1050 are placed in order in a line, with number 1 on the left.\nThey are then knocked over, one at a time, following these two rules:\n\n1. Starting with the first standing peg on the left, alternate pegs are knocked down, until the end of the row is reached.\n2. Each time the end of the row is reached, repeat the previous rule.\n\nWhat is the number of the last peg to be knocked down?"
+          ],
+          "quick_replies": []
+        },
+        "89f3fafd-da1e-428b-ab1c-e629e4a61f93": {
+          "text": [
+            "Well done! That is absolutely right."
+          ],
+          "quick_replies": [
+            "Tell me more about this puzzle.",
+            "Give me a harder version.",
+            "Give me something else to do.",
+            "That’s enough for today! Go away!"
+          ]
+        },
+        "e8a10358-7f5d-4462-bea7-7e4744f17deb": {
+          "text": [
+            "@results.s_ans_ext1 is not correct."
+          ],
+          "quick_replies": [
+            "Can I try again?",
+            "Give me something else to do.",
+            "That’s enough for today! Go away!"
+          ]
+        },
+        "91148155-c6d3-441a-8df5-e385444940fa": {
+          "text": [
+            "Sorry, I'm really not that smart yet. "
+          ],
+          "quick_replies": []
+        },
+        "4a2be382-7517-4580-8d6a-cc3d4e57d731": {
+          "arguments": [
+            "more"
+          ]
+        },
+        "3d779cab-e817-4a7c-ae51-29b7df74ad6e": {
+          "arguments": [
+            "harder"
+          ]
+        },
+        "57bfb67d-6287-476f-a605-ec4d05eba84f": {
+          "arguments": [
+            "else"
+          ]
+        },
+        "9b14d327-afdb-46db-988e-c10dfc9277bd": {
+          "arguments": [
+            "away"
+          ]
+        },
+        "b0777c78-c484-4d1d-86a0-4d167abdb97c": {
+          "arguments": [
+            "again"
+          ]
+        },
+        "b61d2f8f-ffc0-4c3b-b708-e51de308033d": {
+          "arguments": [
+            "else"
+          ]
+        },
+        "a04cdc46-161e-4f4e-a753-47e47d93214d": {
+          "arguments": [
+            "away"
+          ]
+        },
+        "06ece0db-a7d8-4ae8-ae59-980639fb6643": {
+          "text": [
+            "Sorry, I'm really not that smart yet. "
+          ],
+          "quick_replies": []
+        },
+        "95d7ee8d-8aeb-47f2-895c-082be80cd430": {
+          "text": [
+            "Pegs numbered 1 to 10000050 are placed in order in a line, with number 1 on the left.\nThey are then knocked over, one at a time, following these two rules:\n\n1. Starting with the first standing peg on the left, 9 pegs are knocked down and the tenth is left standing, until the end of the row is reached.\n2. Each time the end of the row is reached, repeat the previous rule.\n\nWhat is the number of the last peg to be knocked down?"
+          ],
+          "quick_replies": []
+        },
+        "8a75e0b4-9a26-4c26-b42f-3971acf9c417": {
+          "text": [
+            "Well done! That is absolutely right."
+          ],
+          "quick_replies": [
+            "Tell me more about this puzzle.",
+            "Give me something else to do.",
+            "That’s enough for today! Go away!"
+          ]
+        },
+        "1c802e8c-1e81-443a-8314-c04bd09e2a78": {
+          "text": [
+            "@results.s_ans_ext2 is not correct."
+          ],
+          "quick_replies": [
+            "Can I try again?",
+            "Give me something else to do.",
+            "That’s enough for today! Go away!"
+          ]
+        },
+        "3b4140de-cf23-4d04-bab4-1b0d18fdfacf": {
+          "arguments": [
+            "more"
+          ]
+        },
+        "e691825f-8b1b-45af-b411-2ab6a081fc6a": {
+          "arguments": [
+            "else"
+          ]
+        },
+        "dba29b64-4997-44fd-b48a-c5994e74f2a5": {
+          "arguments": [
+            "away"
+          ]
+        },
+        "751aacc4-7a9b-46ec-9864-6c8c2d24f4cb": {
+          "text": [
+            "Sorry, I'm really not that smart yet. "
+          ],
+          "quick_replies": []
+        },
+        "a2f80163-34dd-4c31-9ddd-88983484117b": {
+          "arguments": [
+            "again"
+          ]
+        },
+        "c81b5fc0-fe32-4645-bdeb-0d0b24d5892b": {
+          "arguments": [
+            "else"
+          ]
+        },
+        "c95fb8f1-b07d-40ff-b51f-b11a36589fec": {
+          "arguments": [
+            "away"
+          ]
+        },
+        "db51593e-db10-479c-8c1a-d6c20491ae83": {
+          "text": [
+            "Sorry, I'm really not that smart yet. "
+          ],
+          "quick_replies": []
+        },
+        "bf621ae8-36e5-47e7-aaf1-d0287f8c2584": {
+          "text": [
+            "Bye! It was fun chatting. Remember you can just type \"mathscamp\" and I'll come running!"
+          ],
+          "quick_replies": []
+        }
+      }
+    }
+  },
+  "42ce4a8e-2bcf-4ee2-8859-a39e3dbfcd18": {
+    "flowid": "42ce4a8e-2bcf-4ee2-8859-a39e3dbfcd18",
+    "localization": {
+      "eng": {
+        "d2abe729-cee2-474b-8a72-9a468b16c42d": {
+          "text": [
+            "Hi All I am your friendly Maths Bot demo. I can give you fun facts, puzzles, games and activities. What do you want?"
+          ],
+          "quick_replies": [
+            "fun fact",
+            "puzzle",
+            "game",
+            "activity"
+          ]
+        },
+        "48cd5288-a43d-41cc-8a3f-4f4018749146": {
+          "arguments": [
+            "fun"
+          ]
+        },
+        "2027e179-e133-4d6f-9ee5-9b8eab1e0fcd": {
+          "arguments": [
+            "puzzle"
+          ]
+        },
+        "da7e8433-da56-46fc-b468-066b9d9f10c0": {
+          "arguments": [
+            "game"
+          ]
+        },
+        "1c272b98-633a-43f0-b0fe-f5bedf3e459e": {
+          "arguments": [
+            "activity"
+          ]
+        },
+        "55dfa29b-8030-4e24-be66-7142c06a371a": {
+          "text": [
+            "Sorry, I'm really not that smart yet. "
+          ],
+          "quick_replies": []
+        }
+      }
+    }
+  },
+  "56829e0f-7626-42af-b4b6-26e00bc9dd60": {
+    "flowid": "56829e0f-7626-42af-b4b6-26e00bc9dd60",
+    "localization": {
+      "eng": {
+        "60de99f6-e625-418e-8d70-2604f18f6c7a": {
+          "text": [
+            "*IN DEVELOPMENT*"
+          ],
+          "quick_replies": []
+        }
+      }
+    }
+  },
+  "7dfbaea9-8bf2-4b39-a7b3-6557340201d9": {
+    "flowid": "7dfbaea9-8bf2-4b39-a7b3-6557340201d9",
+    "localization": {
+      "eng": {
+        "45691c7c-57cb-477f-a4f5-7c3593bfdf17": {
+          "text": [
+            "*IN DEVELOPMENT*"
+          ],
+          "quick_replies": []
+        }
+      }
+    }
+  },
+  "a1ed0a2d-77fe-4b08-83f2-294591a66c65": {
+    "flowid": "a1ed0a2d-77fe-4b08-83f2-294591a66c65",
+    "localization": {
+      "eng": {}
+    }
+  },
+  "6b2767ff-8895-4c0c-9871-4a345704cd90": {
+    "flowid": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "localization": {
+      "eng": {
+        "45d4c542-b69d-4863-a604-4c42256fecea": {
+          "text": [
+            "In a room of 23 people the probability that two people have the same birthday is more than 50%."
+          ],
+          "quick_replies": [
+            "I want to explore this.",
+            "I don’t get it. Why?",
+            "I get it! That’s cool, tell me more.",
+            "Give me something else to do.",
+            "That’s enough for today! Go away!"
+          ]
+        },
+        "0d8d3351-448e-4fc8-94ce-d3c9ba96ac3d": {
+          "arguments": [
+            "explore"
+          ]
+        },
+        "d8856d68-acea-46ee-a875-d43926ae16ce": {
+          "arguments": [
+            "why"
+          ]
+        },
+        "57b60c1b-cac5-4ce7-a30a-12ba326d69eb": {
+          "arguments": [
+            "more "
+          ]
+        },
+        "cc103fab-9102-473e-b05a-f652cc267ad6": {
+          "arguments": [
+            "else"
+          ]
+        },
+        "93ec9920-67d0-4761-84ce-1a09e5acdb96": {
+          "arguments": [
+            "away"
+          ]
+        },
+        "e2203494-8ee1-4faa-9edc-9d11912176c3": {
+          "text": [
+            "Sorry, I'm really not that smart yet. "
+          ],
+          "quick_replies": []
+        },
+        "42a7bda8-655c-41df-a1ae-d83e3d5bf3f9": {
+          "text": [
+            "*in development*\ngoes to related activity\n*in development*"
+          ],
+          "quick_replies": []
+        },
+        "ebbe2030-956d-4f3c-babe-5ca4ede4c2d9": {
+          "text": [
+            "The probability that two people have the same birthday is just 1 minus the probability of everyone's birthday being different.\nIf we only have 2 people what is the probability their birthday is different? \nIf we had 5 people, in how many ways can we select two to compare their birthdays?"
+          ],
+          "quick_replies": []
+        },
+        "c13049cb-2ed2-41f2-86e0-83ccca0420c8": {
+          "text": [
+            "Have you experienced a surprising coincidence in your life? \nCoincidences like meeting someone with exactly the same birthday as you are unlikely events on their own. However, as with the birthday problem, the number of events can increase exponentially meaning that in a group or over time it is more likely to have coincidences than not!"
+          ],
+          "quick_replies": []
+        },
+        "2568558e-8ccb-4c42-96ae-932708ecbeb0": {
+          "text": [
+            "Bye! It was fun chatting. Remember you can just type \"mathscamp\" and I'll come running!"
+          ],
+          "quick_replies": []
+        },
+        "21f2891b-a8f2-465d-bab7-2d70611afe20": {
+          "text": [
+            "What do we get if we use the same approach for 23 people?"
+          ],
+          "quick_replies": [
+            "I want to explore this.",
+            "I still don’t get it. Show me.",
+            "I get it! That’s cool, tell me more.",
+            "Give me something else to do.",
+            "That’s enough for today! Go away!"
+          ]
+        },
+        "afbe8b37-3059-4229-af7b-7a420a5d9fec": {
+          "text": [
+            "If you haven’t had a coincidence yet don’t worry if you keep looking it’s unlikely that nothing unlikely will ever happen to you! "
+          ],
+          "quick_replies": [
+            "I want to explore this.",
+            "Give me another fun fact.",
+            "Give me something else to do.",
+            "That’s enough for today! Go away!"
+          ]
+        },
+        "58f3b3c1-8d00-4a38-b96b-6ddae014a28a": {
+          "arguments": [
+            "explore"
+          ]
+        },
+        "2a3171c9-e066-4db0-82c1-1ed15cd9ac37": {
+          "arguments": [
+            "show"
+          ]
+        },
+        "8112c1bb-851d-47d4-ac4d-5313ebde9315": {
+          "arguments": [
+            "more"
+          ]
+        },
+        "fd3887bc-42d6-48b7-8846-c3e2ded68aa2": {
+          "arguments": [
+            "else "
+          ]
+        },
+        "5df1e40a-f617-461a-af3b-2ec208f79e4e": {
+          "arguments": [
+            "away"
+          ]
+        },
+        "8e5a30c5-8eef-489e-8e59-743dc39ac3de": {
+          "text": [
+            "Sorry, I'm really not that smart yet. "
+          ],
+          "quick_replies": []
+        },
+        "517eb75b-39e6-4954-8fba-396c4f347764": {
+          "text": [
+            "Sorry, I'm really not that smart yet. "
+          ],
+          "quick_replies": []
+        },
+        "6011396d-7ae3-488a-ac62-ab3d66f4a7b2": {
+          "arguments": [
+            "explore"
+          ]
+        },
+        "ab173899-6b0a-428b-bcf4-902b71fe09f8": {
+          "arguments": [
+            "fun"
+          ]
+        },
+        "48af4f8e-c524-4627-947d-d4eabc2dfd97": {
+          "arguments": [
+            "else"
+          ]
+        },
+        "7c149693-7f5e-49f2-abb5-dd68a1796854": {
+          "arguments": [
+            "away"
+          ]
+        },
+        "2e325e01-06e4-463d-9287-a07bac542f69": {
+          "text": [
+            "The probability of any 2 people having different birthdays is roughly 364/365 there are 253 different pairs of people in a room of 23 people so the probability of them all having different birthdays is roughly 364/365 to the power 253. This is 0.4995 slightly less than 50% so the probability of having 2 people in the room with the same birthday is just over 50%. Actually we should be including leap years but the result is still true if you do."
+          ],
+          "quick_replies": [
+            "I want to explore this.",
+            "I get it! That’s cool, tell me more.",
+            "Give me something else to do.",
+            "That’s enough for today! Go away!"
+          ]
+        },
+        "c77d3c8a-d7a1-46bd-b9e1-86536b5ccf59": {
+          "text": [
+            "Sorry, I'm really not that smart yet. "
+          ],
+          "quick_replies": []
+        },
+        "2890a6a8-8df4-4cc3-a80b-88b0664ab8b3": {
+          "arguments": [
+            "explore"
+          ]
+        },
+        "e322ed95-f863-4b8c-8324-744d1c2b8a37": {
+          "arguments": [
+            "more"
+          ]
+        },
+        "e3fe42f2-da56-4e4f-885d-40182bd0b8eb": {
+          "arguments": [
+            "else"
+          ]
+        },
+        "4f78dcdb-81a5-45e2-82ec-d5bb5f85c4ab": {
+          "arguments": [
+            "away"
+          ]
+        }
+      }
+    }
+  }
+}

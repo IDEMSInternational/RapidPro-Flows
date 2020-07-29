@@ -1,6 +1,6 @@
 var fs = require('fs');
 var path = require("path");
-var input_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master.json");
+var input_path = path.join(__dirname, "../products/virtual-maths-camp/development/idems-vmc.json");
 var json_string = fs.readFileSync(input_path).toString();
 var obj = JSON.parse(json_string);
 
@@ -68,7 +68,7 @@ for (fl = 0; fl < obj.flows.length; fl++) {
         eng_localization = {};
     }
     new_flows = JSON.stringify(bits_to_translate, null, 2);
-    var output_path = path.join(__dirname, "../products/covid-19-parenting/development/file_for_translation_plh_master.json");
+    var output_path = path.join(__dirname, "../products/virtual-maths-camp/development/file_for_translation_idems-vmc.json");
     fs.writeFile(output_path, new_flows, function (err, result) {
         if (err) console.log('error', err);
     });
