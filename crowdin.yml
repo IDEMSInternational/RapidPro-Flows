@@ -1,0 +1,3 @@
+files:
+  - source: /products/virtual-maths-camp/development/translation/eng/*.json
+    translation: '%original_path%/%three_letters_code%/%original_file_name%'
