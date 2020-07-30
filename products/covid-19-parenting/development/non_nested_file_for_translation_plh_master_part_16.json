@@ -1,1682 +1,1887 @@
-{
-  "0": {
+[
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "788a2549-6a36-441f-89b8-fadd5cac82e8",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Taking care of children during COVID-19 is hard. You are heroes of the COVID-19 response. Nobody is doing this perfectly, but take a moment now to praise yourself for getting this far. "
+    "text": "Taking care of children during COVID-19 is hard. You are heroes of the COVID-19 response. Nobody is doing this perfectly, but take a moment now to praise yourself for getting this far. ",
+    "word_count": 0
   },
-  "33": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "076be63c-53ff-4b01-86be-d97bb4b0ddef",
     "bit_type": "text",
     "type_id": 0,
-    "text": "We want to get this right for you. Please tell us which language you would like:"
+    "text": "We want to get this right for you. Please tell us which language you would like:",
+    "word_count": 33
   },
-  "49": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "076be63c-53ff-4b01-86be-d97bb4b0ddef",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "English",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 49
   },
-  "50": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "076be63c-53ff-4b01-86be-d97bb4b0ddef",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "Malay",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 50
   },
-  "51": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "076be63c-53ff-4b01-86be-d97bb4b0ddef",
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "Chinese",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 51
   },
-  "52": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "1ede50ab-0fa0-4d6d-866f-0d9e564cba4e",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. "
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 52
   },
-  "60": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "866650f6-4dd5-450e-8c9f-36b049808dd8",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "E english",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 60
   },
-  "62": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "633da3c5-9bfa-4cd0-a5ff-0c5ec9a5866d",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "M malay",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 62
   },
-  "64": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "50effa6c-0e24-4688-832a-82dc5edad3bb",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "C chinese",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 64
   },
-  "66": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "9ff0ac9f-f1fd-430a-9b4f-2f50955b9eeb",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Did you know that you are one of the first people to receive these parenting messages? We would love to get your feedback on how to improve them for you and other families."
+    "text": "Did you know that you are one of the first people to receive these parenting messages? We would love to get your feedback on how to improve them for you and other families.",
+    "word_count": 66
   },
-  "99": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "1c16207f-77f1-4419-aa30-6e6297606bc9",
     "bit_type": "text",
     "type_id": 0,
-    "text": "How would you like your messages? You can always change this choice through the settings later: "
+    "text": "How would you like your messages? You can always change this choice through the settings later: ",
+    "word_count": 99
   },
-  "116": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "1c16207f-77f1-4419-aa30-6e6297606bc9",
     "bit_type": "text",
     "type_id": 1,
-    "text": "High - I want to receive text, audios, images, videos (high data)"
+    "text": "High - I want to receive text, audios, images, videos (high data)",
+    "word_count": 116
   },
-  "128": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "1c16207f-77f1-4419-aa30-6e6297606bc9",
     "bit_type": "text",
     "type_id": 2,
-    "text": "Medium - I want to receive text, audios, images (low data)"
+    "text": "Medium - I want to receive text, audios, images (low data)",
+    "word_count": 128
   },
-  "139": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "1c16207f-77f1-4419-aa30-6e6297606bc9",
     "bit_type": "text",
     "type_id": 3,
-    "text": "Low - I want to receive the text only (almost no data)"
+    "text": "Low - I want to receive the text only (almost no data)",
+    "word_count": 139
   },
-  "151": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "1c16207f-77f1-4419-aa30-6e6297606bc9",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "High",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 151
   },
-  "152": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "1c16207f-77f1-4419-aa30-6e6297606bc9",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "Medium",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 152
   },
-  "153": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "1c16207f-77f1-4419-aa30-6e6297606bc9",
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "Low",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 153
   },
-  "154": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "40a8070e-2ff1-4553-8b01-8ab961719745",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Your participation and any information you provide will be used anonymously by researchers so that we learn about how to better support families like yours. "
+    "text": "Your participation and any information you provide will be used anonymously by researchers so that we learn about how to better support families like yours. ",
+    "word_count": 154
   },
-  "180": {
+  {
     "has_extraline": 1,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "40a8070e-2ff1-4553-8b01-8ab961719745",
     "bit_type": "text",
     "type_id": 2,
-    "text": "Type \"Yes\" if you agree with this. Type \"Exit\" if you do not want to participate. Click here for more information [insert link]"
+    "text": "Type \"Yes\" if you agree with this. Type \"Exit\" if you do not want to participate. Click here for more information [insert link]",
+    "word_count": 180
   },
-  "203": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "5d7168a3-9885-4638-8e0d-d1b326d1a702",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean."
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 203
   },
-  "210": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "cf1790b5-52c9-4a49-876d-3e11ebbebb2e",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean."
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 210
   },
-  "217": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "063758b0-32a5-42dd-bb29-a97d106492eb",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "yes y",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 217
   },
-  "219": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "28e78b0c-8bcf-4073-aaa3-35e120265147",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "exit",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 219
   },
-  "220": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "ed7129ad-6b8a-4eb6-beb6-2653f71d2033",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "high",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 220
   },
-  "221": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "5d08a843-eea9-445e-9c7c-8169efabee5e",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "medium",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 221
   },
-  "222": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "e4568eb3-d366-471c-9a1a-aea11e77d93b",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "low",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 222
   },
-  "223": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "cd905ff3-ba64-4969-b7f3-7977cefdaee6",
     "bit_type": "text",
     "type_id": 0,
-    "text": "These tips were developed with the WHO and UNICEF for YOU. They include advice on parenting and reducing stress, as well as lots of fun activities to do with your children."
+    "text": "These tips were developed with the WHO and UNICEF for YOU. They include advice on parenting and reducing stress, as well as lots of fun activities to do with your children.",
+    "word_count": 223
   },
-  "254": {
+  {
     "has_extraline": 1,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "cd905ff3-ba64-4969-b7f3-7977cefdaee6",
     "bit_type": "text",
     "type_id": 2,
-    "text": "You can also come back to any topic at any time by typing \"Help\""
+    "text": "You can also come back to any topic at any time by typing \"Help\"",
+    "word_count": 254
   },
-  "268": {
+  {
     "has_extraline": 1,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "cd905ff3-ba64-4969-b7f3-7977cefdaee6",
     "bit_type": "text",
     "type_id": 4,
-    "text": "You can always choose to stop receiving messages by typing \"Help\" and then selecting \"Technical support\"."
+    "text": "You can always choose to stop receiving messages by typing \"Help\" and then selecting \"Technical support\".",
+    "word_count": 268
   },
-  "284": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "720a53c9-8649-4755-bf9c-9bb356a34e6e",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. "
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 284
   },
-  "292": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "0eb24a12-9736-4846-9a40-46774b3b49e4",
     "bit_type": "text",
     "type_id": 0,
-    "text": "What time of day would you like to receive your parenting tips?"
+    "text": "What time of day would you like to receive your parenting tips?",
+    "word_count": 292
   },
-  "304": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "0eb24a12-9736-4846-9a40-46774b3b49e4",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Morning",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 304
   },
-  "305": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "0eb24a12-9736-4846-9a40-46774b3b49e4",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "Afternoon",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 305
   },
-  "306": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "0eb24a12-9736-4846-9a40-46774b3b49e4",
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "Evening",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 306
   },
-  "307": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "25b2768d-a9b3-4699-83b2-ec9474c2c2d0",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "morning",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 307
   },
-  "308": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "f4093fbe-185a-4f33-8f1b-10c0379c9366",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "afternoon",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 308
   },
-  "309": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "6f58b34b-a302-4bc5-b0f9-87d6d5be1846",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "evening",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 309
   },
-  "310": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "3e283448-fc4f-46a8-b8f8-f3f0ed53e99b",
     "bit_type": "text",
     "type_id": 0,
-    "text": "It can be much more fun doing something with another person than doing it by yourself.  Would you like us to send you an invitation you share with a friend? "
+    "text": "It can be much more fun doing something with another person than doing it by yourself.  Would you like us to send you an invitation you share with a friend? ",
+    "word_count": 310
   },
-  "342": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "3e283448-fc4f-46a8-b8f8-f3f0ed53e99b",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 342
   },
-  "343": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "3e283448-fc4f-46a8-b8f8-f3f0ed53e99b",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 343
   },
-  "344": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "bf1b428f-90b4-4203-9870-c309d79ec3d3",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean."
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 344
   },
-  "351": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "3dc22c08-e47b-459b-971e-122287d98e4f",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "yes y",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 351
   },
-  "353": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "32497689-e66b-4b49-9402-f4cc2a334cc8",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "no n",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 353
   },
-  "355": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "20fba301-07db-4cce-9332-6c125bff88c9",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Great! Here is an invitation you can share with your friend!"
+    "text": "Great! Here is an invitation you can share with your friend!",
+    "word_count": 355
   },
-  "366": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "20fba301-07db-4cce-9332-6c125bff88c9",
     "bit_type": "text",
     "type_id": 1,
-    "text": "*INVITATION*"
+    "text": "*INVITATION*",
+    "word_count": 366
   },
-  "367": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "78a1b6ab-8b7b-44d7-86a7-7d9c5d8a81d2",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Taking care of children can be difficult even in the best of times. COVID-19 has made it even more challenging."
+    "text": "Taking care of children can be difficult even in the best of times. COVID-19 has made it even more challenging.",
+    "word_count": 367
   },
-  "387": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "05fdab7f-93f9-4a7a-a2e7-0e01e7bf9b0b",
     "bit_type": "text",
     "type_id": 0,
-    "text": " Please tell us what is the most difficult situation you have recently encountered as a parent:"
+    "text": " Please tell us what is the most difficult situation you have recently encountered as a parent:",
+    "word_count": 387
   },
-  "404": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "05fdab7f-93f9-4a7a-a2e7-0e01e7bf9b0b",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Things to do with my children",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 404
   },
-  "410": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "05fdab7f-93f9-4a7a-a2e7-0e01e7bf9b0b",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "Difficult child behaviour",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 410
   },
-  "413": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "05fdab7f-93f9-4a7a-a2e7-0e01e7bf9b0b",
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "Talking about COVID-19",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 413
   },
-  "416": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "05fdab7f-93f9-4a7a-a2e7-0e01e7bf9b0b",
     "bit_type": "quick_replies",
     "type_id": 3,
     "text": "Stress, loneliness, anger",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 416
   },
-  "419": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "05fdab7f-93f9-4a7a-a2e7-0e01e7bf9b0b",
     "bit_type": "quick_replies",
     "type_id": 4,
     "text": "Money problems",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 419
   },
-  "421": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "05fdab7f-93f9-4a7a-a2e7-0e01e7bf9b0b",
     "bit_type": "quick_replies",
     "type_id": 5,
     "text": "Helping with schoolwork",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 421
   },
-  "424": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "05fdab7f-93f9-4a7a-a2e7-0e01e7bf9b0b",
     "bit_type": "quick_replies",
     "type_id": 6,
     "text": "Keeping children safe online",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 424
   },
-  "428": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "05fdab7f-93f9-4a7a-a2e7-0e01e7bf9b0b",
     "bit_type": "quick_replies",
     "type_id": 7,
     "text": "Conflict in the family",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 428
   },
-  "432": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "05fdab7f-93f9-4a7a-a2e7-0e01e7bf9b0b",
     "bit_type": "quick_replies",
     "type_id": 8,
     "text": "Other issue",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 432
   },
-  "434": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "8e43d26b-bbdc-46f5-8e1b-6c57db50e92f",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. "
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 434
   },
-  "442": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "fe5e6605-6402-4ccf-9186-7169e8650e14",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "2 difficult behaviour",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 442
   },
-  "445": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "c977f146-4f5d-4959-9a7b-f09d2d224bd3",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "8 conflict family",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 445
   },
-  "448": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "ed80dbe6-147f-4624-b789-b5814d2b5462",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "4 stress loneliness anger",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 448
   },
-  "452": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "3d82e494-527f-477b-99fd-b5bdff57854d",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "5 money",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 452
   },
-  "454": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "a672587b-d9ef-421d-afbe-4db3c2b67b04",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "6 helping schoolwork",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 454
   },
-  "457": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "8bf36d19-f229-4c92-a8d5-1a14ca9a692d",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "7 keeping safe online",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 457
   },
-  "461": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "a8c736f3-91db-492d-abf8-add3ec168d5c",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "3 talking covid",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 461
   },
-  "464": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "b1c0a6bd-cb4e-4c63-8184-90a51e415e70",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "1 things",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 464
   },
-  "466": {
+  {
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "e28cde4a-5a06-4ca7-9080-4c130596cfc2",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "9 other",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 466
   },
-  "468": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "4efa1330-5aad-4923-9ad7-757fe9df4af9",
     "bit_type": "text",
     "type_id": 0,
-    "text": "All children misbehave. It is normal when children are tired, hungry, afraid, or learning independence. One thing you can try is catching misbehavior early and distracting your kids’ attention to something positive. It actually works! "
+    "text": "All children misbehave. It is normal when children are tired, hungry, afraid, or learning independence. One thing you can try is catching misbehavior early and distracting your kids’ attention to something positive. It actually works! ",
+    "word_count": 468
   },
-  "504": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "32c62ae9-b76c-41cb-851e-bb9a826a47f9",
     "bit_type": "text",
     "type_id": 0,
-    "text": "It is completely normal to feel stressed, afraid, angry, and depressed during this time. You are not alone. These tips will help you take care of yourself so you can take care of your children."
+    "text": "It is completely normal to feel stressed, afraid, angry, and depressed during this time. You are not alone. These tips will help you take care of yourself so you can take care of your children.",
+    "word_count": 504
   },
-  "539": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "9e896c82-3992-4c79-aa9b-eef6939eb28a",
     "bit_type": "text",
     "type_id": 0,
-    "text": "It is really hard to help our children continue learning when schools are closed or part-open. One thing that might be helpful is to try and set up a daily schedule that includes time for schoolwork and time for fun."
+    "text": "It is really hard to help our children continue learning when schools are closed or part-open. One thing that might be helpful is to try and set up a daily schedule that includes time for schoolwork and time for fun.",
+    "word_count": 539
   },
-  "579": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "7c467571-548d-40b7-98a6-a851f0dcb06a",
     "bit_type": "text",
     "type_id": 0,
-    "text": "It can be difficult to know how to talk your children about COVID-19, especially since we are learning about it too. "
+    "text": "It can be difficult to know how to talk your children about COVID-19, especially since we are learning about it too. ",
+    "word_count": 579
   },
-  "601": {
+  {
     "has_extraline": 1,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "7c467571-548d-40b7-98a6-a851f0dcb06a",
     "bit_type": "text",
     "type_id": 2,
-    "text": "The important thing is to be open and listen to your children. Be honest and supportive. Show them that you care."
+    "text": "The important thing is to be open and listen to your children. Be honest and supportive. Show them that you care.",
+    "word_count": 601
   },
-  "622": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "bff84f1b-5bd1-402f-9e0a-20191cf7bd97",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Parenting is really hard. But there are things we can do to make things easier. We are here to help!"
+    "text": "Parenting is really hard. But there are things we can do to make things easier. We are here to help!",
+    "word_count": 622
   },
-  "642": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "b1edc853-dde8-4789-8870-a3513469d19c",
     "bit_type": "text",
     "type_id": 0,
-    "text": "This is a stressful time for all of us. The more we listen to each other and show children how we keep ourselves healthy, the more they will feel secure and loved."
+    "text": "This is a stressful time for all of us. The more we listen to each other and show children how we keep ourselves healthy, the more they will feel secure and loved.",
+    "word_count": 642
   },
-  "674": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "b82cd5fd-818f-4e26-b57a-815717792026",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Millions are stressed about money because of COVID-19. Children or teenagers asking for things can cause arguments.  It can help them a lot when we involve them with family budgeting."
+    "text": "Millions are stressed about money because of COVID-19. Children or teenagers asking for things can cause arguments.  It can help them a lot when we involve them with family budgeting.",
+    "word_count": 674
   },
-  "705": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "3c9f7249-c36c-4a16-9e22-7aa237635944",
     "bit_type": "text",
     "type_id": 0,
-    "text": "There are lots of risks to children online. But you can help protect your children by setting up easy tech fixes and creating health and safe online habits."
+    "text": "There are lots of risks to children online. But you can help protect your children by setting up easy tech fixes and creating health and safe online habits.",
+    "word_count": 705
   },
-  "733": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "721ca0ca-a1e3-44bd-822f-65e0efeb155c",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Spending even just a few minutes a day focused on having fun with your children can help your relationship. If you are really busy it could be tidying or cleaning together - just make it fun!"
+    "text": "Spending even just a few minutes a day focused on having fun with your children can help your relationship. If you are really busy it could be tidying or cleaning together - just make it fun!",
+    "word_count": 733
   },
-  "769": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "8e523d22-cdd3-4e21-8284-05a86c3dff08",
     "bit_type": "text",
     "type_id": 0,
-    "text": "We spend a lot of time indoors with a young baby, and Covid-19 makes it much more intense.  It is completely normal to feel isolated, overwhelmed, anxious, and scared for you and your baby."
+    "text": "We spend a lot of time indoors with a young baby, and Covid-19 makes it much more intense.  It is completely normal to feel isolated, overwhelmed, anxious, and scared for you and your baby.",
+    "word_count": 769
   },
-  "804": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "99606dd3-b03b-41d0-84d4-98d788ef37ea",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Congratulations! You have added your first parenting skill to your Parenting Toolkit. Each day you will learn a new skill so that you can be build a happy home for you and your family."
+    "text": "Congratulations! You have added your first parenting skill to your Parenting Toolkit. Each day you will learn a new skill so that you can be build a happy home for you and your family.",
+    "word_count": 804
   },
-  "838": {
+  {
     "has_extraline": 0,
     "flow_id": "a531ba02-eb03-4327-8c60-101c250e7bd8",
     "bit_id": "04ebed33-343d-4950-982b-95ccc3ce8186",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Here is a song that we made just for parents like you! Have a great day!"
+    "text": "Here is a song that we made just for parents like you! Have a great day!",
+    "word_count": 838
   },
-  "854": {
+  {
     "has_extraline": 0,
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "56cf3b86-03db-4ac3-bc14-c374a4ab09d2",
     "bit_type": "text",
     "type_id": 0,
-    "text": "What would you like to change?"
+    "text": "What would you like to change?",
+    "word_count": 854
   },
-  "860": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "56cf3b86-03db-4ac3-bc14-c374a4ab09d2",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Personal information",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 860
   },
-  "862": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "56cf3b86-03db-4ac3-bc14-c374a4ab09d2",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "User experience",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 862
   },
-  "864": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "56cf3b86-03db-4ac3-bc14-c374a4ab09d2",
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "Go back to the previous options",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 864
   },
-  "870": {
+  {
     "has_extraline": 0,
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "5a1aa803-7d73-465a-994f-4a1c7d425330",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean."
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 870
   },
-  "877": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "1a6cca1d-b955-4f0c-b225-5cfd1ce4ac34",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "1 personal",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 877
   },
-  "879": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "6597f0b0-34d5-4f2d-849d-4bf773697c25",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "2 user",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 879
   },
-  "881": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "3e6795f3-66d7-4982-af9a-f85874bdef0f",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "back",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 881
   },
-  "882": {
+  {
     "has_extraline": 0,
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "f1575d1a-630c-470d-a141-4ebf7fbe6b35",
     "bit_type": "text",
     "type_id": 0,
-    "text": "What would you like to change?"
+    "text": "What would you like to change?",
+    "word_count": 882
   },
-  "888": {
+  {
     "has_extraline": 0,
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "f1575d1a-630c-470d-a141-4ebf7fbe6b35",
     "bit_type": "text",
     "type_id": 1,
-    "text": "Type \"EXIT\" to stop receiving messages."
+    "text": "Type \"EXIT\" to stop receiving messages.",
+    "word_count": 888
   },
-  "894": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "f1575d1a-630c-470d-a141-4ebf7fbe6b35",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Message timing",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 894
   },
-  "896": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "f1575d1a-630c-470d-a141-4ebf7fbe6b35",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "Type of media content",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 896
   },
-  "900": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "f1575d1a-630c-470d-a141-4ebf7fbe6b35",
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "Age group for tips",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 900
   },
-  "904": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "f1575d1a-630c-470d-a141-4ebf7fbe6b35",
     "bit_type": "quick_replies",
     "type_id": 3,
     "text": "Language",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 904
   },
-  "905": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "f1575d1a-630c-470d-a141-4ebf7fbe6b35",
     "bit_type": "quick_replies",
     "type_id": 4,
     "text": "Go back to the previous options",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 905
   },
-  "911": {
+  {
     "has_extraline": 0,
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "6b4aa3e9-3e08-4ebc-873e-262034cb0a18",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean."
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 911
   },
-  "918": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "2d448201-169c-449a-98a7-b8fbc8fb82e5",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "time timing ",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 918
   },
-  "921": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "9c193c65-642e-478c-99e5-e53d13615afb",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "multimedia ",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 921
   },
-  "923": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "89de7a41-5675-4ba3-a8c2-6eee79bcbec7",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "language ",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 923
   },
-  "925": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "a6b0e14c-42c4-49a7-bf76-bef06274412a",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "age group",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 925
   },
-  "927": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "72965c7f-c4a5-4218-ad27-eef4f9b8568e",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "back",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 927
   },
-  "928": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "721a02fc-1df9-4229-b69c-82ed26c424ed",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "exit",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 928
   },
-  "929": {
+  {
     "has_extraline": 0,
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "3fd4e615-e4fb-4c14-9b4d-54e2b869d8ab",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Would you like to go back to tech support? "
+    "text": "Would you like to go back to tech support? ",
+    "word_count": 929
   },
-  "939": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "3fd4e615-e4fb-4c14-9b4d-54e2b869d8ab",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 939
   },
-  "940": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "3fd4e615-e4fb-4c14-9b4d-54e2b869d8ab",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 940
   },
-  "941": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "d86ae587-ecda-4a3c-a11e-b9364d9f3751",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "yes y ",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 941
   },
-  "944": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "0c2b3ccf-7570-4f18-a571-9dc02edce1f1",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "no not n",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 944
   },
-  "947": {
+  {
     "has_extraline": 0,
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "a942976f-5464-458e-a4a4-0dfc8ecae055",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. "
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 947
   },
-  "955": {
+  {
     "has_extraline": 0,
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "eab67071-8ac8-4921-b9f3-35e09ad3df67",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Would you like to go back to Help?"
+    "text": "Would you like to go back to Help?",
+    "word_count": 955
   },
-  "963": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "eab67071-8ac8-4921-b9f3-35e09ad3df67",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 963
   },
-  "964": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "eab67071-8ac8-4921-b9f3-35e09ad3df67",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 964
   },
-  "965": {
+  {
     "has_extraline": 0,
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "f37273f3-0bff-4f41-9b29-cad5ed14cfab",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. "
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 965
   },
-  "973": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "4bdd61e8-646b-48bd-bf80-7e742271ad95",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "yes y",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 973
   },
-  "975": {
+  {
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "3ce3b112-8af9-476d-b271-6b5a74b7ad60",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "no n back",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 975
   },
-  "978": {
+  {
     "has_extraline": 0,
     "flow_id": "43ee9e32-c132-4325-b9e0-b1457c5bfa57",
     "bit_id": "a654779a-5e77-46d2-9f84-5e81ba8bf01c",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Ok, thanks. Chat to you later!"
+    "text": "Ok, thanks. Chat to you later!",
+    "word_count": 978
   },
-  "984": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "0b68d75c-d998-496a-a189-bb35b1a5347c",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Can we ask you a few more quick questions (about 1 minute)? If you do not want to answer any questions, it is completely okay. "
+    "text": "Can we ask you a few more quick questions (about 1 minute)? If you do not want to answer any questions, it is completely okay. ",
+    "word_count": 984
   },
-  "1010": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "0b68d75c-d998-496a-a189-bb35b1a5347c",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1010
   },
-  "1011": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "0b68d75c-d998-496a-a189-bb35b1a5347c",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1011
   },
-  "1012": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "0bf72d2d-845d-4b12-9bcd-a151b4dd7e12",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Can we ask you a few quick questions (about 1 minute)? If you do not want to answer any questions, it is completely okay. "
+    "text": "Can we ask you a few quick questions (about 1 minute)? If you do not want to answer any questions, it is completely okay. ",
+    "word_count": 1012
   },
-  "1037": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "0bf72d2d-845d-4b12-9bcd-a151b4dd7e12",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1037
   },
-  "1038": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "0bf72d2d-845d-4b12-9bcd-a151b4dd7e12",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1038
   },
-  "1039": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "9aa22955-bc84-4a4c-b50d-d7a3aa449d5a",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "YES Y ",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1039
   },
-  "1042": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "d50ae8a5-dac6-4c1f-924a-1fa5da0d93e9",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "NO N",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1042
   },
-  "1044": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "fa7f18c7-bcc3-405a-9edf-25754c6e2edc",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. "
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 1044
   },
-  "1052": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "fb45c7f9-8de0-4faa-a5ab-1f3e3fd1ba0b",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Thank you!"
+    "text": "Thank you!",
+    "word_count": 1052
   },
-  "1054": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "fa71ce89-c4b4-4b10-b2a9-33db34f30e12",
     "bit_type": "text",
     "type_id": 0,
-    "text": "So that we can give you the right information, please tell us how many girls are living in your household (reply with a number only)."
+    "text": "So that we can give you the right information, please tell us how many girls are living in your household (reply with a number only).",
+    "word_count": 1054
   },
-  "1079": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "7aa71c88-8c52-4ff3-a83a-bbb34241b53a",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Thanks! We'll try again tomorrow."
+    "text": "Thanks! We'll try again tomorrow.",
+    "word_count": 1079
   },
-  "1084": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "3e510e70-e468-4dee-9eeb-7f1a107200fd",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Thanks! It is okay if this is not a good time."
+    "text": "Thanks! It is okay if this is not a good time.",
+    "word_count": 1084
   },
-  "1095": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "3b3c45b0-7771-43d7-b6af-a70a21dfd5d5",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. "
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 1095
   },
-  "1103": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "2c6b3f2a-542b-4ef1-8f8d-faa4b47ba187",
     "bit_type": "text",
     "type_id": 0,
-    "text": "How many boys are living in your household? Please reply with a number."
+    "text": "How many boys are living in your household? Please reply with a number.",
+    "word_count": 1103
   },
-  "1116": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "1db0acc0-cf77-491f-ae6e-f484f5d19281",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. "
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 1116
   },
-  "1124": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "684af900-faa7-497a-bb0d-4815d75441ab",
     "bit_type": "text",
     "type_id": 0,
-    "text": "It is hard to find time to have fun with your children. How many times in the past 24 hours did you do something fun together?  (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)"
+    "text": "It is hard to find time to have fun with your children. How many times in the past 24 hours did you do something fun together?  (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)",
+    "word_count": 1124
   },
-  "1162": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "5ca51ed7-035c-44a3-80af-b2acb98654df",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean."
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 1162
   },
-  "1169": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "b90aa06e-6da6-441f-9883-e0d4b9a184fa",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "8+",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1169
   },
-  "1170": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "5f3422be-e189-4dd9-a27b-5269bb8b6aa6",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "more",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1170
   },
-  "1171": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "33961f07-02cd-43b5-b973-34c15a58631e",
     "bit_type": "text",
     "type_id": 0,
-    "text": "We often do not notice our children's good behaviour. How many times in the past 24 hours did you praise your children for behaving well?  (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)"
+    "text": "We often do not notice our children's good behaviour. How many times in the past 24 hours did you praise your children for behaving well?  (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)",
+    "word_count": 1171
   },
-  "1208": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "713e7240-1d54-441d-9a50-497cec29c130",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "8+",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1208
   },
-  "1209": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "cadc9ffb-3d18-42c2-8568-bfbfa00e3415",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "more",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1209
   },
-  "1210": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "a456f60b-de3d-43ee-8680-0463c2c99766",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. "
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 1210
   },
-  "1218": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "9e32becb-6384-4bff-a9f6-71420555f01e",
     "bit_type": "text",
     "type_id": 0,
-    "text": "It is so stressful when children misbehave. How many times in the past 24 hours did you physically discipline your children?  (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)"
+    "text": "It is so stressful when children misbehave. How many times in the past 24 hours did you physically discipline your children?  (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)",
+    "word_count": 1218
   },
-  "1251": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "c02898c8-59ce-425a-8c99-d80ba312102c",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "8+",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1251
   },
-  "1252": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "5e8e1c4d-89b1-4aac-b0f2-9694b97f7f62",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "more",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1252
   },
-  "1253": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "ea776ac6-a82b-4f4e-8f42-925aaef1ede3",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. "
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 1253
   },
-  "1261": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "1f35cb88-c615-44da-bb39-dda77a75ae52",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sometimes our children make us really upset. How many times in the past 24 hours did you shout or scream at your children?  (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)"
+    "text": "Sometimes our children make us really upset. How many times in the past 24 hours did you shout or scream at your children?  (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)",
+    "word_count": 1261
   },
-  "1296": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "f1f3751f-7874-4368-8682-8ad4ab844567",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "8+",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1296
   },
-  "1297": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "c4441df7-357c-4a72-a9eb-f8a7e102725a",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "more",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1297
   },
-  "1298": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "70085541-a2a6-493c-8440-07ca898c8e53",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. "
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 1298
   },
-  "1306": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "07da9f67-525e-422a-a3a9-2b586799d20c",
     "bit_type": "text",
     "type_id": 0,
-    "text": "This is a very stressful time for families. How many times in the past 24 hours did you feel very stressed as a parent/caregiver?  (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)"
+    "text": "This is a very stressful time for families. How many times in the past 24 hours did you feel very stressed as a parent/caregiver?  (0, 1, 2, 3, 4, 5, 6, 7, 8 or more)",
+    "word_count": 1306
   },
-  "1342": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "35abdab3-1bd6-4f13-8eca-b3e2e89f6689",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "8+",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1342
   },
-  "1343": {
+  {
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "e11a4849-47e7-4871-b00c-0f423153dab8",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "more",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1343
   },
-  "1344": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "4b45d138-88a1-49cd-b540-7c96ae09bd67",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean."
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 1344
   },
-  "1351": {
+  {
     "has_extraline": 0,
     "flow_id": "927e2013-f86f-476f-bd5a-e64f9a96c58b",
     "bit_id": "28b92c38-cbd6-455c-a683-7792ea03f813",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Thanks so much for answering these questions! We really appreciate it."
+    "text": "Thanks so much for answering these questions! We really appreciate it.",
+    "word_count": 1351
   },
-  "1362": {
+  {
     "has_extraline": 0,
     "flow_id": "a25505c9-1ece-419a-a0a2-92717df27429",
     "bit_id": "68d8256c-d585-4881-b1a9-e2f448fc15f8",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Peek-a-Boo! "
+    "text": "Peek-a-Boo! ",
+    "word_count": 1362
   },
-  "1364": {
+  {
     "has_extraline": 0,
     "flow_id": "a25505c9-1ece-419a-a0a2-92717df27429",
     "bit_id": "68d8256c-d585-4881-b1a9-e2f448fc15f8",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• Cover your face with your hands. "
+    "text": "• Cover your face with your hands. ",
+    "word_count": 1364
   },
-  "1371": {
+  {
     "has_extraline": 0,
     "flow_id": "a25505c9-1ece-419a-a0a2-92717df27429",
     "bit_id": "68d8256c-d585-4881-b1a9-e2f448fc15f8",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Quickly show your face and say \"Peek-a-Boo!\" or \"Hello!\" Babies love it!"
+    "text": "• Quickly show your face and say \"Peek-a-Boo!\" or \"Hello!\" Babies love it!",
+    "word_count": 1371
   },
-  "1383": {
+  {
     "has_extraline": 0,
     "flow_id": "91ac3868-ac67-4e46-84d5-413e1909fd96",
     "bit_id": "1b742059-bd38-495a-a6e9-712494b7bbcb",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Funny Faces"
+    "text": "Funny Faces",
+    "word_count": 1383
   },
-  "1385": {
+  {
     "has_extraline": 0,
     "flow_id": "91ac3868-ac67-4e46-84d5-413e1909fd96",
     "bit_id": "1b742059-bd38-495a-a6e9-712494b7bbcb",
     "bit_type": "text",
     "type_id": 1,
     "text": "Look at your baby in the eyes and make different funny faces. ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1385
   },
-  "1398": {
+  {
     "has_extraline": 0,
     "flow_id": "91ac3868-ac67-4e46-84d5-413e1909fd96",
     "bit_id": "1b742059-bd38-495a-a6e9-712494b7bbcb",
     "bit_type": "text",
     "type_id": 2,
     "text": "Make a big face. Make a small face. Make a happy face. Make a surprised face. ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1398
   },
-  "1415": {
+  {
     "has_extraline": 0,
     "flow_id": "91ac3868-ac67-4e46-84d5-413e1909fd96",
     "bit_id": "1b742059-bd38-495a-a6e9-712494b7bbcb",
     "bit_type": "text",
     "type_id": 3,
     "text": "Which ones make your baby smile or laugh? Do them again, even bigger this time!",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1415
   },
-  "1430": {
+  {
     "has_extraline": 0,
     "flow_id": "91ac3868-ac67-4e46-84d5-413e1909fd96",
     "bit_id": "1b742059-bd38-495a-a6e9-712494b7bbcb",
     "bit_type": "text",
     "type_id": 4,
     "text": "Play with different feelings and add sounds. ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1430
   },
-  "1438": {
+  {
     "has_extraline": 0,
     "flow_id": "91ac3868-ac67-4e46-84d5-413e1909fd96",
     "bit_id": "1b742059-bd38-495a-a6e9-712494b7bbcb",
     "bit_type": "text",
     "type_id": 5,
     "text": "Copy their facial expressions too. Exaggerate them to make them funny.",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1438
   },
-  "1449": {
+  {
     "has_extraline": 0,
     "flow_id": "91ac3868-ac67-4e46-84d5-413e1909fd96",
     "bit_id": "1b742059-bd38-495a-a6e9-712494b7bbcb",
     "bit_type": "text",
     "type_id": 6,
     "text": "Always end on a positive expression!",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1449
   },
-  "1455": {
+  {
     "has_extraline": 0,
     "flow_id": "e3d4444d-0c35-44bf-92ea-540b3a346dc4",
     "bit_id": "6f2dc5ac-ddb4-4a4b-bcdd-9f5c3bbecd6a",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Mirror Game"
+    "text": "Mirror Game",
+    "word_count": 1455
   },
-  "1457": {
+  {
     "has_extraline": 0,
     "flow_id": "e3d4444d-0c35-44bf-92ea-540b3a346dc4",
     "bit_id": "6f2dc5ac-ddb4-4a4b-bcdd-9f5c3bbecd6a",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• Get to your baby's level so they can see you and hear you. "
+    "text": "• Get to your baby's level so they can see you and hear you. ",
+    "word_count": 1457
   },
-  "1472": {
+  {
     "has_extraline": 0,
     "flow_id": "e3d4444d-0c35-44bf-92ea-540b3a346dc4",
     "bit_id": "6f2dc5ac-ddb4-4a4b-bcdd-9f5c3bbecd6a",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Copy their facial expressions and sounds. "
+    "text": "• Copy their facial expressions and sounds. ",
+    "word_count": 1472
   },
-  "1480": {
+  {
     "has_extraline": 0,
     "flow_id": "e3d4444d-0c35-44bf-92ea-540b3a346dc4",
     "bit_id": "6f2dc5ac-ddb4-4a4b-bcdd-9f5c3bbecd6a",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• It is so simple while creating a strong bond between you and your baby!"
+    "text": "• It is so simple while creating a strong bond between you and your baby!",
+    "word_count": 1480
   },
-  "1494": {
+  {
     "has_extraline": 0,
     "flow_id": "e0921bc3-7e25-49f0-8a8b-cd2bf0f79672",
     "bit_id": "7a271a80-ff81-41f8-a3ed-4df569eedceb",
     "bit_type": "text",
     "type_id": 0,
-    "text": "The Sun is Coming! "
+    "text": "The Sun is Coming! ",
+    "word_count": 1494
   },
-  "1499": {
+  {
     "has_extraline": 0,
     "flow_id": "e0921bc3-7e25-49f0-8a8b-cd2bf0f79672",
     "bit_id": "7a271a80-ff81-41f8-a3ed-4df569eedceb",
     "bit_type": "text",
     "type_id": 1,
     "text": "Lie your baby on their back after washing them or changing their diaper",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1499
   },
-  "1512": {
+  {
     "has_extraline": 0,
     "flow_id": "e0921bc3-7e25-49f0-8a8b-cd2bf0f79672",
     "bit_id": "7a271a80-ff81-41f8-a3ed-4df569eedceb",
     "bit_type": "text",
     "type_id": 2,
     "text": "Tell them the sun is coming! Wiggle your fingers like sunrays above their head and make your face a big smiling sun.",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1512
   },
-  "1534": {
+  {
     "has_extraline": 0,
     "flow_id": "e0921bc3-7e25-49f0-8a8b-cd2bf0f79672",
     "bit_id": "7a271a80-ff81-41f8-a3ed-4df569eedceb",
     "bit_type": "text",
     "type_id": 3,
     "text": "Tell them the wind is coming! Blow softly over their body.",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1534
   },
-  "1545": {
+  {
     "has_extraline": 0,
     "flow_id": "e0921bc3-7e25-49f0-8a8b-cd2bf0f79672",
     "bit_id": "7a271a80-ff81-41f8-a3ed-4df569eedceb",
     "bit_type": "text",
     "type_id": 4,
     "text": "Tell them the rain is coming! Use your fingers to gently pat over their whole body like light raindrops.",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1545
   },
-  "1564": {
+  {
     "has_extraline": 0,
     "flow_id": "e0921bc3-7e25-49f0-8a8b-cd2bf0f79672",
     "bit_id": "7a271a80-ff81-41f8-a3ed-4df569eedceb",
     "bit_type": "text",
     "type_id": 5,
     "text": "Tell them the clouds are coming! Wrap the towel or cloth around them like a blanket and cuddle them ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1564
   },
-  "1584": {
+  {
     "has_extraline": 0,
     "flow_id": "e0921bc3-7e25-49f0-8a8b-cd2bf0f79672",
     "bit_id": "7a271a80-ff81-41f8-a3ed-4df569eedceb",
     "bit_type": "text",
     "type_id": 6,
     "text": "Play with different weathers. Which one does your baby like best?",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1584
   },
-  "1595": {
+  {
     "has_extraline": 0,
     "flow_id": "e0921bc3-7e25-49f0-8a8b-cd2bf0f79672",
     "bit_id": "7a271a80-ff81-41f8-a3ed-4df569eedceb",
     "bit_type": "text",
     "type_id": 7,
     "text": "Add sound effects or make it into a little song. Use the tune of another song you know! ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1595
   },
-  "1614": {
+  {
     "has_extraline": 0,
     "flow_id": "5a92bd3a-8e6f-4abe-a963-b7022ff91248",
     "bit_id": "0c8bff03-048c-4224-bed3-caf9eeb85ae5",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Shakers"
+    "text": "Shakers",
+    "word_count": 1614
   },
-  "1615": {
+  {
     "has_extraline": 0,
     "flow_id": "5a92bd3a-8e6f-4abe-a963-b7022ff91248",
     "bit_id": "0c8bff03-048c-4224-bed3-caf9eeb85ae5",
     "bit_type": "text",
     "type_id": 1,
     "text": "Find an empty, clean plastic bottle or pot with a lid that closes tight.",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1615
   },
-  "1629": {
+  {
     "has_extraline": 0,
     "flow_id": "5a92bd3a-8e6f-4abe-a963-b7022ff91248",
     "bit_id": "0c8bff03-048c-4224-bed3-caf9eeb85ae5",
     "bit_type": "text",
     "type_id": 2,
     "text": "Fill it with sand, stones, uncooked rice, beans or any small objects that make an interesting sound. ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1629
   },
-  "1647": {
+  {
     "has_extraline": 0,
     "flow_id": "5a92bd3a-8e6f-4abe-a963-b7022ff91248",
     "bit_id": "0c8bff03-048c-4224-bed3-caf9eeb85ae5",
     "bit_type": "text",
     "type_id": 3,
     "text": "Move your body as you shake it in front of your baby",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1647
   },
-  "1659": {
+  {
     "has_extraline": 0,
     "flow_id": "5a92bd3a-8e6f-4abe-a963-b7022ff91248",
     "bit_id": "0c8bff03-048c-4224-bed3-caf9eeb85ae5",
     "bit_type": "text",
     "type_id": 4,
     "text": "If it is safe, give it to your baby to shake!",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1659
   },
-  "1670": {
+  {
     "has_extraline": 0,
     "flow_id": "5a92bd3a-8e6f-4abe-a963-b7022ff91248",
     "bit_id": "0c8bff03-048c-4224-bed3-caf9eeb85ae5",
     "bit_type": "text",
     "type_id": 5,
     "text": "Get creative! Can you find something colourful or try it with water? ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1670
   },
-  "1683": {
+  {
     "has_extraline": 0,
     "flow_id": "5a92bd3a-8e6f-4abe-a963-b7022ff91248",
     "bit_id": "0c8bff03-048c-4224-bed3-caf9eeb85ae5",
     "bit_type": "text",
     "type_id": 6,
     "text": "What sounds does your baby like?",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1683
   },
-  "1689": {
+  {
     "has_extraline": 0,
     "flow_id": "60c63c00-1729-43c4-b769-c76f89eacc73",
     "bit_id": "a9cf9501-7b20-409a-b910-31a0bb4576f4",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Musical Toes"
+    "text": "Musical Toes",
+    "word_count": 1689
   },
-  "1691": {
+  {
     "has_extraline": 0,
     "flow_id": "60c63c00-1729-43c4-b769-c76f89eacc73",
     "bit_id": "a9cf9501-7b20-409a-b910-31a0bb4576f4",
     "bit_type": "text",
     "type_id": 1,
     "text": "Put your baby on their back",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1691
   },
-  "1697": {
+  {
     "has_extraline": 0,
     "flow_id": "60c63c00-1729-43c4-b769-c76f89eacc73",
     "bit_id": "a9cf9501-7b20-409a-b910-31a0bb4576f4",
     "bit_type": "text",
     "type_id": 2,
     "text": "Wiggle their toe and say, “This little toe goes [funny sound]”",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1697
   },
-  "1708": {
+  {
     "has_extraline": 0,
     "flow_id": "60c63c00-1729-43c4-b769-c76f89eacc73",
     "bit_id": "a9cf9501-7b20-409a-b910-31a0bb4576f4",
     "bit_type": "text",
     "type_id": 3,
     "text": "Make a funny sound for each toe",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1708
   },
-  "1715": {
+  {
     "has_extraline": 0,
     "flow_id": "60c63c00-1729-43c4-b769-c76f89eacc73",
     "bit_id": "a9cf9501-7b20-409a-b910-31a0bb4576f4",
     "bit_type": "text",
     "type_id": 4,
     "text": "Play with different sounds. For example, animal sounds, popping sounds, squeaky sounds, fart sounds. ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1715
   },
-  "1730": {
+  {
     "has_extraline": 0,
     "flow_id": "60c63c00-1729-43c4-b769-c76f89eacc73",
     "bit_id": "a9cf9501-7b20-409a-b910-31a0bb4576f4",
     "bit_type": "text",
     "type_id": 5,
     "text": "Repeat this for all ten toes. ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1730
   },
-  "1737": {
+  {
     "has_extraline": 0,
     "flow_id": "60c63c00-1729-43c4-b769-c76f89eacc73",
     "bit_id": "a9cf9501-7b20-409a-b910-31a0bb4576f4",
     "bit_type": "text",
     "type_id": 6,
     "text": "Try to make the last toe the biggest and funniest sound!",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1737
   },
-  "1748": {
+  {
     "has_extraline": 0,
     "flow_id": "1067270f-89b9-42a0-a845-67ae5de6901e",
     "bit_id": "70abbe03-7a71-4509-9d7c-f778fb1eb2a9",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Down in a ditch!"
+    "text": "Down in a ditch!",
+    "word_count": 1748
   },
-  "1752": {
+  {
     "has_extraline": 0,
     "flow_id": "1067270f-89b9-42a0-a845-67ae5de6901e",
     "bit_id": "70abbe03-7a71-4509-9d7c-f778fb1eb2a9",
     "bit_type": "text",
     "type_id": 1,
     "text": "Sit on a chair and put your toddler on your lap facing you. Hold them firmly under the arms.",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1752
   },
-  "1771": {
+  {
     "has_extraline": 0,
     "flow_id": "1067270f-89b9-42a0-a845-67ae5de6901e",
     "bit_id": "70abbe03-7a71-4509-9d7c-f778fb1eb2a9",
     "bit_type": "text",
     "type_id": 2,
     "text": "Gently bounce your legs and say in a soft voice “Baby horse, baby horse, baby horse, baby horse”",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1771
   },
-  "1789": {
+  {
     "has_extraline": 0,
     "flow_id": "1067270f-89b9-42a0-a845-67ae5de6901e",
     "bit_id": "70abbe03-7a71-4509-9d7c-f778fb1eb2a9",
     "bit_type": "text",
     "type_id": 3,
     "text": "Bounce your legs a bit more and say a bit louder “Little horse, little horse, little horse, little horse”",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1789
   },
-  "1808": {
+  {
     "has_extraline": 0,
     "flow_id": "1067270f-89b9-42a0-a845-67ae5de6901e",
     "bit_id": "70abbe03-7a71-4509-9d7c-f778fb1eb2a9",
     "bit_type": "text",
     "type_id": 4,
     "text": "Bounce your legs more and say louder “Big horse, big horse, big horse, big horse”",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1808
   },
-  "1823": {
+  {
     "has_extraline": 0,
     "flow_id": "1067270f-89b9-42a0-a845-67ae5de6901e",
     "bit_id": "70abbe03-7a71-4509-9d7c-f778fb1eb2a9",
     "bit_type": "text",
     "type_id": 5,
     "text": "When you call out “Down in a ditch!” open your knees and let your child drop down between them. Make sure you hold them so they don’t fall far! ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1823
   },
-  "1853": {
+  {
     "has_extraline": 0,
     "flow_id": "cb731699-c384-449c-90e0-cf17e299b263",
     "bit_id": "8642d1ec-349c-4c5f-b145-43643da55d98",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Dance Party"
+    "text": "Dance Party",
+    "word_count": 1853
   },
-  "1855": {
+  {
     "has_extraline": 0,
     "flow_id": "cb731699-c384-449c-90e0-cf17e299b263",
     "bit_id": "8642d1ec-349c-4c5f-b145-43643da55d98",
     "bit_type": "text",
     "type_id": 1,
     "text": "Put on your favourite music or sing your favourite song and dance around the room with your toddler. If you have a baby hold them while you dance. ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1855
   },
-  "1884": {
+  {
     "has_extraline": 0,
     "flow_id": "cb731699-c384-449c-90e0-cf17e299b263",
     "bit_id": "8642d1ec-349c-4c5f-b145-43643da55d98",
     "bit_type": "text",
     "type_id": 2,
     "text": "Dance in different ways or with different parts of your body",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1884
   },
-  "1895": {
+  {
     "has_extraline": 0,
     "flow_id": "cb731699-c384-449c-90e0-cf17e299b263",
     "bit_id": "8642d1ec-349c-4c5f-b145-43643da55d98",
     "bit_type": "text",
     "type_id": 3,
     "text": "For example, “Dance like a monkey”, “Dance like a chicken” or “Let’s dance with our knees and hips”",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1895
   },
-  "1913": {
+  {
     "has_extraline": 0,
     "flow_id": "cb731699-c384-449c-90e0-cf17e299b263",
     "bit_id": "8642d1ec-349c-4c5f-b145-43643da55d98",
     "bit_type": "text",
     "type_id": 4,
     "text": "Think up different instructions. Be seriously playful! ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1913
   },
-  "1921": {
+  {
     "has_extraline": 0,
     "flow_id": "cb731699-c384-449c-90e0-cf17e299b263",
     "bit_id": "8642d1ec-349c-4c5f-b145-43643da55d98",
     "bit_type": "text",
     "type_id": 5,
     "text": "When the music stops, everyone does a funny freeze",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1921
   },
-  "1930": {
+  {
     "has_extraline": 0,
     "flow_id": "cb731699-c384-449c-90e0-cf17e299b263",
     "bit_id": "8642d1ec-349c-4c5f-b145-43643da55d98",
     "bit_type": "text",
     "type_id": 6,
     "text": "Notice what rhythms or movement they like!",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1930
   },
-  "1937": {
+  {
     "has_extraline": 0,
     "flow_id": "739bda97-2e34-4886-9daf-c21196b4f33f",
     "bit_id": "b2e60e0a-a8db-4188-aa20-8123d35f8e8b",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Lullaby"
+    "text": "Lullaby",
+    "word_count": 1937
   },
-  "1938": {
+  {
     "has_extraline": 0,
     "flow_id": "739bda97-2e34-4886-9daf-c21196b4f33f",
     "bit_id": "b2e60e0a-a8db-4188-aa20-8123d35f8e8b",
     "bit_type": "text",
     "type_id": 1,
     "text": "When your baby or toddler cries, sing a soft song to calm you both down",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1938
   },
-  "1953": {
+  {
     "has_extraline": 0,
     "flow_id": "739bda97-2e34-4886-9daf-c21196b4f33f",
     "bit_id": "b2e60e0a-a8db-4188-aa20-8123d35f8e8b",
     "bit_type": "text",
     "type_id": 2,
     "text": "Sing a soothing song you know or make up your own with a simple melody and some soothing words",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1953
   },
-  "1972": {
+  {
     "has_extraline": 0,
     "flow_id": "739bda97-2e34-4886-9daf-c21196b4f33f",
     "bit_id": "b2e60e0a-a8db-4188-aa20-8123d35f8e8b",
     "bit_type": "text",
     "type_id": 3,
     "text": "Repeat it over and over in a rhythmical way. For example, “My little one, oh little one”",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1972
   },
-  "1989": {
+  {
     "has_extraline": 0,
     "flow_id": "739bda97-2e34-4886-9daf-c21196b4f33f",
     "bit_id": "b2e60e0a-a8db-4188-aa20-8123d35f8e8b",
     "bit_type": "text",
     "type_id": 4,
     "text": "Sing the same song regularly so your child gets used to it!",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 1989
   }
-}
+]

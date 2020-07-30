@@ -1,1956 +1,2198 @@
-{
-  "0": {
+[
+  {
     "has_extraline": 0,
     "flow_id": "4660887d-415d-404c-b6cf-32ad968ad6fa",
     "bit_id": "299fac2c-e72c-4ba6-b382-38d4266e224d",
     "bit_type": "text",
     "type_id": 0,
-    "text": "The Interrupter"
+    "text": "The Interrupter",
+    "word_count": 0
   },
-  "2": {
+  {
     "has_extraline": 0,
     "flow_id": "4660887d-415d-404c-b6cf-32ad968ad6fa",
     "bit_id": "299fac2c-e72c-4ba6-b382-38d4266e224d",
     "bit_type": "text",
     "type_id": 1,
     "text": "Choose a storyteller to start making up a story",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 2
   },
-  "11": {
+  {
     "has_extraline": 0,
     "flow_id": "4660887d-415d-404c-b6cf-32ad968ad6fa",
     "bit_id": "299fac2c-e72c-4ba6-b382-38d4266e224d",
     "bit_type": "text",
     "type_id": 2,
     "text": "Story listeners can interrupt with a word at any time",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 11
   },
-  "21": {
+  {
     "has_extraline": 0,
     "flow_id": "4660887d-415d-404c-b6cf-32ad968ad6fa",
     "bit_id": "299fac2c-e72c-4ba6-b382-38d4266e224d",
     "bit_type": "text",
     "type_id": 3,
     "text": "Storyteller needs to fit that word in their story",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 21
   },
-  "30": {
+  {
     "has_extraline": 0,
     "flow_id": "4660887d-415d-404c-b6cf-32ad968ad6fa",
     "bit_id": "299fac2c-e72c-4ba6-b382-38d4266e224d",
     "bit_type": "text",
     "type_id": 4,
     "text": "Try with a different storyteller! ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 30
   },
-  "36": {
+  {
     "has_extraline": 0,
     "flow_id": "193b2fe7-c928-4800-b0be-5f2bc2c9292c",
     "bit_id": "9001e573-4f9d-4051-b6da-9460e2474a0e",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Superpowers"
+    "text": "Superpowers",
+    "word_count": 36
   },
-  "37": {
+  {
     "has_extraline": 0,
     "flow_id": "193b2fe7-c928-4800-b0be-5f2bc2c9292c",
     "bit_id": "9001e573-4f9d-4051-b6da-9460e2474a0e",
     "bit_type": "text",
     "type_id": 1,
     "text": "Think of a superpower. For example, going anywhere instantly, travelling in time, reading minds. ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 37
   },
-  "52": {
+  {
     "has_extraline": 0,
     "flow_id": "193b2fe7-c928-4800-b0be-5f2bc2c9292c",
     "bit_id": "9001e573-4f9d-4051-b6da-9460e2474a0e",
     "bit_type": "text",
     "type_id": 2,
     "text": "Ask your teen “If you had the superpower to […] how would you use it?",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 52
   },
-  "67": {
+  {
     "has_extraline": 0,
     "flow_id": "193b2fe7-c928-4800-b0be-5f2bc2c9292c",
     "bit_id": "9001e573-4f9d-4051-b6da-9460e2474a0e",
     "bit_type": "text",
     "type_id": 3,
     "text": "Encourage them to give their superhero a name and act it out. ",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 67
   },
-  "80": {
+  {
     "has_extraline": 0,
     "flow_id": "193b2fe7-c928-4800-b0be-5f2bc2c9292c",
     "bit_id": "9001e573-4f9d-4051-b6da-9460e2474a0e",
     "bit_type": "text",
     "type_id": 4,
     "text": "Now let them choose a super power for you",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 80
   },
-  "89": {
+  {
     "has_extraline": 0,
     "flow_id": "193b2fe7-c928-4800-b0be-5f2bc2c9292c",
     "bit_id": "9001e573-4f9d-4051-b6da-9460e2474a0e",
     "bit_type": "text",
     "type_id": 5,
     "text": "Make sure you act it out too!",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 89
   },
-  "96": {
+  {
     "has_extraline": 0,
     "flow_id": "47e3d7fe-a25f-4786-a7d8-7941a437dc50",
     "bit_id": "9f20ca5e-e0d5-46c6-8d94-9f18c25b1913",
     "bit_type": "text",
     "type_id": 0,
-    "text": "How was your day?"
+    "text": "How was your day?",
+    "word_count": 96
   },
-  "100": {
+  {
     "has_extraline": 0,
     "flow_id": "47e3d7fe-a25f-4786-a7d8-7941a437dc50",
     "bit_id": "9f20ca5e-e0d5-46c6-8d94-9f18c25b1913",
     "bit_type": "text",
     "type_id": 1,
     "text": "Ask each other, “What made you happy today?”",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 100
   },
-  "108": {
+  {
     "has_extraline": 0,
     "flow_id": "47e3d7fe-a25f-4786-a7d8-7941a437dc50",
     "bit_id": "9f20ca5e-e0d5-46c6-8d94-9f18c25b1913",
     "bit_type": "text",
     "type_id": 2,
     "text": "Ask each other, “What was difficult today?”",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 108
   },
-  "115": {
+  {
     "has_extraline": 0,
     "flow_id": "47e3d7fe-a25f-4786-a7d8-7941a437dc50",
     "bit_id": "9f20ca5e-e0d5-46c6-8d94-9f18c25b1913",
     "bit_type": "text",
     "type_id": 3,
     "text": "Ask each other, “How can we help you?”",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 115
   },
-  "123": {
+  {
     "has_extraline": 0,
     "flow_id": "47e3d7fe-a25f-4786-a7d8-7941a437dc50",
     "bit_id": "9f20ca5e-e0d5-46c6-8d94-9f18c25b1913",
     "bit_type": "text",
     "type_id": 4,
     "text": "Try to do this together every day, when you are eating together or before bed",
-    "has_bullet": true
+    "has_bullet": true,
+    "word_count": 123
   },
-  "138": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "8caa448f-9389-42c8-8d4b-71159c557424",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Can we ask you a few quick questions about your children's behaviour?"
+    "text": "Can we ask you a few quick questions about your children's behaviour?",
+    "word_count": 138
   },
-  "150": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "8caa448f-9389-42c8-8d4b-71159c557424",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 150
   },
-  "151": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "8caa448f-9389-42c8-8d4b-71159c557424",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 151
   },
-  "152": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "00e1d83f-22aa-42ad-9d0d-a25eadf8fedd",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean."
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 152
   },
-  "159": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "daa22be1-2569-4314-9e51-251c865b3aa8",
     "bit_type": "text",
     "type_id": 0,
-    "text": "All children misbehave sometimes. So that we can give you the right information, please tell us the name or nickname of the child who you are having the most difficulties with."
+    "text": "All children misbehave sometimes. So that we can give you the right information, please tell us the name or nickname of the child who you are having the most difficulties with.",
+    "word_count": 159
   },
-  "190": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "17ad0b8c-49a9-4da7-a87a-ad4b9c7b1eed",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "YES Y ",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 190
   },
-  "193": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "f3ee7fc4-f0fe-4c7a-b2a9-4d01adc24fed",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "NO N",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 193
   },
-  "195": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "9776967c-db54-418a-9b48-00f80eb1af08",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean.  "
+    "text": "Sorry, I don't understand what you mean.  ",
+    "word_count": 195
   },
-  "204": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "0a693a7b-ee45-42a2-aeeb-bdcd59876cac",
     "bit_type": "text",
     "type_id": 0,
-    "text": "It is okay if this is not a good time. We'll try again tomorrow."
+    "text": "It is okay if this is not a good time. We'll try again tomorrow.",
+    "word_count": 204
   },
-  "218": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "be242770-fd7f-4c50-a2ab-495153135f99",
     "bit_type": "text",
     "type_id": 0,
-    "text": "It is okay if this is not a good time. Thanks!"
+    "text": "It is okay if this is not a good time. Thanks!",
+    "word_count": 218
   },
-  "229": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "e58fe39d-28ad-4a6a-9bc4-b7fbab86addc",
     "bit_type": "text",
     "type_id": 0,
     "text": "Is @results.name a boy or girl?",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. ",
+    "word_count": 229
   },
-  "235": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "e58fe39d-28ad-4a6a-9bc4-b7fbab86addc",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Boy",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 235
   },
-  "236": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "e58fe39d-28ad-4a6a-9bc4-b7fbab86addc",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "Girl",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 236
   },
-  "237": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "e58fe39d-28ad-4a6a-9bc4-b7fbab86addc",
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "Other",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 237
   },
-  "238": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "e58fe39d-28ad-4a6a-9bc4-b7fbab86addc",
     "bit_type": "quick_replies",
     "type_id": 3,
     "text": "Prefer not to say",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 238
   },
-  "242": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "57f2dd9e-7a21-4153-8f3d-02b4ed60c30e",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean."
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 242
   },
-  "249": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "f1aac1ce-3920-4d2b-a034-cf1bca2b0162",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "boy",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 249
   },
-  "250": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "097f21ff-8773-468a-9b81-746a39d7ae77",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "girl",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 250
   },
-  "251": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "6ed8b21c-e641-4410-8bb3-6fccd09155b8",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "other",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 251
   },
-  "252": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "83f92536-ae4f-4438-ae73-f3958a7af06f",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "not prefer say",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 252
   },
-  "255": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "7dd4b61e-4711-408d-bbbf-134773ef0e81",
     "bit_type": "text",
     "type_id": 0,
     "text": "How old is @results.name in years? Please reply with a number between 0 and 17.",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. ",
+    "word_count": 255
   },
-  "270": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "4ff21a14-528f-40ed-b090-1a80d9c92533",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. "
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 270
   },
-  "278": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "13278834-16d2-4dbb-a406-d57ab8e65356",
     "bit_type": "text",
     "type_id": 0,
-    "text": "This looks too old. "
+    "text": "This looks too old. ",
+    "word_count": 278
   },
-  "283": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "f6ba607a-b771-4e0b-b459-d92ea3d4cb29",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean."
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 283
   },
-  "290": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "431e43b1-9440-4d62-a512-071a716ce2c7",
     "bit_type": "text",
     "type_id": 0,
     "text": "How many months old is @results.name? Please enter a number between 0 and 23.",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. ",
+    "word_count": 290
   },
-  "304": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "8ecef2ec-bc49-4b3a-80e1-688d89785d01",
     "bit_type": "text",
     "type_id": 0,
     "text": "What is your relationship to @results.name?",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. ",
+    "word_count": 304
   },
-  "310": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "8ecef2ec-bc49-4b3a-80e1-688d89785d01",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Parent",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 310
   },
-  "311": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "8ecef2ec-bc49-4b3a-80e1-688d89785d01",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "Grandparent",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 311
   },
-  "312": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "8ecef2ec-bc49-4b3a-80e1-688d89785d01",
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "Aunt/Uncle",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 312
   },
-  "313": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "8ecef2ec-bc49-4b3a-80e1-688d89785d01",
     "bit_type": "quick_replies",
     "type_id": 3,
     "text": "Foster Parent",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 313
   },
-  "315": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "8ecef2ec-bc49-4b3a-80e1-688d89785d01",
     "bit_type": "quick_replies",
     "type_id": 4,
     "text": "Other",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 315
   },
-  "316": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "8ecef2ec-bc49-4b3a-80e1-688d89785d01",
     "bit_type": "quick_replies",
     "type_id": 5,
     "text": "Prefer not to say",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 316
   },
-  "320": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "133adb6b-d1d0-45ba-9125-d714d6536166",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean."
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 320
   },
-  "327": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "8f7a2cc7-336b-4efe-a21d-d2dc466d6b42",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "parent",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 327
   },
-  "328": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "1db8ae7e-102d-42ef-8a2a-f11aefaeeadf",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "grandparent",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 328
   },
-  "329": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "53a47dd8-4d04-42ec-971c-07268aa5fe64",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "aunt uncle aunt/uncle",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 329
   },
-  "332": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "f6f7d00e-7627-41d6-b442-aecb9b5b6f29",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "foster",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 332
   },
-  "333": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "d57f7e88-8d4e-4879-b126-212e0cea9fb0",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "other",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 333
   },
-  "334": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "08d6d3d9-7399-40ad-b99f-ce054e086c60",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "prefer  not say",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 334
   },
-  "338": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "442470f3-250b-43fb-b8b0-22b98dc54b39",
     "bit_type": "text",
     "type_id": 0,
     "text": "We would also like to know how you are doing with @fields.survey_behave_name. Please tell us whether your child has done the following in the past 24 hours.",
-    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. @fields.survey_behave_name is the name of the child",
+    "word_count": 338
   },
-  "365": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "036bcb6e-05f9-4dc2-ac71-207a880c8d52",
     "bit_type": "text",
     "type_id": 0,
-    "text": "How challenging is this problem on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?"
+    "text": "How challenging is this problem on a scale of 0 to 8 (0 = not a problem and 8 = terrible)?",
+    "word_count": 365
   },
-  "386": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "4eb22e10-2dab-484c-b2f4-fded8abc176f",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. Please type a number between 0 and 8."
+    "text": "Sorry, I don't understand what you mean. Please type a number between 0 and 8.",
+    "word_count": 386
   },
-  "401": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "92fe595c-925a-4a80-874a-23126066ad95",
     "bit_type": "text",
     "type_id": 0,
-    "text": "We understand that this can be really difficult for you and your child. Would you like some advice on how to manage this behaviour?"
+    "text": "We understand that this can be really difficult for you and your child. Would you like some advice on how to manage this behaviour?",
+    "word_count": 401
   },
-  "425": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "92fe595c-925a-4a80-874a-23126066ad95",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 425
   },
-  "426": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "92fe595c-925a-4a80-874a-23126066ad95",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 426
   },
-  "427": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "7c5a8316-0ca9-4941-a450-aeac3c33aeed",
     "bit_type": "text",
     "type_id": 0,
-    "text": "You are doing much better than most people. Keep investing in One-on-One Time with your child!"
+    "text": "You are doing much better than most people. Keep investing in One-on-One Time with your child!",
+    "word_count": 427
   },
-  "443": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "16a40e55-fb93-43ca-9ce0-dd641bb8bf5c",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Thanks so much for answering these questions. "
+    "text": "Thanks so much for answering these questions. ",
+    "word_count": 443
   },
-  "451": {
+  {
     "has_extraline": 1,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "16a40e55-fb93-43ca-9ce0-dd641bb8bf5c",
     "bit_type": "text",
     "type_id": 2,
-    "text": "Be gentle with yourself. Just because something didn’t go well today, or you lost your temper, this doesn’t define who you are as a parent. Remind yourself of the things you did well today, even if they may seem small."
+    "text": "Be gentle with yourself. Just because something didn’t go well today, or you lost your temper, this doesn’t define who you are as a parent. Remind yourself of the things you did well today, even if they may seem small.",
+    "word_count": 451
   },
-  "491": {
+  {
     "has_extraline": 0,
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "9f8e9aa7-561a-416a-bf24-f8d82249d599",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Remember that we are here to help. Type \"Help\" if you ever want more parenting tips or other assistance."
+    "text": "Remember that we are here to help. Type \"Help\" if you ever want more parenting tips or other assistance.",
+    "word_count": 491
   },
-  "510": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "183fb6bb-b089-4050-b82f-5a15664004d1",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "yes y",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 510
   },
-  "512": {
+  {
     "flow_id": "c1e57b5e-2bb7-44da-915a-716fc8f127d1",
     "bit_id": "986b967b-faa1-4850-b080-f5d8313baf78",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "no n",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 512
   },
-  "514": {
+  {
     "has_extraline": 0,
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "af156f9d-0619-4acd-9473-ff308959471b",
     "bit_type": "text",
     "type_id": 0,
-    "text": "How can we help you with your children?"
+    "text": "How can we help you with your children?",
+    "word_count": 514
   },
-  "522": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "af156f9d-0619-4acd-9473-ff308959471b",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Activities to do",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 522
   },
-  "525": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "af156f9d-0619-4acd-9473-ff308959471b",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "Child behaviour",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 525
   },
-  "527": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "af156f9d-0619-4acd-9473-ff308959471b",
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "Child mental health",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 527
   },
-  "530": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "af156f9d-0619-4acd-9473-ff308959471b",
     "bit_type": "quick_replies",
     "type_id": 3,
     "text": "Child online safety",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 530
   },
-  "533": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "af156f9d-0619-4acd-9473-ff308959471b",
     "bit_type": "quick_replies",
     "type_id": 4,
     "text": "Talking about COVID-19",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 533
   },
-  "536": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "af156f9d-0619-4acd-9473-ff308959471b",
     "bit_type": "quick_replies",
     "type_id": 5,
     "text": "How to respond to a crisis",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 536
   },
-  "542": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "af156f9d-0619-4acd-9473-ff308959471b",
     "bit_type": "quick_replies",
     "type_id": 6,
     "text": "Children with disabilities",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 542
   },
-  "545": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "af156f9d-0619-4acd-9473-ff308959471b",
     "bit_type": "quick_replies",
     "type_id": 7,
     "text": "Information about child development",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 545
   },
-  "549": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "af156f9d-0619-4acd-9473-ff308959471b",
     "bit_type": "quick_replies",
     "type_id": 8,
     "text": "Go back to the previous options",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 549
   },
-  "555": {
+  {
     "has_extraline": 0,
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "122725b0-0370-41e7-b372-fee8acfe803c",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. "
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 555
   },
-  "563": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "d7966993-3d06-4f16-af4c-380254f891b2",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "1 activities",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 563
   },
-  "565": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "79b2115b-4d40-4f56-aa83-715f9406a1ec",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "2 behaviour",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 565
   },
-  "567": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "b9b06fb2-5153-446a-af0a-ce6ac4115201",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "3 mental health",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 567
   },
-  "570": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "19507b8c-d1fe-43d9-a8c2-af8cf1a2c56e",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "4 online safety",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 570
   },
-  "573": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "69765520-46a2-41bb-aff9-7e972293a820",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "5 Talking covid covid19 covid-19",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 573
   },
-  "578": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "d7f00c3d-7674-4887-a164-207770858dd9",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "6 How respond crisis",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 578
   },
-  "582": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "2f6dd134-f36a-42e3-bad5-a3b1939e6ffb",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "7 Children disabilities",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 582
   },
-  "585": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "0b07a8eb-e4cf-4b39-8181-b5e02720505b",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "8 information development",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 585
   },
-  "588": {
+  {
     "flow_id": "2607d116-93f2-41ff-8b4d-6e919a8e53c7",
     "bit_id": "7bb961f7-de3f-42e8-9ffa-4fc1fc08fef8",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "back",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 588
   },
-  "589": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "904e55cc-2453-415b-877c-d9dfeabc4ab5",
     "bit_type": "text",
     "type_id": 0,
-    "text": "All children, including those living with disabilities, need love, respect and time especially at difficult times."
+    "text": "All children, including those living with disabilities, need love, respect and time especially at difficult times.",
+    "word_count": 589
   },
-  "605": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "dd56e556-7c4f-4bdf-b71c-a42ffad32e0f",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Here are 6 simple tips that you can do to support children living with disabilities: "
+    "text": "Here are 6 simple tips that you can do to support children living with disabilities: ",
+    "word_count": 605
   },
-  "621": {
+  {
     "has_extraline": 1,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "dd56e556-7c4f-4bdf-b71c-a42ffad32e0f",
     "bit_type": "text",
     "type_id": 2,
-    "text": "1. Keep your child safe and well"
+    "text": "1. Keep your child safe and well",
+    "word_count": 621
   },
-  "628": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "dd56e556-7c4f-4bdf-b71c-a42ffad32e0f",
     "bit_type": "text",
     "type_id": 3,
-    "text": "2. Try to understand what they are feeling"
+    "text": "2. Try to understand what they are feeling",
+    "word_count": 628
   },
-  "636": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "dd56e556-7c4f-4bdf-b71c-a42ffad32e0f",
     "bit_type": "text",
     "type_id": 4,
-    "text": "3. Communicate and talk with them"
+    "text": "3. Communicate and talk with them",
+    "word_count": 636
   },
-  "642": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "dd56e556-7c4f-4bdf-b71c-a42ffad32e0f",
     "bit_type": "text",
     "type_id": 5,
-    "text": "4. Praise them!"
+    "text": "4. Praise them!",
+    "word_count": 642
   },
-  "645": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "dd56e556-7c4f-4bdf-b71c-a42ffad32e0f",
     "bit_type": "text",
     "type_id": 6,
-    "text": "5. Make things that you do the same every day to help them feel secure"
+    "text": "5. Make things that you do the same every day to help them feel secure",
+    "word_count": 645
   },
-  "660": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "dd56e556-7c4f-4bdf-b71c-a42ffad32e0f",
     "bit_type": "text",
     "type_id": 7,
-    "text": "6. Ask for help if you can"
+    "text": "6. Ask for help if you can",
+    "word_count": 660
   },
-  "667": {
+  {
     "has_extraline": 1,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "dd56e556-7c4f-4bdf-b71c-a42ffad32e0f",
     "bit_type": "text",
     "type_id": 9,
-    "text": "Type \"1\" to \"6\" to learn more about each tip. Type \"N\" to stop this tip."
+    "text": "Type \"1\" to \"6\" to learn more about each tip. Type \"N\" to stop this tip.",
+    "word_count": 667
   },
-  "683": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "8f961ca9-0b19-48dd-a5f8-4771b240bb59",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean."
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 683
   },
-  "690": {
+  {
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "6be84f72-7dab-401b-8708-c6c624a03021",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "no n stop",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 690
   },
-  "693": {
+  {
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "a2bbb650-05c2-446c-a0f1-ed046324b157",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "1",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 693
   },
-  "694": {
+  {
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "50597923-3080-4a30-a8ca-a2faaf50f350",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "2",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 694
   },
-  "695": {
+  {
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "8b24ae4f-06c4-4f61-b312-eb10a4e46868",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "3",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 695
   },
-  "696": {
+  {
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "972ab39e-977d-49eb-a2a4-3b6a45ec5261",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "4",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 696
   },
-  "697": {
+  {
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "9fe8cdc0-a896-46f9-bc4b-e65b890a2b1e",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "5",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 697
   },
-  "698": {
+  {
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "c90fa8c1-04d6-4243-9f4f-be724242d317",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "6",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 698
   },
-  "699": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "ff598aaa-ac71-4afe-9004-871ff8afb2ca",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Step 1. Keep your child safe and well "
+    "text": "Step 1. Keep your child safe and well ",
+    "word_count": 699
   },
-  "708": {
+  {
     "has_extraline": 1,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "ff598aaa-ac71-4afe-9004-871ff8afb2ca",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Keep your country's COVID-19 rules, and also help your child to be active - do whatever exercise you can with them inside or outside your home"
+    "text": "• Keep your country's COVID-19 rules, and also help your child to be active - do whatever exercise you can with them inside or outside your home",
+    "word_count": 708
   },
-  "735": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "ff598aaa-ac71-4afe-9004-871ff8afb2ca",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Keep emergency contact numbers somewhere easy to see"
+    "text": "• Keep emergency contact numbers somewhere easy to see",
+    "word_count": 735
   },
-  "744": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "a73bc356-cf09-4e5c-a85a-b68bd6a58b66",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Step 2. Try to understand how they are feeling"
+    "text": "Step 2. Try to understand how they are feeling",
+    "word_count": 744
   },
-  "753": {
+  {
     "has_extraline": 1,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "a73bc356-cf09-4e5c-a85a-b68bd6a58b66",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Your child may be feeling a lot of stress, anxiety, and frustration."
+    "text": "• Your child may be feeling a lot of stress, anxiety, and frustration.",
+    "word_count": 753
   },
-  "766": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "a73bc356-cf09-4e5c-a85a-b68bd6a58b66",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Tell them that you love them"
+    "text": "• Tell them that you love them",
+    "word_count": 766
   },
-  "772": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "a73bc356-cf09-4e5c-a85a-b68bd6a58b66",
     "bit_type": "text",
     "type_id": 4,
-    "text": "• Praise them for being good and for trying to be good! "
+    "text": "• Praise them for being good and for trying to be good! ",
+    "word_count": 772
   },
-  "784": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "89afe8c0-f6c4-4845-9424-24b6da1fe1f7",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Step 3. Talking and communicating with your child"
+    "text": "Step 3. Talking and communicating with your child",
+    "word_count": 784
   },
-  "792": {
+  {
     "has_extraline": 1,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "89afe8c0-f6c4-4845-9424-24b6da1fe1f7",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Get down to your child’s level when you speak. "
+    "text": "• Get down to your child’s level when you speak. ",
+    "word_count": 792
   },
-  "803": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "89afe8c0-f6c4-4845-9424-24b6da1fe1f7",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Look at them and smile"
+    "text": "• Look at them and smile",
+    "word_count": 803
   },
-  "809": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "89afe8c0-f6c4-4845-9424-24b6da1fe1f7",
     "bit_type": "text",
     "type_id": 4,
-    "text": "• Give them time to tell you or show you what they think"
+    "text": "• Give them time to tell you or show you what they think",
+    "word_count": 809
   },
-  "822": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "89afe8c0-f6c4-4845-9424-24b6da1fe1f7",
     "bit_type": "text",
     "type_id": 5,
-    "text": "• Tell your child that you understand"
+    "text": "• Tell your child that you understand",
+    "word_count": 822
   },
-  "829": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "b0d1ffab-c1a0-48b2-8f92-7007db970721",
     "bit_type": "text",
     "type_id": 0,
-    "text": "That's okay! You can always type \"Help\" if you want to learn more about how to support children living with disabilities."
+    "text": "That's okay! You can always type \"Help\" if you want to learn more about how to support children living with disabilities.",
+    "word_count": 829
   },
-  "850": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "736b7c74-4580-4a41-b181-2b8015d9db81",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Here is a link to disability services in your area that may also be helpful: [INSERT LOCAL LINK]"
+    "text": "Here is a link to disability services in your area that may also be helpful: [INSERT LOCAL LINK]",
+    "word_count": 850
   },
-  "868": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "736b7c74-4580-4a41-b181-2b8015d9db81",
     "bit_type": "text",
     "type_id": 1,
-    "text": "Chat later!"
+    "text": "Chat later!",
+    "word_count": 868
   },
-  "870": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "6e66a13a-ee8c-43e1-a822-bec277c7d546",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Step 4. Praise them!"
+    "text": "Step 4. Praise them!",
+    "word_count": 870
   },
-  "874": {
+  {
     "has_extraline": 1,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "6e66a13a-ee8c-43e1-a822-bec277c7d546",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Praise them for behaving well, and for trying. "
+    "text": "• Praise them for behaving well, and for trying. ",
+    "word_count": 874
   },
-  "884": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "6e66a13a-ee8c-43e1-a822-bec277c7d546",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Focus on what they can do, not what they can't."
+    "text": "• Focus on what they can do, not what they can't.",
+    "word_count": 884
   },
-  "895": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "6e66a13a-ee8c-43e1-a822-bec277c7d546",
     "bit_type": "text",
     "type_id": 4,
-    "text": "• Only help children when they need it. It is also good to build independence!"
+    "text": "• Only help children when they need it. It is also good to build independence!",
+    "word_count": 895
   },
-  "910": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "2e9735d6-6613-4eca-bf66-ec88a909feb2",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Step 5. Make daily plans to help them feel secure"
+    "text": "Step 5. Make daily plans to help them feel secure",
+    "word_count": 910
   },
-  "920": {
+  {
     "has_extraline": 1,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "2e9735d6-6613-4eca-bf66-ec88a909feb2",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Having things that are the same each day helps children feel secure and safe."
+    "text": "• Having things that are the same each day helps children feel secure and safe.",
+    "word_count": 920
   },
-  "935": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "2e9735d6-6613-4eca-bf66-ec88a909feb2",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Make a daily plan that includes some things they like to do."
+    "text": "• Make a daily plan that includes some things they like to do.",
+    "word_count": 935
   },
-  "948": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "2e9735d6-6613-4eca-bf66-ec88a909feb2",
     "bit_type": "text",
     "type_id": 4,
-    "text": "• Help your child connect to friends and family members through phone, writing cards, or drawing pictures."
+    "text": "• Help your child connect to friends and family members through phone, writing cards, or drawing pictures.",
+    "word_count": 948
   },
-  "965": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "48a92267-a0bc-4ad8-be51-fd7daf319001",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Step 6. Ask for help if you can"
+    "text": "Step 6. Ask for help if you can",
+    "word_count": 965
   },
-  "973": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "48a92267-a0bc-4ad8-be51-fd7daf319001",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• Share the load with other adult family members."
+    "text": "• Share the load with other adult family members.",
+    "word_count": 973
   },
-  "982": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "48a92267-a0bc-4ad8-be51-fd7daf319001",
     "bit_type": "text",
     "type_id": 2,
-    "text": "•  You are not alone! Keep connected with people who understand your situation."
+    "text": "•  You are not alone! Keep connected with people who understand your situation.",
+    "word_count": 982
   },
-  "996": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "e537a6aa-7d64-4fb5-8648-047277bc0f1e",
     "bit_type": "text",
     "type_id": 0,
-    "text": "• Share your challenges AND your successes."
+    "text": "• Share your challenges AND your successes.",
+    "word_count": 996
   },
-  "1003": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "e537a6aa-7d64-4fb5-8648-047277bc0f1e",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• It is normal to feel stressed, frustrated, and afraid at this time."
+    "text": "• It is normal to feel stressed, frustrated, and afraid at this time.",
+    "word_count": 1003
   },
-  "1016": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "e537a6aa-7d64-4fb5-8648-047277bc0f1e",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Be kind to yourself and take a break when you need to!"
+    "text": "• Be kind to yourself and take a break when you need to!",
+    "word_count": 1016
   },
-  "1029": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "bab3b40f-99e8-4f1d-ad7b-f6da9aeac794",
     "bit_type": "text",
     "type_id": 0,
-    "text": "• Give your child choices: this gives them a sense of control and builds self-esteem."
+    "text": "• Give your child choices: this gives them a sense of control and builds self-esteem.",
+    "word_count": 1029
   },
-  "1044": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "bab3b40f-99e8-4f1d-ad7b-f6da9aeac794",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• Use simple language and clear instructions. If words aren't good for them, try gestures and pictures. "
+    "text": "• Use simple language and clear instructions. If words aren't good for them, try gestures and pictures. ",
+    "word_count": 1044
   },
-  "1062": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "cead393b-002c-420a-b6ed-cd10f7d70388",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Do you want to go back and learn more about how to support children living with disabilities?"
+    "text": "Do you want to go back and learn more about how to support children living with disabilities?",
+    "word_count": 1062
   },
-  "1079": {
+  {
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "cead393b-002c-420a-b6ed-cd10f7d70388",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1079
   },
-  "1080": {
+  {
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "cead393b-002c-420a-b6ed-cd10f7d70388",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1080
   },
-  "1081": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "b731fb4e-1a81-4192-ae7c-acc758759f7f",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean."
+    "text": "Sorry, I don't understand what you mean.",
+    "word_count": 1081
   },
-  "1088": {
+  {
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "7dfb473f-e784-491d-9ddb-5882744892f7",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "yes y",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1088
   },
-  "1090": {
+  {
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "583d8bc2-1416-418a-9790-83e2e333a34c",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "no n",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1090
   },
-  "1092": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "8d47000d-d790-438a-ae67-3d3afda7ad22",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Well done for adding another tool to your Parenting Toolkit! Children living with disabilities need love, respect and time – just like any other child."
+    "text": "Well done for adding another tool to your Parenting Toolkit! Children living with disabilities need love, respect and time – just like any other child.",
+    "word_count": 1092
   },
-  "1117": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "ef46e922-fcef-4a41-acd5-0c4e6061f855",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Here is a link to disability services in your area that may also be helpful: [INSERT LOCAL LINK]"
+    "text": "Here is a link to disability services in your area that may also be helpful: [INSERT LOCAL LINK]",
+    "word_count": 1117
   },
-  "1135": {
+  {
     "has_extraline": 0,
     "flow_id": "7a95fef3-722e-43e0-be6f-121aa4a14197",
     "bit_id": "2d0a4f9c-5486-4221-bc1b-f8590ec6241c",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat later!"
+    "text": "Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat later!",
+    "word_count": 1135
   },
-  "1152": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "bdbf5798-8814-4e54-89aa-97961b9a79f8",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sometimes we feel frustrated with our children because we expect them to behave in ways that they are not yet developmentally ready for. "
+    "text": "Sometimes we feel frustrated with our children because we expect them to behave in ways that they are not yet developmentally ready for. ",
+    "word_count": 1152
   },
-  "1176": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "c683ec42-2f37-47ab-a00a-2ad40948d194",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Learning about child development means we can have realistic expectations and also to spot any problems with their growth and development."
+    "text": "Learning about child development means we can have realistic expectations and also to spot any problems with their growth and development.",
+    "word_count": 1176
   },
-  "1197": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "dda8bd02-8939-4293-94cb-f491191e268b",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry, I don't understand what you mean. "
+    "text": "Sorry, I don't understand what you mean. ",
+    "word_count": 1197
   },
-  "1205": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "a762f8d7-7790-4180-a0c3-589f02a06d26",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Would you like to learn more about this tip?"
+    "text": "Would you like to learn more about this tip?",
+    "word_count": 1205
   },
-  "1214": {
+  {
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "a762f8d7-7790-4180-a0c3-589f02a06d26",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "Yes",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1214
   },
-  "1215": {
+  {
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "a762f8d7-7790-4180-a0c3-589f02a06d26",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "No",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1215
   },
-  "1216": {
+  {
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "a2e4bc68-8ee4-4022-862b-410894603bf9",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "YES Y",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1216
   },
-  "1218": {
+  {
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "1a2c916b-26d7-4eba-9d75-3f00f3d26957",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "NO N",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1218
   },
-  "1220": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "3d921711-5215-42f7-87d1-0831bc745f14",
     "bit_type": "text",
     "type_id": 0,
-    "text": "All children develop at different rates. But there are some things that we expect children to be able to do at an age. These are called ‘development’ milestones."
+    "text": "All children develop at different rates. But there are some things that we expect children to be able to do at an age. These are called ‘development’ milestones.",
+    "word_count": 1220
   },
-  "1248": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "4290934e-1aa9-46d4-ace8-dcffa4446e7e",
     "bit_type": "text",
     "type_id": 0,
-    "text": "That's okay! You can always type \"Help\" if you want to learn more about child development. "
+    "text": "That's okay! You can always type \"Help\" if you want to learn more about child development. ",
+    "word_count": 1248
   },
-  "1265": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "3ceb2007-b6a3-42f7-ae1f-4074aabd6e7b",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Many things affect our children's development. For example, development is helped by eating healthy food, having immunisations, and parents or caregivers who talk to them a lot. "
+    "text": "Many things affect our children's development. For example, development is helped by eating healthy food, having immunisations, and parents or caregivers who talk to them a lot. ",
+    "word_count": 1265
   },
-  "1293": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "ac6efe76-05f2-42e7-88bf-8f423d782223",
     "bit_type": "text",
     "type_id": 0,
-    "text": "If you are concerned that your child might be delayed in their development, here is a link to services in your area that may also be helpful: [INSERT LOCAL LINK]"
+    "text": "If you are concerned that your child might be delayed in their development, here is a link to services in your area that may also be helpful: [INSERT LOCAL LINK]",
+    "word_count": 1293
   },
-  "1323": {
+  {
     "has_extraline": 1,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "ac6efe76-05f2-42e7-88bf-8f423d782223",
     "bit_type": "text",
     "type_id": 2,
-    "text": "You can also visit UNICEF's website for more helpful information about child development [INSERT LOCAL UNICEF LINK]"
+    "text": "You can also visit UNICEF's website for more helpful information about child development [INSERT LOCAL UNICEF LINK]",
+    "word_count": 1323
   },
-  "1340": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "ac6efe76-05f2-42e7-88bf-8f423d782223",
     "bit_type": "text",
     "type_id": 3,
-    "text": "Chat to you later!"
+    "text": "Chat to you later!",
+    "word_count": 1340
   },
-  "1344": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "518140ea-8cfa-44ad-8a1a-e5eff361d929",
     "bit_type": "text",
     "type_id": 0,
-    "text": "I want to learn more about child development milestones for"
+    "text": "I want to learn more about child development milestones for",
+    "word_count": 1344
   },
-  "1354": {
+  {
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "518140ea-8cfa-44ad-8a1a-e5eff361d929",
     "bit_type": "quick_replies",
     "type_id": 0,
     "text": "babies (0-2 years)",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1354
   },
-  "1357": {
+  {
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "518140ea-8cfa-44ad-8a1a-e5eff361d929",
     "bit_type": "quick_replies",
     "type_id": 1,
     "text": "young children (2-9 years)",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1357
   },
-  "1361": {
+  {
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "518140ea-8cfa-44ad-8a1a-e5eff361d929",
     "bit_type": "quick_replies",
     "type_id": 2,
     "text": "teens (10-17 years)",
-    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument",
+    "word_count": 1361
   },
-  "1364": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "951fbe22-afb8-4e17-9c4a-8fd0e2951b59",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Sorry I don't understand what you mean. "
+    "text": "Sorry I don't understand what you mean. ",
+    "word_count": 1364
   },
-  "1372": {
+  {
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "53a18557-dd22-4adc-bb6c-1affd43225c6",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "baby babies",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1372
   },
-  "1374": {
+  {
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "caf77f1a-f8bd-4ad2-a645-585ddba62924",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "young child children",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1374
   },
-  "1377": {
+  {
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "62dd9ea2-bd79-4468-b496-8a0fdc8d6d0b",
     "bit_type": "arguments",
     "type_id": "0",
     "text": "teens teenagers teen teenager",
-    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+    "note": "This is an argument and it may be used to identify a corresponding quick reply",
+    "word_count": 1377
   },
-  "1381": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "47fc4eff-a6b9-4b45-a55e-80147e85d30c",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Infant (0–1 year) needs:"
+    "text": "Infant (0–1 year) needs:",
+    "word_count": 1381
   },
-  "1385": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "47fc4eff-a6b9-4b45-a55e-80147e85d30c",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• Us to provide food, sleep, cleaning, comfort and safety."
+    "text": "• Us to provide food, sleep, cleaning, comfort and safety.",
+    "word_count": 1385
   },
-  "1395": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "47fc4eff-a6b9-4b45-a55e-80147e85d30c",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• A strong bond with parent/ caregiver."
+    "text": "• A strong bond with parent/ caregiver.",
+    "word_count": 1395
   },
-  "1402": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "47fc4eff-a6b9-4b45-a55e-80147e85d30c",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Lots of play and attention - the most active time of brain development is during the first 1000 days of life!"
+    "text": "• Lots of play and attention - the most active time of brain development is during the first 1000 days of life!",
+    "word_count": 1402
   },
-  "1424": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "b11f6051-c39c-4b58-88ef-91ba88904883",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Toddlers (2-3 years):"
+    "text": "Toddlers (2-3 years):",
+    "word_count": 1424
   },
-  "1427": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "b11f6051-c39c-4b58-88ef-91ba88904883",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• Become a curious little explorer - watch out for climbing! "
+    "text": "• Become a curious little explorer - watch out for climbing! ",
+    "word_count": 1427
   },
-  "1439": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "b11f6051-c39c-4b58-88ef-91ba88904883",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Learn through play and trying things out"
+    "text": "• Learn through play and trying things out",
+    "word_count": 1439
   },
-  "1447": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "b11f6051-c39c-4b58-88ef-91ba88904883",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Want to learn how to do new things (like getting dressed) and make their own decisions."
+    "text": "• Want to learn how to do new things (like getting dressed) and make their own decisions.",
+    "word_count": 1447
   },
-  "1464": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "b11f6051-c39c-4b58-88ef-91ba88904883",
     "bit_type": "text",
     "type_id": 4,
-    "text": "• Want your praise and your approval"
+    "text": "• Want your praise and your approval",
+    "word_count": 1464
   },
-  "1471": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "ffdbee17-df01-4613-8032-2afe1e757062",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Young teenagers (10-12 years)"
+    "text": "Young teenagers (10-12 years)",
+    "word_count": 1471
   },
-  "1475": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "ffdbee17-df01-4613-8032-2afe1e757062",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• More interested in learning in school."
+    "text": "• More interested in learning in school.",
+    "word_count": 1475
   },
-  "1482": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "ffdbee17-df01-4613-8032-2afe1e757062",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Start to want independence and trust."
+    "text": "• Start to want independence and trust.",
+    "word_count": 1482
   },
-  "1489": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "ffdbee17-df01-4613-8032-2afe1e757062",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Want to spend time with other children and young teenagers."
+    "text": "• Want to spend time with other children and young teenagers.",
+    "word_count": 1489
   },
-  "1500": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "ffdbee17-df01-4613-8032-2afe1e757062",
     "bit_type": "text",
     "type_id": 4,
-    "text": "• May be interested in religion or spirituality"
+    "text": "• May be interested in religion or spirituality",
+    "word_count": 1500
   },
-  "1508": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "1dc92e84-5ae7-4dcd-b568-2892dc3eddad",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Infants (0-1):"
+    "text": "Infants (0-1):",
+    "word_count": 1508
   },
-  "1510": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "1dc92e84-5ae7-4dcd-b568-2892dc3eddad",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• 0–6 months: Smile, babble and cry to attract your attention. We should provide care, cuddling and protection."
+    "text": "• 0–6 months: Smile, babble and cry to attract your attention. We should provide care, cuddling and protection.",
+    "word_count": 1510
   },
-  "1528": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "1dc92e84-5ae7-4dcd-b568-2892dc3eddad",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• 6–11 months: Cling to you, especially when feeling insecure or frightened. "
+    "text": "• 6–11 months: Cling to you, especially when feeling insecure or frightened. ",
+    "word_count": 1528
   },
-  "1541": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "1dc92e84-5ae7-4dcd-b568-2892dc3eddad",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• 12–23 months: Start to walk, talk and explore things around them!"
+    "text": "• 12–23 months: Start to walk, talk and explore things around them!",
+    "word_count": 1541
   },
-  "1553": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "8215a29d-ad25-4f80-ae6c-324d5977823b",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Toddlers (2-3 years):"
+    "text": "Toddlers (2-3 years):",
+    "word_count": 1553
   },
-  "1556": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "8215a29d-ad25-4f80-ae6c-324d5977823b",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• Start speaking in sentences and  learning new words."
+    "text": "• Start speaking in sentences and  learning new words.",
+    "word_count": 1556
   },
-  "1566": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "8215a29d-ad25-4f80-ae6c-324d5977823b",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Does not like to lose or take turns, but sharing can be taught."
+    "text": "• Does not like to lose or take turns, but sharing can be taught.",
+    "word_count": 1566
   },
-  "1580": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "8215a29d-ad25-4f80-ae6c-324d5977823b",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• May express feelings in dramatic ways (like screaming on the floor!). Can start to learn how to manage their feelings."
+    "text": "• May express feelings in dramatic ways (like screaming on the floor!). Can start to learn how to manage their feelings.",
+    "word_count": 1580
   },
-  "1601": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "e0b28ede-e076-4064-8eff-bbbe22289b83",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Young teenagers (10-12 years)"
+    "text": "Young teenagers (10-12 years)",
+    "word_count": 1601
   },
-  "1605": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "e0b28ede-e076-4064-8eff-bbbe22289b83",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• May answer back to adults to show that they “know”."
+    "text": "• May answer back to adults to show that they “know”.",
+    "word_count": 1605
   },
-  "1616": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "e0b28ede-e076-4064-8eff-bbbe22289b83",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Can be very self-conscious and sensitive"
+    "text": "• Can be very self-conscious and sensitive",
+    "word_count": 1616
   },
-  "1623": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "e0b28ede-e076-4064-8eff-bbbe22289b83",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Can learn to better manage anger and tolerate frustration."
+    "text": "• Can learn to better manage anger and tolerate frustration.",
+    "word_count": 1623
   },
-  "1633": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "67ebfc42-9c8c-4018-9241-695b7f420a64",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Middle teenagers (13-14 years)"
+    "text": "Middle teenagers (13-14 years)",
+    "word_count": 1633
   },
-  "1637": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "67ebfc42-9c8c-4018-9241-695b7f420a64",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• Begin to challenge adult rules"
+    "text": "• Begin to challenge adult rules",
+    "word_count": 1637
   },
-  "1643": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "67ebfc42-9c8c-4018-9241-695b7f420a64",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Are often insecure and confused."
+    "text": "• Are often insecure and confused.",
+    "word_count": 1643
   },
-  "1649": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "67ebfc42-9c8c-4018-9241-695b7f420a64",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Feelings get hurt easily and have mood swings"
+    "text": "• Feelings get hurt easily and have mood swings",
+    "word_count": 1649
   },
-  "1658": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "67ebfc42-9c8c-4018-9241-695b7f420a64",
     "bit_type": "text",
     "type_id": 4,
-    "text": "• Try to be the boss and are unhappy if they lose."
+    "text": "• Try to be the boss and are unhappy if they lose.",
+    "word_count": 1658
   },
-  "1670": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "55819125-bce1-42dc-9d10-12b4f76aaca5",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Young children (4-6 years):"
+    "text": "Young children (4-6 years):",
+    "word_count": 1670
   },
-  "1674": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "55819125-bce1-42dc-9d10-12b4f76aaca5",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• Same as toddlers, but also..."
+    "text": "• Same as toddlers, but also...",
+    "word_count": 1674
   },
-  "1680": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "55819125-bce1-42dc-9d10-12b4f76aaca5",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Learn through actions and play."
+    "text": "• Learn through actions and play.",
+    "word_count": 1680
   },
-  "1686": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "55819125-bce1-42dc-9d10-12b4f76aaca5",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Develop friendships with other children"
+    "text": "• Develop friendships with other children",
+    "word_count": 1686
   },
-  "1692": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "55819125-bce1-42dc-9d10-12b4f76aaca5",
     "bit_type": "text",
     "type_id": 4,
-    "text": "• Find it difficult to separate make-believe from reality. Still express feelings in dramatic ways!"
+    "text": "• Find it difficult to separate make-believe from reality. Still express feelings in dramatic ways!",
+    "word_count": 1692
   },
-  "1707": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "3502dcfd-a9e9-4451-8e24-e75295379991",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Middle teenagers (13-14 years)"
+    "text": "Middle teenagers (13-14 years)",
+    "word_count": 1707
   },
-  "1711": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "3502dcfd-a9e9-4451-8e24-e75295379991",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• Their friends are important and affect their choices"
+    "text": "• Their friends are important and affect their choices",
+    "word_count": 1711
   },
-  "1720": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "3502dcfd-a9e9-4451-8e24-e75295379991",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Need some freedom but also reliable rules that don't change"
+    "text": "• Need some freedom but also reliable rules that don't change",
+    "word_count": 1720
   },
-  "1731": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "3502dcfd-a9e9-4451-8e24-e75295379991",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Need affection, reassurance, self-esteem, encouragement to believe in their abilities"
+    "text": "• Need affection, reassurance, self-esteem, encouragement to believe in their abilities",
+    "word_count": 1731
   },
-  "1742": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "253b3d68-ed9a-4551-8f09-c0da913f1330",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Young children (4-6 years):"
+    "text": "Young children (4-6 years):",
+    "word_count": 1742
   },
-  "1746": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "253b3d68-ed9a-4551-8f09-c0da913f1330",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• May talk a lot; ask many questions. We should be honest when we reply! Our child may ask again if they don't understand or want to know more"
+    "text": "• May talk a lot; ask many questions. We should be honest when we reply! Our child may ask again if they don't understand or want to know more",
+    "word_count": 1746
   },
-  "1775": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "253b3d68-ed9a-4551-8f09-c0da913f1330",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Does not like to lose, share or take turns, but losing and taking turns can be taught."
+    "text": "• Does not like to lose, share or take turns, but losing and taking turns can be taught.",
+    "word_count": 1775
   },
-  "1793": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "d493dd9f-f415-4ce1-a869-dd323f46fa1a",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Older teenagers (15–19 years)"
+    "text": "Older teenagers (15–19 years)",
+    "word_count": 1793
   },
-  "1797": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "d493dd9f-f415-4ce1-a869-dd323f46fa1a",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• The teen years are the second most active time of brain development!"
+    "text": "• The teen years are the second most active time of brain development!",
+    "word_count": 1797
   },
-  "1810": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "d493dd9f-f415-4ce1-a869-dd323f46fa1a",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Your child is almost an adult, they are able to communicate with you about"
+    "text": "• Your child is almost an adult, they are able to communicate with you about",
+    "word_count": 1810
   },
-  "1825": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "d493dd9f-f415-4ce1-a869-dd323f46fa1a",
     "bit_type": "text",
     "type_id": 3,
-    "text": "almost anything."
+    "text": "almost anything.",
+    "word_count": 1825
   },
-  "1827": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "d493dd9f-f415-4ce1-a869-dd323f46fa1a",
     "bit_type": "text",
     "type_id": 4,
-    "text": "• They can think about new ideas, develop their own ideals and set their"
+    "text": "• They can think about new ideas, develop their own ideals and set their",
+    "word_count": 1827
   },
-  "1841": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "d493dd9f-f415-4ce1-a869-dd323f46fa1a",
     "bit_type": "text",
     "type_id": 5,
-    "text": "own course."
+    "text": "own course.",
+    "word_count": 1841
   },
-  "1843": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "eeb938d4-0e71-49eb-b7ac-1a223a39e210",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Older children (7-9 years)"
+    "text": "Older children (7-9 years)",
+    "word_count": 1843
   },
-  "1847": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "eeb938d4-0e71-49eb-b7ac-1a223a39e210",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• Same early childhood, but also…"
+    "text": "• Same early childhood, but also…",
+    "word_count": 1847
   },
-  "1853": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "eeb938d4-0e71-49eb-b7ac-1a223a39e210",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Interested in learning at school."
+    "text": "• Interested in learning at school.",
+    "word_count": 1853
   },
-  "1859": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "eeb938d4-0e71-49eb-b7ac-1a223a39e210",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Starts to want independence and trust."
+    "text": "• Starts to want independence and trust.",
+    "word_count": 1859
   },
-  "1866": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "eeb938d4-0e71-49eb-b7ac-1a223a39e210",
     "bit_type": "text",
     "type_id": 4,
-    "text": "• Wants to spend time with other children."
+    "text": "• Wants to spend time with other children.",
+    "word_count": 1866
   },
-  "1874": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "f18daea4-7575-43d9-b009-7b1caf5a067a",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Older teenagers (15–19 years)"
+    "text": "Older teenagers (15–19 years)",
+    "word_count": 1874
   },
-  "1878": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "f18daea4-7575-43d9-b009-7b1caf5a067a",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• They are forming their own identity and have a growing sense of their"
+    "text": "• They are forming their own identity and have a growing sense of their",
+    "word_count": 1878
   },
-  "1892": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "f18daea4-7575-43d9-b009-7b1caf5a067a",
     "bit_type": "text",
     "type_id": 2,
-    "text": "sexuality"
+    "text": "sexuality",
+    "word_count": 1892
   },
-  "1893": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "f18daea4-7575-43d9-b009-7b1caf5a067a",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• They may prefer being with peers more than with you"
+    "text": "• They may prefer being with peers more than with you",
+    "word_count": 1893
   },
-  "1904": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "f18daea4-7575-43d9-b009-7b1caf5a067a",
     "bit_type": "text",
     "type_id": 4,
-    "text": "• They may show risk-taking behaviours, frequent mood swings, and rebellious"
+    "text": "• They may show risk-taking behaviours, frequent mood swings, and rebellious",
+    "word_count": 1904
   },
-  "1915": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "f18daea4-7575-43d9-b009-7b1caf5a067a",
     "bit_type": "text",
     "type_id": 5,
-    "text": "attitudes. They can also have exciting new ideas!"
+    "text": "attitudes. They can also have exciting new ideas!",
+    "word_count": 1915
   },
-  "1923": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "e1db30bc-340f-450a-bfb6-a4f0e8445dc6",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Older children (7-9 years)"
+    "text": "Older children (7-9 years)",
+    "word_count": 1923
   },
-  "1927": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "e1db30bc-340f-450a-bfb6-a4f0e8445dc6",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• May start to ask questions about religion"
+    "text": "• May start to ask questions about religion",
+    "word_count": 1927
   },
-  "1935": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "e1db30bc-340f-450a-bfb6-a4f0e8445dc6",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• May answer back to adults to show that they “know”."
+    "text": "• May answer back to adults to show that they “know”.",
+    "word_count": 1935
   },
-  "1946": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "e1db30bc-340f-450a-bfb6-a4f0e8445dc6",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Can be very self-conscious and sensitive. May be very active. By now they should be getting better at managing anger and frustration."
+    "text": "• Can be very self-conscious and sensitive. May be very active. By now they should be getting better at managing anger and frustration.",
+    "word_count": 1946
   },
-  "1969": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "a6bef77b-8e2b-4e12-8f01-c37f9d74b155",
     "bit_type": "text",
     "type_id": 0,
-    "text": "The most important things that you can do for your teen in this stage are:"
+    "text": "The most important things that you can do for your teen in this stage are:",
+    "word_count": 1969
   },
-  "1984": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "a6bef77b-8e2b-4e12-8f01-c37f9d74b155",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• Continue providing love, support and guidance and build a strong"
+    "text": "• Continue providing love, support and guidance and build a strong",
+    "word_count": 1984
   },
-  "1995": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "a6bef77b-8e2b-4e12-8f01-c37f9d74b155",
     "bit_type": "text",
     "type_id": 2,
-    "text": "parent-child connection"
+    "text": "parent-child connection",
+    "word_count": 1995
   },
-  "1997": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "a6bef77b-8e2b-4e12-8f01-c37f9d74b155",
     "bit_type": "text",
     "type_id": 3,
-    "text": "• Monitor who their friends are, have clear rules to keep them safe"
+    "text": "• Monitor who their friends are, have clear rules to keep them safe",
+    "word_count": 1997
   },
-  "2010": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "a6bef77b-8e2b-4e12-8f01-c37f9d74b155",
     "bit_type": "text",
     "type_id": 4,
-    "text": "• Nurture their independence"
+    "text": "• Nurture their independence",
+    "word_count": 2010
   },
-  "2014": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "941c7843-f7a0-4ee5-83ea-bf477956e9da",
     "bit_type": "text",
     "type_id": 0,
-    "text": "• Be patient and accepting of the person they are becoming - even if it is not what you had imagined"
+    "text": "• Be patient and accepting of the person they are becoming - even if it is not what you had imagined",
+    "word_count": 2014
   },
-  "2035": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "941c7843-f7a0-4ee5-83ea-bf477956e9da",
     "bit_type": "text",
     "type_id": 1,
-    "text": "• Encourage them to begin to take responsibility for the future"
+    "text": "• Encourage them to begin to take responsibility for the future",
+    "word_count": 2035
   },
-  "2046": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "941c7843-f7a0-4ee5-83ea-bf477956e9da",
     "bit_type": "text",
     "type_id": 2,
-    "text": "• Keep supporting them and loving them so that they feel comfortable, secure, and safe"
+    "text": "• Keep supporting them and loving them so that they feel comfortable, secure, and safe",
+    "word_count": 2046
   },
-  "2061": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "75cd0d97-54b4-4a5e-98ed-c316ec698184",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Well done for adding another tool to your Parenting Toolkit! Knowing about child development can help you feel less frustrated by them."
+    "text": "Well done for adding another tool to your Parenting Toolkit! Knowing about child development can help you feel less frustrated by them.",
+    "word_count": 2061
   },
-  "2083": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "8554ad67-8a1f-47b3-b383-ac742313b25f",
     "bit_type": "text",
     "type_id": 0,
-    "text": "If you are concerned that your child might be delayed in their development, here is a link to services in your area that may also be helpful: [INSERT LOCAL LINK]"
+    "text": "If you are concerned that your child might be delayed in their development, here is a link to services in your area that may also be helpful: [INSERT LOCAL LINK]",
+    "word_count": 2083
   },
-  "2113": {
+  {
     "has_extraline": 1,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "8554ad67-8a1f-47b3-b383-ac742313b25f",
     "bit_type": "text",
     "type_id": 2,
-    "text": "You can also visit UNICEF's website for more helpful information about child development [INSERT LOCAL UNICEF LINK]"
+    "text": "You can also visit UNICEF's website for more helpful information about child development [INSERT LOCAL UNICEF LINK]",
+    "word_count": 2113
   },
-  "2130": {
+  {
     "has_extraline": 0,
     "flow_id": "c45437ae-0fda-4e9a-967d-194c169874b0",
     "bit_id": "7b1c2fe6-1e43-47dd-abdf-8fec3d954457",
     "bit_type": "text",
     "type_id": 0,
-    "text": "Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat to you later!"
+    "text": "Remember you can always type \"Help\" if you ever want more parenting tips or support. Chat to you later!",
+    "word_count": 2130
   }
-}
+]
