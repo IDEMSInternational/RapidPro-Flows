@@ -1,6 +1,7 @@
 var fs = require('fs');
 var path = require("path");
-var input_path = path.join(__dirname, "../products/virtual-maths-camp/development/idems-vmc.json");
+//var input_path = path.join(__dirname, "../products/virtual-maths-camp/development/idems-vmc.json");
+var input_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master_helpme_alphabetical.json");
 var json_string = fs.readFileSync(input_path).toString();
 var obj = JSON.parse(json_string);
 
@@ -61,6 +62,7 @@ for (fl = 0; fl < obj.flows.length; fl++) {
         flow_id = obj.flows[fl].uuid;
         flow_info = {};
         flow_info.flowid = flow_id;
+        flow_info.name = obj.flows[fl].name;
         localization.eng = eng_localization;
         flow_info.localization = localization; 
         bits_to_translate[flow_id] = flow_info;
@@ -68,7 +70,8 @@ for (fl = 0; fl < obj.flows.length; fl++) {
         eng_localization = {};
     }
     new_flows = JSON.stringify(bits_to_translate, null, 2);
-    var output_path = path.join(__dirname, "../products/virtual-maths-camp/development/file_for_translation_idems-vmc.json");
+    //var output_path = path.join(__dirname, "../products/virtual-maths-camp/development/file_for_translation_idems-vmc.json");
+    var output_path = path.join(__dirname, "../products/covid-19-parenting/development/translation/eng/intermediary-files/file_for_translation_plh_master.json");
     fs.writeFile(output_path, new_flows, function (err, result) {
         if (err) console.log('error', err);
     });
