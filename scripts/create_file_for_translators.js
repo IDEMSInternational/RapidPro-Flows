@@ -1,7 +1,7 @@
 var fs = require('fs');
 var path = require("path");
 // var input_path = path.join(__dirname, "../products/virtual-maths-camp/development/file_for_translation_idems-vmc.json");
-var input_path = path.join(__dirname, "../products/covid-19-parenting/development/file_for_translation_plh_master.json");
+var input_path = path.join(__dirname, "../products/covid-19-parenting/development/translation/eng/intermediary-files/file_for_translation_plh_master.json");
 var json_string = fs.readFileSync(input_path).toString();
 var obj = JSON.parse(json_string);
 
@@ -21,6 +21,9 @@ var count = 1;
 
 
 for (fl in obj) {
+    if (!obj[fl].name.startsWith("PLH - Activity") ){
+        break;
+    }
     localization = obj[fl].localization.eng;
     for (key_bit in localization) {
         bit = localization[key_bit];
@@ -102,7 +105,8 @@ for (fl in obj) {
 
     if (word_count > 2000) {
         new_file = JSON.stringify(new_file, null, 2);
-        output_path = path.join(__dirname, "../products/covid-19-parenting/development/non_nested_file_for_translation_plh_master_part_" + count + ".json");
+        //output_path = path.join(__dirname, "../products/covid-19-parenting/development/non_nested_file_for_translation_plh_master_part_" + count + ".json");
+        output_path = path.join(__dirname, "../products/covid-19-parenting/development//translation/eng/file_for_translation_plh_master_activity_" + count + ".json");
         fs.writeFile(output_path, new_file, function (err, result) {
             if (err) console.log('error', err);
         });
@@ -116,7 +120,8 @@ for (fl in obj) {
 
 
 new_file = JSON.stringify(new_file, null, 2);
-output_path = path.join(__dirname, "../products/virtual-maths-camp/development/non_nested_file_for_translation_plh_master_part_" + count + ".json");
+//output_path = path.join(__dirname, "../products/virtual-maths-camp/development/non_nested_file_for_translation_plh_master_part_" + count + ".json");
+output_path = path.join(__dirname, "../products/covid-19-parenting/development//translation/eng/file_for_translation_plh_master_activity_" + count + ".json");
 fs.writeFile(output_path, new_file, function (err, result) {
     if (err) console.log('error', err);
 });
