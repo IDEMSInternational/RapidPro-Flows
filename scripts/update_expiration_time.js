@@ -9,7 +9,8 @@ var obj = JSON.parse(json_string);
 var fl;
 
 for (fl = 0; fl < obj.flows.length; fl++) {
-    obj.flows[fl].expire_after_minutes = 180;
+    obj.flows[fl].expire_after_minutes = 60;
+    obj.flows[fl].ignore_triggers = true;
 };
 
 new_flows = JSON.stringify(obj, null, 2);
