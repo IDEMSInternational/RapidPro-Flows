@@ -57,8 +57,14 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                                 if (obj.flows[fl].nodes[j].router.operand == "@input.text") {
                                     for (c = 0; c < obj.flows[fl].nodes[j].router.cases.length; c++) {
                                         if (obj.flows[fl].nodes[j].router.cases[c].type == "has_any_word") {
+                                            
+                                            //old_test = obj.flows[fl].nodes[j].router.cases[c].arguments[0] + ",";
+                                            //new_test = obj.flows[fl].nodes[j].router.cases[c].arguments[0] + ",";
 
                                             arg_list = obj.flows[fl].nodes[j].router.cases[c].arguments[0].split(/[\s,]+/).filter(function(i){return i});
+                                            old_test = arg_list.join(",")+ ",";
+                                            new_test = arg_list.join(",")+ ",";
+                                            
                                             debug = debug + "arg list: " + arg_list + "\n";
                                             for (ar = 0; ar < arg_list.length; ar++) {
 
@@ -78,7 +84,7 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                                                 }
                                             }
                                            
-                                            if (new_test == ""){
+                                            if (new_test == old_test){
                                                 console.log("no match"+ obj.flows[fl].name)
                                                 debug = debug + "NO MATCH " +"\n";
                                             }
