@@ -7,16 +7,23 @@ var json_string = fs.readFileSync(input_path).toString();
 var obj = JSON.parse(json_string);
 
 
-var columns = ["flow name","msg","qr0","qr1","qr2","qr3","qr4","qr5","qr6","qr7","qr8","qr9","flow id","node id"];
+//var columns = ["cat", "sub-cat","name","spec","msg","qr0","qr1","qr2","qr3","qr4","qr5","qr6","qr7","qr8","qr9","flow name","flow id","node id"];
 
 
-var rows: { flow_name: string, msg: string, qr0: string, qr1: string, qr2: string, qr3: string, qr4: string, qr5: string, qr6: string, qr7: string, qr8: string, qr9: string, flow_id: string, node_id: string }[] = [];
+var rows: {cat: string, sub_cat: string, name: string,spec: string, msg: string, qr0: string, qr1: string, qr2: string, qr3: string, qr4: string, qr5: string, qr6: string, qr7: string, qr8: string, qr9: string, flow_name: string,flow_id: string, node_id: string }[] = [];
 
 for (var fl in obj){
     for (var bit_id in obj[fl].localization.eng){
         var bit = obj[fl].localization.eng[bit_id];
         if (bit.hasOwnProperty('text')){
+            //var name_split = obj[fl].name.replace("PLH - ", "").split(/[\-]+/).filter(function(i){return i});
+            var name_split = obj[fl].name.replace("PLH - ", "").split(" - ").filter(function(i){return i});
+            for (var j=name_split.length; j<=4; j++){
+                name_split.push("");
+            }
+
             var quick_replies = [];
+            
             
             for (var i = 0; i < 10; i++) {
                 if (i < bit.quick_replies.length){
@@ -27,7 +34,10 @@ for (var fl in obj){
                 };
               };
             rows.push({
-                flow_name: obj[fl].name,
+                cat: name_split[0],
+                sub_cat: name_split[1],
+                name: name_split[2],
+                spec: name_split[3],
                 msg: bit.text[0],
                 qr0: quick_replies[0],
                 qr1: quick_replies[1],
@@ -38,7 +48,8 @@ for (var fl in obj){
                 qr6: quick_replies[6],
                 qr7: quick_replies[7],
                 qr8: quick_replies[8],
-                qr9: quick_replies[0],
+                qr9: quick_replies[9],
+                flow_name: obj[fl].name,
                 flow_id: fl,
                 node_id: bit_id,
             });
