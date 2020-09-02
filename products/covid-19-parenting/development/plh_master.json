@@ -68545,41 +68545,6 @@
     {
       "_ui": {
         "nodes": {
-          "04d8d267-76ac-4fbf-b977-af7d497ed7ae": {
-            "position": {
-              "left": 40,
-              "top": 1580
-            },
-            "type": "execute_actions"
-          },
-          "10b7652c-f594-4d6d-a004-e04de38377be": {
-            "position": {
-              "left": 720,
-              "top": 1020
-            },
-            "type": "execute_actions"
-          },
-          "10f5a18b-26fd-4a92-a77e-faf221698543": {
-            "position": {
-              "left": 60,
-              "top": 880
-            },
-            "type": "execute_actions"
-          },
-          "11737fc2-f817-4e5b-b30e-3c818e73003f": {
-            "position": {
-              "left": 440,
-              "top": 280
-            },
-            "type": "execute_actions"
-          },
-          "15acd134-30c9-4151-b2fa-4b5bd2b3f754": {
-            "position": {
-              "left": 400,
-              "top": 2100
-            },
-            "type": "execute_actions"
-          },
           "18973bb9-fe4e-44cd-9c7c-5fe14355cf6a": {
             "position": {
               "left": 320,
@@ -68594,6 +68559,20 @@
             },
             "type": "execute_actions"
           },
+          "11737fc2-f817-4e5b-b30e-3c818e73003f": {
+            "position": {
+              "left": 440,
+              "top": 280
+            },
+            "type": "execute_actions"
+          },
+          "6ad722fb-877a-4281-ad43-aa3b0df50429": {
+            "position": {
+              "left": 740,
+              "top": 280
+            },
+            "type": "execute_actions"
+          },
           "20115e43-2620-4d64-9ae9-d90e566530ed": {
             "config": {
               "cases": {}
@@ -68603,6 +68582,58 @@
               "top": 300
             },
             "type": "wait_for_response"
+          },
+          "73ba0604-afb7-4a60-815e-1018ba4bf393": {
+            "position": {
+              "left": 1040,
+              "top": 440
+            },
+            "type": "execute_actions"
+          },
+          "571e9a8e-6f37-47c2-aafe-887e561c095e": {
+            "type": "wait_for_response",
+            "position": {
+              "left": 420,
+              "top": 600
+            },
+            "config": {
+              "cases": {}
+            }
+          },
+          "bdc019f3-56a0-4ba2-94b8-4aa320c5c746": {
+            "position": {
+              "left": 80,
+              "top": 680
+            },
+            "type": "execute_actions"
+          },
+          "4316112d-7936-4b4d-9d39-58dbee6135a8": {
+            "position": {
+              "left": 720,
+              "top": 800
+            },
+            "type": "execute_actions"
+          },
+          "10f5a18b-26fd-4a92-a77e-faf221698543": {
+            "position": {
+              "left": 60,
+              "top": 880
+            },
+            "type": "execute_actions"
+          },
+          "c8bc527f-9963-42b0-812c-787a1788ded7": {
+            "position": {
+              "left": 420,
+              "top": 880
+            },
+            "type": "execute_actions"
+          },
+          "10b7652c-f594-4d6d-a004-e04de38377be": {
+            "position": {
+              "left": 720,
+              "top": 1020
+            },
+            "type": "execute_actions"
           },
           "310beb72-fa9d-4626-8c20-b1a8b5f299ad": {
             "config": {
@@ -68619,6 +68650,16 @@
             },
             "type": "split_by_contact_field"
           },
+          "fb924f2a-8091-4ded-a8e1-41bd5547db48": {
+            "config": {
+              "cases": {}
+            },
+            "position": {
+              "left": 420,
+              "top": 1040
+            },
+            "type": "wait_for_response"
+          },
           "31de263f-c7c8-4ca6-abab-80a95ccded49": {
             "position": {
               "left": 420,
@@ -68626,55 +68667,17 @@
             },
             "type": "execute_actions"
           },
-          "399969f0-6ba6-4340-b8f1-740e273eb334": {
-            "position": {
-              "left": 400,
-              "top": 1980
-            },
-            "type": "execute_actions"
-          },
-          "4316112d-7936-4b4d-9d39-58dbee6135a8": {
-            "position": {
-              "left": 720,
-              "top": 800
-            },
-            "type": "execute_actions"
-          },
-          "571e9a8e-6f37-47c2-aafe-887e561c095e": {
-            "config": {
-              "cases": {}
-            },
+          "e680c88f-108a-41ca-8562-94c7f4ebfbb0": {
             "position": {
               "left": 420,
-              "top": 600
-            },
-            "type": "wait_for_response"
-          },
-          "6ad722fb-877a-4281-ad43-aa3b0df50429": {
-            "position": {
-              "left": 740,
-              "top": 280
+              "top": 1340
             },
             "type": "execute_actions"
           },
-          "73ba0604-afb7-4a60-815e-1018ba4bf393": {
+          "04d8d267-76ac-4fbf-b977-af7d497ed7ae": {
             "position": {
-              "left": 1040,
-              "top": 440
-            },
-            "type": "execute_actions"
-          },
-          "bdc019f3-56a0-4ba2-94b8-4aa320c5c746": {
-            "position": {
-              "left": 80,
-              "top": 680
-            },
-            "type": "execute_actions"
-          },
-          "c8bc527f-9963-42b0-812c-787a1788ded7": {
-            "position": {
-              "left": 420,
-              "top": 880
+              "left": 40,
+              "top": 1580
             },
             "type": "execute_actions"
           },
@@ -68688,22 +68691,19 @@
             },
             "type": "wait_for_response"
           },
-          "e680c88f-108a-41ca-8562-94c7f4ebfbb0": {
+          "399969f0-6ba6-4340-b8f1-740e273eb334": {
             "position": {
-              "left": 420,
-              "top": 1340
+              "left": 400,
+              "top": 1980
             },
             "type": "execute_actions"
           },
-          "fb924f2a-8091-4ded-a8e1-41bd5547db48": {
-            "config": {
-              "cases": {}
-            },
+          "15acd134-30c9-4151-b2fa-4b5bd2b3f754": {
             "position": {
-              "left": 420,
-              "top": 1040
+              "left": 400,
+              "top": 2100
             },
-            "type": "wait_for_response"
+            "type": "execute_actions"
           }
         },
         "stickies": {
@@ -68723,7 +68723,7 @@
       "language": "eng",
       "localization": {},
       "metadata": {
-        "revision": 38
+        "revision": 1
       },
       "name": "PLH - Survey - COVID19 Experience",
       "nodes": [
@@ -68789,22 +68789,20 @@
         {
           "actions": [
             {
-              "all_urns": false,
               "attachments": [],
+              "text": "Which is most like your experience?",
+              "type": "send_msg",
+              "all_urns": false,
               "quick_replies": [
                 "Curfews",
                 "Non-essential shops closed",
                 "Non-essential production closed",
                 "Cancellation of recreational venues and closing of public places like parks",
-                "Stay-at-home orders and total movement",
-                "Controls",
+                "Stay-at-home orders and total movement controls",
                 "Social distancing and movement restrictions",
                 "No restrictions",
-                "Other",
-                "Prefer not to say"
+                "Does not apply"
               ],
-              "text": "Please tell us which is most like your experience:",
-              "type": "send_msg",
               "uuid": "5b445edf-790d-4415-b68b-bfce3f9befd6"
             }
           ],
@@ -68897,122 +68895,75 @@
           "uuid": "73ba0604-afb7-4a60-815e-1018ba4bf393"
         },
         {
+          "uuid": "571e9a8e-6f37-47c2-aafe-887e561c095e",
           "actions": [],
-          "exits": [
-            {
-              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
-              "uuid": "69b03dc7-83a3-4d9e-bd51-47af282c129d"
-            },
-            {
-              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
-              "uuid": "bee357c9-0416-4ff8-8a01-4b64a763d1a5"
-            },
-            {
-              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
-              "uuid": "580b3135-8aec-4f86-9cc4-890c2dc95504"
-            },
-            {
-              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
-              "uuid": "b72b9263-5669-4b62-af5f-c50725969f23"
-            },
-            {
-              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
-              "uuid": "972a37cd-b2ea-4d23-b229-4913550e07ec"
-            },
-            {
-              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
-              "uuid": "7b1a9593-2d05-41c4-b9a7-41e940352c2b"
-            },
-            {
-              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
-              "uuid": "879a1d85-0436-40d4-8ad9-47961e913dbd"
-            },
-            {
-              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
-              "uuid": "dd32249a-ebd6-4064-a8aa-68f05dc76722"
-            },
-            {
-              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
-              "uuid": "a5c3f4f8-0dc3-4bb8-81a8-7c1825389fec"
-            },
-            {
-              "destination_uuid": "73ba0604-afb7-4a60-815e-1018ba4bf393",
-              "uuid": "cb03f12f-c6a9-494c-a71b-e287abd8d9c5"
-            }
-          ],
           "router": {
+            "type": "switch",
+            "default_category_uuid": "b654136c-49e8-4ef5-8e00-51c68a1d9806",
             "cases": [
               {
                 "arguments": [
                   "Curfews"
                 ],
-                "category_uuid": "4159afc6-cf3d-4d82-9790-a6eeb5e48daf",
                 "type": "has_any_word",
-                "uuid": "30f15fed-221c-4d15-9804-8f9b83f91bf8"
+                "uuid": "30f15fed-221c-4d15-9804-8f9b83f91bf8",
+                "category_uuid": "4159afc6-cf3d-4d82-9790-a6eeb5e48daf"
               },
               {
                 "arguments": [
                   "shops"
                 ],
-                "category_uuid": "68b44d23-985d-44e7-b0a3-9268cb95c551",
                 "type": "has_any_word",
-                "uuid": "75ac11dc-efa4-47a4-b09d-b19287abbdcb"
+                "uuid": "75ac11dc-efa4-47a4-b09d-b19287abbdcb",
+                "category_uuid": "68b44d23-985d-44e7-b0a3-9268cb95c551"
               },
               {
                 "arguments": [
                   "production"
                 ],
-                "category_uuid": "397f280d-7ad6-4f11-bb62-3f16a5ecf3e7",
                 "type": "has_any_word",
-                "uuid": "ead88f06-6792-4a4b-8a9c-7cf8bcec91a0"
+                "uuid": "ead88f06-6792-4a4b-8a9c-7cf8bcec91a0",
+                "category_uuid": "397f280d-7ad6-4f11-bb62-3f16a5ecf3e7"
               },
               {
                 "arguments": [
                   "recreational venues"
                 ],
-                "category_uuid": "8dad1e4e-79b0-46fa-9754-027eaa2351fb",
                 "type": "has_any_word",
-                "uuid": "91f9a591-d8d5-48d2-845c-c523ba8a0b5b"
+                "uuid": "91f9a591-d8d5-48d2-845c-c523ba8a0b5b",
+                "category_uuid": "8dad1e4e-79b0-46fa-9754-027eaa2351fb"
               },
               {
                 "arguments": [
                   "Stay-at-home orders"
                 ],
-                "category_uuid": "28a9c481-09f0-4bce-89ab-134a9a356191",
                 "type": "has_any_word",
-                "uuid": "0fddfe90-e850-406b-8048-7aab4fe2d159"
+                "uuid": "0fddfe90-e850-406b-8048-7aab4fe2d159",
+                "category_uuid": "28a9c481-09f0-4bce-89ab-134a9a356191"
               },
               {
                 "arguments": [
                   "distancing"
                 ],
-                "category_uuid": "735269c2-e750-4f33-980c-f00a9ce418ad",
                 "type": "has_any_word",
-                "uuid": "c819bc5d-ad60-4101-8a41-dfed67f26241"
+                "uuid": "c819bc5d-ad60-4101-8a41-dfed67f26241",
+                "category_uuid": "735269c2-e750-4f33-980c-f00a9ce418ad"
               },
               {
                 "arguments": [
                   "no"
                 ],
-                "category_uuid": "d49e8152-133b-4990-a07e-47ef921e1931",
                 "type": "has_any_word",
-                "uuid": "825f2db0-6706-49bd-a8c2-e51e6eaa6ab5"
+                "uuid": "825f2db0-6706-49bd-a8c2-e51e6eaa6ab5",
+                "category_uuid": "d49e8152-133b-4990-a07e-47ef921e1931"
               },
               {
                 "arguments": [
-                  "Other"
+                  "apply"
                 ],
-                "category_uuid": "db117531-788a-4293-a046-91e00ef1b68b",
                 "type": "has_any_word",
-                "uuid": "514f3b75-4497-4e6d-a12d-ce3f50e5a676"
-              },
-              {
-                "arguments": [
-                  "prefer say"
-                ],
-                "category_uuid": "b22c3f27-8968-41d4-9c83-d53e6d265451",
-                "type": "has_any_word",
-                "uuid": "8dd51c02-ad25-4011-af08-234dc4578c22"
+                "uuid": "2b6ef477-6f14-4fa6-bb2f-8b92c5e75fcb",
+                "category_uuid": "3c35bdaa-313b-4768-93d3-a65a458ee284"
               }
             ],
             "categories": [
@@ -69052,14 +69003,9 @@
                 "uuid": "d49e8152-133b-4990-a07e-47ef921e1931"
               },
               {
-                "exit_uuid": "dd32249a-ebd6-4064-a8aa-68f05dc76722",
-                "name": "Other issue",
-                "uuid": "db117531-788a-4293-a046-91e00ef1b68b"
-              },
-              {
-                "exit_uuid": "a5c3f4f8-0dc3-4bb8-81a8-7c1825389fec",
-                "name": "Not say",
-                "uuid": "b22c3f27-8968-41d4-9c83-d53e6d265451"
+                "uuid": "3c35bdaa-313b-4768-93d3-a65a458ee284",
+                "name": "Apply",
+                "exit_uuid": "0e2f7ec3-a021-491f-97d0-0cb6b693c707"
               },
               {
                 "exit_uuid": "cb03f12f-c6a9-494c-a71b-e287abd8d9c5",
@@ -69067,15 +69013,50 @@
                 "uuid": "b654136c-49e8-4ef5-8e00-51c68a1d9806"
               }
             ],
-            "default_category_uuid": "b654136c-49e8-4ef5-8e00-51c68a1d9806",
             "operand": "@input.text",
-            "result_name": "main diff",
-            "type": "switch",
             "wait": {
               "type": "msg"
-            }
+            },
+            "result_name": "main diff"
           },
-          "uuid": "571e9a8e-6f37-47c2-aafe-887e561c095e"
+          "exits": [
+            {
+              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
+              "uuid": "69b03dc7-83a3-4d9e-bd51-47af282c129d"
+            },
+            {
+              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
+              "uuid": "bee357c9-0416-4ff8-8a01-4b64a763d1a5"
+            },
+            {
+              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
+              "uuid": "580b3135-8aec-4f86-9cc4-890c2dc95504"
+            },
+            {
+              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
+              "uuid": "b72b9263-5669-4b62-af5f-c50725969f23"
+            },
+            {
+              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
+              "uuid": "972a37cd-b2ea-4d23-b229-4913550e07ec"
+            },
+            {
+              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
+              "uuid": "7b1a9593-2d05-41c4-b9a7-41e940352c2b"
+            },
+            {
+              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8",
+              "uuid": "879a1d85-0436-40d4-8ad9-47961e913dbd"
+            },
+            {
+              "uuid": "0e2f7ec3-a021-491f-97d0-0cb6b693c707",
+              "destination_uuid": "4316112d-7936-4b4d-9d39-58dbee6135a8"
+            },
+            {
+              "destination_uuid": "73ba0604-afb7-4a60-815e-1018ba4bf393",
+              "uuid": "cb03f12f-c6a9-494c-a71b-e287abd8d9c5"
+            }
+          ]
         },
         {
           "actions": [
@@ -69301,11 +69282,11 @@
         {
           "actions": [
             {
-              "all_urns": false,
               "attachments": [],
-              "quick_replies": [],
-              "text": "How has COVID-19 affected your family? You can choose multiple options with a space in between each (e.g., 1 2 5):\n1 Someone in my family has had COVID-19 symptoms (e.g., dry cough, fatigue, headache, high temperature, loss of smell or taste)\n2 Someone in my family has died from COVID-19\n3 My family has been experiencing financial stress due to COVID-19\n4 My family has been experiencing emotional stress due to COVID-19\n5 My family has not been negatively affected by COVID-19\n6 Other",
+              "text": "How has COVID-19 affected your family? You can choose multiple options with a space in between each (e.g., 1 2 5):\n1 Someone in my family has had COVID-19 symptoms (e.g., dry cough, fatigue, headache, high temperature, loss of smell or taste)\n2 Someone in my family has died from COVID-19\n3 My family has been experiencing financial stress due to COVID-19\n4 My family has been experiencing emotional stress due to COVID-19\n5 My family has not been negatively affected by COVID-19\n111 Other\n999 Prefer not to say",
               "type": "send_msg",
+              "all_urns": false,
+              "quick_replies": [],
               "uuid": "1c41246d-9e5a-4289-90b6-d990cccdb501"
             }
           ],
@@ -69407,7 +69388,7 @@
       "spec_version": "13.1.0",
       "type": "messaging",
       "uuid": "9dff65a7-5b7f-4566-937d-bc7cce5ca653",
-      "revision": 1
+      "revision": 5
     },
     {
       "_ui": {
@@ -105902,20 +105883,39 @@
     {
       "_ui": {
         "nodes": {
-          "0249379b-7af7-43b1-9631-adce8745e76a": {
-            "config": {
-              "cases": {}
-            },
+          "be771ef6-0476-4da1-b2ab-1c0e5f17e392": {
             "position": {
-              "left": 480,
-              "top": 1420
+              "left": 680,
+              "top": 40
             },
-            "type": "wait_for_response"
+            "type": "execute_actions"
           },
-          "12c38f90-0b7b-4b47-8771-cdadc33a9102": {
+          "55b7952e-dbdb-4a7b-97c6-19f73e706074": {
+            "config": {},
             "position": {
-              "left": 420,
-              "top": 3000
+              "left": 660,
+              "top": 200
+            },
+            "type": "split_by_subflow"
+          },
+          "bb29be9f-8966-499e-bcb0-f1bda4aacfd4": {
+            "position": {
+              "left": 660,
+              "top": 360
+            },
+            "type": "execute_actions"
+          },
+          "34984a49-066d-4ce8-b093-438a57d4d31e": {
+            "position": {
+              "left": 540,
+              "top": 620
+            },
+            "type": "execute_actions"
+          },
+          "981222e9-c01a-4753-9c57-56cd7192cded": {
+            "position": {
+              "left": 1040,
+              "top": 660
             },
             "type": "execute_actions"
           },
@@ -105929,25 +105929,48 @@
             },
             "type": "wait_for_response"
           },
-          "306a6e89-0b37-49e0-adb1-a9fc229ae7e1": {
-            "config": {},
+          "ae1ff8e4-5d30-4296-b7b5-30e22219f11c": {
             "position": {
-              "left": 440,
-              "top": 3260
-            },
-            "type": "split_by_subflow"
-          },
-          "34984a49-066d-4ce8-b093-438a57d4d31e": {
-            "position": {
-              "left": 680,
-              "top": 640
+              "left": 520,
+              "top": 940
             },
             "type": "execute_actions"
           },
-          "3c7a4040-a636-47d5-8e9e-e424e3ad8e81": {
+          "60126be0-bdf3-41d9-a4eb-a942a889fa59": {
             "position": {
-              "left": 500,
-              "top": 2020
+              "left": 900,
+              "top": 1040
+            },
+            "type": "execute_actions"
+          },
+          "bf3adc20-24a8-463e-9d25-679ff30cafb0": {
+            "position": {
+              "left": 880,
+              "top": 1260
+            },
+            "type": "execute_actions"
+          },
+          "0249379b-7af7-43b1-9631-adce8745e76a": {
+            "config": {
+              "cases": {}
+            },
+            "position": {
+              "left": 480,
+              "top": 1420
+            },
+            "type": "wait_for_response"
+          },
+          "f8259458-7db7-46f6-9f38-789505efcf25": {
+            "position": {
+              "left": 120,
+              "top": 1620
+            },
+            "type": "execute_actions"
+          },
+          "7cba124c-eebe-4315-a752-feb59831e4d2": {
+            "position": {
+              "left": 400,
+              "top": 1640
             },
             "type": "execute_actions"
           },
@@ -105958,32 +105981,31 @@
             },
             "type": "execute_actions"
           },
-          "55b7952e-dbdb-4a7b-97c6-19f73e706074": {
-            "config": {},
+          "e39f2ec4-9d3b-43e8-9c21-93b69d582e16": {
             "position": {
-              "left": 660,
-              "top": 200
-            },
-            "type": "split_by_subflow"
-          },
-          "60126be0-bdf3-41d9-a4eb-a942a889fa59": {
-            "position": {
-              "left": 800,
-              "top": 1080
+              "left": 680,
+              "top": 1660
             },
             "type": "execute_actions"
           },
-          "67b44cd7-8507-4063-9c57-25cb4d4fe1fa": {
+          "3c7a4040-a636-47d5-8e9e-e424e3ad8e81": {
             "position": {
-              "left": 440,
-              "top": 3880
+              "left": 500,
+              "top": 2020
             },
             "type": "execute_actions"
           },
-          "7cba124c-eebe-4315-a752-feb59831e4d2": {
+          "9232a5c4-c264-4b1a-9cad-e65791f7fa69": {
             "position": {
-              "left": 400,
-              "top": 1640
+              "left": 380,
+              "top": 2460
+            },
+            "type": "execute_actions"
+          },
+          "896e0abc-b9df-4b28-a665-1301b0976db5": {
+            "position": {
+              "left": 700,
+              "top": 2640
             },
             "type": "execute_actions"
           },
@@ -105997,24 +106019,25 @@
             },
             "type": "wait_for_response"
           },
-          "896e0abc-b9df-4b28-a665-1301b0976db5": {
+          "12c38f90-0b7b-4b47-8771-cdadc33a9102": {
             "position": {
-              "left": 700,
-              "top": 2640
+              "left": 420,
+              "top": 3000
             },
             "type": "execute_actions"
           },
-          "9232a5c4-c264-4b1a-9cad-e65791f7fa69": {
+          "306a6e89-0b37-49e0-adb1-a9fc229ae7e1": {
+            "config": {},
             "position": {
-              "left": 380,
-              "top": 2460
+              "left": 440,
+              "top": 3260
             },
-            "type": "execute_actions"
+            "type": "split_by_subflow"
           },
-          "981222e9-c01a-4753-9c57-56cd7192cded": {
+          "ff419711-80d7-4c21-9d40-5b5b000bfec6": {
             "position": {
-              "left": 1040,
-              "top": 660
+              "left": 440,
+              "top": 3440
             },
             "type": "execute_actions"
           },
@@ -106026,52 +106049,10 @@
             },
             "type": "split_by_subflow"
           },
-          "ae1ff8e4-5d30-4296-b7b5-30e22219f11c": {
-            "position": {
-              "left": 520,
-              "top": 940
-            },
-            "type": "execute_actions"
-          },
-          "bb29be9f-8966-499e-bcb0-f1bda4aacfd4": {
-            "position": {
-              "left": 660,
-              "top": 360
-            },
-            "type": "execute_actions"
-          },
-          "be771ef6-0476-4da1-b2ab-1c0e5f17e392": {
-            "position": {
-              "left": 680,
-              "top": 40
-            },
-            "type": "execute_actions"
-          },
-          "bf3adc20-24a8-463e-9d25-679ff30cafb0": {
-            "position": {
-              "left": 880,
-              "top": 1260
-            },
-            "type": "execute_actions"
-          },
-          "e39f2ec4-9d3b-43e8-9c21-93b69d582e16": {
-            "position": {
-              "left": 680,
-              "top": 1660
-            },
-            "type": "execute_actions"
-          },
-          "f8259458-7db7-46f6-9f38-789505efcf25": {
-            "position": {
-              "left": 120,
-              "top": 1620
-            },
-            "type": "execute_actions"
-          },
-          "ff419711-80d7-4c21-9d40-5b5b000bfec6": {
+          "67b44cd7-8507-4063-9c57-25cb4d4fe1fa": {
             "position": {
               "left": 440,
-              "top": 3440
+              "top": 3880
             },
             "type": "execute_actions"
           }
@@ -106083,7 +106064,7 @@
       "language": "eng",
       "localization": {},
       "metadata": {
-        "revision": 86
+        "revision": 1
       },
       "name": "PLH - Content - Extra - Education",
       "nodes": [
@@ -106166,11 +106147,11 @@
         {
           "actions": [
             {
-              "all_urns": false,
               "attachments": [],
-              "quick_replies": [],
-              "text": "COVID-19 has interrupted our children's education with school closures and remote learning. As parents, we have a responsibility to help our children learn but it is normal to feel overwhelmed about to do this alone, especially when we also have stress about work and money. ",
+              "text": "COVID-19 has interrupted our children's education with school closures and remote learning. It is normal to feel overwhelmed about to do this alone, especially when we also have stress about work and money. ",
               "type": "send_msg",
+              "all_urns": false,
+              "quick_replies": [],
               "uuid": "672388dd-039d-4922-a2c6-e33a7515723a"
             }
           ],
@@ -106185,14 +106166,14 @@
         {
           "actions": [
             {
-              "all_urns": false,
               "attachments": [],
+              "text": "Would you like to learn more about how to support your children with remote learning and returning to school?",
+              "type": "send_msg",
+              "all_urns": false,
               "quick_replies": [
                 "Yes",
                 "No"
               ],
-              "text": "Would you like to learn more about this tip?",
-              "type": "send_msg",
               "uuid": "ee1d70e4-dc64-4de5-a667-5e0b372790a4"
             }
           ],
@@ -106300,11 +106281,11 @@
         {
           "actions": [
             {
-              "all_urns": false,
               "attachments": [],
-              "quick_replies": [],
               "text": "Here are 5 steps that you can do to help your children continue learning during this time:\n\n1. Create a routine around learning and schoolwork\n2. Make learning fun and playful\n3. Remember that you are a parent NOT a substitute teacher \n4. Stay connected with your child's school and teachers\n5. Support your child when they return to school\n\nType \"1\" to \"5\" to learn more about each tip. Type \"N\" to stop this tip.",
               "type": "send_msg",
+              "all_urns": false,
+              "quick_replies": [],
               "uuid": "53d8b2a4-3e61-4754-8416-7b569d123854"
             }
           ],
@@ -106499,9 +106480,9 @@
           "actions": [
             {
               "attachments": [],
-              "quick_replies": [],
               "text": "Step 1. Create a routine around learning and schoolwork\n\nMake a daily plan with your child for when they can spend time doing educational activities. This can include structured schoolwork and other activities online, reading, writing, or arts. Allow flexibility and time for play and relaxation too.",
               "type": "send_msg",
+              "quick_replies": [],
               "uuid": "b9cb8ecd-9b10-4eb3-9cc8-0b738dc8cc87"
             }
           ],
@@ -106517,9 +106498,9 @@
           "actions": [
             {
               "attachments": [],
-              "quick_replies": [],
-              "text": "Step 2. Make learning fun and playful\n\nChildren learn best when learning is fun! Children cannot learn in the same way at home that they do in school. Try to find ways to make learning playful to keep your child interested and engaged. Type \"Help\" if you ever need any fun ideas!",
+              "text": "Step 2. Make learning fun and playful\n\nChildren learn best when learning is fun! Try to find ways to make learning playful to keep your child interested and engaged. Type \"Help\" if you ever need any fun ideas!",
               "type": "send_msg",
+              "quick_replies": [],
               "uuid": "fcacd283-b500-422b-b9a4-b394ce158b4e"
             }
           ],
@@ -106535,9 +106516,9 @@
           "actions": [
             {
               "attachments": [],
-              "quick_replies": [],
-              "text": "Step 5. Support your child when they go back to school\n\nTell your child that it is okay to feel scared or worried about going back to school. Allow your child to share how they are feeling. It is also normal if your child behaves different to their usual behaviour. Discuss how going to school might be different and how they can protect themselves from COVID-19.",
+              "text": "Step 5. Support your child when they go back to school\n\nTell your child that it is okay to feel scared or worried about going back to school. Allow your child to share how they are feeling. It is also normal if your child behaves different to their usual behaviour. Discuss how going to school might be different and how they can protect themselves from COVID-19. Ask them how their day went and support them if they experienced any difficulties.",
               "type": "send_msg",
+              "quick_replies": [],
               "uuid": "5adaf03b-7f95-46f0-81be-4b49765dd186"
             }
           ],
@@ -106553,9 +106534,9 @@
           "actions": [
             {
               "attachments": [],
-              "quick_replies": [],
-              "text": "Step 3. Remember that you are a parent NOT a substitute teacher! \n\nYour role is to support your child by creating a space to learn. You do not need to know all the answers. Help them explore their interests and ask questions. Go at your child's pace and be patient with yourself and your child. Continue to spend One-on-One Time with your child. A good relationship will make it all so much easier!",
+              "text": "Step 3. Remember that you are a parent NOT a substitute teacher! \n\nYour role is to support your child by creating a space to learn. You do not need to know all the answers. Help them explore their interests and ask questions. Go at your child's pace and be patient with yourself. ",
               "type": "send_msg",
+              "quick_replies": [],
               "uuid": "4a67a363-bfe0-4899-9874-2ff8f9697b5c"
             }
           ],
@@ -106571,9 +106552,9 @@
           "actions": [
             {
               "attachments": [],
-              "quick_replies": [],
-              "text": "Step 4. Stay connected with your child's school and teachers\n\nFind out how to stay in touch with your children\u2019s teacher or school to stay informed, ask questions and get more guidance. Parent groups or community groups can also be a good way to support each other with your home schooling.",
+              "text": "Step 4. Stay connected with your child's school and teachers\n\nFind out how to stay in touch with your children\u2019s teacher or school to stay informed, ask questions and get more guidance. If you are struggling or know someone who is struggling with school work or the home situation, please discuss this with a teacher that you feel close to. Parent groups or community groups can also be a good way to support each other with your home schooling.",
               "type": "send_msg",
+              "quick_replies": [],
               "uuid": "de615bdc-7ec8-4cc6-b2c4-da728fa05618"
             }
           ],
@@ -106885,7 +106866,7 @@
       "spec_version": "13.1.0",
       "type": "messaging",
       "uuid": "78b4c6b7-08d6-4ad9-9717-d7a3ee435c28",
-      "revision": 1
+      "revision": 11
     },
     {
       "_ui": {
@@ -121536,6 +121517,51 @@
     {
       "_ui": {
         "nodes": {
+          "54b0fe32-b2e6-4702-ab34-8cf98a51ce3d": {
+            "position": {
+              "left": 420,
+              "top": 60
+            },
+            "type": "execute_actions"
+          },
+          "41eac220-c783-402b-9e1c-7e2ccfc7de94": {
+            "position": {
+              "left": 720,
+              "top": 220
+            },
+            "type": "execute_actions"
+          },
+          "6bcc1f79-16e0-4cee-9008-9d0146a88aac": {
+            "type": "wait_for_response",
+            "position": {
+              "left": 420,
+              "top": 340
+            },
+            "config": {
+              "cases": {}
+            }
+          },
+          "fbf015dd-e8b3-4fb2-8494-b21ad28deb3f": {
+            "position": {
+              "left": 160,
+              "top": 560
+            },
+            "type": "execute_actions"
+          },
+          "910ff5e0-6e75-42e4-a424-6a5b5e53b27b": {
+            "position": {
+              "left": 380,
+              "top": 580
+            },
+            "type": "execute_actions"
+          },
+          "44bb7467-ae0f-4f68-93b2-3260168a1994": {
+            "position": {
+              "left": 640,
+              "top": 580
+            },
+            "type": "execute_actions"
+          },
           "c307ec94-dd08-411f-8525-51adcbe3fd95": {
             "position": {
               "left": 460,
@@ -121567,16 +121593,16 @@
             },
             "type": "execute_actions"
           },
-          "4d991c00-2c89-4f4b-af6b-7a51446c9a51": {
+          "261ba06a-ab99-45ce-83b2-d787b5802c2c": {
             "position": {
-              "left": 720,
+              "left": 480,
               "top": 1240
             },
             "type": "execute_actions"
           },
-          "261ba06a-ab99-45ce-83b2-d787b5802c2c": {
+          "4d991c00-2c89-4f4b-af6b-7a51446c9a51": {
             "position": {
-              "left": 480,
+              "left": 720,
               "top": 1240
             },
             "type": "execute_actions"
@@ -121626,51 +121652,6 @@
             },
             "type": "execute_actions"
           },
-          "54b0fe32-b2e6-4702-ab34-8cf98a51ce3d": {
-            "position": {
-              "left": 420,
-              "top": 60
-            },
-            "type": "execute_actions"
-          },
-          "41eac220-c783-402b-9e1c-7e2ccfc7de94": {
-            "position": {
-              "left": 720,
-              "top": 220
-            },
-            "type": "execute_actions"
-          },
-          "6bcc1f79-16e0-4cee-9008-9d0146a88aac": {
-            "type": "wait_for_response",
-            "position": {
-              "left": 420,
-              "top": 340
-            },
-            "config": {
-              "cases": {}
-            }
-          },
-          "44bb7467-ae0f-4f68-93b2-3260168a1994": {
-            "position": {
-              "left": 640,
-              "top": 580
-            },
-            "type": "execute_actions"
-          },
-          "fbf015dd-e8b3-4fb2-8494-b21ad28deb3f": {
-            "position": {
-              "left": 160,
-              "top": 560
-            },
-            "type": "execute_actions"
-          },
-          "910ff5e0-6e75-42e4-a424-6a5b5e53b27b": {
-            "position": {
-              "left": 380,
-              "top": 580
-            },
-            "type": "execute_actions"
-          },
           "1925b90a-2212-4fdb-8063-6271300bb6ae": {
             "position": {
               "left": 480,
@@ -121695,17 +121676,17 @@
               "cases": {}
             }
           },
-          "de1a53b0-c81e-4c3f-b962-ad0cc0a54ead": {
-            "position": {
-              "left": 260,
-              "top": 3160
-            },
-            "type": "execute_actions"
-          },
           "5e2201c7-3b5f-45f1-a57d-1b34cc18d1d6": {
             "position": {
               "left": 600,
               "top": 3120
+            },
+            "type": "execute_actions"
+          },
+          "de1a53b0-c81e-4c3f-b962-ad0cc0a54ead": {
+            "position": {
+              "left": 260,
+              "top": 3160
             },
             "type": "execute_actions"
           }
@@ -121717,7 +121698,7 @@
       "language": "base",
       "localization": {},
       "metadata": {
-        "revision": 71
+        "revision": 136
       },
       "name": "PLH - Survey - Parenting - Questions",
       "nodes": [
@@ -121752,7 +121733,7 @@
           ],
           "exits": [
             {
-              "destination_uuid": "54b0fe32-b2e6-4702-ab34-8cf98a51ce3d",
+              "destination_uuid": "6bcc1f79-16e0-4cee-9008-9d0146a88aac",
               "uuid": "b9c942f2-cb7d-4bb5-8b0f-eb9bdd2e0fd6"
             }
           ],
@@ -121929,7 +121910,7 @@
           ],
           "exits": [
             {
-              "destination_uuid": "c307ec94-dd08-411f-8525-51adcbe3fd95",
+              "destination_uuid": "73059ef1-caaf-435b-97d9-db7b5e285e3f",
               "uuid": "e6582107-3d2d-4aee-8fec-70662d75e18c"
             }
           ],
@@ -122106,7 +122087,7 @@
           ],
           "exits": [
             {
-              "destination_uuid": "d8a105a1-1278-4aa8-ac23-197bb058cfc6",
+              "destination_uuid": "2a109197-e009-46d0-a1b9-58df7ad183a4",
               "uuid": "ab75874e-9ce9-4fbc-9218-325caeb3368c"
             }
           ],
@@ -122283,7 +122264,7 @@
           ],
           "exits": [
             {
-              "destination_uuid": "1925b90a-2212-4fdb-8063-6271300bb6ae",
+              "destination_uuid": "f62edba1-75d0-4df6-bd86-d502ebf1c991",
               "uuid": "08f2d551-f3bd-4706-9e91-2405d69831df"
             }
           ],
@@ -122396,7 +122377,7 @@
       "spec_version": "13.1.0",
       "type": "messaging",
       "uuid": "ccfc7904-687e-4303-b77a-2f954317860c",
-      "revision": 136
+      "revision": 145
     },
     {
       "name": "PLH - Survey - Parenting & Behaviour - Comparison",
