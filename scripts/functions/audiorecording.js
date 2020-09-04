@@ -7,11 +7,14 @@ var obj = JSON.parse(json_string);
 // var count = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
 
 obj = add_quick_replies_to_msg_text(obj);
-var audio_rec = extract_text_for_audio_recording(obj); 
+var audio_rec_info = extract_text_for_audio_recording(obj); 
+//var file_for_recorder = remove_repetitions_audio(audio_rec_info);
 
-audio_rec = JSON.stringify(audio_rec, null, 2);
-var output_path = path.join(__dirname, "../../products/covid-19-parenting/development/plh_master_no_quick_replies_function.json");
-fs.writeFile(output_path, audio_rec, function (err, result) {
+
+
+audio_rec_info = JSON.stringify(audio_rec_info, null, 2);
+var output_path = path.join(__dirname, "../../products/covid-19-parenting/development/audio-recording/eng/file_for_audio_recording_plh_masterlabel.json");
+fs.writeFile(output_path, audio_rec_info, function (err, result) {
     if (err) console.log('error', err);
 });
 
@@ -235,10 +238,12 @@ function extract_text_for_audio_recording(obj) {
             for (var ac = 0; ac < obj.flows[fl].nodes[n].actions.length; ac++) {
                 var curr_act = obj.flows[fl].nodes[n].actions[ac];
                 if (curr_act.type == "send_msg") {
+                    new_bit.flow_name = obj.flows[fl].name.replace("PLH - ", "").split(/[\s-]+/).filter(function(i){return i}).join("-");
                     new_bit.flow_id = obj.flows[fl].uuid;
                     new_bit.node_id = obj.flows[fl].nodes[n].uuid;
                     new_bit.msg_id = curr_act.uuid;
                     new_bit.text = curr_act.text;
+                    new_bit.label = new_bit.flow_name + "_" + new_bit.node_id + "_" + new_bit.msg_id;
                     new_bit.type = "audio";
                     bits_to_record.push(Object.assign({}, new_bit));
                     new_bit = {};
@@ -249,4 +254,10 @@ function extract_text_for_audio_recording(obj) {
     }
 
     return bits_to_record;
+}
+
+function remove_repetitions_audio(audio_rec_info){
+    var to_record = [];
+    var distinct_text = [... new Set(audio_rec_info.map(x => (x.text)) )];
+    
 }
