@@ -21,7 +21,11 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                 new_bit.flow_id = obj.flows[fl].uuid;
                 new_bit.node_id = obj.flows[fl].nodes[n].uuid;
                 new_bit.msg_id = curr_act.uuid;
-                new_bit.text = curr_act.text;
+                new_bit.original_text = curr_act.text;
+
+                // handle contact fields or results
+                new_bit.text_to_read = curr_act.text.replace("@results.count ","").replace("@fields.survey_behave_name","your child").replace("@results.n_skills_week","the following").replace("@results.n_skills", "the number of skills in your toolkit");
+                
                 new_bit.type = "audio";
                 bits_to_record.push(Object.assign({}, new_bit));
                 new_bit = {};
