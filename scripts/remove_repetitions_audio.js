@@ -5,14 +5,17 @@ var json_string = fs.readFileSync(input_path).toString();
 var audio_rec_info = JSON.parse(json_string);
 
 var to_record = [];
-var distinct_text = [... new Set(audio_rec_info.map(x => (x.text)) )];
+
+
+
+var distinct_text = [... new Set(audio_rec_info.map(x => (x.text_to_read)) )];
 
 distinct_text.forEach((unique_string) =>{
     var new_bit = {};
     new_bit.type = "audio";
     new_bit.text = unique_string;
 
-    var obj_same_text = audio_rec_info.filter(function(atom) {return (atom.text == unique_string)});
+    var obj_same_text = audio_rec_info.filter(function(atom) {return (atom.text_to_read == unique_string)});
     
     
     if (obj_same_text.length == 0){
@@ -21,7 +24,8 @@ distinct_text.forEach((unique_string) =>{
     } else if (obj_same_text.length == 1){
         new_bit.label = obj_same_text[0].label;
     } else{
-      new_bit.label = "common";
+        
+      new_bit.label = "Common" + "_" + unique_string.split(/[\s-\n•\t,.':?!’\"“”]+/).filter(function(i){return i}).join("-");;
       new_bit.rep = obj_same_text.length; 
       for (var i = 0; i < obj_same_text.length; i++ ){
         obj_same_text[i].label = new_bit.label;
