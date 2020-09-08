@@ -1,19 +1,10 @@
 var fs = require('fs');
 var path = require("path");
-//var input_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master.json");
-var input_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master_helpme_alphabetical.json");
+var input_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master.json");
 var json_string = fs.readFileSync(input_path).toString();
 var obj = JSON.parse(json_string);
 
 // var count = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
-
-var fl;
-var nd;
-var j;
-var c;
-var ac;
-var qr;
-var ar;
 
 
 
@@ -25,12 +16,12 @@ var arg;
 var new_test = "";
 var quick_reply;
 
-var debug ="";
+//var debug ="";
 
-for (fl = 0; fl < obj.flows.length; fl++) {
-    debug = debug +"\n\n" + obj.flows[fl].name + "\n";
-    for (nd = 0; nd < obj.flows[fl].nodes.length; nd++) {
-        for (ac = 0; ac < obj.flows[fl].nodes[nd].actions.length; ac++) {
+for (var fl = 0; fl < obj.flows.length; fl++) {
+    //debug = debug +"\n\n" + obj.flows[fl].name + "\n";
+    for (var nd = 0; nd < obj.flows[fl].nodes.length; nd++) {
+        for (var ac = 0; ac < obj.flows[fl].nodes[nd].actions.length; ac++) {
             curr_act = obj.flows[fl].nodes[nd].actions[ac];
             if (curr_act.type == "send_msg") {
                 if (curr_act.quick_replies.length > 0) {
@@ -49,44 +40,41 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                     dest_id = obj.flows[fl].nodes[nd].exits[0].destination_uuid;
 
                     
-                    debug = debug + obj.flows[fl].nodes[nd].actions[ac].text  + "\n";
+                    //debug = debug + obj.flows[fl].nodes[nd].actions[ac].text  + "\n";
 
-                    for (j = 0; j < obj.flows[fl].nodes.length; j++) {
+                    for (var j = 0; j < obj.flows[fl].nodes.length; j++) {
                         if (obj.flows[fl].nodes[j].uuid == dest_id) {
                             if (obj.flows[fl].nodes[j].hasOwnProperty('router')) {
                                 if (obj.flows[fl].nodes[j].router.operand == "@input.text") {
-                                    for (c = 0; c < obj.flows[fl].nodes[j].router.cases.length; c++) {
+                                    for (var c = 0; c < obj.flows[fl].nodes[j].router.cases.length; c++) {
                                         if (obj.flows[fl].nodes[j].router.cases[c].type == "has_any_word") {
                                             
-                                            //old_test = obj.flows[fl].nodes[j].router.cases[c].arguments[0] + ",";
-                                            //new_test = obj.flows[fl].nodes[j].router.cases[c].arguments[0] + ",";
-
+                                        
                                             arg_list = obj.flows[fl].nodes[j].router.cases[c].arguments[0].split(/[\s,]+/).filter(function(i){return i});
                                             old_test = arg_list.join(",")+ ",";
                                             new_test = arg_list.join(",")+ ",";
                                             
-                                            debug = debug + "arg list: " + arg_list + "\n";
-                                            for (ar = 0; ar < arg_list.length; ar++) {
+                                            //debug = debug + "arg list: " + arg_list + "\n";
+                                            for (var ar = 0; ar < arg_list.length; ar++) {
 
                                                 arg = arg_list[ar];
                                                 debug = debug + "arg: " + arg + "\n";
-                                                //r_exp = new RegExp(arg, "i");
                                                 r_exp = new RegExp(`\\b${arg}\\b`, "i");
 
-                                                for (qr = 0; qr < curr_quick_replies.length; qr++) {
+                                                for (var qr = 0; qr < curr_quick_replies.length; qr++) {
                                                     quick_reply = curr_quick_replies[qr];
 
                                                     if (r_exp.test(quick_reply)) {
                                                         // new_test = new_test + count[qr] + ",";
                                                         new_test = new_test + (curr_quick_replies.length - qr -1) + ",";
-                                                        debug = debug + new_test + "\n";
+                                                        //debug = debug + new_test + "\n";
                                                     }
                                                 }
                                             }
                                            
                                             if (new_test == old_test){
                                                 console.log("no match"+ obj.flows[fl].name)
-                                                debug = debug + "NO MATCH " +"\n";
+                                                //debug = debug + "NO MATCH " +"\n";
                                             }
                                             else {
                                             obj.flows[fl].nodes[j].router.cases[c].arguments = [new_test];
@@ -120,7 +108,7 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                                             }
                                             if (new_test == ""){
                                                 console.log("no match"+ obj.flows[fl].name)
-                                                debug = debug + "NO MATCH " +"\n";
+                                                //debug = debug + "NO MATCH " +"\n";
                                             }
                                             else {
                                             obj.flows[fl].nodes[j].router.cases[c].arguments = [new_test];
@@ -130,7 +118,7 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_phrase") {
                                             arg = obj.flows[fl].nodes[j].router.cases[c].arguments[0];
 
-                                            for (qr = 0; qr < curr_quick_replies.length; qr++) {
+                                            for (var qr = 0; qr < curr_quick_replies.length; qr++) {
                                                 quick_reply = curr_quick_replies[qr];
 
                                                 r_exp = new RegExp(arg, "i");
@@ -160,14 +148,14 @@ for (fl = 0; fl < obj.flows.length; fl++) {
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_only_phrase") {
                                             arg = obj.flows[fl].nodes[j].router.cases[c].arguments[0];
-                                            debug = debug + "arg: " + arg + "\n";
-                                            for (qr = 0; qr < curr_quick_replies.length; qr++) {
+                                            //debug = debug + "arg: " + arg + "\n";
+                                            for (var qr = 0; qr < curr_quick_replies.length; qr++) {
                                                 quick_reply = curr_quick_replies[qr];
 
                                                 if (quick_reply.toLowerCase().trim() == arg.toLowerCase().trim()) {
                                                     //new_test = new_test + count[qr] + ",";
                                                     new_test = new_test + (curr_quick_replies.length - qr -1)+ ",";
-                                                    debug = debug + new_test + "\n";
+                                                    //debug = debug + new_test + "\n";
 
                                                 }
 
@@ -175,7 +163,7 @@ for (fl = 0; fl < obj.flows.length; fl++) {
 
                                             }
                                             if (new_test == ""){
-                                                debug = debug + "NO MATCH " +"\n";
+                                                //debug = debug + "NO MATCH " +"\n";
                                                 console.log("no match"+ obj.flows[fl].name)
                                                 
 
@@ -214,12 +202,14 @@ for (fl = 0; fl < obj.flows.length; fl++) {
 
 }
 new_flows = JSON.stringify(obj, null, 2);
-var output_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master_for_audio_recording.json");
+var output_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master_no_quick_replies.json");
 fs.writeFile(output_path, new_flows, function (err, result) {
     if (err) console.log('error', err);
 });
+
+/*
 var new_flows = debug;
 var output_path = path.join(__dirname, "../products/covid-19-parenting/development/debug_qr.txt");
 fs.writeFile(output_path, new_flows, function (err, result) {
     if (err) console.log('error', err);
-});
+});*/
