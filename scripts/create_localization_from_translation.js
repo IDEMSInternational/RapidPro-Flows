@@ -67,7 +67,7 @@ for (fl in obj) {
             if (filtered.length>0){
                 obj[fl].localization[new_lang][bit_id].arguments.push(filtered[0].text);
             }else{
-                console.log("no mathch" + obj[fl].name + "\n")
+                console.log("no match" + obj[fl].name + "\n")
             };
 
         };
