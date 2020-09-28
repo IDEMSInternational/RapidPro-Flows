@@ -4617,6 +4617,26 @@
     {
       "_ui": {
         "nodes": {
+          "7b8c9e5f-ab65-4797-9977-2429748b2d36": {
+            "type": "split_by_scheme",
+            "position": {
+              "left": 520,
+              "top": 60
+            },
+            "config": {
+              "cases": {}
+            }
+          },
+          "36718aea-9cf7-4a89-a1e8-ef8f33efba94": {
+            "type": "split_by_expression",
+            "position": {
+              "left": 160,
+              "top": 200
+            },
+            "config": {
+              "cases": {}
+            }
+          },
           "d854573b-1f5e-49ee-b345-69ed16461087": {
             "position": {
               "left": 580,
@@ -4663,14 +4683,6 @@
             },
             "config": {}
           },
-          "45ff780e-dafd-4122-aa0a-57a02659b969": {
-            "type": "split_by_subflow",
-            "position": {
-              "left": 600,
-              "top": 1000
-            },
-            "config": {}
-          },
           "aad4efd1-322a-4e6f-9200-6d06bdd9a473": {
             "type": "split_by_subflow",
             "position": {
@@ -4679,25 +4691,13 @@
             },
             "config": {}
           },
-          "7b8c9e5f-ab65-4797-9977-2429748b2d36": {
-            "type": "split_by_scheme",
+          "45ff780e-dafd-4122-aa0a-57a02659b969": {
+            "type": "split_by_subflow",
             "position": {
-              "left": 520,
-              "top": 60
+              "left": 600,
+              "top": 1000
             },
-            "config": {
-              "cases": {}
-            }
-          },
-          "36718aea-9cf7-4a89-a1e8-ef8f33efba94": {
-            "type": "split_by_expression",
-            "position": {
-              "left": 160,
-              "top": 200
-            },
-            "config": {
-              "cases": {}
-            }
+            "config": {}
           }
         },
         "stickies": {}
@@ -4707,7 +4707,7 @@
       "language": "eng",
       "localization": {},
       "metadata": {
-        "revision": 9
+        "revision": 31
       },
       "name": "PLH - Timed - Campaign",
       "nodes": [
@@ -5214,7 +5214,7 @@
       "spec_version": "13.1.0",
       "type": "messaging",
       "uuid": "6b9b05f6-9ab7-43a4-81f5-3fddf71b5e2e",
-      "revision": 31
+      "revision": 33
     },
     {
       "_ui": {
@@ -68364,6 +68364,13 @@
             },
             "type": "execute_actions"
           },
+          "4c71d8db-99c7-4a94-a4ac-b4c8db3fdc9b": {
+            "position": {
+              "left": 700,
+              "top": 4940
+            },
+            "type": "execute_actions"
+          },
           "9eab8d3b-428f-4045-9052-e13359ac815c": {
             "type": "split_by_expression",
             "position": {
@@ -68531,13 +68538,6 @@
               "top": 6080
             },
             "type": "execute_actions"
-          },
-          "4c71d8db-99c7-4a94-a4ac-b4c8db3fdc9b": {
-            "position": {
-              "left": 700,
-              "top": 4940
-            },
-            "type": "execute_actions"
           }
         },
         "stickies": {
@@ -68557,7 +68557,7 @@
       "language": "eng",
       "localization": {},
       "metadata": {
-        "revision": 75
+        "revision": 79
       },
       "name": "PLH - Supportive - Praise",
       "nodes": [
@@ -69705,9 +69705,9 @@
           "actions": [
             {
               "attachments": [],
-              "quick_replies": [],
-              "text": "It\u2019s the end of the day! You did it! Now it\u2019s time for you. You deserve ",
+              "text": "It\u2019s the end of the day! You did it! Now it\u2019s time for you. You deserve a break!",
               "type": "send_msg",
+              "quick_replies": [],
               "uuid": "ee669233-423f-4a69-98cd-c3e4b4d0200a"
             }
           ],
@@ -70779,7 +70779,7 @@
       "spec_version": "13.1.0",
       "type": "messaging",
       "uuid": "96855761-2471-45f5-8ca4-a30c3329a1ef",
-      "revision": 79
+      "revision": 80
     },
     {
       "_ui": {
