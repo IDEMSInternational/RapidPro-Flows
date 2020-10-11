@@ -1,43 +1,109 @@
 var fs = require('fs');
 var path = require("path");
-const { split } = require('ts-node');
+
 var input_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master.json");
 var json_string = fs.readFileSync(input_path).toString();
 var obj = JSON.parse(json_string);
 
+var input_path_file_names = path.join(__dirname, "../products/covid-19-parenting/development/flows_by_template.json");
+var json_string_file_names = fs.readFileSync(input_path_file_names).toString();
+var flows_by_template = JSON.parse(json_string_file_names);
+
 
 var doc_cont = [];
 
-var curr_flow = obj.flows.filter(function (fl) { return (fl.name == "PLH - Content - Extra - Behave - Redirect") })[0];
+for (var i = 90; i < 92; i++){
+    var curr_flow = obj.flows.filter(function (fl) { return (fl.name == flows_by_template[i].name) });
+    if (curr_flow.length == 0){
+        console.log("error: " + flows_by_template[i].name + " no flow with this name")
+        break
+    } else {
+        curr_flow = curr_flow[0];
+        
+    }
+    
+    console.log(flows_by_template[i].name)
+    var curr_flow_doc = {};
+    var flow_info = {};
+    flow_info.name = curr_flow.name;
+    flow_info.id = curr_flow.uuid;
+    curr_flow_doc.flow_info = flow_info;
+    
+    var flow_content = [];
+    
+    var curr_node = curr_flow.nodes[0];
+    var type_of_template = flows_by_template[i].type;
 
-var curr_flow_doc = {};
-var flow_info = {};
-flow_info.name = curr_flow.name;
-flow_info.id = curr_flow.uuid;
-curr_flow_doc.flow_info = flow_info;
 
-var flow_content = [];
+    create_template(type_of_template, curr_node)
+    
+    //////////////////////////////////////////////////////
+    
+    // add content to object for flow
+    curr_flow_doc.content = flow_content;
+    // add flow to list of flows for doc
+    doc_cont.push(curr_flow_doc);
+}
 
-var curr_node = curr_flow.nodes[0];
 
+
+
+
+// write output
+doc_cont = JSON.stringify(doc_cont, null, 2);
+var output_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master_for_doc.json");
+fs.writeFile(output_path, doc_cont, function (err, result) {
+    if (err) console.log('error', err);
+});
+
+
+
+/////////////////////////////////////////////////////////////////
+// Templates
+///////////////////////////////////////////////////////////////
+function create_template(type_of_template,curr_node){
+    if (type_of_template == 1){
+        template_1(curr_node)
+    }
+    else if (type_of_template == 2){
+        template_2(curr_node)
+    }
+    else if (type_of_template == 3){
+        template_3(curr_node)
+    }
+    else if (type_of_template == 4){
+        template_4(curr_node)
+    }
+    else if (type_of_template == 5){
+        template_5(curr_node)
+    }
+    else if (type_of_template == 6){
+        template_6(curr_node)
+    }
+    else if (type_of_template == 7){
+        template_7(curr_node)
+    }
+    else if (type_of_template == 8){
+        template_8(curr_node)
+    }
+    else if (type_of_template == 9){
+        template_9(curr_node)
+    }else{
+        error("template not recognised")
+    }
+
+    
+}
 
 ///////////////////////////////////////////////////////
 // Template 1 - send messages
-// Examples: PLH - Activity - Adult11 - Calm - Give yourself a hug
-/*
-var block_output = create_message_block(curr_node);
 
-*/
+function template_1(curr_node) {
+    create_message_block(curr_node);
+}
+
 /////////////////////////////////////////////////////////
-
-
-
-///////////////////////////////////////////////////////////
 // Template 2 - theme split , video & list
-// Example: PLH - Activity - Baby12 - Calm - Book sharing
-
-/*
-template_2(curr_node)
 
 function template_2(curr_node) {
     var block_output = create_default_intro_block(curr_node);
@@ -55,50 +121,70 @@ function template_2(curr_node) {
     block_output = create_message_block(curr_node);
 
 }
-*/
-//////////////////////////////////////////////////////////
 
 //////////////////////////////////////////////////////
 // Template 3 - 
-// Example: PLH - Content - Relax - CheckIn - Loving Kindness
 
-/*
-var block_output = create_message_block(curr_node);
-curr_node = block_output;
+function template_3(curr_node) {
+    var block_output = create_message_block(curr_node);
+    curr_node = block_output;
 
 
-block_output = create_media_block(curr_node);
-curr_node = block_output;
+    block_output = create_media_block(curr_node);
+    curr_node = block_output;
 
-block_output = create_message_block(curr_node);
+    block_output = create_message_block(curr_node);
 
-*/
+}
+
 ///////////////////////////////////////////////////////////
+// Template 4
 
-//////////////////////////////////////////////////////////////
-///////////////////////////////////////////////////////////
-// Template  -
-// Example: PLH - Content - Extra - Behave - Problem solving
-/*
-var block_output = create_default_intro_block(curr_node);
-curr_node = block_output;
+function template_4(curr_node) {
+    var block_output = create_default_intro_block(curr_node);
+    curr_node = block_output;
 
-var block_output = create_media_block(curr_node);
-curr_node = block_output;
 
-var block_output = create_message_block(curr_node);
-*/
+    block_output = create_media_block(curr_node);
+    curr_node = block_output;
+    
+
+    block_output = create_message_block(curr_node);
+    curr_node = block_output;
+   
+
+    block_output = create_list_of_tips_block(curr_node);
+    curr_node = block_output;
+
+
+    block_output = create_message_block(curr_node);
+
+}
+
+//////////////////////////////////////////////////////////////////////
+// Template 5
+function template_5(curr_node){
+    create_intro_for_timed_block(curr_node)
+}
+
+///////////////////////////////////////////////////////////////////////
+// Template  6
+
+function template_6(curr_node){
+    var block_output = create_default_intro_block(curr_node);
+    curr_node = block_output;
+
+    var block_output = create_media_block(curr_node);
+    curr_node = block_output;
+
+    var block_output = create_message_block(curr_node);
+
+}
+
+
 //////////////////////////////////////////////////////////
+// Template 7
 
-////////////////////////////////////////////////////////////
-//create_intro_for_timed_block(curr_node)
-
-/////////////////////////////////////////////////////////////////
-
-
-//////////////////////////////////////////////////////
-/*
-template_7(curr_node)
 function template_7(curr_node) {
     var block_output = create_default_intro_block(curr_node);
     curr_node = block_output;
@@ -119,9 +205,10 @@ function template_7(curr_node) {
     block_output = create_message_block(curr_node);
 
 }
-*/
+
 ///////////////////////////////////////////////////////
-template_8(curr_node)
+// Template 8
+
 function template_8(curr_node) {
     var block_output = create_default_intro_block(curr_node);
     curr_node = block_output;
@@ -132,29 +219,30 @@ function template_8(curr_node) {
 
     block_output = create_message_block(curr_node);
     curr_node = block_output;
-    
 
-    block_output = create_age_split_block(curr_node,2);
+
+    block_output = create_age_split_block(curr_node, 2);
     curr_node = block_output;
-    
+
+
+    block_output = create_message_block(curr_node);
+
+}
+ ///////////////////////////////////////////////////////
+// Template 9
+
+function template_9(curr_node) {
+    var block_output = create_message_block(curr_node);
+    curr_node = block_output;
+
+    block_output = create_age_split_block(curr_node, 2);
+    curr_node = block_output;
 
     block_output = create_message_block(curr_node);
 
 }
 
-//////////////////////////////////////////////////////
 
-// add content to object for flow
-curr_flow_doc.content = flow_content;
-// add flow to list of flows for doc
-doc_cont.push(curr_flow_doc);
-
-// write output
-doc_cont = JSON.stringify(doc_cont, null, 2);
-var output_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master_for_doc.json");
-fs.writeFile(output_path, doc_cont, function (err, result) {
-    if (err) console.log('error', err);
-});
 
 
 /////////////////////////////////// functions for generating content blocks ///////////////////////////////////////////////////////////////
@@ -177,7 +265,7 @@ function create_message_block(curr_node) {
         if (message.length > 0) {
             var next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == curr_node.exits[0].destination_uuid) });
             if (next_node.length == 0) {
-                console.log("fine flow")
+                console.log("end of flow")
                 next_node = null;
                 go_on = false;
                 curr_block.messages.push(message[0].text);
@@ -239,9 +327,12 @@ function create_message_block(curr_node) {
     }
     while (go_on);
     flow_content.push(curr_block);
-
+ 
     if (ends_with_wfr) {
+        if (next_node.actions.filter(function (ac) { return (ac.type == "send_msg") }).length>0){
         next_node = create_message_block(next_node)
+        }
+        
     }
     return next_node
 
@@ -256,7 +347,7 @@ function loop_message_nodes(curr_node) {
         if (message.length > 0) {
             var next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == curr_node.exits[0].destination_uuid) });
             if (next_node.length == 0) {
-                console.log("fine flow")
+                console.log("end of flow")
                 next_node = null;
                 go_on = false;
                 messages_to_send.push(message[0].text);
@@ -608,11 +699,11 @@ function create_intro_for_timed_block(skill_node) {
 }
 
 function create_age_split_block(split_node, type) {
-    
+
     //if (!split_node.hasOwnProperty('router') || split_node.router.type != "switch" || !(split_node.router.operand == "@fields.age_group_for_tips" || split_node.router.operand == "@fields.chosen_difficult_age" || split_node.router.operand == "parent_baby" || split_node.router.operand == "parent_young_child" || split_node.router.operand == "parent_teenager")) {
     //    error("the first node is not a split by age")
     //}
-    
+
     var curr_block = {};
     curr_block.block_type = "split by age group";
     curr_block.split_variable = split_node.router.operand;
@@ -628,30 +719,30 @@ function create_age_split_block(split_node, type) {
 
             next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == msg_node.exits[0].destination_uuid) })[0];
         })
-        
 
 
-     }
+
+    }
     else if (type == 2) {
         curr_block.block_sub_type = 2;
-        var cat_true =  split_node.router.categories.filter(function (cat) { return (cat.name == "True") })[0];
+        var cat_true = split_node.router.categories.filter(function (cat) { return (cat.name == "True") })[0];
         var msg_node_id = split_node.exits.filter(function (ex) { return (ex.uuid == cat_true.exit_uuid) })[0].destination_uuid;
         msg_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == msg_node_id) })[0];
-        var age_string = split_node.router.operand.replace("@fields.parent_","");
+        var age_string = split_node.router.operand.replace("@fields.parent_", "");
         curr_block["message_" + age_string] = msg_node.actions[0].text;
         curr_block.message_other = "";
         next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == msg_node.exits[0].destination_uuid) })[0];
 
-     }
+    }
     else if (type == 3) {
         curr_block.block_sub_type = 3;
-     }
+    }
     else if (type == 4) {
         curr_block.block_sub_type = 4;
-     }
+    }
 
-     flow_content.push(curr_block)
-     return next_node
+    flow_content.push(curr_block)
+    return next_node
 }
 
 
