@@ -1,0 +1,377 @@
+{
+   "PLH - Content - Positive - Behave reminder": {
+      "new_name": "PLH - Content - Positive - CheckIn - Behave reminder"
+   },
+   "PLH - Content - Positive - Routines part 3 and song": {
+      "new_name": "PLH - Content - Positive - CheckIn - Routines with song "
+   },
+   "PLH - Content - Relax - CheckIn - Connect": {
+      "new_name": "PLH - Content - Relax - CheckIn - Connect"
+   },
+   "PLH - Content - Relax - CheckIn - List of things": {
+      "new_name": "PLH - Content - Relax - CheckIn - List of things"
+   },
+   "PLH - Content - Relax - CheckIn - Notice how you feel": {
+      "new_name": "PLH - Content - Relax - CheckIn - Notice how you feel"
+   },
+   "PLH - Content - Supportive - First message ": {
+      "new_name": "PLH - Introductory - First message"
+   },
+   "PLH - xxx - First tip received": {
+      "new_name": "PLH - Introductory - First received tip"
+   },
+   "PLH - Activity - Adult01 - Calm - A short pause": {
+      "new_name": "PLH - Activity - Adult - Calm - A short pause"
+   },
+   "PLH - Activity - Adult02 - Active - 2 truths, 1 lie": {
+      "new_name": "PLH - Activity - Adult - Active - 2 truths 1 lie"
+   },
+   "PLH - Activity - Adult03 - Active - Family work out": {
+      "new_name": "PLH - Activity - Adult - Active - Family work out"
+   },
+   "PLH - Activity - Adult04 - Active - Crazy chicken": {
+      "new_name": "PLH - Activity - Adult - Active - Crazy chicken"
+   },
+   "PLH - Activity - Adult06 - Calm - Taking care of yourself": {
+      "new_name": "PLH - Activity - Adult - Calm - Taking care of yourself"
+   },
+   "PLH - Activity - Adult07 - Calm - Magical number": {
+      "new_name": "PLH - Activity - Adult - Calm - Magical number"
+   },
+   "PLH - Activity - Adult08 - Active - Relax": {
+      "new_name": "PLH - Activity - Adult - Active - Relax"
+   },
+   "PLH - Activity - Adult09 - Active - Stop & listen": {
+      "new_name": "PLH - Activity - Adult - Active - Stop and listen"
+   },
+   "PLH - Activity - Adult10 - Calm - Release some energy": {
+      "new_name": "PLH - Activity - Adult - Calm - Release some energy"
+   },
+   "PLH - Activity - Adult11 - Calm - Give yourself a hug": {
+      "new_name": "PLH - Activity - Adult - Calm - Give yourself a hug"
+   },
+   "PLH - Activity - Baby01 - Active - Mirror game": {
+      "new_name": "PLH - Activity - Baby - Active - Mirror game"
+   },
+   "PLH - Activity - Baby02 - Active - Peek-a-boo!": {
+      "new_name": "PLH - Activity - Baby - Active - Peek a boo"
+   },
+   "PLH - Activity - Baby03 - Active - Funny faces": {
+      "new_name": "PLH - Activity - Baby - Active - Funny faces"
+   },
+   "PLH - Activity - Baby04 - Active -  The sun is coming!": {
+      "new_name": "PLH - Activity - Baby - Active - The sun is coming"
+   },
+   "PLH - Activity - Baby05 - Active -  Shakers": {
+      "new_name": "PLH - Activity - Baby - Active - Shakers"
+   },
+   "PLH - Activity - Baby06 - Active -  Musical Toes": {
+      "new_name": "PLH - Activity - Baby - Active - Musical Toes"
+   },
+   "PLH - Activity - Baby07 - Active -  Down in a ditch!": {
+      "new_name": "PLH - Activity - Baby - Active - Down in a ditch"
+   },
+   "PLH - Activity - Baby08 - Active -  Dance party": {
+      "new_name": "PLH - Activity - Baby - Active - Dance party"
+   },
+   "PLH - Activity - Baby09 - Calm - Lullaby": {
+      "new_name": "PLH - Activity - Baby - Calm - Lullaby"
+   },
+   "PLH - Activity - Baby10 - Active - See it Be it": {
+      "new_name": "PLH - Activity - Baby - Active - See it Be it"
+   },
+   "PLH - Activity - Baby11 - Active - Cooking together": {
+      "new_name": "PLH - Activity - Baby - Active - Cooking together"
+   },
+   "PLH - Activity - Baby13 - Calm - At the end of the day": {
+      "new_name": "PLH - Activity - Baby - Calm - At the end of the day"
+   },
+   "PLH - Activity - Child01 - Active -  Rain on the mountain": {
+      "new_name": "PLH - Activity - Child - Active - Rain on the mountain"
+   },
+   "PLH - Activity - Child02 - Active -  Dance party": {
+      "new_name": "PLH - Activity - Child - Active - Dance party"
+   },
+   "PLH - Activity - Child03 - Calm -  Listening to sounds": {
+      "new_name": "PLH - Activity - Child - Calm - Listening to sounds"
+   },
+   "PLH - Activity - Child04 - Active -  See it be it": {
+      "new_name": "PLH - Activity - Child - Active - See it be it"
+   },
+   "PLH - Activity - Child05 - Calm - Story time": {
+      "new_name": "PLH - Activity - Child - Calm - Story time"
+   },
+   "PLH - Activity - Child06 - Active - Superpowers": {
+      "new_name": "PLH - Activity - Child - Active - Superpowers"
+   },
+   "PLH - Activity - Child07 - Calm -  Three options": {
+      "new_name": "PLH - Activity - Child - Calm - Three options"
+   },
+   "PLH - Activity - Child08 - Active - Worms go home": {
+      "new_name": "PLH - Activity - Child - Active - Worms go home"
+   },
+   "PLH - Activity - Child09 - Active - Crazy chicken": {
+      "new_name": "PLH - Activity - Child - Active - Crazy chicken"
+   },
+   "PLH - Activity - Child10 - Calm -  Drawing": {
+      "new_name": "PLH - Activity - Child - Calm - Drawing"
+   },
+   "PLH - Activity - Child11 - Calm -  Self portrait": {
+      "new_name": "PLH - Activity - Child - Calm - Self portrait"
+   },
+   "PLH - Activity - Child12 - Active -  Transform the object": {
+      "new_name": "PLH - Activity - Child - Active - Transform the object"
+   },
+   "PLH - Activity - Child13 - Active -  Name that tune": {
+      "new_name": "PLH - Activity - Child - Active - Name that tune"
+   },
+   "PLH - Activity - Child14 - Calm -  Memory game - \"When COVID-19": {
+      "new_name": "PLH - Activity - Child - Calm - Memory game"
+   },
+   "PLH - Activity - Child15 - Active -  Dance choreography": {
+      "new_name": "PLH - Activity - Child - Active - Dance choreography"
+   },
+   "PLH - Activity - Child16 - Active -  Mirror": {
+      "new_name": "PLH - Activity - Child - Active - Mirror"
+   },
+   "PLH - Activity - Child17 - Active -  Freeze dance": {
+      "new_name": "PLH - Activity - Child - Active - Freeze dance"
+   },
+   "PLH - Activity - Child18 - Active -  Run around and do this": {
+      "new_name": "PLH - Activity - Child - Active - Run around and do this"
+   },
+   "PLH - Activity - Child19 - Active -  Ship to shore": {
+      "new_name": "PLH - Activity - Child - Active - Ship to shore"
+   },
+   "PLH - Activity - Child20 - Active -  Stage Directions": {
+      "new_name": "PLH - Activity - Child - Active - Stage Directions"
+   },
+   "PLH - Activity - Child21 - Calm -  Blind Dragon": {
+      "new_name": "PLH - Activity - Child - Calm - Blind Dragon"
+   },
+   "PLH - Activity - Child22 - Active - What are you doing?": {
+      "new_name": "PLH - Activity - Child - Active - What are you doing"
+   },
+   "PLH - Activity - Child23 - Calm - When I was younger": {
+      "new_name": "PLH - Activity - Child - Calm - When I was younger"
+   },
+   "PLH - Activity - Child24 - Calm - Dancing with Angels": {
+      "new_name": "PLH - Activity - Child - Calm - Dancing with Angels"
+   },
+   "PLH - Activity - Child25 - Calm - The Interrupter": {
+      "new_name": "PLH - Activity - Child - Calm - The Interrupter"
+   },
+   "PLH - Activity - Child26 - Active - Make housework fun": {
+      "new_name": "PLH - Activity - Child - Active - Make housework fun"
+   },
+   "PLH - Activity - Child27 - Calm - At the end of the day": {
+      "new_name": "PLH - Activity - Child - Calm - At the end of the day"
+   },
+   "PLH - Activity - Teen01 - Calm -  2Truths, 1 Lie": {
+      "new_name": "PLH - Activity - Teen - Calm - 2 Truths 1 Lie"
+   },
+   "PLH - Activity - Teen02 - Calm -  Three options": {
+      "new_name": "PLH - Activity - Teen - Calm - Three options"
+   },
+   "PLH - Activity - Teen03 - Calm - Yes, No or Maybe": {
+      "new_name": "PLH - Activity - Teen - Calm - Yes No or Maybe"
+   },
+   "PLH - Activity - Teen04 - Calm - The Interrupter": {
+      "new_name": "PLH - Activity - Teen - Calm - The Interrupter"
+   },
+   "PLH - Activity - Teen05 - Calm - Superpowers": {
+      "new_name": "PLH - Activity - Teen - Calm - Superpowers"
+   },
+   "PLH - Activity - Teen06 - Calm - How was your day?": {
+      "new_name": "PLH - Activity - Teen - Calm - How was your day"
+   },
+   "PLH - Activity - Teen07 - Calm - Dream travel": {
+      "new_name": "PLH - Activity - Teen - Calm - Dream travel"
+   },
+   "PLH - Activity - Teen08 - Active - Get Active!": {
+      "new_name": "PLH - Activity - Teen - Active - Get Active"
+   },
+   "PLH - Activity - Teen09 - Active - Co-chef": {
+      "new_name": "PLH - Activity - Teen - Active - Co chef"
+   },
+   "PLH - Activity - Teen10 - Active -  What's new?": {
+      "new_name": "PLH - Activity - Teen - Active - What is new"
+   },
+   "PLH - Activity - Teen11 - Active -  Dance Choreography": {
+      "new_name": "PLH - Activity - Teen - Active - Dance Choreography"
+   },
+   "PLH - Activity - Teen12 - Calm -  Mirror": {
+      "new_name": "PLH - Activity - Teen - Calm - Mirror"
+   },
+   "PLH - Activity - Teen13 - Active -  What are you doing?": {
+      "new_name": "PLH - Activity - Teen - Active - What are you doing"
+   },
+   "PLH - Activity - Teen14 - Calm -  Make up a story!": {
+      "new_name": "PLH - Activity - Teen - Calm - Make up a story"
+   },
+   "PLH - Activity - Teen15 - Active - Crazy chicken": {
+      "new_name": "PLH - Activity - Teen - Active - Crazy chicken"
+   },
+   "PLH - Activity - Teen16 - Active - Name that tune": {
+      "new_name": "PLH - Activity - Teen - Active - Name that tune"
+   },
+   "PLH - Activity - Teen17 - Calm - \"When COVID-19 ends...\"": {
+      "new_name": "PLH - Activity - Teen - Calm - When COVID19 ends"
+   },
+   "PLH - Activity - Teen18 - Active - Pass the snap": {
+      "new_name": "PLH - Activity - Teen - Active - Pass the snap"
+   },
+   "PLH - Activity - Teen19 - Calm - Just a friendly chat": {
+      "new_name": "PLH - Activity - Teen - Calm - Just a friendly chat"
+   },
+   "PLH - Activity - Teen20 - Active - Make housework fun": {
+      "new_name": "PLH - Activity - Teen - Active - Make housework fun"
+   },
+   "PLH - Activity - Teen21 - Calm - At the end of the day": {
+      "new_name": "PLH - Activity - Teen - Calm - At the end of the day"
+   },
+   "PLH - Content - Extra - Behave - Crying": {
+      "new_name": "PLH - Content - Positive - Behave - Crying"
+   },
+   "PLH - Content - Extra - Behave - Ignore": {
+      "new_name": "PLH - Content - Positive - Behave - Ignore"
+   },
+   "PLH - Content - Extra - COVID": {
+      "new_name": "PLH - Content - Extra - COVID"
+   },
+   "PLH - Content - Extra - Disability": {
+      "new_name": "PLH - Content - Extra - Disability"
+   },
+   "PLH - Content - Extra - Education": {
+      "new_name": "PLH - Content - Positive - Education"
+   },
+   "PLH - Content - Extra - Family": {
+      "new_name": "PLH - Content - Positive - Family"
+   },
+   "PLH - Content - Positive - Instructions on keeping it positive": {
+      "new_name": "PLH - Content - Positive - Positive instructions"
+   },
+   "PLH - Content - Positive - Safe/unsafe touch": {
+      "new_name": "PLH - Content - Positive - Safe or unsafe touch"
+   },
+   "PLH - Activity - Baby12 - Calm - Book sharing": {
+      "new_name": "PLH - Content - Positive - Book sharing"
+   },
+   "PLH - Content - Relax - CheckIn - Anger management": {
+      "new_name": "PLH - Content - Relax - CheckIn - Anger management"
+   },
+   "PLH - Content - Relax - CheckIn - Loving Kindness": {
+      "new_name": "PLH - Content - Relax - CheckIn - Loving Kindness"
+   },
+   "PLH - Content - Relax - CheckIn - Quick Pause": {
+      "new_name": "PLH - Content - Relax - CheckIn - Quick Pause"
+   },
+   "PLH - Content - Relax - CheckIn - Three is a magical number": {
+      "new_name": "PLH - Content - Relax - CheckIn - Three is a magical number"
+   },
+   "PLH - Content - Extra - Behave - Consequences": {
+      "new_name": "PLH - Content - Positive - Behave - Consequences"
+   },
+   "PLH - Content - Extra - Behave - Routines": {
+      "new_name": "PLH - Content - Positive - Behave - Routines"
+   },
+   "PLH - Content - Positive - Behaviour consequences": {
+      "new_name": "PLH - Content - Positive - Behave - Consequences - Timed intro"
+   },
+   "PLH - Content - Positive - Book sharing": {
+      "new_name": "PLH - Content - Positive - Book sharing - Timed intro"
+   },
+   "PLH - Content - Positive - Crisis": {
+      "new_name": "PLH - Content - Positive - Behave - Crisis - Timed intro"
+   },
+   "PLH - Content - Positive - Crying": {
+      "new_name": "PLH - Content - Positive - Behave - Crying - Timed intro"
+   },
+   "PLH - Content - Positive - Education": {
+      "new_name": "PLH - Content - Positive - Education - Timed intro"
+   },
+   "PLH - Content - Positive - Emotion": {
+      "new_name": "PLH - Content - Positive - Behave - Emotion - Timed intro"
+   },
+   "PLH - Content - Positive - Family": {
+      "new_name": "PLH - Content - Positive - Family - Timed intro"
+   },
+   "PLH - Content - Positive - How to Praise (intro)": {
+      "new_name": "PLH - Content - Positive - Behave - Praise - Timed intro"
+   },
+   "PLH - Content - Positive - Ignore behaviour": {
+      "new_name": "PLH - Content - Positive - Behave - Ignore - Timed intro"
+   },
+   "PLH - Content - Positive - Online": {
+      "new_name": "PLH - Content - Positive - Online - Timed intro"
+   },
+   "PLH - Content - Positive - Problem solving": {
+      "new_name": "PLH - Content - Positive - Behave - Problem solving - Timed intro"
+   },
+   "PLH - Content - Positive - Redirect behaviour": {
+      "new_name": "PLH - Content - Positive - Behave - Redirect - Timed intro"
+   },
+   "PLH - Content - Positive - Routines": {
+      "new_name": "PLH - Content - Positive - Behave - Routines - Timed intro"
+   },
+   "PLH - Content - Positive - Rules - Timed intro": {
+      "new_name": "PLH - Content - Positive - Rules - Timed intro"
+   },
+   "PLH - Content - Positive - Safe/unsafe touch - Timed intro": {
+      "new_name": "PLH - Content - Positive - Safe or unsafe touch - Timed intro"
+   },
+   "PLH - Content - Relax - Introduction": {
+      "new_name": "PLH - Content - Relax - Take a pause - Timed intro"
+   },
+   "PLH - Content - Time - Introduction": {
+      "new_name": "PLH - Content - Time - Behave - One-on-one time - Timed intro"
+   },
+   "PLH - Content - Extra - Behave - Crisis": {
+      "new_name": "PLH - Content - Positive - Behave - Crisis"
+   },
+   "PLH - Content - Extra - Behave - Problem solving": {
+      "new_name": "PLH - Content - Positive - Behave - Problem solving"
+   },
+   "PLH - Content - Positive - Rules": {
+      "new_name": "PLH - Content - Positive - Rules"
+   },
+   "PLH - Content - Relax - Anger management": {
+      "new_name": "PLH - Content - Relax - Anger management"
+   },
+   "PLH - Content - Relax - CheckIn - Mindful movement": {
+      "new_name": "PLH - Content - Relax - Exercise"
+   },
+   "PLH - Activity - Adult05 - Calm - Take a pause": {
+      "new_name": "PLH - Content - Relax - Take a pause"
+   },
+   "PLH - Content - Extra - Behave - Be open to emotions": {
+      "new_name": "PLH - Content - Positive - Behave - Emotion"
+   },
+   "PLH - Content - Extra - Behave - Praise": {
+      "new_name": "PLH - Content - Positive - Behave - Praise"
+   },
+   "PLH - Content - Extra - Behave - Redirect": {
+      "new_name": "PLH - Content - Positive - Behave - Redirect"
+   },
+   "PLH - Content - Relax - CheckIn - Anger management 2": {
+      "new_name": "PLH - Content - Relax - CheckIn - Anger management 2"
+   },
+   "PLH - Content - Positive - Budget": {
+      "new_name": "PLH - Content - Positive - Budget - Timed intro"
+   },
+   "PLH - Content - Positive - Routines part 2": {
+      "new_name": "PLH - Content - Positive - CheckIn - Routines"
+   },
+   "PLH - Content - Extra - Behave - One-on-one time": {
+      "new_name": "PLH - Content - Time - Behave - One-on-one time"
+   },
+   "PLH - Content - Extra - Budget": {
+      "new_name": "PLH - Content - Positive - Budget"
+   },
+   "PLH - Content - Extra - Online": {
+      "new_name": "PLH - Content - Positive - Online"
+   },
+   "PLH - Content - Extra - Development": {
+      "new_name": "PLH - Content - Extra - Development"
+   }
+}
