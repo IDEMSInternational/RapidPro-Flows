@@ -1,0 +1,35 @@
+{
+  "PLH - Content - Positive - Behave - Crisis": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message 1": "Today's Tip is about how we can support our teens when they experience really difficult situations. ",
+        "Message 2": "When our children share difficult experiences with us, we may initially get angry because we are afraid for them. But that is when we need to stay calm, listen, and be open.",
+        "Interaction message": "Do you want some tips that can help you respond in a more supportive way?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "When our children share something that is especially troubling, we need to remember to stay calm, listen, and be open.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour."
+      },
+      "Media": {
+        "Video": {
+          "Text": "Video of Crisis Support",
+          "Link": "missing"
+        }
+      },
+      "Set of messages 1": {
+        "Message 1": "Here are some things you can do when your teen shares something difficult with you:\n• Take a deep breath before you respond. \n• Listen to what your child is saying. Notice how they are feeling.\n• Notice how you feel. Ask yourself, \"What does my child need right now?\" \n• Reassure your child that you are there for them. \n• You can deal with the consequences later but right now your child needs you.\n• Discuss possible solutions or next steps to take action. \n• Remind your child again that you love them and thank them for sharing with you. ",
+        "Message 2": "Here is a comic that shows how you can support your child during a crisis.",
+        "Message 3": "We understand that this can be really difficult. Please type \"Help\" if you want any extra support or guidance.",
+        "Message 4": "Well done! You have added another skill to your Parenting Toolkit! Supporting your child through a crisis will also teach them how to support others in difficult times. Good for you!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "1d68c465-70b2-4660-b3b7-d9b1f8d5ebb5",
+      "Id tip": "349512b2-1f1f-4485-8d36-fa534c720b8d",
+      "Template type": "6"
+    }
+  }
+}

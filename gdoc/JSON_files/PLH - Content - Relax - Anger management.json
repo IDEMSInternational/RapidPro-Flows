@@ -1,0 +1,28 @@
+{
+  "PLH - Content - Relax - Anger management": {
+    "Content": {
+      "Default introduction": {
+        "Message": "Hello! We love our children and teenagers, but stress from caregiving, money, and COVID-19 can make us angry. Here is how we can maintain control and keep calm.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video to help you maintain control and keep calm when you get angry.",
+          "Link": "missing"
+        },
+        "Audio": {
+          "Text": "Audio of When we are angry",
+          "Link": "missing"
+        }
+      },
+      "Set of messages 1": {
+        "Message": "Well done! You have added another skill to your Parenting Toolkit. Learning how to manage your anger can help you  avoid some difficult situations. "
+      }
+    },
+    "Technical information": {
+      "Id": "5ac9b16d-5b9b-4355-a1a2-39fd297f1016",
+      "Template_type": "6"
+    }
+  }
+}

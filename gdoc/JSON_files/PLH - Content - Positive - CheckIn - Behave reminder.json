@@ -1,0 +1,14 @@
+{
+  "PLH - Content - Positive - CheckIn - Behave reminder": {
+    "Content": {
+      "Set of messages 1": {
+        "Message 1": "Hi! Every child has challenging behaviour sometimes. If you would like some tips, type \"Help\".",
+        "Message 2": "Remember that One-on-One time, praise for being good, and consistent routines will also help reduce difficult behaviours."
+      }
+    },
+    "Technical information": {
+      "Id": "b33bdae8-549a-4161-b29e-2c18df7f4fac",
+      "Template_type": "1"
+    }
+  }
+}

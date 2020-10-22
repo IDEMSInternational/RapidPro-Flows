@@ -1,0 +1,36 @@
+{
+  "PLH - Content - Relax - Take a pause": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "Hello! This is a stressful time, especially for parents. When we are stressed or angry, we do not make the best decisions. Taking the time to care for ourselves will help us care for our children.\nToday's tip is about how to keep calm and manage stress in our busy lives. ",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "Taking a Pause is a simple relaxation activity that you can do whenever you are feeling stressed or worried. It can also be helpful when you find your child is irritating you or has done something wrong.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video about how to keep calm and manage stress in our busy lives.",
+          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FKeep%20Calm%20And%20Manage%20Stress%20Including%20Take%20A%20Pause-13.m4v?alt=media&token=720f8695-4f78-4e2e-a23c-62e7c668a109"
+        },
+        "Audio": {
+          "Text": "Take a pause",
+          "Link": "missing"
+        }
+      },
+      "Set of messages 1": {
+        "Message 1": "Here is a comic to remind you of taking a pause!",
+        "Message 2": "Well done for Taking a Pause. You have added another skill to your Parenting Toolkit! \n\nYou can do this anytime you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Children!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "ef57c710-ddf8-4cb2-9bbc-4d60a25fc62f",
+      "Id tip": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+      "Template type": "6"
+    }
+  }
+}

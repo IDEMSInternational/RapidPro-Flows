@@ -1,0 +1,26 @@
+{
+  "PLH - Content - Relax - CheckIn - Three is a magical number": {
+    "Content": {
+      "Set of messages 1": {
+        "Message": "Hello! Did you know that 3 is a magical number? Breathe in to the count of three and breathe out to the count of three. How do you feel now? Do you feel any different?"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video to guide through this activity!",
+          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FMagical%20Number-16.m4v?alt=media&token=ce0c90ba-4a9b-4b0a-bd5d-d6b703b1f022"
+        },
+        "Audio": {
+          "Text": "Audio of 3 is a Magical Number",
+          "Link": "missing"
+        }
+      },
+      "Set of messages 2": {
+        "Message": "We hope that was helpful! Remember you can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+      }
+    },
+    "Technical information": {
+      "Id": "e1fcc386-7a96-4e05-aa80-a67aac60d691",
+      "Template_type": "3"
+    }
+  }
+}

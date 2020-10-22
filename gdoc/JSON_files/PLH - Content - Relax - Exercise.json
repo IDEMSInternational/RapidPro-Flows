@@ -1,0 +1,28 @@
+{
+  "PLH - Content - Relax - Exercise": {
+    "Content": {
+      "Default introduction": {
+        "Message": "Hello! How are you feeling? If you are feeling overwhelmed or stressed, here's a fun activity that can also release some stress.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a fun video of a physical activity that can help you release stress and keep healthy!",
+          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FEmotional%20Support.Webm-7.m4v?alt=media&token=3692c488-e796-469b-b4d9-014b9009932b"
+        },
+        "Audio": {
+          "Text": "Audio of Exercise",
+          "Link": "missing"
+        }
+      },
+      "Set of messages 1": {
+        "Message": "Well done! You have added another skill to your Parenting Toolkit. Physical exercise is a great way to reduce stress and keep healthy. You can do this activity at any time whenever you feel like you need to release stress and energise your mind and body."
+      }
+    },
+    "Technical information": {
+      "Id": "675ff15d-5691-4b5a-86bf-3e2ffaf55746",
+      "Template_type": "6"
+    }
+  }
+}
