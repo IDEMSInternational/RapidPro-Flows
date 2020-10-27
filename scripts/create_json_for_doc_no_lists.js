@@ -1,13 +1,16 @@
 var fs = require('fs');
 var path = require("path");
 
-var input_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master_renamed.json");
+var input_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master.json");
 var json_string = fs.readFileSync(input_path).toString();
 var obj = JSON.parse(json_string);
 
 var input_path_file_names = path.join(__dirname, "../products/covid-19-parenting/development/flows_by_template.json");
 var json_string_file_names = fs.readFileSync(input_path_file_names).toString();
 var flows_by_template = JSON.parse(json_string_file_names);
+
+
+/// flows with timed introduction
 
 var timed_intros = flows_by_template.filter(function (flow) { return (flow.name.endsWith("Timed intro")) });
 
@@ -64,18 +67,23 @@ for (var fl = 0; fl < timed_intros.length; fl++){
 
     // write output
     doc_cont = JSON.stringify(doc_cont, null, 2);
-    //var output_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master_for_doc_template2.json");
-    var output_path ="C:/Users/fagio/Desktop/gdoc/JSON_files/" + curr_flow_tip.name + ".json";
+    var output_path = path.join(__dirname, "../gdoc/JSON_files/" + curr_flow_tip.name + ".json");
     fs.writeFile(output_path, doc_cont, function (err, result) {
         if (err) console.log('error', err);
     });
-
+    console.log("qui")
 
 }
 
+
+//////////////////////////////////////////////////////////////////
+/// flows without  timed introduction
 for (var fl = 0; fl < flows_by_template.length; fl++) {
+
+//for (var fl = flows_by_template.length - 1; fl < flows_by_template.length; fl++) {
+    //for (var fl = 127; fl < 129; fl++) {    
     var doc_cont = {};
-    
+
     var curr_flow = obj.flows.filter(function (flow) { return (flow.name == flows_by_template[fl].name) })[0];
     console.log(flows_by_template[fl].name)
 
@@ -104,9 +112,8 @@ for (var fl = 0; fl < flows_by_template.length; fl++) {
 
     // write output
     doc_cont = JSON.stringify(doc_cont, null, 2);
-    //var output_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master_for_doc_template2.json");
-    var output_path ="C:/Users/fagio/Desktop/gdoc/JSON_files/" + curr_flow.name + ".json";
-     fs.writeFile(output_path, doc_cont, function (err, result) {
+    var output_path = path.join(__dirname, "../gdoc/JSON_files/test/" + curr_flow.name + ".json");
+    fs.writeFile(output_path, doc_cont, function (err, result) {
         if (err) console.log('error', err);
     });
 
@@ -119,6 +126,9 @@ for (var fl = 0; fl < flows_by_template.length; fl++) {
 
 
 
+////////////////////////////////////////////////////////////////////////
+/// FUNCTIONS /////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
 
 
 
@@ -152,6 +162,8 @@ function create_template(type_of_template, curr_node) {
     }
     else if (type_of_template == 9) {
         template_9(curr_node)
+    } else if (type_of_template == 10) {
+        template_10(curr_node)
     } else {
         error("template not recognised")
     }
@@ -306,8 +318,17 @@ function template_9(curr_node) {
 
 }
 
+///////////////////////////////////////////////////////
+// Template 10
+
+function template_10(curr_node) {
+    var block_output = create_age_split_block(curr_node, 1);
+    curr_node = block_output;
+
+}
 
 
+/////////////////////////////////////////////////////////
 
 /////////////////////////////////// functions for generating content blocks ///////////////////////////////////////////////////////////////
 
@@ -362,7 +383,7 @@ function create_message_block(curr_node) {
                         var no_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == no_node_id) })[0];
 
 
-                        var curr_block_no_messages = loop_message_nodes(no_node)[0];
+                        var curr_block_no_messages = loop_message_nodes(no_node, "null")[0];
 
 
 
@@ -430,7 +451,7 @@ function create_message_block(curr_node) {
 
 }
 
-function loop_message_nodes(curr_node) {
+function loop_message_nodes(curr_node, stop_node_id) {
     var messages_to_send = [];
     do {
         var message = curr_node.actions.filter(function (ac) { return (ac.type == "send_msg") });
@@ -457,9 +478,17 @@ function loop_message_nodes(curr_node) {
                         next_node = next_node[0];
                     }
                 } else {
-                    go_on = true;
-                    messages_to_send.push(message[0].text);
-                    curr_node = next_node[0];
+                    if (next_node[0].uuid == stop_node_id) {
+                        go_on = false;
+                        messages_to_send.push(message[0].text);
+                        next_node = next_node[0];
+
+                    } else {
+                        go_on = true;
+                        messages_to_send.push(message[0].text);
+                        curr_node = next_node[0];
+                    }
+
 
 
 
@@ -481,7 +510,8 @@ function loop_message_nodes(curr_node) {
 }
 
 ////////////////////////////////////////////
-// media block
+// media block old
+/*
 function create_media_block(curr_node) {
 
     var curr_block = {};
@@ -501,13 +531,13 @@ function create_media_block(curr_node) {
                 var video = {};
                 video["Text"] = video_node.actions[0].text;
                 if (video_node.actions[0].attachments.length > 0) {
-                    video["Link"] = video_node.actions[0].attachments[0].slice(6);
+                    video["Link"] = (video_node.actions[0].attachments[0].slice(6,-2)).replace("@(fields.video_script_path & \"", "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/");
                 } else {
                     video["Link"] = "missing";
                 }
 
                 curr_block["Video"] = video;
-
+            
             } else {
                 console.log("1 argument but not high")
             }
@@ -519,7 +549,7 @@ function create_media_block(curr_node) {
             var video = {};
             video["Text"] = video_node.actions[0].text;
             if (video_node.actions[0].attachments.length > 0) {
-                video["Link"] = video_node.actions[0].attachments[0].slice(6);
+                video["Link"] = (video_node.actions[0].attachments[0].slice(6,-2)).replace("@(fields.video_script_path & \"", "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/");
             } else {
                 video["Link"] = "missing";
             }
@@ -539,6 +569,104 @@ function create_media_block(curr_node) {
             curr_block["Audio"] = audio;
 
             next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == audio_node.exits[0].destination_uuid) })[0];
+
+
+        }
+        else { console.log("too many arguments") }
+
+
+    } else {
+        console.log("error, there is no media split")
+    }
+
+
+    flow_content["Media"] = curr_block;
+    return next_node
+}
+*/
+////////////////////////////////////////////
+// media block new 
+function create_media_block(curr_node) {
+
+    var curr_block = {};
+    var next_node = null;
+
+    if (curr_node.hasOwnProperty('router') && curr_node.router.operand == "@fields.type_of_media") {
+        if (curr_node.router.cases.length == 1) {
+            if (curr_node.router.cases[0].arguments[0] == "high") {
+
+                var video_category = curr_node.router.categories.filter(function (cat) { return (cat.name.toLowerCase() == "high") })[0];
+                var video_node_id = curr_node.exits.filter(function (ex) { return (ex.uuid == video_category.exit_uuid) })[0].destination_uuid;
+                var video_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == video_node_id) })[0];
+
+                var other_category = curr_node.router.categories.filter(function (cat) { return (cat.name == "Other") })[0];
+                var next_node_id = curr_node.exits.filter(function (ex) { return (ex.uuid == other_category.exit_uuid) })[0].destination_uuid;
+                next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == next_node_id) })[0];
+                var video = {};
+                video["Text"] = video_node.actions[0].text;
+                if (video_node.actions[0].attachments.length > 0) {
+                    video["Link"] = (video_node.actions[0].attachments[0].slice(6, -2)).replace("@(fields.video_script_path & \"", "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/")
+                } else {
+                    video["Link"] = "missing";
+                }
+
+                curr_block["Video"] = video;
+            } else if (curr_node.router.cases[0].arguments[0] == "low") {
+                //for relax audio 
+
+            } else {
+                console.log("1 argument but not high or low")
+            }
+        } else if (curr_node.router.cases.length == 2) {
+            var video_category = curr_node.router.categories.filter(function (cat) { return (cat.name.toLowerCase() == "high") })[0];
+            var video_node_id = curr_node.exits.filter(function (ex) { return (ex.uuid == video_category.exit_uuid) })[0].destination_uuid;
+
+            var video_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == video_node_id) })[0];
+            var video = {};
+            video["Text"] = video_node.actions[0].text;
+            if (video_node.actions[0].attachments.length > 0) {
+                video["Link"] = (video_node.actions[0].attachments[0].slice(6, -2)).replace("@(fields.video_script_path & \"", "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/")
+            } else {
+                video["Link"] = "missing";
+            }
+            curr_block["Video"] = video;
+
+            var audio_category = curr_node.router.categories.filter(function (cat) { return (cat.name.toLowerCase() == "medium") })[0];
+            var audio_node_id = curr_node.exits.filter(function (ex) { return (ex.uuid == audio_category.exit_uuid) })[0].destination_uuid;
+            var audio_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == audio_node_id) })[0];
+            var audio = {};
+            audio["Text"] = audio_node.actions[0].text;
+            if (audio_node.actions[0].attachments.length > 0) {
+                audio["Link"] = audio_node.actions[0].attachments[0].slice(6);
+            } else {
+                audio["Link"] = "missing";
+            }
+
+            curr_block["Audio"] = audio;
+
+            next_node_id = audio_node.exits[0].destination_uuid;
+            next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == next_node_id) })[0];
+
+
+            var low_category = curr_node.router.categories.filter(function (cat) { return (cat.name.toLowerCase() == "other") })[0];
+            var low_node_id = curr_node.exits.filter(function (ex) { return (ex.uuid == low_category.exit_uuid) })[0].destination_uuid;
+
+            var low_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == low_node_id) })[0];
+            curr_block["Low media text option"] = {};
+            var text_version = loop_message_nodes(low_node, next_node_id);
+            if (text_version[1].uuid == next_node_id) {
+                for (var n = 0; n < text_version[0].length; n++) {
+                    if (text_version[0].length == 1) {
+                        curr_block["Low media text option"]["Message"] = text_version[0][0];
+                    } else {
+                        curr_block["Low media text option"]["Message " + (n + 1)] = text_version[0][n];
+                    }
+                }
+            } else {
+                console.log("error, the media split does not rejoin")
+            }
+
+
 
 
         }
@@ -619,7 +747,7 @@ function create_default_intro_block(skill_node) {
                         var no_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == no_node_id) })[0];
 
 
-                        var curr_block_no_messages = loop_message_nodes(no_node)[0];
+                        var curr_block_no_messages = loop_message_nodes(no_node, "null")[0];
                     } else {
 
                         curr_block_messages.push(message[0].text);
@@ -829,7 +957,7 @@ function create_intro_for_timed_block(skill_node) {
     var no_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == no_node_id) })[0];
 
 
-    var curr_block_no_messages = loop_message_nodes(no_node)[0];
+    var curr_block_no_messages = loop_message_nodes(no_node, "null")[0];
 
 
     for (var m = 0; m < curr_block_messages.length; m++) {
@@ -868,21 +996,82 @@ function create_age_split_block(split_node, type) {
     var curr_block = {};
 
 
-
-
     if (type == 1) {
 
-        var next_node = {};
+
+        var next_nodes_ids = [];
+        for (var ca = 0; ca < split_node.router.categories.length; ca++) {
+            next_nodes_ids.push(split_node.exits.filter(function (ex) { return (ex.uuid == split_node.router.categories[ca].exit_uuid) })[0].destination_uuid);
+        }
+        var next_node = null;
+        var distinct_next_nodes_ids = [...new Set(next_nodes_ids)];
+
+        while (distinct_next_nodes_ids.length == next_nodes_ids.length && next_nodes_ids.filter(function (id) { return (id == null) }).length == 0) {
+
+            curr_nodes_ids = next_nodes_ids;
+            next_nodes_ids = [];
+            curr_nodes_ids.forEach(id => {
+                next_nodes_ids.push(curr_flow.nodes.filter(function (nd) { return (nd.uuid == id) })[0].exits[0].destination_uuid);
+            })
+            distinct_next_nodes_ids = [...new Set(next_nodes_ids)];
+        }
+
+        if (next_nodes_ids.filter(function (id) { return (id == null) }).length != 0) {
+            stop_node_id = "null"
+        } else {
+            var count = next_nodes_ids =>
+                next_nodes_ids.reduce((a, b) => ({
+                    ...a,
+                    [b]: (a[b] || 0) + 1
+                }), {}) // don't forget to initialize the accumulator
+
+            var duplicates = dict =>
+                Object.keys(dict).filter((a) => dict[a] > 1)
+
+            stop_node_id = duplicates(count(next_nodes_ids));
+            next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == stop_node_id) })[0];
+        }
+
         split_node.router.categories.forEach(el => {
             var msg_node_id = split_node.exits.filter(function (ex) { return (ex.uuid == el.exit_uuid) })[0].destination_uuid;
             msg_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == msg_node_id) })[0];
-            curr_block["Message for " + el.name] = msg_node.actions[0].text;
+            var curr_age_messages = loop_message_nodes(msg_node, stop_node_id)[0];
+            var curr_age_obj_msg = {};
+            for (var n = 0; n < curr_age_messages.length; n++) {
+                if (curr_age_messages.length == 1) {
+                    curr_age_obj_msg["Message"] = curr_age_messages[0];
+                } else {
+                    curr_age_obj_msg["Message " + (n + 1)] = curr_age_messages[n];
+                }
+            }
 
-            next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == msg_node.exits[0].destination_uuid) })[0];
-        })
+            if (el.name == "Other") {
+                curr_block["Other age groups"] = curr_age_obj_msg;
 
+            } else {
+                if (el.name.toLowerCase().includes("baby")) {
+                    var age_name = "Baby";
+                } else if (el.name.toLowerCase().includes("teen")) {
+                    var age_name = "Teen";
+                } else if (el.name.toLowerCase().includes("young") || el.name.toLowerCase().includes("child")){
+                    var age_name = "Young child";
+                }
+                curr_block[age_name] = curr_age_obj_msg;
+            }
+        })               
+        if  (split_node.router.categories.length >=3 && curr_block.hasOwnProperty("Other age groups")) {
+            var cloned_other_cat = Object.assign({}, curr_block["Other age groups"]);
+            delete curr_block["Other age groups"];
+            if (!curr_block.hasOwnProperty("Teen")){
+                curr_block["Teen"] = cloned_other_cat;
+            } else if (!curr_block.hasOwnProperty("Baby")){
+                curr_block["Baby"] = cloned_other_cat;
+            } else if (!curr_block.hasOwnProperty("Young child")){
+                curr_block["Young child"] = cloned_other_cat;
 
-
+            }
+        }           
+        
     }
     else if (type == 2) {
 
@@ -891,11 +1080,24 @@ function create_age_split_block(split_node, type) {
         msg_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == msg_node_id) })[0];
         var age_string = split_node.router.operand.replace("@fields.parent_", "");
         curr_block["Message for " + age_string] = msg_node.actions[0].text;
-        curr_block["Message for other age groups"] = "";
+        curr_block["Message for other age groups"] = "none";
         next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == msg_node.exits[0].destination_uuid) })[0];
 
     }
     else if (type == 3) {
+        var next_node = {};
+        split_node.router.categories.forEach(el => {
+            var msg_node_id = split_node.exits.filter(function (ex) { return (ex.uuid == el.exit_uuid) })[0].destination_uuid;
+            msg_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == msg_node_id) })[0];
+            if (el.name == "Other") {
+                curr_block["Message for other age groups"] = msg_node.actions[0].text;
+            } else {
+                curr_block["Message for " + el.name] = msg_node.actions[0].text;
+            }
+
+
+            next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == msg_node.exits[0].destination_uuid) })[0];
+        })
 
     }
     else if (type == 4) {
@@ -904,12 +1106,11 @@ function create_age_split_block(split_node, type) {
 
     curr_block["Technical info"] = {};
     curr_block["Technical info"]["Variable"] = split_node.router.operand;
-    curr_block["Technical info"]["Type of split"] = type;
+    curr_block["Technical info"]["Type of split"] = type.toString();
 
     flow_content["Based on age group"] = curr_block;
     return next_node
 }
-
 
 
 
