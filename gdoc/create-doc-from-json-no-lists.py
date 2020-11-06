@@ -36,7 +36,7 @@ def main():
 
     service = build('docs', 'v1', credentials=creds)
   
-    title = 'Test moving'
+    title = 'Malay voiceover scripts (with corrections)'
     
     body = {
         "title": title,
@@ -93,7 +93,7 @@ def main():
         requests
     
     # load json file
-    with open('./JSON_files/plh_master_for_doc_template2.json', encoding="utf8") as json_file:
+    with open('./other_files/corrected_full_narration_list_malay_for_doc.json', encoding="utf8") as json_file:
         data = json.load(json_file)
     
     # json is a list of 1 element so extract this
