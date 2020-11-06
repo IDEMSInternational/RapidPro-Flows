@@ -1,12 +1,37 @@
 var fs = require('fs');
 var path = require("path");
+
 var input_path = path.join(__dirname, "../../products/covid-19-parenting/development/plh_master.json");
 var json_string = fs.readFileSync(input_path).toString();
 var obj = JSON.parse(json_string);
 
+obj = reorder_flows_alphabetically_by_name(obj);
+var bits = extract_bits_to_be_translated(obj);
+var file_for_transl = create_file_for_translators(bits);
+var file_for_transl_no_rep = remove_repetitions(file_for_transl);
+
+
+bits_to_translate = JSON.stringify(bits, null, 2);
+file_for_transl = JSON.stringify(file_for_transl, null, 2);
+file_for_transl_no_rep = JSON.stringify(file_for_transl_no_rep, null, 2);
 
 
 
+
+output_path = path.join(__dirname, "../../products/covid-19-parenting/development/translation/eng/intermediary-files/step_1_file_for_transl_remaining.json");
+fs.writeFile(output_path, bits_to_translate, function (err, result) {
+    if (err) console.log('error', err);
+});
+
+output_path = path.join(__dirname, "../../products/covid-19-parenting/development/translation/eng/intermediary-files/step_2_file_for_transl_remaining.json");
+fs.writeFile(output_path, file_for_transl, function (err, result) {
+    if (err) console.log('error', err);
+});
+
+output_path = path.join(__dirname, "../../products/covid-19-parenting/development/translation/eng/step_3_file_for_transl_no_rep_remaining.json");
+fs.writeFile(output_path, file_for_transl_no_rep, function (err, result) {
+    if (err) console.log('error', err);
+});
 
 function reorder_flows_alphabetically_by_name(obj) {
     obj.flows.sort(function (a, b) {
@@ -74,15 +99,19 @@ function extract_bits_to_be_translated(obj) {
 }
 
 function create_file_for_translators(obj) {
- 
+
     var new_file = [];
     var word_count = 0;
     var count = 1;
 
     for (var fl in obj) {
-       /* if (!obj[fl].name.startsWith("PLH - Activity")) {
-            break;
-        }*/
+        if (obj[fl].name.startsWith("PLH - Content") || obj[fl].name.startsWith("PLH - Activity") || obj[fl].name.startsWith("PLH - Supportive - Calm") || obj[fl].name.startsWith("PLH - Supportive - Praise")) {
+            //console.log(word_count)
+            continue;
+            //break
+
+        }
+        console.log(obj[fl].name)
         var localization = obj[fl].localization.eng;
         for (var key_bit in localization) {
             var bit = localization[key_bit];
@@ -176,5 +205,37 @@ function create_file_for_translators(obj) {
             */
 
     }
+    console.log(word_count)
     return new_file;
+}
+
+function remove_repetitions(obj) {
+    
+    var new_file = [];
+
+    var word_count = 0;
+    var bit_types = ["text", "quick_replies", "arguments"];
+    var new_bit = {};
+
+    bit_types.forEach((type) => {
+        var obj_filtered = obj.filter(function (atom) { return (atom.bit_type == type) });
+
+        var distinct_text = [... new Set(obj_filtered.map(x => { if (type == "arguments") { return x.text.toLowerCase() } else { return x.text } }))];
+
+        distinct_text.forEach((unique_string) => {
+            var obj_same_text = obj_filtered.filter(function (atom) {if (type == "arguments") {return (atom.text.toLowerCase() == unique_string.toLowerCase())}else{return(atom.text == unique_string)} });
+           
+            new_bit.SourceText = unique_string;
+            new_bit.text = unique_string;
+            new_bit.type = type;
+            if (obj_same_text[0].hasOwnProperty('note')) { new_bit.note = obj_same_text[0].note };
+            new_file.push(Object.assign({}, new_bit));
+            word_count = word_count + unique_string.split(" ").length;
+            new_bit = {};
+        })
+
+    });
+
+    console.log ("without rep " + word_count)
+return new_file;
 }
