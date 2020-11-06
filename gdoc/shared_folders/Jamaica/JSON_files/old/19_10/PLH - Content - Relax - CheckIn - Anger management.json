@@ -1,0 +1,27 @@
+{
+  "PLH - Content - Relax - CheckIn - Anger management": {
+    "Content": {
+      "Set of messages 1": {
+        "Message 1": "Hi! Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.",
+        "Message 2": "Go somewhere else for 5 minutes to regain control of your emotions. If you have safe outdoor space, go outside. You can get through this!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video to help you manage your anger!",
+          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FAnger%20Management-1.m4v?alt=media&token=0c3a9388-27d1-4d5e-9d7e-01d07b24d248"
+        },
+        "Audio": {
+          "Text": "Audio of Anger Management",
+          "Link": "missing"
+        }
+      },
+      "Set of messages 2": {
+        "Message": "We hope that was helpful! Remember you can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+      }
+    },
+    "Technical information": {
+      "Id": "30c5feda-2a10-46ab-8bd2-5d98a68c9adb",
+      "Template_type": "3"
+    }
+  }
+}

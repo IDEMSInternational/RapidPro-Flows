@@ -1,0 +1,31 @@
+{
+  "PLH - Content - Relax - CheckIn - Anger management": {
+    "Content": {
+      "Set of messages 1": {
+        "Message 1": "Hi! Managing anger can be really difficult. Take a break when you feel you are getting angry at your children or someone else.",
+        "Message 2": "Go somewhere else for 5 minutes to regain control of your emotions. If you have safe outdoor space, go outside. You can get through this!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video to help you manage your anger!",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Anger_Management.m4v"
+        },
+        "Audio": {
+          "Text": "Here's an audio message to help you manage your anger!",
+          "Link": "missing"
+        },
+        "Low media text option": {
+          "Message 1": "Hi! Managing anger can be really difficult. Did you know that research shows if you control your anger or do something positive, you increase your child's brain development? Be proud of yourself when you manage to do it!",
+          "Message 2": "If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Check on your baby every 5-10 minutes."
+        }
+      },
+      "Set of messages 2": {
+        "Message": "We hope that was helpful! Remember you can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+      }
+    },
+    "Technical information": {
+      "Id": "9b87431c-8b89-4be6-a0d0-21090340d521",
+      "Template_type": "3"
+    }
+  }
+}

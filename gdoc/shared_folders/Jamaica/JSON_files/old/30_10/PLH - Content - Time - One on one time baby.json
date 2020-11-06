@@ -1,0 +1,68 @@
+{
+  "PLH - Content - Time - One on one time baby": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "Today's tip is about spending One-on-One Time with Our Children.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "Invest in One-on-One Time! The more time you spend with your children, the more likely they will listen to you and behave well at other times. It really works!",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour."
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video about spending one-on-one time with your baby!",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/One_On_One_Time_Babies.m4v"
+        }
+      },
+      "Set of messages 1": {
+        "Message 1": "The first 1000 days of life are a window of opportunity for your baby. It is when their brain develops faster than any other time in their life. When you spend time with your baby, you build a healthy attachment between you both that will make them feel secure and loved. ",
+        "Message 2": "It is normal to struggle to think of what to do with our babies, especially when it seems they just eat, sleep, cry, poop, and repeat. It can be especially challenging when your baby is very young and not able to talk to you.",
+        "Interaction message": "Would you like to learn more?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" whenever you want to learn more about how to spend One-on-One Time with your baby. Chat to you later!"
+      },
+      "List of tips": {
+        "Message": "Here are 7 easy tips to make One-on-One Time with your baby a success:\n\n",
+        "Option 1: Do it every day": {
+          "Message": "1. Do it every day!\nTry to spend time playing with your baby every day for at least 20 minutes where you are giving them your full attention. Choose a time when you are unlikely to be interrupted. Switch off the television and put away phones."
+        },
+        "Option 2: Be close to your baby": {
+          "Message": "2. Be close to your child. \nSkin-to-skin contact is especially important for new-borns and infants. For older toddlers, make sure you are at the same level as they are."
+        },
+        "Option 3: Let your baby take the lead": {
+          "Message 1": "3. Let your baby take the lead\nChildren need to do things in their own time. Try to give them time to explore and be patient. Remember that the world is brand new to your child!",
+          "Message 2": "Give just enough help to let it be the child’s achievement. It is okay to play alongside and copy what they are doing but try to let them keep the initiative. If your child gets frustrated, you can reassure your child by gently stroking their back."
+        },
+        "Option 4: Observe and listen to your child": {
+          "Message 1": "4. Observe your child. \nSee what facial expressions your child is making. Notice what your child is interested in or looking at. ",
+          "Message 2": "Listen to the sounds or words your child is making. You can even make the same sounds by copying your child!"
+        },
+        "Option 5: Play with your baby": {
+          "Message 1": "5. Play with your baby\nBabies learn through play! Help your child explore the world through the five senses. Let your child use all of their senses when exploring the world. Sometimes when you read to your child, your child will want to put the book in their mouth. That is okay!",
+          "Message 2": "It is okay for your child to want to do many different things. Your child’s attention may wander to many different things during One-on-One Time. Anything that is happening can grab their attention: the sound of a siren, the feeling of a breeze, feelings in the body. Just keep your attention on your child."
+        },
+        "Option 6: Talk to your baby": {
+          "Message 1": "6. Talk to your baby\nStart talking to your baby from the moment they are born (even before when they are in the womb). Did you know your baby can even recognise their name at a very early age? Try saying your baby's name and notice how they respond! ",
+          "Message 2": "Use words to describe actions, colours, shapes, numbers, sizes, textures, temperatures, tastes, sounds, and anything else that is happening. Speak with enthusiasm when describing what your child is doing."
+        },
+        "Option 7: You can have quality time with your baby anytime! ": {
+          "Message": "7. You can have quality time with your baby anytime! \nLook for ways you can connect with your baby playfully during feeding, bathing, and dressing. You can even make bedtime a fun and nurturing experience for you and your baby in a calm way."
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about how to spend One-on-One Time with your baby:\n\n"
+      },
+      "Set of messages 2": {
+        "Message": "Congratulations! You have added another skill to your Parenting Toolkit. Quality time with your children is the best gift that you can ever give them. ",
+        "Interaction message": "Would you like some suggestions for activities to do with your baby?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need an activity. Chat to you later!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "12fac02d-db32-4df0-a349-d2e324fde958",
+      "Id tip": "c2c6d288-93a9-4c5f-874d-b058797b9aa0",
+      "Template type": "4"
+    }
+  }
+}

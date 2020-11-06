@@ -1,0 +1,52 @@
+{
+  "PLH - Content - Positive - Budget with children": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "Millions of families are struggling to make ends meet during COVID-19. When money is tight, this can make us feel anxious, stressed, and sad. How we understand and talk about money with our children is important. Our children can also help us to spend and save that will benefit the family.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you want this tip at another time. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "Millions of families are struggling to make ends meet during COVID-19. When money is tight, this can make us feel anxious, stressed, and sad. How we understand and talk about money with our children is important. Our children can also help us to spend and save that will benefit the family.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you want this tip at another time. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video to help you make a budget and save money together as a family.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Family_Budgeting.m4v"
+        }
+      },
+      "Set of messages 1": {
+        "Message": "Making a budget with your children and teens.\nA budget is how we decide what we will spend our money on, even in stressful times. Making a budget together helps children understand that we all need to make hard decisions in difficult times. It can also help you have enough at the end of the month so that you need to borrow less.",
+        "Interaction message": "Do you want 4 quick steps to help you make a budget and save money with your children?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you want this tip at another time. Chat to you later!"
+      },
+      "Set of messages 2": {
+        "Message": "Step 1: What do we spend on now?\n\n• Get a piece of paper (or old newspaper or a cardboard box) and a pen.\n• Draw pictures of all the things that you and your family spend money on each month.\n• Write next to each picture how much each thing costs.\n• Add up how much money you have to spend each month.",
+        "Interaction message": "Do you want to receive Step 2? ",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you want this tip at another time. Chat to you later!"
+      },
+      "Set of messages 3": {
+        "Message": "Step 2: Talk about needs and wants\n\n• Needs: Which things are important or must haves for your family to survive? (like food, soap to wash hands, needs for ill or disabled family members).\n• Wants: Which things are nice to have but not essential?\n• Discuss with your children what things you could try to spend less on as a family.",
+        "Interaction message": "Do you want to receive Step 3?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you want this tip at another time. Chat to you later!"
+      },
+      "Set of messages 4": {
+        "Message": "Step 3: Build your own budget\n\n• Find a bag of stones or anything with lots of bits. This is your money for the month.\n• As a family, decide what you will spend on what, and put the stones on your picture.\n• If you can save even a tiny amount for the future, or for an emergency  – it can make a big difference over time.",
+        "Interaction message": "Do you want to receive Step 4?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you want this tip at another time. Chat to you later!"
+      },
+      "Set of messages 5": {
+        "Message 1": "Step 4: Find out where you can get extra help\n\nYour government or community groups may be giving money, or food parcels to families during COVID-19. Ask about whether places in your community are giving support.",
+        "Message 2": "Well done for adding another tool to your Parenting Toolkit! Millions of families find that learning ways to manage money as a family reduces family arguments and brings everyone together. That's real success!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "e4f05547-bde7-47ff-9fd9-1908f2474245",
+      "Id tip": "00149311-fe8d-47e2-a4a2-6c99f9dc9f53",
+      "Template type": "6"
+    }
+  }
+}

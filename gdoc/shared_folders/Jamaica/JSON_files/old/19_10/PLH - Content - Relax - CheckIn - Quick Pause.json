@@ -1,0 +1,26 @@
+{
+  "PLH - Content - Relax - CheckIn - Quick Pause": {
+    "Content": {
+      "Set of messages 1": {
+        "Message": "Hi! How are you feeling right now? Are you feeling stressed and worried? Have you only got 30 seconds? Let's take a quick pause together. It might be helpful."
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a quick video to help you take a pause!",
+          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FShort%20Pause-24.m4v?alt=media&token=644df09f-f58a-4e56-94fe-d68758157e83"
+        },
+        "Audio": {
+          "Text": "Take a short pause",
+          "Link": "missing"
+        }
+      },
+      "Set of messages 2": {
+        "Message": "We hope that was helpful! Remember you can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+      }
+    },
+    "Technical information": {
+      "Id": "a427b730-723f-436e-bc0f-b59e3ec0f849",
+      "Template_type": "3"
+    }
+  }
+}

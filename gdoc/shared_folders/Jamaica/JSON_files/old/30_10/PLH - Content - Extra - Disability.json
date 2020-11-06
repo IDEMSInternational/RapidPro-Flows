@@ -1,0 +1,50 @@
+{
+  "PLH - Content - Extra - Disability": {
+    "Content": {
+      "Default introduction": {
+        "Message": "All children, including those living with disabilities, need love, respect and time especially at difficult times.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer 1": "That's okay! You can always type \"Help\" if you want to learn more about how to support children living with disabilities.",
+        "Message for negative answer 2": "Here is a link to disability services in your area that may also be helpful: [INSERT LOCAL LINK]\nChat later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Video of Children with Disabilities",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Children_With_Disabilities.m4v"
+        }
+      },
+      "List of tips": {
+        "Message": "Here are 6 simple tips that you can do to support children living with disabilities: \n\n",
+        "Option 1: Keep your child safe and well": {
+          "Message": "Step 1. Keep your child safe and well \n\n• Keep your country's COVID-19 rules, and also help your child to be active - do whatever exercise you can with them inside or outside your home\n• Keep emergency contact numbers somewhere easy to see"
+        },
+        "Option 2: Try to understand what they are feeling": {
+          "Message": "Step 2. Try to understand how they are feeling\n\n• Your child may be feeling a lot of stress, anxiety, and frustration.\n• Tell them that you love them\n• Praise them for being good and for trying to be good! "
+        },
+        "Option 3: Communicate and talk with them": {
+          "Message": "Step 3. Talking and communicating with your child\n\n• Get down to your child’s level when you speak. \n• Look at them and smile\n• Give them time to tell you or show you what they think\n• Tell your child that you understand"
+        },
+        "Option 4: Praise them!": {
+          "Message": "Step 4. Praise them!\n\n• Praise them for behaving well, and for trying. \n• Focus on what they can do, not what they can't.\n• Only help children when they need it. It is also good to build independence!"
+        },
+        "Option 5: Make things that you do the same every day to help them feel secure": {
+          "Message 1": "Step 5. Make daily plans to help them feel secure\n\n• Having things that are the same each day helps children feel secure and safe.\n• Make a daily plan that includes some things they like to do.\n• Help your child connect to friends and family members through phone, writing cards, or drawing pictures.",
+          "Message 2": "• Give your child choices: this gives them a sense of control and builds self-esteem.\n• Use simple language and clear instructions. If words aren't good for them, try gestures and pictures. "
+        },
+        "Option 6: Ask for help if you can": {
+          "Message 1": "Step 6. Ask for help if you can\n• Share the load with other adult family members.\n•  You are not alone! Keep connected with people who understand your situation.",
+          "Message 2": "• Share your challenges AND your successes.\n• It is normal to feel stressed, frustrated, and afraid at this time.\n• Be kind to yourself and take a break when you need to!"
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about how to support children living with disabilities:\n\n"
+      },
+      "Set of messages 1": {
+        "Message 1": "Well done for adding another tool to your Parenting Toolkit! Children living with disabilities need love, respect and time – just like any other child.",
+        "Message 2": "Here is a link to disability services in your area that may also be helpful: [INSERT LOCAL LINK]"
+      }
+    },
+    "Technical information": {
+      "Id": "371d6c4f-d82e-4257-8544-6076c4909037",
+      "Template_type": "2"
+    }
+  }
+}

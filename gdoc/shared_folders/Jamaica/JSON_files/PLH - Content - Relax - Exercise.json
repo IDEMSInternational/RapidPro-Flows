@@ -1,0 +1,37 @@
+{
+  "PLH - Content - Relax - Exercise": {
+    "Content": {
+      "Default introduction": {
+        "Message": "Hello! How are you feeling? If you are feeling overwhelmed or stressed, here's a fun activity that can also release some stress.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a fun video of a physical activity that can help you release stress and keep healthy!",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Exercise.m4v"
+        },
+        "Audio": {
+          "Text": "Here's an audio message to guide you through a fun physical activity!",
+          "Link": "missing"
+        },
+        "Low media text option": {
+          "Message 1": "Stand up and stretch your arms up to the sky. Push away any clouds and let the sun shine down on you. Stretch to both sides. Stretch to the front and to the back.",
+          "Message 2": "Let your hand hang by your side. Squeeze your shoulders tightly up to your ears as you breathe in, scrunch your eyes, and hold your breath. Release your shoulders as you relax your body.",
+          "Message 3": "Relax your arms and let your arms to swing sideways, and turn your upper body. Your arms should gently hit your back as you twist from side to side.",
+          "Message 4": "Place one foot in front of the other and make small circles from ankles, remember to turn to both sides. Do each foot with four circles in each direction.",
+          "Message 5": "Now shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!",
+          "Message 6": "Close your eyes and raise your arms slowly above your head as you breathe in. Lower your arms slowly to your side as you breathe out.",
+          "Message 7": "Take a moment to reflect on your experience."
+        }
+      },
+      "Set of messages 1": {
+        "Message": "Well done! You have added another skill to your Parenting Toolkit. Physical exercise is a great way to reduce stress and keep healthy. You can do this activity at any time whenever you feel like you need to release stress and energise your mind and body."
+      }
+    },
+    "Technical information": {
+      "Id": "8e395b1c-bb00-4a53-a5cf-f21377944430",
+      "Template_type": "6"
+    }
+  }
+}

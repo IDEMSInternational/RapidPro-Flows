@@ -1,0 +1,42 @@
+{
+  "PLH - Content - Positive - Positive instructions": {
+    "Content": {
+      "Default introduction": {
+        "Message": "It‘s hard to feel positive when our kids or teenagers are driving us crazy. We often end up saying “Stop doing that!” But children are much more likely to do what we ask if we give them positive instructions and lots of praise for what they do right. ",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a positive video to help you get your children to follow your instructions more often!",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Positive_Instructions.m4v"
+        }
+      },
+      "List of tips": {
+        "Message": "Here are 4 steps to help you get your children to follow your instructions more often:\n\n",
+        "Option 1: Get their attention": {
+          "Message": "Step 1. Get Your Child's Attention\nLook at your child and say their name when you give your child an instruction. Get down to their level."
+        },
+        "Option 2: Be positive, specific, and realistic": {
+          "Message 1": "Step 2. Be Specific, Positive, and Realistic!\nDescribe exactly what you want your child to do. Say, 'Please wash your hands for 20 seconds before coming to dinner, instead of 'Wash your hands.'",
+          "Message 2": "Use positive words when telling your child what to do. Say, ‘Please put your clothes away in the cupboard,’ instead of ‘Don’t make a mess’.",
+          "Message 3": "Can your child actually do what you are asking them? It is very hard for a child to keep quiet inside for a whole day but maybe they can keep quiet for 15 minutes."
+        },
+        "Option 3: One instruction at a time": {
+          "Message": "Step 3. Give Instructions One at a Time\nChildren are much more likely to do what you ask if you break things up into smaller steps."
+        },
+        "Option 4: Praise them for doing it! ": {
+          "Message": "Step 4. Praise Your Children When They Follow Instructions\nThey will feel good about it and be more likely to follow instructions in the future!"
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about how to get your children to follow instructions more often:\n\n"
+      },
+      "Set of messages 1": {
+        "Message": "Well done! You have added another tool to your Parenting Toolkit. In summary…\n1. Get their attention\n2. Be positive, specific, and realistic\n3. One instruction at a time\n4. Praise them for doing it! \nIt will make a HUGE DIFFERENCE if you can learn these 4 simple steps!"
+      }
+    },
+    "Technical information": {
+      "Id": "2f692a60-1802-4c47-be86-9db1625747cc",
+      "Template_type": "2"
+    }
+  }
+}

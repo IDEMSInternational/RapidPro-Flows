@@ -1,0 +1,29 @@
+{
+  "PLH - Content - Relax - CheckIn - Three is a magical number": {
+    "Content": {
+      "Set of messages 1": {
+        "Message": "Hello! Did you know that 3 is a magical number? Breathe in to the count of three and breathe out to the count of three. How do you feel now? Do you feel any different?"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video to guide through this activity!",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Magical_Number.m4v"
+        },
+        "Audio": {
+          "Text": "Here's an audio message to guide you through this activity!",
+          "Link": "missing"
+        },
+        "Low media text option": {
+          "Message": "What are your three favourite foods? Can you name three things you can see right now? \nCan you hear three sounds you can hear right now? \nWhat are the three things you are grateful for right now?\nBreathe in to the count of three and breathe out to the count of three. How do you feel now? Do you feel any different? \nThree is a magical number! "
+        }
+      },
+      "Set of messages 2": {
+        "Message": "We hope that was helpful! Remember you can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+      }
+    },
+    "Technical information": {
+      "Id": "392a6e37-612f-4014-9d54-e83e03b44a81",
+      "Template_type": "3"
+    }
+  }
+}

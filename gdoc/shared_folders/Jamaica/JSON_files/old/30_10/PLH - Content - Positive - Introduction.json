@@ -1,0 +1,27 @@
+{
+  "PLH - Content - Positive - Introduction": {
+    "Content": {
+      "Default introduction": {
+        "Message": "Hello! Taking care of children can be challenging…even in the best of times. We sometimes do not notice when our children are behaving well. But when they are misbehaving, it can be a nightmare!",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video on how you can help your child behave more positively!",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Keeping_It_Positive.m4v"
+        }
+      },
+      "Set of messages 1": {
+        "Message 1": "There are 2 main ways that we can do to help our children behave positively more often.",
+        "Message 2": "First, we can find ways to encourage our children to behave well more often. Spending One-on-One Time with them is an important first step! ",
+        "Message 3": "Second, we can learn effective ways to manage difficult behaviours in a loving but firm way.",
+        "Message 4": "Well done! You have added another tool to your Parenting Toolkit. \n\nThese suggestions are from over 50 years of research on what works. Instead of taking our word for it, try them out and decide for yourself. \n\nAnd remember...practice makes perfect!"
+      }
+    },
+    "Technical information": {
+      "Id": "4899b746-08af-4162-875d-8a52ad7ee85d",
+      "Template_type": "6"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "PLH - Content - Extra - Development": {
+    "Content": {
+      "Default introduction": {
+        "Message 1": "Sometimes we feel frustrated with our children because we expect them to behave in ways that they are not yet developmentally ready for.",
+        "Message 2": "Learning about child development means we can have realistic expectations and also to spot any problems with their growth and development.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer 1": "That's okay! You can always type \"Help\" if you want to learn more about child development. ",
+        "Message for negative answer 2": "If you are concerned that your child might be delayed in their development, here is a link to services in your area that may also be helpful: [INSERT LOCAL LINK]\n\nYou can also visit UNICEF's website for more helpful information about child development [INSERT LOCAL UNICEF LINK]\nChat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Video of Child Development",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Child_Development_Introduction.m4v"
+        }
+      },
+      "Multiple choice": {
+        "Message 1": "All children develop at different rates. But there are some things that we expect children to be able to do at an age. These are called ‘development’ milestones.",
+        "Message 2": "Many things affect our children's development. For example, development is helped by eating healthy food, having immunisations, and parents or caregivers who talk to them a lot. ",
+        "Message 3": "Which child development milestones do you want to learn about?"
+      },
+      "Set of messages 1": {
+        "Message 1": "Well done for adding another tool to your Parenting Toolkit! Knowing about child development can help you feel less frustrated by them.",
+        "Message 2": "If you are concerned that your child might be delayed in their development, here is a link to services in your area that may also be helpful: [INSERT LOCAL LINK]\n\nYou can also visit UNICEF's website for more helpful information about child development [INSERT LOCAL UNICEF LINK]"
+      }
+    },
+    "Technical information": {
+      "Id": "c717861d-d2ee-4cb1-994e-04a10fe427ff",
+      "Template_type": "11"
+    }
+  }
+}

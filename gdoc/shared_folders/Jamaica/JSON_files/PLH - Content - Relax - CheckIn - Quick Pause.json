@@ -1,0 +1,29 @@
+{
+  "PLH - Content - Relax - CheckIn - Quick Pause": {
+    "Content": {
+      "Set of messages 1": {
+        "Message": "Hi! How are you feeling right now? Are you feeling stressed and worried? Have you only got 30 seconds? Let's take a quick pause together. It might be helpful."
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a quick video to help you take a pause!",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Short_Pause.m4v"
+        },
+        "Audio": {
+          "Text": "Here's an audio message to help you take a pause!",
+          "Link": "missing"
+        },
+        "Low media text option": {
+          "Message": "Sit down, close your eyes and listen to your breath as it goes in and out. Notice how you feel. When you are ready open your eyes again. Everything is okay."
+        }
+      },
+      "Set of messages 2": {
+        "Message": "We hope that was helpful! Remember you can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+      }
+    },
+    "Technical information": {
+      "Id": "1703b420-0de3-4b94-9436-000fb192b6c2",
+      "Template_type": "3"
+    }
+  }
+}

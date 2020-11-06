@@ -1,0 +1,13 @@
+{
+  "PLH - Activity - Teen - Active - Name that tune": {
+    "Content": {
+      "Set of messages 1": {
+        "Message": "Name that tune\n•\tFirst person gets to choose or sing a song\n•\tEveryone else must guess the name of the tune (to make it harder they can guess the singer)\n•\tThe first one to guess it right becomes the next leader"
+      }
+    },
+    "Technical information": {
+      "Id": "ffdddcb6-b10a-49d6-8ebc-0b1dbacb4114",
+      "Template_type": "1"
+    }
+  }
+}

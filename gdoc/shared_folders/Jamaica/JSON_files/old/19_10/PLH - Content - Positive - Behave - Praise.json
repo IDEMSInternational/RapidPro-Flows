@@ -1,0 +1,59 @@
+{
+  "PLH - Content - Positive - Behave - Praise": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message 1": "Hi! I just wanted to thank you for making this commitment to improve the life of your children. It shows you really care!",
+        "Message 2": "Today's Parenting Tip is all about Praise. How did the above message make you feel? We all appreciate it when the good things we do are recognised by others, especially when it is someone who is close to us.",
+        "Message 3": "Praise your children when they are behaving well! They may not show it but you’ll see them doing that good behaviour again…",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message 1": "Keep it positive! Make sure your children get lots of praise when they are behaving well. This will make them want to behave that way more often.",
+        "Message 2": "We all appreciate it when the good things we do are recognised by others, especially when it is someone who is close to us. ",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour."
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video on how you can bring more attention to positive behaviour by praising your child!",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Praise.m4v"
+        }
+      },
+      "Based on age group": {
+        "Teen": {
+          "Message": "Praise your children when they are behaving well! They may not show it but you’ll see them doing that good behaviour again…"
+        },
+        "Other age groups": {
+          "Message": "Praise your children when they are behaving well! They may not show it but you’ll see them doing that good behaviour again…"
+        },
+        "Technical info": {
+          "Variable": "@fields.age_group_for_tips",
+          "Type of split": "1"
+        }
+      },
+      "List of tips": {
+        "Message": "Praise works for our children, too. When you bring more attention to positive behaviour, they are likely to do it more often. They also will feel good about themselves! \n\nHere are 3 simple steps to get it right:\n\n",
+        "Option 1: Be positive": {
+          "Message": "Step 1. Be positive\n\nPraise your child or teenager for something they have done well. They may not show it, but you’ll see them doing that good thing again. It will also reassure them that you notice and care."
+        },
+        "Option 2: Be specific": {
+          "Message": "Step 2. Be specific\n\nPraise the behaviour. Use words to describe the behaviour that you are praising. Say, 'Well done for finishing all your chores, Sam,' instead of 'Good job.'"
+        },
+        "Option 3: Be enthusiastic": {
+          "Message": "Step 3. Be enthusiastic\n\nReally mean it when you say it! The more real you are the better it will feel."
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about praise:\n\n"
+      },
+      "Set of messages 1": {
+        "Message": "Well done for adding another skill to your Parenting Toolkit! Try to find 3 things that you can praise your children for every day. You can also praise other adults in your household, too. Notice how they respond!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "8750b2ba-49fd-4246-956a-00b9742a2b14",
+      "Id tip": "bf7e25e1-69df-4e57-ba01-c501ba1b87cb",
+      "Template type": "7"
+    }
+  }
+}

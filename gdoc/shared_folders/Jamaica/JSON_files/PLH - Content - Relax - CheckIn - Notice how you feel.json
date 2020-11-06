@@ -1,0 +1,15 @@
+{
+  "PLH - Content - Relax - CheckIn - Notice how you feel": {
+    "Content": {
+      "Set of messages 1": {
+        "Message 1": "Hello! How are you feeling right now? Happy, sad, angry, excited, worried?",
+        "Message 2": "Notice where you feel it in your body. Notice what thoughts are connected to that feeling. Take a deep breath.",
+        "Message 3": "Thank yourself for taking the time to check in with your feelings and thoughts! Remember, you can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat later!"
+      }
+    },
+    "Technical information": {
+      "Id": "4f6b79e3-c686-4d8a-9a09-f898778ce160",
+      "Template_type": "1"
+    }
+  }
+}

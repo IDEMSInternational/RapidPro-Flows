@@ -1,0 +1,55 @@
+{
+  "PLH - Content - Positive - Online children": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "Hello! Our children and teens are now spending a lot more time online. Being connected helps them reduce the impact of COVID-19 and encourages them to continue with their lives…but it also presents risks and dangers.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "Our children and teens are now spending a lot more time online. Being connected helps them reduce the impact of COVID-19 and encourages them to continue with their lives…but it also presents risks and dangers.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video to help you keep your children safe online!",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Online_Child_Safety.m4v"
+        }
+      },
+      "List of tips": {
+        "Message": "Here are 6 tips that can help you keep your children safe online:\n\n",
+        "Option 1: Learn about the risks and dangers": {
+          "Message 1": "1. Learn about risks and dangers\n\n• Adults targeting children for sexual purposes on social media, gaming, and messaging platforms.\n• Harmful content – like violence, hating women, hating foreigners, encouraging suicide and self-harm, misinformation, pornography\n• Teens sharing personal information and sexual photos or videos of themselves.\n• Cyberbullying from other young people and strangers.",
+          "Message 2": "This does not mean we should ban our children from spending time online. It just means that we need to learn how to protect them in a new world."
+        },
+        "Option 2: Quick tech fixes": {
+          "Message": "2. Tech fixes to protect your children online:\n\n• Turn on SafeSearch on your browser to filter adult content.\nhttps://www.internetmatters.org/blog/parental-controls/entertainment-search-engines/\n• Set up parental controls.\nhttps://www.internetmatters.org/parental-controls/\n• Set up strict privacy settings on online apps and games.\n https://www.internetmatters.org/blog/parental-controls/social-media/\n• Cover webcams when not in use."
+        },
+        "Option 3: Create healthy and safe online habits": {
+          "Message 1": "3. Create healthy and safe online habits:\n\nInvolve your child or teen in creating family tech agreements about healthy device use.\nCreate device-free spaces and times in your house\n(eating, playing, schoolwork, and sleeping).\n\nChild tech agreement: https://www.esafety.gov.au/sites/default/files/2020-01/Our%20Family%20Tech%20Agreement_0.pdf\nTeen tech agreement: https://www.childnet.com/ufiles/Family-Agreement.pdf",
+          "Message 2": "Help your child learn how to keep personal information private, especially from strangers – some people are not who they say they are!\nRemind your children that what goes online stays online (messages, photos, and videos).\n Actively supervise children’s time online, including computers, smartphones, and tablets."
+        },
+        "Option 4: Spend time with your child online": {
+          "Message": "4. Spend time with your child or teen online\n\nGet to know how your child experiences the digital world.\nExplore websites, social media, games, and apps together.\nTalk to your teen on how to report things that aren't OK.\n\nCommon Sense Media has great advice for apps, games and entertainment for different ages.\nhttps://www.commonsensemedia.org/app-reviews"
+        },
+        "Option 5: Build open communication": {
+          "Message": "5. Build open communication and trusting relationships\nTell your children that if they experience something online (or anywhere) that makes them feel upset, uncomfortable, or scared, they can talk to you and you will not get mad or punish them."
+        },
+        "Option 6: Report and seek help": {
+          "Message": "6. Report and seek help\n\nINHOPE Hotlines and IWF portals and the Child Helpline in your country to get support if you or your children experience online violence or other things that are not acceptable.\n\nINHOPE Hotlines: https://www.inhope.org/EN#hotlineReferral\nIWF portals: https://report.iwf.org.uk/en\nChild Helpline: https://www.childhelplineinternational.org/"
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn another way to protect your child online:\n\n"
+      },
+      "Set of messages 1": {
+        "Message": "Well done! You have added another skill to your Parenting Toolkit! Digital parenting is just like parenting in the real world. You have taken a BIG STEP to keeping your child safe online. Good for you!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "b1359bf4-21da-476c-98df-6f5c20e407c1",
+      "Id tip": "5dfd0ea1-b243-46e1-a64d-3347dce5049c",
+      "Template type": "2"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "PLH - Content - Positive - Family": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "When we are able to have peaceful and loving relationships, our children feel more secure and loved. Today's tip is about how we can support positive family relationships at home.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "When we are able to have peaceful and loving relationships, our children feel more secure and loved. Kindness and taking care of yourself help.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video to help you support positive family relationships at home.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Family_Harmony.m4v"
+        }
+      },
+      "List of tips": {
+        "Message": "Here are 6 simple steps that you can do to support family harmony at home:\n\n",
+        "Option 1: Be a model of behaviour for your kids": {
+          "Message 1": "Step 1. Be a model of behaviour for your kids\n\nHow we talk and behave in front of our children is a big influence on how they behave too! Try to talk kindly to everyone in the family, adults and children.",
+          "Message 2": "Bad communication between adults in the household can have a negative impact on our children. The more we practice modeling peaceful, loving relationships for our children, the more secure and loved they will feel."
+        },
+        "Option 2: Keep it positive": {
+          "Message 1": "Step 2. Use positive language. It works!\n\nTell others what you want them to do instead of what you don’t want them to do: Instead of “Stop shouting,” try “Please speak more quietly”",
+          "Message 2": "Praise others to make them feel appreciated and good about themselves. Simple words like, “Thank you for clearing the dinner,” or “Thank you for watching the baby” can make a big difference"
+        },
+        "Option 3: Listen carefully to others": {
+          "Message": "Step 3. Be a great listener\n\nListen to others when they are talking with you. Be open and show them that you hear what they are saying. It can help to summarise what you have heard before responding: “What I hear you saying is…”"
+        },
+        "Option 4: Share the loads": {
+          "Message": "Step 4. Share the load\n\nLooking after children and other family members is difficult, but it’s much easier when responsibilities are shared. Try to share household chores, childcare, and other tasks equally amongst family members"
+        },
+        "Option 5: Take care of yourself": {
+          "Message 1": "Step 5. Take care of yourself\n\nCreate a schedule for time “on” and time “off” with other adults in your household. It is okay to ask for help when you are feeling tired or stressed so that you can take a break",
+          "Message 2": "Decide to take a break from arguing when you see arguments building up, and go into another room or outside if you can.\n\nYou can always type \"Help\" if you need an activity to help you with stress."
+        },
+        "Option 6: Do nice things together as a family.": {
+          "Message": "Step 6. Do nice things together as a family\n\nLet each family member take turns choosing a whole family activity. Find ways to spend time alone with other adults in your home, too!"
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about how to support family harmony at home:\n\n"
+      },
+      "Set of messages 1": {
+        "Message": "Well done for adding another tool to your Parenting Toolkit! Every time you find a way to resolve conflicts in a peaceful way, you increase your child's brain development. Be proud of yourself when you do it!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "87bd2e61-5a61-43b2-9fc3-bb41a354c3be",
+      "Id tip": "c9c952bb-fd0b-46b2-8c12-c1b62370ae41",
+      "Template type": "2"
+    }
+  }
+}

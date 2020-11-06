@@ -1,0 +1,59 @@
+{
+  "PLH - Content - Positive - Book sharing": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "Hello! Book-sharing can be a great learning for your child. You can use simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
+        "Interaction message": "Would you like to learn more about how you can help your child develop through book sharing?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would like to review them again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "Book-sharing can be a great learning for your child. You can use simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
+        "Interaction message": "Would you like to learn more about how you can help your child develop through book sharing?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video to take you through the shared book reading activity!",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Shared_Book_Reading.m4v"
+        }
+      },
+      "List of tips": {
+        "Message": "Here are some tips for sharing books with your child:\n",
+        "Option 1: Follow your child's interest": {
+          "Message": "1. Follow your child’s interest\nTalk about what interests your child. When your child shows interest in a picture (pointing, patting, looking), use this as a chance to talk about what has attracted your child’s interest"
+        },
+        "Option 2: Use a lifely voice": {
+          "Message": "2. Use a lively voice\nSpeak with a lively or animated voice. This will help to keep the child’s attention on the book."
+        },
+        "Option 3: Pointing and naming": {
+          "Message 1": "3. Pointing and naming\nPointing to and naming an object or person in the book will help your child learn new words. Children learn through repetition, so repeat the word and look for other opportunities to use the word (in the book or elsewhere). ",
+          "Message 2": "If your child knows a word and can say that word, ask “What’s that?” and give them the opportunity to say the word and point to it."
+        },
+        "Option 4: Be positive and supportive": {
+          "Message": "4. Be positive and supportive\nAlways respond positively to whatever your child says about the pictures. For example, if your child points to a red apple and says “Tomato”, you can say “Yes, you’re right, it’s red - it's an apple!”"
+        },
+        "Option 5: Making actions and links": {
+          "Message": "5. Making actions and links\nConnect things in the book with familiar things in your child’s world. For example, if the baby in the book is wearing shoes, ask your child to point out their own shoes. If someone in the book is waving, you and your child can do the same. "
+        },
+        "Option 6: Talking about feelings": {
+          "Message 1": "6. Talking about feelings\nBooks are a great way for children to learn more about feelings. You can use your face and voice to help them understand emotion words like happy, sad, angry, or scared. You can use what is happening in the book to talk about your child’s own feelings, and why other people might feel a certain way.",
+          "Message 2": "Here are some examples! \n“Look, she is smiling. Why do you think she is smiling? What made you smile today?”\n“The monkey is sad because he is all on his own. Can you remember when you were last sad?”\n“That tiger looks angry. Why do you think he is angry? Do you remember when I got angry this morning?” "
+        },
+        "Option 7: Babies and books go well together": {
+          "Message 1": "7. Babies and Books!\nEven very young babies enjoy book-sharing and looking at the pictures together with a parent or caregiver. In fact, regular book-sharing helps their development and learning. And it is okay for them to put the book in their mouth - they are exploring!",
+          "Message 2": "You can use books and stories to help talk with children about topics related to COVID-19 (such as getting sick, not going to school or work, staying indoors, feeling worried) and help them think about how this makes them feel."
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about sharing books with your child:\n\n"
+      },
+      "Set of messages 1": {
+        "Message": "Well done! You have added another tool to your Parenting Toolbox! Sharing books with your child will help them to learn to speak, think and focus better. It will also help them to get along with others better, by helping them understand about feelings. Chat to you later!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "fc8f073e-1543-44d2-aa56-4489ea354dcc",
+      "Id tip": "9f5e3722-b6b8-4382-b06c-873c965b3414",
+      "Template type": "2"
+    }
+  }
+}

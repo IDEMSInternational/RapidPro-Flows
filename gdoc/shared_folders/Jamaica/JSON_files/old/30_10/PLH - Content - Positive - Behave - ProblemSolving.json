@@ -1,0 +1,40 @@
+{
+  "PLH - Content - Positive - Behave - ProblemSolving": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "Hello! Today's tip is about how we can help our children learn how to solve problems and conflicts.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour."
+      },
+      "Default introduction": {
+        "Message": "Help your child/teen learn how to solve problems. As children get older, they become more independent and sometimes push the boundaries that we create to keep them safe. ",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour."
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video to help you teach your child problem-solving skills! ",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Problem_Solving.m4v"
+        }
+      },
+      "Set of messages 1": {
+        "Message 1": "Challenges are stressful. But problem-solving can really help. There are 6 basic steps for problem solving:",
+        "Message 2": "1. Identify the problem\n2. Think of possible solutions\n3. Figure out what the results of each solution would be\n4. Choose one solution \n5. Try it out!\n6. Did it work? Great! If it did not work, then try another solution",
+        "Interaction message": "Would you like to learn more?",
+        "Message for negative answer": "Well done! You have added another skill to your Parenting Toolkit. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!"
+      },
+      "Set of messages 2": {
+        "Message 1": "We can also teach our children the same steps.",
+        "Message 2": "When something bad happens, we often get upset and blame our children. But what they really need is someone to help them work through their problems. \nTake a Pause! Become aware of anger and stress. Take a deep breath or count to 10 before you react. Then respond in a calmer way.",
+        "Message 3": "Try to find solutions together:\n• Allow your teen to express how they feel and accept their feelings. \n• Try to listen to your teen and see things from their perspective. \n• Thank your teen for being open and trusting you",
+        "Message 4": "Well done! You have added another skill to your Parenting Toolkit. Helping your teen learn how to solve problems will be something they will take with them the rest of their lives. What a gift!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "eff85a2f-caa3-4665-a62a-1ade38d00336",
+      "Id tip": "1e8ccb3c-c697-4e76-9dc1-9a644828be48",
+      "Template type": "6"
+    }
+  }
+}

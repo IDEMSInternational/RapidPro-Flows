@@ -1,0 +1,52 @@
+{
+  "PLH - Content - Positive - Behave - Routines": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message 1": "Hello! COVID-19 has interrupted our daily work, home and school routines. This is hard for children, teenagers and for you. Making new routines can help.",
+        "Message 2": "Today's Parenting Tip is about how we can create daily routines to keep our children feeling safe and secure.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Remember that you can also change the type of messages you receive for an older or younger child. Just select \"Technical Support\". Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "Create routines! Your children will feel more secure and safe when they know what is expected of them and how each day will go. Make a plan with them with time for play, meals, chores, school, and sleep.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour."
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video to help you create daily routines with your children.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Structure_Up.m4v"
+        }
+      },
+      "Set of messages 1": {
+        "Message": "Daily routines, such as time for schoolwork, play, meals, and sleep, can help our children feel safe and secure. They also give our children a sense of security."
+      },
+      "List of tips": {
+        "Message": "Here are 4 simple tips that you can use when establishing routines with your children: \n\n",
+        "Option 1: Give one instruction at a time": {
+          "Message": "1. Help your younger children learn routines by taking them through the activity step by step. Give one instruction at a time. Praise them each time they follow!"
+        },
+        "Option 2: Use transition warnings to help move from one activity to the next one": {
+          "Message": "2. Transition warnings can also be very helpful. They give your child some time to prepare for the next activity: \"In 5 minutes it will be time to pack up the toys before bedtime…\""
+        },
+        "Option 3: Create regular eating and sleeping times": {
+          "Message 1": "3. Regular eating and sleeping times are especially important for babies. Not enough sleep can make your child cranky, irritable, and short tempered.",
+          "Message 2": "Here are some tips for how to help your child prepare for bedtime:\n\n• Try to have regular bedtimes each day as much as possible.\n• Try to make it quiet and the lights in the room dim. \n• Spend some time with your child. You can sing a lullaby or tell a calm story.\n• Give your child a hug and kiss goodnight before leaving the room. "
+        },
+        "Option 4: Involve your teen in creating daily routines": {
+          "Message": "4. Involve your teen in creating daily plans. Set goals and rewards together. Let them plan when they do schoolwork and when they can relax! "
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about creating daily routines: \n\n"
+      },
+      "Set of messages 2": {
+        "Message": "Well done! You have added another tool to your Parenting Toolkit.  Here are some suggestions for routines that you could establish with your children:\nBedtime\nSchoolwork\nChores\nMealtime\nPlay/free time\nT.V. or gadget time\nStorytime\nOne-on-One Time\nYou can add more, too!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "7dbbc699-acb2-454e-812e-2d9a2509ec4b",
+      "Id tip": "4076357c-e1ba-441f-9ea0-d8429b2305ed",
+      "Template type": "4"
+    }
+  }
+}

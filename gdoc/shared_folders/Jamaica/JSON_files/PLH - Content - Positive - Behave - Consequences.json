@@ -1,0 +1,57 @@
+{
+  "PLH - Content - Positive - Behave - Consequences": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "Hello! Today we are going to learn what we can do when our children are already misbehaving or have already misbehaved…",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "Use consequences for refusing to follow instructions or forgetting household rules. Consequences help teach our children responsibility for what they do. They also allow discipline that is controlled. This is more effective than hitting or shouting. ",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour."
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video that explains you can use consequences to discipline your child.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Consequences.m4v"
+        }
+      },
+      "Set of messages 1": {
+        "Message": "Children and teens often act disrespectfully or like they only care about themselves. Growing up is a difficult time when they are learning about who they are and how they want to be in the world. Luckily, there are other ways to discipline your teen without using violence…and they work well!",
+        "Interaction message": "Would you like to learn more?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "List of tips": {
+        "Message": "Giving calm consequences help teach our children responsibility for what they do. They also allow discipline that is controlled. This is more effective than hitting or shouting. \n\nHere are 5 tips for using consequences:\n\n",
+        "Option 1: Give a choice before consequence": {
+          "Message": "1. Give your child a choice to follow your instruction before giving them the consequence."
+        },
+        "Option 2: Stay calm but be firm": {
+          "Message": "2. Try to stay calm but firm when giving the consequence.\nIf you start yelling, it will just make things worse. Take a deep breath before you speak in a clear, calm, and firm voice."
+        },
+        "Option 3: Be realistic and follow through": {
+          "Message": "3. Be realistic and follow through\nMake sure you can follow through with the consequence. For example, taking away a teenager’s phone for a week is hard to enforce. Taking it away for one hour is more realistic."
+        },
+        "Option 4: Reconnect afterwards": {
+          "Message": "4. Reconnect afterwards. \nOnce the consequence is over, give your child a chance to do something good, and praise them for it."
+        },
+        "Option 5: Consequences for breaking rules": {
+          "Message 1": "5. Consequences for breaking rules\nConsequences can also be used when your children forget a household rule, like going to bed at a certain hour or doing schoolwork before T.V.",
+          "Message 2": "For example, you can tell your child that if they do not do their schoolwork before dinner, they cannot watch their favourite T.V. show that evening."
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about using consequences:\n\n"
+      },
+      "Set of messages 2": {
+        "Message 1": "Here is a comic that shows a parent giving their child a choice to follow the instruction or receive a consequence.",
+        "Message 2": "Well done! You have added another skill to your Parenting Toolkit! In summary, consequences should be...\n\n1. Realistic: Consider the age of your child\n2. Immediate: Give them as soon as possible\n3. Fair: Make sure the consequence is not too harsh\n4. Consistent: Make sure you can follow through if you have to\n5. The last resort: Try to encourage the positive behaviour to happen more often!\n\nConsequences can help children learn that their actions have an impact on themselves and others. It teaches them about responsibility and respect!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "817c60d3-083f-4bcd-82d2-2b64e702c266",
+      "Id tip": "41063063-f553-4909-a108-92c1138f5043",
+      "Template type": "4"
+    }
+  }
+}

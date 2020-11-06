@@ -1,0 +1,32 @@
+category,subcategory,name,specification,text message,option 1,option 2,option 3,option 4,option 5,option 6,option 7,option 8,option 9,option 10,name of flow,flow id,node id
+Handler,Activity,,,Who would you like an activity for?,Baby (0-23 months),Young child (2-9 years),Teenager (10-17 years),Adult (18+ years),,,,,,,PLH - Handler - Activity,4a51417a-8b9b-4103-a40e-e61db60861de,1774a27a-b800-4184-b88d-f8036be21e85
+Handler,Activity,,,Sorry I don't understand what you mean.,,,,,,,,,,,PLH - Handler - Activity,4a51417a-8b9b-4103-a40e-e61db60861de,36c8256b-2f7a-4f6e-af9c-ca91093ea29a
+Handler,Activity,,,Would you like to choose another activity?,Yes,No,,,,,,,,,PLH - Handler - Activity,4a51417a-8b9b-4103-a40e-e61db60861de,558b958e-1cf6-4201-8ef6-047705a223ca
+Handler,Activity,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Handler - Activity,4a51417a-8b9b-4103-a40e-e61db60861de,73c73a97-34a2-450d-8990-fac88ce41b21
+Handler,Activity,,,"That's okay! Here is a great resource from LEGO of more activities that you can do with your children!
+
+https://playlist.legofoundation.com/all-activities/
+
+Chat to you later!",,,,,,,,,,,PLH - Handler - Activity,4a51417a-8b9b-4103-a40e-e61db60861de,fcabed3e-6881-4988-b12b-37241021d768
+Picker,Age group for activity,,,Who would you like an activity for?,baby,teen,adult,other,,,,,,,PLH - Picker - Age group for activity,1ed433b0-53db-402e-aa70-8e001b5bfa00,7827f49e-97e2-4c3c-99cd-cfd9906027b7
+Picker,Age group for activity,,,Who would you like an activity for?,baby,adult,other,,,,,,,,PLH - Picker - Age group for activity,1ed433b0-53db-402e-aa70-8e001b5bfa00,e6002adf-95a7-499d-b95a-ea94a4e44f68
+Picker,Age group for activity,,,Who would you like an activity for?,teenager,adult,other,,,,,,,,PLH - Picker - Age group for activity,1ed433b0-53db-402e-aa70-8e001b5bfa00,29a630bf-af53-4367-83bf-fa5126513e88
+Picker,Age group for activity,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Picker - Age group for activity,1ed433b0-53db-402e-aa70-8e001b5bfa00,a8d2a1ad-d3dc-4afa-aec1-9b2596ff9441
+Picker,Age group for activity,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Picker - Age group for activity,1ed433b0-53db-402e-aa70-8e001b5bfa00,3423751e-19e1-4bec-a8c1-2e8dffa9c6ee
+Picker,Age group for activity,,,Who would you like an activity for?,young child,adult,other,,,,,,,,PLH - Picker - Age group for activity,1ed433b0-53db-402e-aa70-8e001b5bfa00,6b047e24-63b7-42dd-9ec7-1dacc4d9af55
+Picker,Age group for activity,,,Who would you like an activity for?,baby,young child,adult,other,,,,,,,PLH - Picker - Age group for activity,1ed433b0-53db-402e-aa70-8e001b5bfa00,47e0a463-f469-45e7-be78-ca505e082859
+Picker,Age group for activity,,,Who would you like an activity for?,baby,young child,teenager,adult,,,,,,,PLH - Picker - Age group for activity,1ed433b0-53db-402e-aa70-8e001b5bfa00,f52260e9-4a90-4792-8112-c0d77efcd1a8
+Picker,Age group for activity,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Picker - Age group for activity,1ed433b0-53db-402e-aa70-8e001b5bfa00,e8c0f6c8-7cbf-41d7-b836-e874220a5a34
+Picker,Age group for activity,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Picker - Age group for activity,1ed433b0-53db-402e-aa70-8e001b5bfa00,8468299e-37a9-418e-803d-72b1cc5070a4
+Picker,Age group for activity,,,Who would you like an activity for?,young child,teenager,adult,other,,,,,,,PLH - Picker - Age group for activity,1ed433b0-53db-402e-aa70-8e001b5bfa00,cc1b7599-7ded-41b6-80d3-83f4891bb234
+Picker,Age group for activity,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Picker - Age group for activity,1ed433b0-53db-402e-aa70-8e001b5bfa00,9b02db85-798a-4199-8aa4-6fce2b97ffd3
+Picker,Age group for activity,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Picker - Age group for activity,1ed433b0-53db-402e-aa70-8e001b5bfa00,92133e00-56c8-494c-80f6-426237a5acc8
+Picker,Age group for activity,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Picker - Age group for activity,1ed433b0-53db-402e-aa70-8e001b5bfa00,aaf17a1c-7dda-4e50-a452-63261916f8a2
+Handler,Activity,Adults,,What kind of activity do you want?,Active,Calm,Fun,,,,,,,,PLH - Handler - Activity - Adults,89300108-b5ff-4446-943d-5af00037d2b9,718341b0-5bb4-4831-b4d7-e76524568871
+Handler,Activity,Adults,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Handler - Activity - Adults,89300108-b5ff-4446-943d-5af00037d2b9,44dfa64a-56c7-49b2-9ded-8e6056d110cc
+Handler,Activity,Babies,,What kind of activity do you want for your baby?,Active,Calm,Fun,,,,,,,,PLH - Handler - Activity - Babies,cbd5f78a-fb3c-4732-a853-8af2e02462fa,572f1305-a3ab-4410-9f3c-11d4d311e0a5
+Handler,Activity,Babies,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Handler - Activity - Babies,cbd5f78a-fb3c-4732-a853-8af2e02462fa,53d3a7e0-e652-4983-8589-1b5da99d80d2
+Handler,Activity,Teenagers,,What kind of activity do you want for your teen?,Active,Calm,Fun,,,,,,,,PLH - Handler - Activity - Teenagers,d896682a-c5b5-4329-95e3-398010d8aa55,2d75307f-537b-4bd0-bc7d-f17b13aeae26
+Handler,Activity,Teenagers,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Handler - Activity - Teenagers,d896682a-c5b5-4329-95e3-398010d8aa55,adfe6b84-8449-45fa-81b5-c1bb81fc54f8
+Handler,Activity,Young children,,What kind of activity do you want for your child?,Active,Calm,Fun,,,,,,,,PLH - Handler - Activity - Young children,750304b1-3190-40ea-ba46-dd729d77f35e,45839708-7cb2-4040-80fd-3386d1fa4133
+Handler,Activity,Young children,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Handler - Activity - Young children,750304b1-3190-40ea-ba46-dd729d77f35e,0d6ae0af-0763-46ef-a317-225c79a10b8b

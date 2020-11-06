@@ -1,0 +1,67 @@
+{
+  "PLH - Content - Positive - Behave - Emotion": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "Today's Tip is about how we can support our children when they are feeling sad, scared, angry, and confused.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer 1": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour.",
+        "Message for negative answer 2": "Remember that you can also change the type of messages you receive for an older or younger child. Just select \"Tech Support\". Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "Be open to your children. They get stressed too - sometimes from different things from you. Allow them to express how they feel and accept their feelings. Try to listen to them and think about how it must feel for them.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour."
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video that can help you teach your child how to cope with their emotions.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Emotional_Support.m4v"
+        }
+      },
+      "Based on age group": {
+        "Teen": {
+          "Message": "Here is a comic that shows how you can give your teen love and support when they share difficult emotions with you…"
+        },
+        "Other age groups": {
+          "Message": "Here is a comic that shows how you can give your child love and support when they share difficult emotions with you…"
+        },
+        "Technical info": {
+          "Variable": "@fields.age_group_for_tips",
+          "Type of split": "1"
+        }
+      },
+      "List of tips": {
+        "Message": "Here are some tips for how we can help our children learn how to cope with their emotions:\n\n",
+        "Option 1: Be open to your child": {
+          "Message": "1. Be open to your child\n\nYour child will look to you for support and reassurance. Listen to your children when they share how they are feeling. Accept how they feel and give them comfort."
+        },
+        "Option 2: Share your own feelings": {
+          "Message": "2. Share your own feelings\n\nWhen you share your own feelings with your children, you help them recognise their own feelings. It can also help your children learn self-discipline and to understand their own feelings."
+        },
+        "Option 3: Help your child learn how to talk about feelings": {
+          "Message": "3. Help your child learn how to talk about feelings\n\nThere are 6 basic emotions: Happy, Sad, Angry, Disgusted, Surprised, and Afraid. Even babies can feel and express these emotions. As children get older, they learn to identify lots of other emotions, like excited, frustrated, proud, lonely, peaceful, guilty, or confused."
+        },
+        "Option 4: Talking about difficult emotions": {
+          "Message 1": "4. Talking about difficult emotions\n\nIt is normal to have difficulty talking about and expressing emotions and feelings. Many of us were told not to cry when we were sad or laugh when we were happy. This may be especially the case for boys and men.",
+          "Message 2": "But we all have the same feelings, and  we can learn how to become aware of our own emotions, to experience them in our body, and to communicate about them."
+        },
+        "Option 5: Notice the positive emotions": {
+          "Message": "5. Notice the positive emotions\n\nTalking about feelings can help children manage anger, disappointment, and frustration. It can also help your child be more aware of positive emotions such as a sense of peace, happiness, or calmness. It can also allow children to appreciate a beautiful moment or feeling of love!"
+        },
+        "Option 6: Show your child that you care": {
+          "Message": "6. Show your child that you care\n\nUse physical and verbal support to make your child feel accepted and loved. A hug or saying, \"I understand,\" can mean a lot. Remind your child that you are there for them and that they can always talk to you. "
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about talking about emotions:\n\n"
+      },
+      "Set of messages 1": {
+        "Message": "Well done! You have added another skill to your Parenting Toolkit! Remember that all emotions are okay. It's how we respond to them that is important!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "e101c1bc-677c-428b-ac69-f2bfd71d0e61",
+      "Id tip": "7a712069-fc50-449e-be8b-98a7f4370422",
+      "Template type": "7"
+    }
+  }
+}
