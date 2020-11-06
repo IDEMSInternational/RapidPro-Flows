@@ -1,0 +1,51 @@
+category,subcategory,name,specification,text message,option 1,option 2,option 3,option 4,option 5,option 6,option 7,option 8,option 9,option 10,name of flow,flow id,node id
+Welcome,Entry,,,Hi! Thank you for signing up to receive these parenting tips. Please tell us which language you would like:,,,,,,,,,,,PLH - Welcome - Entry,aa840cac-eaef-4e76-b0b3-a7bbab1ac258,07cdf5b2-db4c-4218-aed1-e5511c5f5264
+Welcome,Entry,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Welcome - Entry,aa840cac-eaef-4e76-b0b3-a7bbab1ac258,aa571832-72c8-4569-a7b7-baed39d5300c
+Welcome,Entry,,,"Taking care of children is hard, and nobody is  doing this perfectly. Take a moment now to praise yourself for keeping it up. 
+
+You are a real star!",,,,,,,,,,,PLH - Welcome - Entry,aa840cac-eaef-4e76-b0b3-a7bbab1ac258,080ae486-58af-468d-a704-0570ff4dfc39
+Welcome,Entry,,,"Your participation and any information you provide will be used anonymously by researchers so that we learn about how to better support families like yours. 
+
+Type ""Yes"" if you agree with this. Type ""Exit"" if you do not want to participate. Click here for more information [insert link]",,,,,,,,,,,PLH - Welcome - Entry,aa840cac-eaef-4e76-b0b3-a7bbab1ac258,00344e1d-8372-4dd5-80a6-70607aa3c10c
+Welcome,Entry,,,"I am sorry I did not understand. Please type ""Yes"" if you agree with this. Type ""Exit"" if you do not want to participate.",,,,,,,,,,,PLH - Welcome - Entry,aa840cac-eaef-4e76-b0b3-a7bbab1ac258,27832dea-6464-48c6-abde-8c759addcd6c
+Welcome,Entry,,,Thanks so much! How would you like to receive your messages? You can always change this choice through the settings later:,Text only (almost no data),"Text, audio, image (low data)","Text, audio, image, video (high data)",,,,,,,,PLH - Welcome - Entry,aa840cac-eaef-4e76-b0b3-a7bbab1ac258,1212d62e-0453-4774-a250-8512af7d717f
+Welcome,Entry,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Welcome - Entry,aa840cac-eaef-4e76-b0b3-a7bbab1ac258,f76ca49d-df23-4470-a22c-a845e7ed2a63
+Welcome,Initial registration,,,"So that we can give you the right information, please tell us if you are a male or female.",Male,Female,Other,Prefer not to tell,,,,,,,PLH - Welcome - Initial registration,e9be7e7c-d046-4fb6-a647-ef078db5e529,caf41662-1b7f-4311-ad5d-70a51492ac2e
+Welcome,Initial registration,,,"Sorry, I don't understand what you mean. ",,,,,,,,,,,PLH - Welcome - Initial registration,e9be7e7c-d046-4fb6-a647-ef078db5e529,55f22a92-8cf0-4c25-8c09-38be7a32a6b8
+Welcome,Initial registration,,,"Can you please tell us your age? Please reply with the number only. Example: 28
+If you don't want to tell us your age, that's okay. Please type ""N""",,,,,,,,,,,PLH - Welcome - Initial registration,e9be7e7c-d046-4fb6-a647-ef078db5e529,cd710b58-30ed-45ef-8546-4b735d408452
+Welcome,Initial registration,,,This looks too old. ,,,,,,,,,,,PLH - Welcome - Initial registration,e9be7e7c-d046-4fb6-a647-ef078db5e529,a42e9c36-8c7e-45ff-84d8-d96614cfeebb
+Welcome,Initial registration,,,This looks too young. ,,,,,,,,,,,PLH - Welcome - Initial registration,e9be7e7c-d046-4fb6-a647-ef078db5e529,3f8e23fa-6ebb-4c4d-b9f5-c83ba9cdabe9
+Welcome,Initial registration,,,Sorry I don't understand what you mean. ,,,,,,,,,,,PLH - Welcome - Initial registration,e9be7e7c-d046-4fb6-a647-ef078db5e529,8f1800cf-8826-47d6-b9ac-46564addb62b
+Welcome,Initial registration,,,"Please choose one age group for these parenting tips. You might want to choose the child you are concerned about the most.
+
+You can always change this later by typing ""Help"" and selecting ""Technical support"".",Baby (0 to 23 months),Young child (2 to 9 years),Teenager (10 to 17 years),,,,,,,,PLH - Welcome - Initial registration,e9be7e7c-d046-4fb6-a647-ef078db5e529,f042060e-8793-4c68-8ba6-1fab4ef236c3
+Welcome,Initial registration,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Welcome - Initial registration,e9be7e7c-d046-4fb6-a647-ef078db5e529,519102a9-97ca-4438-afe7-2d61a6804be4
+Welcome,Tips,,,"Thanks so much! Taking care of children can be difficult even in the best of times. We're here to help!
+
+What is the most difficult situation you have recently encountered as a parent?",Things to do with my children,Managing difficult child behaviour,Talking about COVID-19,"Stress, loneliness, anger",Money problems,Helping with schoolwork,Keeping children safe,Conflict in the family,Other issue,,PLH - Welcome - Tips,786c8228-c96d-4fce-bc94-4021be9e7b0b,6f87b5df-a2a9-4513-b530-3ad72ff3e2ec
+Welcome,Tips,,,"Sorry, I don't understand what you mean. ",,,,,,,,,,,PLH - Welcome - Tips,786c8228-c96d-4fce-bc94-4021be9e7b0b,f2c0b1cc-b991-4350-b387-218a95019a60
+Welcome,Tips,,,"All children misbehave. It is normal when children are tired, hungry, afraid, or learning independence.
+
+One thing you can try is catching misbehavior early and distracting your kids’ attention to something positive. It actually works! ",,,,,,,,,,,PLH - Welcome - Tips,786c8228-c96d-4fce-bc94-4021be9e7b0b,e94acc38-daed-41d7-ae05-b3cdd9d81561
+Welcome,Tips,,,"It is completely normal to feel stressed, afraid, angry, and depressed during this time. You are not alone. These tips will help you take care of yourself so you can take care of your children.",,,,,,,,,,,PLH - Welcome - Tips,786c8228-c96d-4fce-bc94-4021be9e7b0b,2ca193bb-4835-432a-869e-ce41411404d3
+Welcome,Tips,,,"It is really hard to help our children continue learning when schools are closed or part-open. 
+
+One thing that might be helpful is to try and set up a daily schedule that includes time for schoolwork and time for fun.",,,,,,,,,,,PLH - Welcome - Tips,786c8228-c96d-4fce-bc94-4021be9e7b0b,c182c7a1-5cf9-4a59-9633-dc4b33c6ee23
+Welcome,Tips,,,"It can be difficult to know how to talk your children about COVID-19, especially since we are learning about it too. 
+
+The important thing is to be open and listen to your children. Be honest and supportive. Show them that you care.",,,,,,,,,,,PLH - Welcome - Tips,786c8228-c96d-4fce-bc94-4021be9e7b0b,b9289993-6c26-4e92-b7b7-2027fa3e41aa
+Welcome,Tips,,,Parenting is really hard. But there are things we can do to make things easier. We are here to help!,,,,,,,,,,,PLH - Welcome - Tips,786c8228-c96d-4fce-bc94-4021be9e7b0b,a57d75d3-4f71-46f6-ad31-2540e9aa9ac3
+Welcome,Tips,,,Millions are stressed about money because of COVID-19. Children or teenagers asking for things can cause arguments.  It can help them a lot when we involve them with family budgeting.,,,,,,,,,,,PLH - Welcome - Tips,786c8228-c96d-4fce-bc94-4021be9e7b0b,a217adc9-873e-43fe-b272-624076b1f6a8
+Welcome,Tips,,,There are lots of risks to children online. But you can help protect your children by setting up easy tech fixes and creating health and safe online habits.,,,,,,,,,,,PLH - Welcome - Tips,786c8228-c96d-4fce-bc94-4021be9e7b0b,15276701-db52-4266-9e18-693c7d1a0d3b
+Welcome,Tips,,,"This is a stressful time for all of us. The more we listen to each other and show children how we keep ourselves healthy, the more they will feel secure and loved.",,,,,,,,,,,PLH - Welcome - Tips,786c8228-c96d-4fce-bc94-4021be9e7b0b,1cd3c962-8e67-4354-b804-783233e05311
+Welcome,Tips,,,Spending even just a few minutes a day focused on having fun with your children can help your relationship. If you are really busy it could be tidying or cleaning together - just make it fun!,,,,,,,,,,,PLH - Welcome - Tips,786c8228-c96d-4fce-bc94-4021be9e7b0b,ab3824df-5bfc-4e99-a73d-1c9269285ca5
+Welcome,Tips,,,"We spend a lot of time indoors with a young baby, and Covid-19 makes it much more intense.  It is completely normal to feel isolated, overwhelmed, anxious, and scared for you and your baby.",,,,,,,,,,,PLH - Welcome - Tips,786c8228-c96d-4fce-bc94-4021be9e7b0b,4cce16d5-5422-4e1e-84b7-991493de7156
+Welcome,Tips,,,"Congratulations! You have added your first parenting skill to your Parenting Toolkit.
+
+Each day you will learn a new skill so that you can be build a happy home for you and your family.",,,,,,,,,,,PLH - Welcome - Tips,786c8228-c96d-4fce-bc94-4021be9e7b0b,f9c708b7-325c-439e-9bd3-fc151a408f01
+Welcome,Tips,,,"Here is a song that we made just for parents like you! 
+
+Remember you can always get more tips by typing ""Help"".
+
+Have a great day!",,,,,,,,,,,PLH - Welcome - Tips,786c8228-c96d-4fce-bc94-4021be9e7b0b,9ab07eb0-6671-4f29-a384-5b34d8afcc41

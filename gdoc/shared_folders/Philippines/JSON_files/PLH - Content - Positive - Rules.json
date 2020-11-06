@@ -1,0 +1,33 @@
+{
+  "PLH - Content - Positive - Rules": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message 1": "Hello! Today's Parenting Tip is about how we can involve our children in creating consistent household rules.",
+        "Message 2": "Household rules can help keep our children safe from potential dangers both inside the house and in the community. They also help children to know what kind of behaviour is expected from them.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour."
+      },
+      "Default introduction": {
+        "Message": "Household rules can help keep our children safe from potential dangers both inside the house and in the community. They also help children to know what kind of behaviour is expected from them. ",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's is a video on how you can involve your children in establishing household rules",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Household_Rules.m4v"
+        }
+      },
+      "Set of messages 1": {
+        "Message 1": "Here are some simple tips on how you can make household rules with your children and teens: \n\n• Involve your child in establishing household rules.\n• Make your household rules clear and specific.\n• Make sure your child understands the reasons why you are establishing a household rule.\n• Make your household rules fair and realistic (just like instructions).\n• Praise and simple incentives can help support your child in following a household rule.\n• Add only 1 household rule at a time.",
+        "Message 2": "Well done! You have added another tool to your Parenting Toolkit. Remember when you involve your children in establishing household rules, they are more likely to follow them. Try to be consistent and positive."
+      }
+    },
+    "Technical information": {
+      "Id intro": "44b0c52a-2386-4297-96af-fdd8f74b3bbe",
+      "Id tip": "6f286d96-de35-4511-8e2c-d311d90fb1aa",
+      "Template type": "6"
+    }
+  }
+}

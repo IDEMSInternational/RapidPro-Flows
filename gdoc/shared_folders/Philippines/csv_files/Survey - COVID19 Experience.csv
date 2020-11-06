@@ -1,0 +1,26 @@
+category,subcategory,name,specification,text message,option 1,option 2,option 3,option 4,option 5,option 6,option 7,option 8,option 9,option 10,name of flow,flow id,node id
+Survey,COVID19 Experience,,,"Hi! We are delighted that you have signed up for these messages. It shows that you care!
+
+Can we ask you 2 quick questions about COVID-19 in your area?",Yes,No,,,,,,,,,PLH - Survey - COVID19 Experience,cfe1b690-ba7c-4d5c-bb73-f95a04b0fd8c,edb1bf39-dd36-4d31-a54b-2f16d6d0ba79
+Survey,COVID19 Experience,,,"Sorry, I don't understand what you mean. ",,,,,,,,,,,PLH - Survey - COVID19 Experience,cfe1b690-ba7c-4d5c-bb73-f95a04b0fd8c,b73b1755-98fc-4edb-a55e-d609d471399d
+Survey,COVID19 Experience,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Survey - COVID19 Experience,cfe1b690-ba7c-4d5c-bb73-f95a04b0fd8c,974d684e-0192-4c07-9581-a9ebb323f421
+Survey,COVID19 Experience,,,Which is most like your experience?,Curfews,Non-essential shops closed,Non-essential production closed,Cancellation of recreational venues and closing of public places like parks,Stay-at-home orders and total movement controls,Social distancing and movement restrictions,No restrictions,Does not apply,,,PLH - Survey - COVID19 Experience,cfe1b690-ba7c-4d5c-bb73-f95a04b0fd8c,6162c9b9-b9de-4861-a01a-5a681856397d
+Survey,COVID19 Experience,,,Thanks! ,,,,,,,,,,,PLH - Survey - COVID19 Experience,cfe1b690-ba7c-4d5c-bb73-f95a04b0fd8c,f13f2acb-35b7-43cc-bca3-97072f149ce5
+Survey,COVID19 Experience,,,It is okay if this is not a good time. Chat later!,,,,,,,,,,,PLH - Survey - COVID19 Experience,cfe1b690-ba7c-4d5c-bb73-f95a04b0fd8c,bdbabbe0-3874-4370-af48-af5e999d566b
+Survey,COVID19 Experience,,,It is okay if this is not a good time. We will try again tomorrow. Chat later!,,,,,,,,,,,PLH - Survey - COVID19 Experience,cfe1b690-ba7c-4d5c-bb73-f95a04b0fd8c,f2dbda22-fd65-437c-b9a2-d972864171b0
+Survey,COVID19 Experience,,,"How has COVID-19 affected your family? You can choose multiple options with a space in between each (e.g., 1 2 5):
+1. Someone in my family has had COVID-19 symptoms (e.g., dry cough, fatigue, headache, high temperature, loss of smell or taste)
+2. Someone in my family has died from COVID-19
+3. My family has been experiencing financial stress due to COVID-19
+4. My family has been experiencing emotional stress due to COVID-19
+5. My family has not been negatively affected by COVID-19
+6. Other
+0. Prefer not to answer",,,,,,,,,,,PLH - Survey - COVID19 Experience,cfe1b690-ba7c-4d5c-bb73-f95a04b0fd8c,78f39ffe-0180-4755-bd1b-e30d7f316264
+Survey,COVID19 Experience,,,"Thanks so much for answering these questions. We really appreciate it especially since COVID-19 has been a very difficult time for many families. 
+
+Remember that you are not alone and that we are here to help. Just type ""Help"" at anytime.",,,,,,,,,,,PLH - Survey - COVID19 Experience,cfe1b690-ba7c-4d5c-bb73-f95a04b0fd8c,720eff41-c3df-432a-b9b2-b3c22bdbf570
+Survey,COVID19 Experience,,,Are your children currently going to school/daycare? ,Yes,No,,,,,,,,,PLH - Survey - COVID19 Experience,cfe1b690-ba7c-4d5c-bb73-f95a04b0fd8c,74bdf479-240a-40d6-8da2-7a73d2e6d311
+Survey,COVID19 Experience,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Survey - COVID19 Experience,cfe1b690-ba7c-4d5c-bb73-f95a04b0fd8c,47619a1c-64ca-49ed-ac4f-ca01f0c1bed7
+Survey,COVID19 Experience,,,It is normal to feel overwhelmed or stressed about how your children's education during this time. Would you like to learn more about how to support your children with remote learning and returning to school?,Yes,No,,,,,,,,,PLH - Survey - COVID19 Experience,cfe1b690-ba7c-4d5c-bb73-f95a04b0fd8c,42651d1e-df28-4c78-ae08-4c01aba10343
+Survey,COVID19 Experience,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Survey - COVID19 Experience,cfe1b690-ba7c-4d5c-bb73-f95a04b0fd8c,35c5c640-91cd-475d-b008-24c294e5b7ca
+Survey,COVID19 Experience,,,"That's okay! You can always type ""Help"" at anytime if you need any support with your children. Chat to you later!",,,,,,,,,,,PLH - Survey - COVID19 Experience,cfe1b690-ba7c-4d5c-bb73-f95a04b0fd8c,68d9a07d-71e6-4f0d-9062-c37ed0f4dbff

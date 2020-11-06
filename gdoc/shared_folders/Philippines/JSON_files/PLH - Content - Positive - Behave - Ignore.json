@@ -1,0 +1,61 @@
+{
+  "PLH - Content - Positive - Behave - Ignore": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "Hello! A lot of parents struggle when their children have temper tantrums and other demanding behaviours. Today's tip is about how to make this more manageable.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "Ignore negative attention seeking and demanding behaviours like whining or tantrums. Your child’s behaviour might at first get worse, but with time they will learn that it does not work. Be consistent and patient. And make sure that you are also giving your child plenty of positive attention at other times. You can do it!",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour."
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video to help you manage your child's temper tantrums.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Ignore.m4v"
+        }
+      },
+      "List of tips": {
+        "Message": "Here are 6 steps on how we can reduce negative attention seeking and demanding behaviours like tantrums using what we call Ignore:\n\n",
+        "Option 1: Try to redirect your child’s attention": {
+          "Message": "1. Try to redirect your child's attention\n\nWhen they start demanding for something or whining, first try to redirect them to a positive behaviour or activity. Praise them for that positive behaviour! "
+        },
+        "Option 2: Make sure it is a behaviour you can ignore": {
+          "Message 1": "2. Make sure it is a behaviour you can ignore\n\nThese are behaviours like whining, demanding, showing off, tantrums, and lots of other negative attention seeking and demanding behaviours that might make us think of the child as a bad child. But there are no bad children, only difficult behaviours!",
+          "Message 2": "If we respond to these behaviours, our children learn that this behaviour will get them attention. They sometimes also learn that if they increase the demand, they will get their way.",
+          "Message 3": "For example, if your child whines for sweets at the store, you might initially say “no” but then give in to your child when they start to have a tantrum. This happens to all of us!"
+        },
+        "Option 3: Ignore the behaviour not your child": {
+          "Message 1": "3. Ignore the behaviour not your child.\n\nIgnoring behaviour means removing physical and verbal attention. You should still be aware of what your child is doing.",
+          "Message 2": "When you ignore your child's behaviour (but not your child!), your child learns that the demanding behaviour will not work.",
+          "Message 3": "This takes time AND patience. Normally your child will try to test you and behave worse. This is a good time to Take a Pause and Keep Calm."
+        },
+        "Option 4: Praise your child immediately for the next positive behaviour": {
+          "Message 1": "4. Praise your child immediately for the next positive behaviour\n\nHaving a tantrum can be just as traumatic and difficult for your child as it is for you. Make sure you give your child plenty of positive attention and love as soon as they have calmed down. ",
+          "Message 2": "At this time, it is more important that you involve your child in a positive activity instead of talking about what just happened. You can do that later like at night or the next day. Right now your child needs love."
+        },
+        "Option 5: Be consistent when ignoring": {
+          "Message 1": "5. Be consistent when ignoring\n\nYour child's behaviour might continue to get worse.  It is important that you continue to ignore the behaviour.",
+          "Message 2": "Often, your child's response will grow more agitated when you start ignoring a specific behaviour as your child tries to test your resolve. ",
+          "Message 3": "Try to remain consistent. Over time, your child will learn that the demanding behaviour no longer works."
+        },
+        "Option 6: Make sure you are giving your child plenty of positive attention at other times.": {
+          "Message 1": "6. Make sure you are giving your child plenty of positive attention at other times\n\nChildren need attention. If children get plenty of attention for just being themselves, as well as for the “good” things that they do, it helps them to feel good about themselves, and they do more of what they are asked.",
+          "Message 2": "If you find yourself ignoring your child's behaviour a lot, it is either because you are not being consistent (sometimes ignoring and sometimes giving in) OR you are not spending enough positive time with your child. One-on-One Time is super important!"
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about how to use ignore to reduce tantrums or other difficult behaviours:\n\n"
+      },
+      "Set of messages 1": {
+        "Message": "Well done! You have added another skill to your Parenting Toolkit. \nIgnoring negative attention seeking and demanding behaviours is not easy. But if you are patient and give it time, it really works. You can do this!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "f5fc4ba8-8f02-4d69-831e-6ba9b18a7e6d",
+      "Id tip": "8c7523db-bd30-4b39-ac37-972541928564",
+      "Template type": "2"
+    }
+  }
+}

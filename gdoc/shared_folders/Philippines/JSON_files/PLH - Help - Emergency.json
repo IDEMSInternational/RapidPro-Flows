@@ -1,0 +1,14 @@
+{
+  "PLH - Help - Emergency": {
+    "Content": {
+      "Set of messages 1": {
+        "Message": "Here are some useful numbers in Malaysia:\n\nPolice: 999\nAmbulance: 999\nViolence at home: Talian Bantuan WAO  03-7956 3488 or WhatsApp to 018 988 8058 or Talian Kasih 15999\nDrug: Hotline AADK : 03 8911 2233 / 019 626 2233 www.adk.gov.my\nChildline: Talian Kasih 15999\nLifeline (Counselling): Talian Kasih 15999",
+        "Interaction message": "Please type \"back\" if you want to go back to the previous options."
+      }
+    },
+    "Technical information": {
+      "Id": "9b767887-2550-4633-bc73-6ad3286d85e3",
+      "Template_type": "1"
+    }
+  }
+}

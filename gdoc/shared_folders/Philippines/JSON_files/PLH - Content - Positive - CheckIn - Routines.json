@@ -1,0 +1,28 @@
+{
+  "PLH - Content - Positive - CheckIn - Routines": {
+    "Content": {
+      "Based on age group": {
+        "Teen": {
+          "Message 1": "Did you know that teens actually like having responsibilities? It makes them feel more independent and grown up. Allow your teen to choose a special job that helps out.",
+          "Message 2": "As your teen shows more responsibility, you can also give them extra privileges. Try to share responsibilities equally amongst women/men and girls/boys. Praise your teen whenever they do their job!"
+        },
+        "Baby": {
+          "Message": "Routines will make your children feel safe and secure. Try to have regular mealtimes and bedtimes. Remember to schedule One-on-One time with your children, too!"
+        },
+        "Young child": {
+          "Message 1": "Routines will make your children feel safe and secure. Try to have regular mealtimes and bedtimes. Remember to schedule One-on-One time with your children, too!",
+          "Message 2": "When you teach your children about safe distancing, you keep your whole family safe. You keep others safe, too!",
+          "Message 3": "You can even make safe distancing into a game where children earn points for keeping at least 1 metre away from others in public. The one with the most points can win a simple, free reward like extra One-on-One Time"
+        },
+        "Technical info": {
+          "Variable": "@fields.age_group_for_tips",
+          "Type of split": "1"
+        }
+      }
+    },
+    "Technical information": {
+      "Id": "b4167f02-b85c-4265-b801-b50e5153bf93",
+      "Template_type": "10"
+    }
+  }
+}

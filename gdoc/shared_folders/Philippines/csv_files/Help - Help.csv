@@ -1,0 +1,56 @@
+category,subcategory,name,specification,text message,option 1,option 2,option 3,option 4,option 5,option 6,option 7,option 8,option 9,option 10,name of flow,flow id,node id
+Help,Entry,,,What do you need help with?,Help with children,Stress relief,Other support,Review previous skills,Technical support,,,,,,PLH - Help - Entry,c5aacd7b-340b-4825-92f3-271b8336be00,a3bf125e-8eb4-4895-8976-b9ea4c8d3247
+Help,Entry,,,"Sorry, I don't understand what you mean. ",,,,,,,,,,,PLH - Help - Entry,c5aacd7b-340b-4825-92f3-271b8336be00,dca58db9-fd77-4ec2-90b8-60691269886e
+Help,Children,,,How can we help you with your children?,Things to do with my child,Managing challenging behaviour,Supporting your child emotionally,Keeping your child safe,Helping with schoolwork,Talking about COVID-19,How to respond to a crisis,Supporting children with disabilities,Information about child development,Go back to the previous options,PLH - Help - Children,a9e90700-412c-45dd-a38b-ccd5db14bace,ff0e2129-9c4f-4671-9900-db3ab00262d0
+Help,Children,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Help - Children,a9e90700-412c-45dd-a38b-ccd5db14bace,c55e35a3-7a98-4f7b-a0bc-64510c826b6c
+Help,Children,,,How can we help you keep your children safe?,Online safety,Sexual abuse prevention,Responding to crisis,Go back to the previous options,,,,,,,PLH - Help - Children,a9e90700-412c-45dd-a38b-ccd5db14bace,df1ffefe-4d23-44d6-88e9-e23683104ce0
+Help,Children,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Help - Children,a9e90700-412c-45dd-a38b-ccd5db14bace,39e0391e-a2ac-4a7b-98e8-17208177da26
+Help,Stress,,,How can we help you?,Relaxation and stress reduction,Dealing with financial stress,Family relationships,Go back to the previous options,,,,,,,PLH - Help - Stress,eb24bed1-62b3-447f-8058-b9665d1742c7,41ccf03f-d313-4c68-984a-6834b20ea9b9
+Help,Stress,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Help - Stress,eb24bed1-62b3-447f-8058-b9665d1742c7,4a7cd01a-649c-4da8-8add-1e6f80dda8a3
+Help,Access toolkit,,,"Which parenting topics would you like to revisit?
+
+Type ""back"" if you want to go back to the Help menu.",Skills in toolkit,Incomplete skills,,,,,,,,,PLH - Help - Access toolkit,446e0f6c-8e31-4443-95b7-70aebdde599e,76f98073-5619-43b8-a1ce-ad04b11d751d
+Help,Access toolkit,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Help - Access toolkit,446e0f6c-8e31-4443-95b7-70aebdde599e,47df441a-7585-41ff-bd19-b71e4ad2bdfd
+Help,Access toolkit,,,You have the following completed skills in your Parenting Toolkit:,,,,,,,,,,,PLH - Help - Access toolkit,446e0f6c-8e31-4443-95b7-70aebdde599e,4c1a8b2f-e37f-406b-bbe2-fa6c3d8c6950
+Help,Access toolkit,,,You have made progress on the following skills:,,,,,,,,,,,PLH - Help - Access toolkit,446e0f6c-8e31-4443-95b7-70aebdde599e,fc5f7c0c-edc2-4dcc-a0c8-dae55dbc339f
+Help,Access toolkit,,,You don't have any incomplete skill.,,,,,,,,,,,PLH - Help - Access toolkit,446e0f6c-8e31-4443-95b7-70aebdde599e,34679a88-058c-4949-9725-496e4fadb178
+Help,Access toolkit,,,You don't have any completed skill in your parenting toolkit yet.,,,,,,,,,,,PLH - Help - Access toolkit,446e0f6c-8e31-4443-95b7-70aebdde599e,eaed0c80-0ce9-45f8-b96f-68fc307893bc
+Help,Access toolkit,,,"Type the number corresponding to the skill to receive messages about this topic again. 
+
+Type ""back"" if you want to go back to the previous options.",,,,,,,,,,,PLH - Help - Access toolkit,446e0f6c-8e31-4443-95b7-70aebdde599e,ff75d160-a536-4bce-97bc-ebcfa20527b3
+Help,Access toolkit,,,"Sorry, I don't understand what you mean. Please reply with a number between 1 and @results.n_skills for receiving messages about that topic again. 
+
+Type ""back"" if you want to go back to the previous options.",,,,,,,,,,,PLH - Help - Access toolkit,446e0f6c-8e31-4443-95b7-70aebdde599e,2510e733-0faf-4573-a2cb-9a1fa9526ddb
+Help,Access toolkit,,,"Type the number corresponding to the skill to complete it for your Parenting Toolkit. 
+
+Type ""back"" if you want to go back to the previous options.",,,,,,,,,,,PLH - Help - Access toolkit,446e0f6c-8e31-4443-95b7-70aebdde599e,09a86a1d-d7ce-404d-8b82-4ba8343c3f2f
+Help,Access toolkit,,,"Sorry, I don't understand what you mean. Please reply with a number between 1 and @results.n_skills for completing the corresponding skill.
+ 
+Type ""back"" if you want to go back to the previous options.",,,,,,,,,,,PLH - Help - Access toolkit,446e0f6c-8e31-4443-95b7-70aebdde599e,41bce3ea-d054-4cf9-ae45-f42d330a12cd
+Help,Access toolkit,,,Would you like to go back to the Help menu?,Yes,No,,,,,,,,,PLH - Help - Access toolkit,446e0f6c-8e31-4443-95b7-70aebdde599e,33e92aa9-3aef-43eb-b9e2-761d7d386f30
+Help,Access toolkit,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Help - Access toolkit,446e0f6c-8e31-4443-95b7-70aebdde599e,537cc87f-d3de-4d01-a3cd-eac5d12844e5
+Internal,Print parenting toolkits,,,@results.count  One-on-one time,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,ce88e965-0c3d-4f46-a1ae-6bfbf7dafbf2
+Internal,Print parenting toolkits,,,@results.count  Taking a Pause,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,c3636458-0d77-4f46-a2a7-4e6c5dc03b3c
+Internal,Print parenting toolkits,,,@results.count  Managing anger,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,9e0c39c7-2a3f-42e1-be5c-89e0c3a2be5e
+Internal,Print parenting toolkits,,,@results.count  Giving positive instructions,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,aa719ae0-8e70-41b0-849f-ce09910e8eda
+Internal,Print parenting toolkits,,,@results.count  Praising your children,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,ad748929-f723-49b8-a07e-cb76910c6f56
+Internal,Print parenting toolkits,,,@results.count  Establishing daily routines,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,22d44e87-0c08-4264-8731-7ea81c91b66a
+Internal,Print parenting toolkits,,,@results.count  Setting household rules,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,97570b6f-1cbe-49cc-8a56-7b37e7b6d615
+Internal,Print parenting toolkits,,,@results.count  Redirecting behaviour,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,9e3bd62d-7e13-4e92-ad0e-cfc1dab8d42e
+Internal,Print parenting toolkits,,,@results.count  Using appropriate consequences,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,80f29250-ce2c-4eb8-b1c6-09156e48a1e7
+Internal,Print parenting toolkits,,,@results.count  Shared reading,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,e016ee13-4b54-47e2-a7dd-d297fdb2639c
+Internal,Print parenting toolkits,,,@results.count  Ignoring demanding behaviours,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,7583a253-1863-48f9-adfa-ec04120f2fe0
+Internal,Print parenting toolkits,,,@results.count  Solving problems with your teen,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,947933e9-efa0-4ab6-ae99-2afda7edd7b7
+Internal,Print parenting toolkits,,,@results.count  Keeping your child safe online,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,de51c744-4203-4441-8b37-cda7c4923648
+Internal,Print parenting toolkits,,,@results.count  Coping with crying,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,22410f6d-1584-4eb3-94d8-57411c227e19
+Internal,Print parenting toolkits,,,@results.count  Giving emotional support,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,45241b6d-0673-4f99-86c7-54cefbb4c085
+Internal,Print parenting toolkits,,,@results.count  Responding to crises,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,3cb52ed3-cd51-4f07-a47a-482462deaf08
+Internal,Print parenting toolkits,,,@results.count  Understanding safe/unsafe touch,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,89a6d68c-3ed0-4f26-ae71-14530be4b0ac
+Internal,Print parenting toolkits,,,@results.count  Making a happy and peaceful home,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,9140c59c-59a8-44b9-b3ae-ea399a672230
+Internal,Print parenting toolkits,,,@results.count  Family budgeting,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,b2f24c93-a173-43c9-8916-10de6ac21ae0
+Internal,Print parenting toolkits,,,@results.count  Talking about COVID19,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,8b88eaa3-a8a3-49da-af81-bdca37f6ade7
+Internal,Print parenting toolkits,,,@results.count  Supporting children with disabilities,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,ec74469e-1751-459c-9266-47e2501dd19c
+Internal,Print parenting toolkits,,,@results.count  Child Development,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,4f4a1cdf-77d8-4a90-929d-722978e4fe38
+Internal,Print parenting toolkits,,,@results.count  Helping your children learn,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,4f7f3398-9e11-4f73-ae0f-28cecf1a90ee
+Internal,Print parenting toolkits,,,@results.count  Keeping healthy,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,41e17fa9-fe9c-4b78-b7a8-181dff8244e4
+Internal,Print parenting toolkits,,,@results.count Keeping it positive,,,,,,,,,,,PLH - Internal - Print parenting toolkits,40567338-fa3b-462f-a6f6-966a6220d1d0,6ed5696e-069e-4b02-af8e-6c606830a9b9

@@ -1,0 +1,63 @@
+{
+  "PLH - Content - Time - One on one time teen": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "Today's tip is about spending One-on-One Time with Our Children.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "Invest in One-on-One Time! The more time you spend with your children, the more likely they will listen to you and behave well at other times. It really works!",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour."
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video about spending one-on-one time with your teen!",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/One_On_One_Time_Teens.m4v"
+        }
+      },
+      "Set of messages 1": {
+        "Message 1": "When we have difficult relationships with our teenagers, it can be hard to find pleasure from spending time with them. Instead, we spend a lot of time disciplining them or complaining about how they are behaving.",
+        "Message 2": "One-on-One Time with your teen helps build a positive and trusting relationship. When you really notice them and listen to what they are saying and what they like, you make them feel valued and appreciated.",
+        "Interaction message": "Would you like to learn more?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" whenever you want to learn more about how to spend One-on-One Time with your teen. Chat to you later!"
+      },
+      "List of tips": {
+        "Message": "Here are 6 tips on how to make One-on-One Time a positive experience for you and your teen:\n\n",
+        "Option 1: Do it every day": {
+          "Message": "1. Do it every day\nSet aside a specific time to spend One-on-One Time with your teen each day. Choose a time when you and our teen will not be interrupted and when your teen does not have something else that they want to do, like watching TV or playing with phones."
+        },
+        "Option 2: Let your teen choose the activity": {
+          "Message 1": "2. Let your teen choose the activity\nTell your teen that you would like to spend some time with them and that they can choose what to do or talk about. Your teen might think this is weird at first but will come to enjoy having this dedicated time with you!",
+          "Message 2": "Try to do something different than watching TV or playing with a tablet/phone. However, you may need to at first join your teen and watch their favourite TV programme with them. They may feel comfortable doing other activities with time."
+        },
+        "Option 3: Follow your teen's lead": {
+          "Message": "3. Follow your teen's lead\nTry to follow your teen's lead during One-on-One Time. Accept their suggestions. Remember this is your teen's activity. Your job is to show an interest and say something nice."
+        },
+        "Option 4: Give your teen your full attention": {
+          "Message 1": "4. Give your teen all of your attention. \nSwitch off the television and put away phones. Make sure you can give all of your attention to your teen.",
+          "Message 2": "Look at your teen. Nodding or “I see” shows your teen you are really paying attention. Accept what they are saying without judging them."
+        },
+        "Option 5: Show your teen you are really listening": {
+          "Message": "5. Show your teen you are really listening\n\nYou can even try rephrasing back what your teen says when they speak to you. For example, when your teen says, “This math problem is really hard,” you can say, “Yeah, I see that you are finding it difficult.” It shows you are really listening to them and will make them feel supported."
+        },
+        "Option 6: Have fun!": {
+          "Message": "6. Have fun!\nOne-on-One Time with your teen can be fun for you, too! You might even find that you feel less stressed after spending with your teen."
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about how to spend One-on-One Time with your teen:\n\n"
+      },
+      "Set of messages 2": {
+        "Message": "Congratulations! You have added another skill to your Parenting Toolkit. Quality time with your children is the best gift that you can ever give them. ",
+        "Interaction message": "Would you like some suggestions for activities to do with your teen?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need an activity. Chat to you later!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "82a3b6d3-74a3-4523-84d2-2c488ed7d715",
+      "Id tip": "6960887b-fbc8-4185-96cb-c0688bb09d37",
+      "Template type": "4"
+    }
+  }
+}

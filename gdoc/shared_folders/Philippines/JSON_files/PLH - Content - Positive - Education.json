@@ -1,0 +1,50 @@
+{
+  "PLH - Content - Positive - Education": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "COVID-19 has interrupted our children's education with school closures and remote learning. It is normal to feel overwhelmed about to do this alone, especially when we also have stress about work and money. ",
+        "Interaction message": "Would you like to learn more about how to support your children with remote learning and returning to school?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would like to review them again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "COVID-19 has interrupted our children's education with school closures and remote learning. It is normal to feel overwhelmed about to do this alone, especially when we also have stress about work and money. ",
+        "Interaction message": "Would you like to learn more about how to support your children with remote learning and returning to school?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Video of Supporting Your Child's Learning",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Helping_Your_Children_Learn.m4v"
+        }
+      },
+      "List of tips": {
+        "Message": "Here are 5 steps that you can do to help your children continue learning during this time:\n\n",
+        "Option 1: Create a routine around learning and schoolwork": {
+          "Message": "Step 1. Create a routine around learning and schoolwork\n\nMake a daily plan with your child for when they can spend time doing educational activities. This can include structured schoolwork and other activities online, reading, writing, or arts. Allow flexibility and time for play and relaxation too."
+        },
+        "Option 2: Make learning fun and playful": {
+          "Message": "Step 2. Make learning fun and playful\n\nChildren learn best when learning is fun! Try to find ways to make learning playful to keep your child interested and engaged. Type \"Help\" if you ever need any fun ideas!"
+        },
+        "Option 3: Remember that you are a parent NOT a substitute teacher ": {
+          "Message": "Step 3. Remember that you are a parent NOT a substitute teacher! \n\nYour role is to support your child by creating a space to learn. You do not need to know all the answers. Help them explore their interests and ask questions. Go at your child's pace and be patient with yourself. "
+        },
+        "Option 4: Stay connected with your child's school and teachers": {
+          "Message": "Step 4. Stay connected with your child's school and teachers\n\nFind out how to stay in touch with your children’s teacher or school to stay informed, ask questions and get more guidance. If you are struggling or know someone who is struggling with school work or the home situation, please discuss this with a teacher that you feel close to. Parent groups or community groups can also be a good way to support each other with your home schooling."
+        },
+        "Option 5: Support your child when they return to school": {
+          "Message": "Step 5. Support your child when they go back to school\n\nTell your child that it is okay to feel scared or worried about going back to school. Allow your child to share how they are feeling. It is also normal if your child behaves different to their usual behaviour. Discuss how going to school might be different and how they can protect themselves from COVID-19. Ask them how their day went and support them if they experienced any difficulties."
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about how to support your child's learning:\n\n"
+      },
+      "Set of messages 1": {
+        "Message": "Well done for adding another tool to your Parenting Toolkit! Helping your child continue learning during this difficult time is so important. Your best efforts will make a difference!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "f6ba131a-0eea-465f-a3fa-e8c6d86d2d27",
+      "Id tip": "5a2b3e8b-fd3b-4dc1-929a-1c577a4c4a7c",
+      "Template type": "2"
+    }
+  }
+}

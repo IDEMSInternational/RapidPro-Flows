@@ -1,0 +1,13 @@
+{
+  "PLH - Activity - Child - Active - Freeze dance": {
+    "Content": {
+      "Set of messages 1": {
+        "Message": "Freeze dance\n•\tPlay music or someone sings a song, and everyone dances\n•\tWhen the music stops, everyone must freeze\n•\tLast person still dancing becomes the judge for the next round\n•\tAnimal dance: Same as above but when the music stops, call out a name of an animal, and everyone has to become that animal"
+      }
+    },
+    "Technical information": {
+      "Id": "cdc4e7f5-bfce-4585-8dc6-fe89bbe72b7e",
+      "Template_type": "1"
+    }
+  }
+}
