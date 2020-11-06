@@ -14,30 +14,30 @@ var flows_by_template = JSON.parse(json_string_file_names);
 
 var timed_intros = flows_by_template.filter(function (flow) { return (flow.name.endsWith("Timed intro")) });
 
-for (var fl = 0; fl < timed_intros.length; fl++){
+for (var fl = 0; fl < timed_intros.length; fl++) {
     var doc_cont = {};
-    
-    
+
+
     var curr_flow_intro = obj.flows.filter(function (flow) { return (flow.name == timed_intros[fl].name) })[0];
     console.log(curr_flow_intro.name)
-    var curr_flow_tip = obj.flows.filter(function (flow) { return (flow.name == timed_intros[fl].name.replace(" - Timed intro","")) })[0];
-    if (flows_by_template.filter(function (flow) {return (flow.name == curr_flow_tip.name)}).length ==0){
+    var curr_flow_tip = obj.flows.filter(function (flow) { return (flow.name == timed_intros[fl].name.replace(" - Timed intro", "")) })[0];
+    if (flows_by_template.filter(function (flow) { return (flow.name == curr_flow_tip.name) }).length == 0) {
         continue;
     }
-    
-    
+
+
 
     var curr_flow_doc = {};
 
     var flow_content = {};
-    
+
 
     var curr_node_intro = curr_flow_intro.nodes[0];
     var type_of_template_intro = timed_intros[fl].type;
 
 
     var curr_node_tip = curr_flow_tip.nodes[0];
-    var type_of_template_tip = flows_by_template.filter(function (flow) { return (flow.name == (timed_intros[fl].name.replace(" - Timed intro",""))) })[0].type;
+    var type_of_template_tip = flows_by_template.filter(function (flow) { return (flow.name == (timed_intros[fl].name.replace(" - Timed intro", ""))) })[0].type;
 
     var n_mess_block = 0;
     var curr_flow = curr_flow_intro;
@@ -47,10 +47,10 @@ for (var fl = 0; fl < timed_intros.length; fl++){
     curr_flow = curr_flow_tip;
     create_template(type_of_template_tip, curr_node_tip)
 
-    
-    flows_by_template = flows_by_template.filter(function (flow) {return (flow.name != curr_flow_tip.name)});
-    flows_by_template = flows_by_template.filter(function (flow) {return (flow.name != curr_flow_intro.name)});
-    
+
+    flows_by_template = flows_by_template.filter(function (flow) { return (flow.name != curr_flow_tip.name) });
+    flows_by_template = flows_by_template.filter(function (flow) { return (flow.name != curr_flow_intro.name) });
+
     flow_info = {};
     flow_info["Id intro"] = curr_flow_intro.uuid;
     flow_info["Id tip"] = curr_flow_tip.uuid;
@@ -80,7 +80,7 @@ for (var fl = 0; fl < timed_intros.length; fl++){
 /// flows without  timed introduction
 for (var fl = 0; fl < flows_by_template.length; fl++) {
 
-//for (var fl = flows_by_template.length - 1; fl < flows_by_template.length; fl++) {
+    //for (var fl = flows_by_template.length - 1; fl < flows_by_template.length; fl++) {
     //for (var fl = 127; fl < 129; fl++) {    
     var doc_cont = {};
 
@@ -112,7 +112,7 @@ for (var fl = 0; fl < flows_by_template.length; fl++) {
 
     // write output
     doc_cont = JSON.stringify(doc_cont, null, 2);
-    var output_path = path.join(__dirname, "../gdoc/JSON_files/test/" + curr_flow.name + ".json");
+    var output_path = path.join(__dirname, "../gdoc/JSON_files/" + curr_flow.name + ".json");
     fs.writeFile(output_path, doc_cont, function (err, result) {
         if (err) console.log('error', err);
     });
@@ -164,7 +164,10 @@ function create_template(type_of_template, curr_node) {
         template_9(curr_node)
     } else if (type_of_template == 10) {
         template_10(curr_node)
-    } else {
+    } else if (type_of_template == 11) {
+        template_11(curr_node)
+    }
+    else {
         error("template not recognised")
     }
 
@@ -326,6 +329,22 @@ function template_10(curr_node) {
     curr_node = block_output;
 
 }
+/////////////////////////////////////////////////////////
+// Template 11
+
+function template_11(curr_node) {
+    var block_output = create_default_intro_block(curr_node);
+    curr_node = block_output;
+
+    block_output = create_media_block(curr_node);
+    curr_node = block_output;
+
+    block_output = create_multiple_choice_block(curr_node);
+    curr_node = block_output;
+
+    block_output = create_message_block(curr_node);
+
+}
 
 
 /////////////////////////////////////////////////////////
@@ -364,27 +383,35 @@ function create_message_block(curr_node) {
                         var ends_with_wfr = true;
 
                         var interaction_message = message[0].text;
+
                         var wfr_node = next_node[0];
-                        var yes_categ_id = wfr_node.router.cases.filter(function (ca) { return (r_exp_yes.test(ca.arguments[0])) })[0].category_uuid;
-                        var yes_categ = wfr_node.router.categories.filter(function (cat) { return (cat.uuid == yes_categ_id) })[0];
-                        var yes_node_id = wfr_node.exits.filter(function (ex) { return (ex.uuid == yes_categ.exit_uuid) })[0].destination_uuid;
-                        var next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == yes_node_id) })[0];
-                        if (next_node.actions.length > 0) {
 
-                            if (next_node.actions.type == "set_contact_field" && next_node.actions.type.field.key == "last_interaction") {
-                                next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == next_node.exits[0].destination_uuid) })[0];
 
+                        if (wfr_node.router.cases.filter(function (ca) { return (r_exp_yes.test(ca.arguments[0])) }).length > 0) {
+                            var interaction_yes_no = true;
+                            var yes_categ_id = wfr_node.router.cases.filter(function (ca) { return (r_exp_yes.test(ca.arguments[0])) })[0].category_uuid;
+
+                            var yes_categ = wfr_node.router.categories.filter(function (cat) { return (cat.uuid == yes_categ_id) })[0];
+                            var yes_node_id = wfr_node.exits.filter(function (ex) { return (ex.uuid == yes_categ.exit_uuid) })[0].destination_uuid;
+                            var next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == yes_node_id) })[0];
+                            if (next_node.actions.length > 0) {
+
+                                if (next_node.actions.type == "set_contact_field" && next_node.actions.type.field.key == "last_interaction") {
+                                    next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == next_node.exits[0].destination_uuid) })[0];
+
+                                }
                             }
+
+                            var no_categ_id = wfr_node.router.cases.filter(function (ca) { return (r_exp_no.test(ca.arguments[0])) })[0].category_uuid;
+                            var no_categ = wfr_node.router.categories.filter(function (cat) { return (cat.uuid == no_categ_id) })[0];
+                            var no_node_id = wfr_node.exits.filter(function (ex) { return (ex.uuid == no_categ.exit_uuid) })[0].destination_uuid;
+                            var no_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == no_node_id) })[0];
+
+
+                            var curr_block_no_messages = loop_message_nodes(no_node, "null")[0];
+                        } else {
+                            var interaction_yes_no = false;
                         }
-
-                        var no_categ_id = wfr_node.router.cases.filter(function (ca) { return (r_exp_no.test(ca.arguments[0])) })[0].category_uuid;
-                        var no_categ = wfr_node.router.categories.filter(function (cat) { return (cat.uuid == no_categ_id) })[0];
-                        var no_node_id = wfr_node.exits.filter(function (ex) { return (ex.uuid == no_categ.exit_uuid) })[0].destination_uuid;
-                        var no_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == no_node_id) })[0];
-
-
-                        var curr_block_no_messages = loop_message_nodes(no_node, "null")[0];
-
 
 
                     } else {
@@ -423,12 +450,13 @@ function create_message_block(curr_node) {
     }
     if (ends_with_wfr) {
         curr_block["Interaction message"] = interaction_message;
-
-        for (var n = 0; n < curr_block_no_messages.length; n++) {
-            if (curr_block_no_messages.length == 1) {
-                curr_block["Message for negative answer"] = curr_block_no_messages[0];
-            } else {
-                curr_block["Message for negative answer " + (n + 1)] = curr_block_no_messages[n];
+        if (interaction_yes_no) {
+            for (var n = 0; n < curr_block_no_messages.length; n++) {
+                if (curr_block_no_messages.length == 1) {
+                    curr_block["Message for negative answer"] = curr_block_no_messages[0];
+                } else {
+                    curr_block["Message for negative answer " + (n + 1)] = curr_block_no_messages[n];
+                }
             }
         }
     }
@@ -437,7 +465,7 @@ function create_message_block(curr_node) {
 
     flow_content["Set of messages " + n_mess_block] = curr_block;
 
-    if (ends_with_wfr) {
+    if (ends_with_wfr && interaction_yes_no) {
         if (next_node.actions.filter(function (ac) { return (ac.type == "send_msg") }).length > 0) {
             next_node = create_message_block(next_node)
         }
@@ -468,8 +496,8 @@ function loop_message_nodes(curr_node, stop_node_id) {
                     go_on = false;
                     if (next_node[0].router.operand == "@input.text") {
 
-                        console.log("error: interaction node")
-                        next_node = null;
+                        console.log("ended in interaction node")
+                        next_node = next_node[0];
 
 
                     } else {
@@ -506,86 +534,13 @@ function loop_message_nodes(curr_node, stop_node_id) {
         }
     }
     while (go_on);
-    return [messages_to_send, next_node]
+    return [messages_to_send, next_node, curr_node]
 }
 
+
+
 ////////////////////////////////////////////
-// media block old
-/*
-function create_media_block(curr_node) {
-
-    var curr_block = {};
-    var next_node = null;
-
-    if (curr_node.hasOwnProperty('router') && curr_node.router.operand == "@fields.type_of_media") {
-        if (curr_node.router.cases.length == 1) {
-            if (curr_node.router.cases[0].arguments[0] == "high") {
-
-                var video_category = curr_node.router.categories.filter(function (cat) { return (cat.name == "High") })[0];
-                var video_node_id = curr_node.exits.filter(function (ex) { return (ex.uuid == video_category.exit_uuid) })[0].destination_uuid;
-                var video_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == video_node_id) })[0];
-
-                var other_category = curr_node.router.categories.filter(function (cat) { return (cat.name == "Other") })[0];
-                var next_node_id = curr_node.exits.filter(function (ex) { return (ex.uuid == other_category.exit_uuid) })[0].destination_uuid;
-                next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == next_node_id) })[0];
-                var video = {};
-                video["Text"] = video_node.actions[0].text;
-                if (video_node.actions[0].attachments.length > 0) {
-                    video["Link"] = (video_node.actions[0].attachments[0].slice(6,-2)).replace("@(fields.video_script_path & \"", "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/");
-                } else {
-                    video["Link"] = "missing";
-                }
-
-                curr_block["Video"] = video;
-            
-            } else {
-                console.log("1 argument but not high")
-            }
-        } else if (curr_node.router.cases.length == 2) {
-            var video_category = curr_node.router.categories.filter(function (cat) { return (cat.name == "Other") })[0];
-            var video_node_id = curr_node.exits.filter(function (ex) { return (ex.uuid == video_category.exit_uuid) })[0].destination_uuid;
-
-            var video_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == video_node_id) })[0];
-            var video = {};
-            video["Text"] = video_node.actions[0].text;
-            if (video_node.actions[0].attachments.length > 0) {
-                video["Link"] = (video_node.actions[0].attachments[0].slice(6,-2)).replace("@(fields.video_script_path & \"", "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/");
-            } else {
-                video["Link"] = "missing";
-            }
-            curr_block["Video"] = video;
-
-            var audio_category = curr_node.router.categories.filter(function (cat) { return (cat.name == "Low") })[0];
-            var audio_node_id = curr_node.exits.filter(function (ex) { return (ex.uuid == audio_category.exit_uuid) })[0].destination_uuid;
-            var audio_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == audio_node_id) })[0];
-            var audio = {};
-            audio["Text"] = audio_node.actions[0].text;
-            if (audio_node.actions[0].attachments.length > 0) {
-                audio["Link"] = audio_node.actions[0].attachments[0].slice(6);
-            } else {
-                audio["Link"] = "missing";
-            }
-
-            curr_block["Audio"] = audio;
-
-            next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == audio_node.exits[0].destination_uuid) })[0];
-
-
-        }
-        else { console.log("too many arguments") }
-
-
-    } else {
-        console.log("error, there is no media split")
-    }
-
-
-    flow_content["Media"] = curr_block;
-    return next_node
-}
-*/
-////////////////////////////////////////////
-// media block new 
+// media block 
 function create_media_block(curr_node) {
 
     var curr_block = {};
@@ -987,6 +942,9 @@ function create_intro_for_timed_block(skill_node) {
     flow_content["Introduction for timed content"] = curr_block;
 }
 
+
+/////////////////////////////////////////////////////////////////////
+// age splits
 function create_age_split_block(split_node, type) {
 
     //if (!split_node.hasOwnProperty('router') || split_node.router.type != "switch" || !(split_node.router.operand == "@fields.age_group_for_tips" || split_node.router.operand == "@fields.chosen_difficult_age" || split_node.router.operand == "parent_baby" || split_node.router.operand == "parent_young_child" || split_node.router.operand == "parent_teenager")) {
@@ -1053,25 +1011,25 @@ function create_age_split_block(split_node, type) {
                     var age_name = "Baby";
                 } else if (el.name.toLowerCase().includes("teen")) {
                     var age_name = "Teen";
-                } else if (el.name.toLowerCase().includes("young") || el.name.toLowerCase().includes("child")){
+                } else if (el.name.toLowerCase().includes("young") || el.name.toLowerCase().includes("child")) {
                     var age_name = "Young child";
                 }
                 curr_block[age_name] = curr_age_obj_msg;
             }
-        })               
-        if  (split_node.router.categories.length >=3 && curr_block.hasOwnProperty("Other age groups")) {
+        })
+        if (split_node.router.categories.length >= 3 && curr_block.hasOwnProperty("Other age groups")) {
             var cloned_other_cat = Object.assign({}, curr_block["Other age groups"]);
             delete curr_block["Other age groups"];
-            if (!curr_block.hasOwnProperty("Teen")){
+            if (!curr_block.hasOwnProperty("Teen")) {
                 curr_block["Teen"] = cloned_other_cat;
-            } else if (!curr_block.hasOwnProperty("Baby")){
+            } else if (!curr_block.hasOwnProperty("Baby")) {
                 curr_block["Baby"] = cloned_other_cat;
-            } else if (!curr_block.hasOwnProperty("Young child")){
+            } else if (!curr_block.hasOwnProperty("Young child")) {
                 curr_block["Young child"] = cloned_other_cat;
 
             }
-        }           
-        
+        }
+
     }
     else if (type == 2) {
 
@@ -1115,4 +1073,107 @@ function create_age_split_block(split_node, type) {
 
 
 
+///////////////////////////////////////////////////////////////////////////
+/// multiple choice WFR note
 
+
+function create_multiple_choice_block(curr_node) {
+    var curr_block = {};
+
+    var messages_and_question = loop_message_nodes(curr_node, "null");
+    var messages_to_send = messages_and_question[0];
+    var wfr_node = messages_and_question[1];
+    var question_node = messages_and_question[2];
+    messages_to_send.push(question_node.actions[0].text);
+
+    for (var n = 0; n < messages_to_send.length; n++) {
+        if (messages_to_send.length == 1) {
+            curr_block["Message"] = messages_to_send[0];
+        } else {
+            curr_block["Message " + (n + 1)] = messages_to_send[n];
+        }
+    }
+
+    var options = question_node.actions[0].quick_replies;
+
+    for (var op = 0; op < option.length; op++) {
+        var curr_option = {};
+        curr_block["Option " + op + 1 + ": " + options[op]] = curr_option;
+    }
+
+    var nodes_ids_options = [];
+
+    options.forEach(opt => {
+        for (var c = 0; c < wfr_node.router.cases.length; c++) {
+            if (wfr_node.router.cases[c].type == "has_any_word") {
+
+                arg_list = wfr_node.router.cases[c].arguments[0].split(/[\s,]+/).filter(function (i) { return i });
+                old_test = arg_list.join(",") + ",";
+                new_test = arg_list.join(",") + ",";
+
+                for (var ar = 0; ar < arg_list.length; ar++) {
+
+                    arg = arg_list[ar];
+                    r_exp = new RegExp(`\\b${arg}\\b`, "i");
+
+                    for (var qr = 0; qr < options.length; qr++) {
+                        quick_reply = options[qr];
+
+                        if (r_exp.test(quick_reply)) {
+                            var corr_cat_id = wfr_node.router.cases[c].category_uuid;
+                            var corr_cat = wfr_node.router.categories.filter(function (cat) { return (cat.uuid == corr_cat_id) })[0];
+
+                            nodes_ids_options.push(wfr_node.exits.filter(function (ex) { return (ex.uuid == corr_cat.exit_uuid) })[0].destination_uuid);
+
+                        }
+                    }
+                }
+
+
+
+            }
+            else { console.log("other test") }
+        }
+    });
+    var next_node = null;
+    nodes_ids_options = [...new Set(nodes_ids_options)];
+    var next_nodes_ids = nodes_ids_options;
+    console.log(nodes_ids_options)
+    var distinct_next_nodes_ids = next_nodes_ids;
+
+    while (distinct_next_nodes_ids.length == next_nodes_ids.length && next_nodes_ids.filter(function (id) { return (id == null) }).length == 0) {
+
+        curr_nodes_ids = next_nodes_ids;
+        next_nodes_ids = [];
+        curr_nodes_ids.forEach(id => {
+            next_nodes_ids.push(curr_flow.nodes.filter(function (nd) { return (nd.uuid == id) })[0].exits[0].destination_uuid);
+        })
+        distinct_next_nodes_ids = [...new Set(next_nodes_ids)];
+    }
+
+    if (next_nodes_ids.filter(function (id) { return (id == null) }).length != 0) {
+        stop_node_id = "null"
+    } else {
+        var count = next_nodes_ids =>
+            next_nodes_ids.reduce((a, b) => ({
+                ...a,
+                [b]: (a[b] || 0) + 1
+            }), {}) // don't forget to initialize the accumulator
+
+        var duplicates = dict =>
+            Object.keys(dict).filter((a) => dict[a] > 1)
+
+        stop_node_id = duplicates(count(next_nodes_ids));
+        next_node = curr_flow.nodes.filter(function (nd) { return (nd.uuid == stop_node_id) })[0];
+    }
+
+    nodes_ids_options.forEach(opt_node => {
+
+
+    })
+
+    flow_content["Multiple choice"] = curr_block;
+
+    return next_node
+
+}
