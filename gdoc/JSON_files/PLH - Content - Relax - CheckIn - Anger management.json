@@ -8,11 +8,15 @@
       "Media": {
         "Video": {
           "Text": "Here's a video to help you manage your anger!",
-          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FAnger%20Management-1.m4v?alt=media&token=0c3a9388-27d1-4d5e-9d7e-01d07b24d248"
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Anger_Management.m4v"
         },
         "Audio": {
-          "Text": "Audio of Anger Management",
+          "Text": "Here's an audio message to help you manage your anger!",
           "Link": "missing"
+        },
+        "Low media text option": {
+          "Message 1": "Hi! Managing anger can be really difficult. Did you know that research shows if you control your anger or do something positive, you increase your child's brain development? Be proud of yourself when you manage to do it!",
+          "Message 2": "If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Check on your baby every 5-10 minutes."
         }
       },
       "Set of messages 2": {
@@ -20,7 +24,7 @@
       }
     },
     "Technical information": {
-      "Id": "30c5feda-2a10-46ab-8bd2-5d98a68c9adb",
+      "Id": "9b87431c-8b89-4be6-a0d0-21090340d521",
       "Template_type": "3"
     }
   }

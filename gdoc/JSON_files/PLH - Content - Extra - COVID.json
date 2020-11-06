@@ -9,7 +9,7 @@
       "Media": {
         "Video": {
           "Text": "Video of Talking about COVID19",
-          "Link": "missing"
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Talking_About_Covid19.m4v"
         }
       },
       "List of tips": {
@@ -35,7 +35,7 @@
       }
     },
     "Technical information": {
-      "Id": "3ca9d247-9193-4db0-88bc-916a23a4cf8e",
+      "Id": "501fd7d5-d511-413c-a0c3-3729f8fb6b9a",
       "Template_type": "2"
     }
   }

@@ -18,15 +18,19 @@
       "Media": {
         "Video": {
           "Text": "Here's a video on how you can bring more attention to positive behaviour by praising your child!",
-          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FPraise.Webm-22.m4v?alt=media&token=57f421dd-cb7f-4565-a615-f3c9fae55eed"
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Praise.m4v"
         }
       },
       "Based on age group": {
-        "Message for Teen": "Praise your children when they are behaving well! They may not show it but you’ll see them doing that good behaviour again…",
-        "Message for Other": "Praise your children when they are behaving well! They may not show it but you’ll see them doing that good behaviour again…",
+        "Teen": {
+          "Message": "Praise your children when they are behaving well! They may not show it but you’ll see them doing that good behaviour again…"
+        },
+        "Other age groups": {
+          "Message": "Praise your children when they are behaving well! They may not show it but you’ll see them doing that good behaviour again…"
+        },
         "Technical info": {
           "Variable": "@fields.age_group_for_tips",
-          "Type of split": 1
+          "Type of split": "1"
         }
       },
       "List of tips": {
@@ -47,8 +51,8 @@
       }
     },
     "Technical information": {
-      "Id intro": "e78c16d2-df57-4d33-8968-7bfdce1bdf2a",
-      "Id tip": "c575d030-8e73-4054-8ad4-49a122738e20",
+      "Id intro": "8750b2ba-49fd-4246-956a-00b9742a2b14",
+      "Id tip": "bf7e25e1-69df-4e57-ba01-c501ba1b87cb",
       "Template type": "7"
     }
   }

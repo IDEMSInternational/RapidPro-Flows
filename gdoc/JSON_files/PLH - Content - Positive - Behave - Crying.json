@@ -15,7 +15,7 @@
       "Media": {
         "Video": {
           "Text": "Here's a video that might help you when your baby cries.",
-          "Link": "missing"
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Crying.m4v"
         }
       },
       "List of tips": {
@@ -49,8 +49,8 @@
       }
     },
     "Technical information": {
-      "Id intro": "24265f7a-5a37-4108-bdcd-cab8fb169d29",
-      "Id tip": "a95f0bb2-8b57-4bea-87e0-730fd823ab98",
+      "Id intro": "72fce5e3-ab15-4fea-97ff-e511df2af716",
+      "Id tip": "cc5e9f3f-5155-4a3f-a902-351f89169898",
       "Template type": "2"
     }
   }

@@ -7,11 +7,14 @@
       "Media": {
         "Video": {
           "Text": "Here's a quick video to help you take a pause!",
-          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FShort%20Pause-24.m4v?alt=media&token=644df09f-f58a-4e56-94fe-d68758157e83"
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Short_Pause.m4v"
         },
         "Audio": {
-          "Text": "Take a short pause",
+          "Text": "Here's an audio message to help you take a pause!",
           "Link": "missing"
+        },
+        "Low media text option": {
+          "Message": "Sit down, close your eyes and listen to your breath as it goes in and out. Notice how you feel. When you are ready open your eyes again. Everything is okay."
         }
       },
       "Set of messages 2": {
@@ -19,7 +22,7 @@
       }
     },
     "Technical information": {
-      "Id": "a427b730-723f-436e-bc0f-b59e3ec0f849",
+      "Id": "1703b420-0de3-4b94-9436-000fb192b6c2",
       "Template_type": "3"
     }
   }

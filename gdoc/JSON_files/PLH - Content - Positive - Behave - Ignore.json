@@ -14,8 +14,8 @@
       },
       "Media": {
         "Video": {
-          "Text": "Video of When Children Misbehave - Ignore",
-          "Link": "missing"
+          "Text": "Here's a video to help you manage your child's temper tantrums.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Ignore.m4v"
         }
       },
       "List of tips": {
@@ -53,8 +53,8 @@
       }
     },
     "Technical information": {
-      "Id intro": "b8781798-01e3-4cd0-8f93-317feec831ed",
-      "Id tip": "dc2c8e72-42f2-4b44-abcb-3a8f347aa2a5",
+      "Id intro": "f5fc4ba8-8f02-4d69-831e-6ba9b18a7e6d",
+      "Id tip": "8c7523db-bd30-4b39-ac37-972541928564",
       "Template type": "2"
     }
   }

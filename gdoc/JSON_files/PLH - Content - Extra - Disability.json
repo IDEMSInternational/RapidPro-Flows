@@ -10,7 +10,7 @@
       "Media": {
         "Video": {
           "Text": "Video of Children with Disabilities",
-          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FChildren%20With%20Disabilities-6.m4v?alt=media&token=e5e2de70-5f45-4bc2-ab11-dbefae5036d0"
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Children_With_Disabilities.m4v"
         }
       },
       "List of tips": {
@@ -43,7 +43,7 @@
       }
     },
     "Technical information": {
-      "Id": "6eee5665-2990-41a6-ae30-af5e8be7e14d",
+      "Id": "371d6c4f-d82e-4257-8544-6076c4909037",
       "Template_type": "2"
     }
   }

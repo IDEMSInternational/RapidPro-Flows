@@ -16,7 +16,7 @@
       "Media": {
         "Video": {
           "Text": "Here's is a video on how you can involve your children in establishing household rules",
-          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FHousehold%20Rules.Webm-12.m4v?alt=media&token=660a79a4-5787-4e79-8a98-6b44e88e2729"
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Household_Rules.m4v"
         }
       },
       "Set of messages 1": {
@@ -25,8 +25,8 @@
       }
     },
     "Technical information": {
-      "Id intro": "3c988c52-e719-4da4-af13-f619f637401b",
-      "Id tip": "873410c4-c03b-497c-b2d0-701c52deea7b",
+      "Id intro": "44b0c52a-2386-4297-96af-fdd8f74b3bbe",
+      "Id tip": "6f286d96-de35-4511-8e2c-d311d90fb1aa",
       "Template type": "6"
     }
   }

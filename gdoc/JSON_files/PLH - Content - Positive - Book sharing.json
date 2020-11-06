@@ -2,7 +2,7 @@
   "PLH - Content - Positive - Book sharing": {
     "Content": {
       "Introduction for timed content": {
-        "Message": "Hello! Book-sharing can be a great learning for your child. You can use a simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
+        "Message": "Hello! Book-sharing can be a great learning for your child. You can use simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.",
         "Interaction message": "Would you like to learn more about how you can help your child develop through book sharing?",
         "Interaction message if already completed": "We know that you have already received this tip (well done!). Would like to review them again?",
         "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
@@ -14,8 +14,8 @@
       },
       "Media": {
         "Video": {
-          "Text": "Video of Shared Book Reading",
-          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FShared%20Book%20Reading.Webm-23.m4v?alt=media&token=66e2257e-2bd9-4ec9-8982-cbdfecd6b04c"
+          "Text": "Here's a video to take you through the shared book reading activity!",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Shared_Book_Reading.m4v"
         }
       },
       "List of tips": {
@@ -51,8 +51,8 @@
       }
     },
     "Technical information": {
-      "Id intro": "d3bcf8c6-f6ac-45da-86d6-a80bc118b41b",
-      "Id tip": "e673e874-73e3-4577-b3b1-209af1066428",
+      "Id intro": "fc8f073e-1543-44d2-aa56-4489ea354dcc",
+      "Id tip": "9f5e3722-b6b8-4382-b06c-873c965b3414",
       "Template type": "2"
     }
   }

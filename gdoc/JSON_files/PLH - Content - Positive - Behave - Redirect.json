@@ -16,18 +16,18 @@
       "Media": {
         "Video": {
           "Text": "Here's a video that helps you redirect your child's behaviour when they misbehave.",
-          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FWhen%20Children%20Misbehave%20-%20Part%201%20Redirect-25.m4v?alt=media&token=022c4f09-f5d1-4a2e-8a51-196aab2b170b"
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Redirect.m4v"
         }
       },
       "Set of messages 1": {
-        "Message": "Keep it positive. It normal to want to say something about your child's negative behaviour, like “Don’t whine,” or “Stop running in the house.” Instead, just say something that you want your child to do, like \"Speak with a calm voice,\" or \"Remember to walk inside the house.\""
+        "Message": "Keep it positive. It is normal to want to say something about your child's negative behaviour, like “Don’t whine,” or “Stop running in the house.” Instead, just say something that you want your child to do, like \"Speak with a calm voice,\" or \"Remember to walk inside the house.\""
       },
       "Based on age group": {
         "Message for baby": "If your baby is starting to crawl or walk, you can also redirect them by physically picking them up and focusing their attention on something else interesting. Use a lively and cheerful voice!",
-        "Message for other age groups": "",
+        "Message for other age groups": "none",
         "Technical info": {
           "Variable": "@fields.parent_baby",
-          "Type of split": 2
+          "Type of split": "2"
         }
       },
       "Set of messages 2": {
@@ -35,8 +35,8 @@
       }
     },
     "Technical information": {
-      "Id intro": "d2bbe4e3-c697-44a4-af3d-a27918e2aeda",
-      "Id tip": "83bda2b3-6d65-43c9-a673-2a34bebd684f",
+      "Id intro": "fe589144-7848-4727-aadc-4f6c06e797de",
+      "Id tip": "7e80c417-593d-43d6-973e-def42396e618",
       "Template type": "8"
     }
   }

@@ -15,7 +15,7 @@
       "Media": {
         "Video": {
           "Text": "Here's a video that explains you can use consequences to discipline your child.",
-          "Link": "missing"
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Consequences.m4v"
         }
       },
       "Set of messages 1": {
@@ -49,8 +49,8 @@
       }
     },
     "Technical information": {
-      "Id intro": "82a9dfa6-9bc4-4dcb-aa63-32ed2f632a88",
-      "Id tip": "861dcf4e-6c08-4883-8574-c99fac48c454",
+      "Id intro": "817c60d3-083f-4bcd-82d2-2b64e702c266",
+      "Id tip": "41063063-f553-4909-a108-92c1138f5043",
       "Template type": "4"
     }
   }

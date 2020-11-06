@@ -6,10 +6,10 @@
       },
       "Based on age group": {
         "Message for baby": "If you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe location, like a crib, and walk away for a bit. Check on your baby every 5-10 minutes.",
-        "Message for other age groups": "",
+        "Message for other age groups": "none",
         "Technical info": {
           "Variable": "@fields.parent_baby",
-          "Type of split": 2
+          "Type of split": "2"
         }
       },
       "Set of messages 2": {
@@ -17,7 +17,7 @@
       }
     },
     "Technical information": {
-      "Id": "24f13ebc-3d0f-4d7e-8aae-fc07f38f0347",
+      "Id": "b4ca49ca-156a-4bc4-bf3f-3da77e37586f",
       "Template_type": "9"
     }
   }

@@ -17,8 +17,8 @@
       },
       "Media": {
         "Video": {
-          "Text": "Video of GoodBad Touch",
-          "Link": "missing"
+          "Text": "Here's a video on how you can help protect your child.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Good_Bad_Touch.m4v"
         }
       },
       "List of tips": {
@@ -40,8 +40,8 @@
       }
     },
     "Technical information": {
-      "Id intro": "9186748a-04e9-4b1b-8c27-33c916ba7066",
-      "Id tip": "713c144b-3454-4084-be96-0c2e079b66f9",
+      "Id intro": "826c8b1b-270a-454f-9714-eb994954c9c6",
+      "Id tip": "c49aa0d8-d70b-4808-af04-8dd1f9e0d55d",
       "Template type": "2"
     }
   }

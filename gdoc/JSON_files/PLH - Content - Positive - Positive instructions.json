@@ -9,7 +9,7 @@
       "Media": {
         "Video": {
           "Text": "Here's a positive video to help you get your children to follow your instructions more often!",
-          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FPositive%20Instructions-21.m4v?alt=media&token=98ed6a47-1507-49e7-8a1a-f5774111a38a"
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Positive_Instructions.m4v"
         }
       },
       "List of tips": {
@@ -35,7 +35,7 @@
       }
     },
     "Technical information": {
-      "Id": "b3529aca-dc4a-4e3c-83a5-04e2d3096343",
+      "Id": "2f692a60-1802-4c47-be86-9db1625747cc",
       "Template_type": "2"
     }
   }

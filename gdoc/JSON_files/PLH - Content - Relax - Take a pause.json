@@ -15,11 +15,14 @@
       "Media": {
         "Video": {
           "Text": "Here's a video about how to keep calm and manage stress in our busy lives.",
-          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FKeep%20Calm%20And%20Manage%20Stress%20Including%20Take%20A%20Pause-13.m4v?alt=media&token=720f8695-4f78-4e2e-a23c-62e7c668a109"
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Keep_Calm_And_Manage_Stress_Including_Take_A_Pause.m4v"
         },
         "Audio": {
-          "Text": "Take a pause",
+          "Text": "Here's an audio message to help you take a pause!",
           "Link": "missing"
+        },
+        "Low media text option": {
+          "Message": "Let's take a pause together! Take a deep breath and ask yourself, \"What am I thinking?\"\n\nNotice if your thoughts are positive or negative. Notice if your emotions are pleasant or unpleasant. Whatever you are feeling, it is okay. Notice how your body feels. Notice anything that hurts or is tense. \nFocus on your breath as it goes in and out. Do this for about 10 breaths. \nNow, expand your awareness to your whole body. Listen to the sounds in the room. \nTake a moment to reflect on whether you feel any different. "
         }
       },
       "Set of messages 1": {
@@ -28,8 +31,8 @@
       }
     },
     "Technical information": {
-      "Id intro": "ef57c710-ddf8-4cb2-9bbc-4d60a25fc62f",
-      "Id tip": "e008f1e8-77b0-4f65-853c-9953d672dd1a",
+      "Id intro": "fc83e9a6-2fde-419c-84b2-64182e20cc8f",
+      "Id tip": "6445c8ce-01a8-4546-aa39-4dc4e39878af",
       "Template type": "6"
     }
   }

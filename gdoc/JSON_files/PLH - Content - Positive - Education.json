@@ -15,7 +15,7 @@
       "Media": {
         "Video": {
           "Text": "Video of Supporting Your Child's Learning",
-          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FHelping%20Your%20Children%20Learn-11.m4v?alt=media&token=c02d1e78-6c09-406a-901f-96e85b8e75ce"
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Helping_Your_Children_Learn.m4v"
         }
       },
       "List of tips": {
@@ -42,8 +42,8 @@
       }
     },
     "Technical information": {
-      "Id intro": "927cce06-4569-4ade-8306-e1b3388ad516",
-      "Id tip": "78b4c6b7-08d6-4ad9-9717-d7a3ee435c28",
+      "Id intro": "f6ba131a-0eea-465f-a3fa-e8c6d86d2d27",
+      "Id tip": "5a2b3e8b-fd3b-4dc1-929a-1c577a4c4a7c",
       "Template type": "2"
     }
   }

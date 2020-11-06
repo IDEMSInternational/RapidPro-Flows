@@ -15,16 +15,20 @@
       },
       "Media": {
         "Video": {
-          "Text": "Video of Emotional Support",
-          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FEmotional%20Support.Webm-7.m4v?alt=media&token=3692c488-e796-469b-b4d9-014b9009932b"
+          "Text": "Here's a video that can help you teach your child how to cope with their emotions.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Emotional_Support.m4v"
         }
       },
       "Based on age group": {
-        "Message for Teen": "Here is a comic that shows how you can give your teen love and support when they share difficult emotions with you…",
-        "Message for Other": "Here is a comic that shows how you can give your child love and support when they share difficult emotions with you…",
+        "Teen": {
+          "Message": "Here is a comic that shows how you can give your teen love and support when they share difficult emotions with you…"
+        },
+        "Other age groups": {
+          "Message": "Here is a comic that shows how you can give your child love and support when they share difficult emotions with you…"
+        },
         "Technical info": {
           "Variable": "@fields.age_group_for_tips",
-          "Type of split": 1
+          "Type of split": "1"
         }
       },
       "List of tips": {
@@ -55,8 +59,8 @@
       }
     },
     "Technical information": {
-      "Id intro": "635063ee-2558-42f3-abe5-ce269366deba",
-      "Id tip": "db265749-cb21-49b6-b61b-46d3db1c329b",
+      "Id intro": "e101c1bc-677c-428b-ac69-f2bfd71d0e61",
+      "Id tip": "7a712069-fc50-449e-be8b-98a7f4370422",
       "Template type": "7"
     }
   }

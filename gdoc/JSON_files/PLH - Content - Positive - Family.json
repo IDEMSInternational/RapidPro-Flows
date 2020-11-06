@@ -14,8 +14,8 @@
       },
       "Media": {
         "Video": {
-          "Text": "Video of Family Harmony",
-          "Link": "https://firebasestorage.googleapis.com/v0/b/idems-media-recorder.appspot.com/o/Rapidpro%20Media%2FPLH%20Common%2Fvideos%2FFamily%20Harmony-10.m4v?alt=media&token=5533e5b9-25b7-4524-8bf9-ed978e86e8c8"
+          "Text": "Here's a video to help you support positive family relationships at home.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Family_Harmony.m4v"
         }
       },
       "List of tips": {
@@ -48,8 +48,8 @@
       }
     },
     "Technical information": {
-      "Id intro": "3e113f75-445f-4ca6-a310-5c96f6a60c52",
-      "Id tip": "d73ab4f9-a93e-48c9-a05e-9683c16b8070",
+      "Id intro": "87bd2e61-5a61-43b2-9fc3-bb41a354c3be",
+      "Id tip": "c9c952bb-fd0b-46b2-8c12-c1b62370ae41",
       "Template type": "2"
     }
   }

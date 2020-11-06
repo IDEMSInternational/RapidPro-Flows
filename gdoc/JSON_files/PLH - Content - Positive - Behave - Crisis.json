@@ -15,8 +15,8 @@
       },
       "Media": {
         "Video": {
-          "Text": "Video of Crisis Support",
-          "Link": "missing"
+          "Text": "Here's a video on how you can support your teen when they are experiencing difficult situations.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Crisis_Support.m4v"
         }
       },
       "Set of messages 1": {
@@ -27,8 +27,8 @@
       }
     },
     "Technical information": {
-      "Id intro": "1d68c465-70b2-4660-b3b7-d9b1f8d5ebb5",
-      "Id tip": "349512b2-1f1f-4485-8d36-fa534c720b8d",
+      "Id intro": "22fa3b94-7096-467c-861c-bd887bd8ff25",
+      "Id tip": "aeb8209e-e613-47fb-9eee-e9685434532a",
       "Template type": "6"
     }
   }
