@@ -1,262 +1,54 @@
-[
-    {
-        "SourceText": "Knockdown",
-        "Text": "Knockdown",
-        "Title": "Knockdown"
-    },
-    {
-        "SourceText": "OneTwoThreeFourFive",
-        "Text": "OneTwoThreeFourFive",
-        "Title": "OneTwoThreeFourFive"
-    },
-    {
-        "SourceText": "Mean",
-        "Text": "Mean",
-        "Title": "Mean"
-    },
-    {
-        "SourceText": "House",
-        "Text": "House",
-        "Title": "House"
-    },
-    {
-        "SourceText": "Honey Bees",
-        "Text": "Honey Bees",
-        "Title": "Honey Bees"
-    },
-    {
-        "SourceText": "Alphanumerics",
-        "Text": "Alphanumerics",
-        "Title": "Alphanumerics"
-    },
-    {
-        "SourceText": "Newspaper",
-        "Text": "Newspaper",
-        "Title": "Newspaper"
-    },
-    {
-        "SourceText": "Sword of Josephus",
-        "Text": "Sword of Josephus",
-        "Title": "Sword of Josephus"
-    },
-    {
-        "SourceText": "Restaurant",
-        "Text": "Restaurant",
-        "Title": "Restaurant"
-    },
-    {
-        "SourceText": "Two Distances",
-        "Text": "Two Distances",
-        "Title": "Two Distances"
-    },
-    {
-        "SourceText": "Dealing Cards",
-        "Text": "Dealing Cards",
-        "Title": "Dealing Cards"
-    },
-    {
-        "SourceText": "Lost cards",
-        "Text": "Lost cards",
-        "Title": "Lost cards"
-    },
-    {
-        "SourceText": "Monkey business",
-        "Text": "Monkey business",
-        "Title": "Monkey business"
-    },
-    {
-        "SourceText": "Table Handshakes",
-        "Text": "Table Handshakes",
-        "Title": "Table Handshakes"
-    },
-    {
-        "SourceText": "Triangular Slices",
-        "Text": "Triangular Slices",
-        "Title": "Triangular Slices"
-    },
-    {
-        "SourceText": "Scoring Goals",
-        "Text": "Scoring Goals",
-        "Title": "Scoring Goals"
-    },
-    {
-        "SourceText": "Colouring",
-        "Text": "Colouring",
-        "Title": "Colouring"
-    },
-    {
-        "SourceText": "Avoid the River",
-        "Text": "Avoid the River",
-        "Title": "Avoid the River"
-    },
-    {
-        "SourceText": "Shaking Hands",
-        "Text": "Shaking Hands",
-        "Title": "Shaking Hands"
-    },
-    {
-        "SourceText": "Pieces of Cake",
-        "Text": "Pieces of Cake",
-        "Title": "Pieces of Cake"
-    },
-    {
-        "SourceText": "Mixed-up Socks",
-        "Text": "Mixed-up Socks",
-        "Title": "Mixed-up Socks"
-    },
-    {
-        "SourceText": "Counting Squares",
-        "Text": "Counting Squares",
-        "Title": "Counting Squares"
-    },
-    {
-        "SourceText": "Going to School",
-        "Text": "Going to School",
-        "Title": "Going to School"
-    },
-    {
-        "SourceText": "Different Paths",
-        "Text": "Different Paths",
-        "Title": "Different Paths"
-    },
-    {
-        "SourceText": "Bar Stools",
-        "Text": "Bar Stools",
-        "Title": "Bar Stools"
-    },
-    {
-        "SourceText": "Paving Paths",
-        "Text": "Paving Paths",
-        "Title": "Paving Paths"
-    },
-    {
-        "SourceText": "Birthday Probability",
-        "Text": "Birthday Probability",
-        "Title": "Birthday Probability"
-    },
-    {
-        "SourceText": "Kaprekar's Number",
-        "Text": "Kaprekar's Number",
-        "Title": "Kaprekar's Number"
-    },
-    {
-        "SourceText": "Palindrome Cube",
-        "Text": "Palindrome Cube",
-        "Title": "Palindrome Cube"
-    },
-    {
-        "SourceText": "Four Colours",
-        "Text": "Four Colours",
-        "Title": "Four Colours"
-    },
-    {
-        "SourceText": "Ramanujan",
-        "Text": "Ramanujan",
-        "Title": "Ramanujan"
-    },
-    {
-        "SourceText": "Abundant Numbers",
-        "Text": "Abundant Numbers",
-        "Title": "Abundant Numbers"
-    },
-    {
-        "SourceText": "Folding Paper",
-        "Text": "Folding Paper",
-        "Title": "Folding Paper"
-    },
-    {
-        "SourceText": "Prime Removal",
-        "Text": "Prime Removal",
-        "Title": "Prime Removal"
-    },
-    {
-        "SourceText": "Shuffling Cards",
-        "Text": "Shuffling Cards",
-        "Title": "Shuffling Cards"
-    },
-    {
-        "SourceText": "Square numbers and triangular numbers",
-        "Text": "Square numbers and triangular numbers",
-        "Title": "Square numbers and triangular numbers"
-    },
-    {
-        "SourceText": "Benford's Law",
-        "Text": "Benford's Law",
-        "Title": "Benford's Law"
-    },
-    {
-        "SourceText": "Lychrel Numbers",
-        "Text": "Lychrel Numbers",
-        "Title": "Lychrel Numbers"
-    },
-    {
-        "SourceText": "Collatz Conjecture",
-        "Text": "Collatz Conjecture",
-        "Title": "Collatz Conjecture"
-    },
-    {
-        "SourceText": "Fifteen",
-        "Text": "Fifteen",
-        "Title": "Fifteen"
-    },
-    {
-        "SourceText": "Patience",
-        "Text": "Patience",
-        "Title": "Patience"
-    },
-    {
-        "SourceText": "Twenty-one",
-        "Text": "Twenty-one",
-        "Title": "Twenty-one"
-    },
-    {
-        "SourceText": "Nim",
-        "Text": "Nim",
-        "Title": "Nim"
-    },
-    {
-        "SourceText": "Mastermind",
-        "Text": "Mastermind",
-        "Title": "Mastermind"
-    },
-    {
-        "SourceText": "Latin Squares",
-        "Text": "Latin Squares",
-        "Title": "Latin Squares"
-    },
-    {
-        "SourceText": "Gomoku",
-        "Text": "Gomoku",
-        "Title": "Gomoku"
-    },
-    {
-        "SourceText": "Sim",
-        "Text": "Sim",
-        "Title": "Sim"
-    },
-    {
-        "SourceText": "Pong Hau K'i",
-        "Text": "Pong Hau K'i",
-        "Title": "Pong Hau K'i"
-    },
-    {
-        "SourceText": "Stop or Dare",
-        "Text": "Stop or Dare",
-        "Title": "Stop or Dare"
-    },
-    {
-        "SourceText": "Twenty-four",
-        "Text": "Twenty-four",
-        "Title": "Twenty-four"
-    },
-    {
-        "SourceText": "Card Sums",
-        "Text": "Card Sums",
-        "Title": "Card Sums"
-    },
-    {
-        "SourceText": "WinTwoThreeFour",
-        "Text": "WinTwoThreeFour",
-        "Title": "WinTwoThreeFour"
-    }
-]
+{
+  "Knockdown": "Knockdown",
+  "OneTwoThreeFourFive": "OneTwoThreeFourFive",
+  "Mean": "Mean",
+  "House": "House",
+  "Honey Bees": "Honey Bees",
+  "Alphanumerics": "Alphanumerics",
+  "Newspaper": "Newspaper",
+  "Sword of Josephus": "Sword of Josephus",
+  "Restaurant": "Restaurant",
+  "Two Distances": "Two Distances",
+  "Dealing Cards": "Dealing Cards",
+  "Lost cards": "Lost cards",
+  "Monkey business": "Monkey business",
+  "Table Handshakes": "Table Handshakes",
+  "Triangular Slices": "Triangular Slices",
+  "Scoring Goals": "Scoring Goals",
+  "Colouring": "Colouring",
+  "Avoid the River": "Avoid the River",
+  "Shaking Hands": "Shaking Hands",
+  "Pieces of Cake": "Pieces of Cake",
+  "Mixed-up Socks": "Mixed-up Socks",
+  "Counting Squares": "Counting Squares",
+  "Going to School": "Going to School",
+  "Different Paths": "Different Paths",
+  "Bar Stools": "Bar Stools",
+  "Paving Paths": "Paving Paths",
+  "Birthday Probability": "Birthday Probability",
+  "Kaprekar's Number": "Kaprekar's Number",
+  "Palindrome Cube": "Palindrome Cube",
+  "Four Colours": "Four Colours",
+  "Ramanujan": "Ramanujan",
+  "Abundant Numbers": "Abundant Numbers",
+  "Folding Paper": "Folding Paper",
+  "Prime Removal": "Prime Removal",
+  "Shuffling Cards": "Shuffling Cards",
+  "Square numbers and triangular numbers": "Square numbers and triangular numbers",
+  "Benford's Law": "Benford's Law",
+  "Lychrel Numbers": "Lychrel Numbers",
+  "Collatz Conjecture": "Collatz Conjecture",
+  "Fifteen": "Fifteen",
+  "Patience": "Patience",
+  "Twenty-one": "Twenty-one",
+  "Nim": "Nim",
+  "Mastermind": "Mastermind",
+  "Latin Squares": "Latin Squares",
+  "Gomoku": "Gomoku",
+  "Sim": "Sim",
+  "Pong Hau K'i": "Pong Hau K'i",
+  "Stop or Dare": "Stop or Dare",
+  "Twenty-four": "Twenty-four",
+  "Card Sums": "Card Sums",
+  "WinTwoThreeFour": "WinTwoThreeFour"
+}
