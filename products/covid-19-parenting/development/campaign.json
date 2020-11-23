@@ -1,0 +1,49 @@
+{
+  "version": "13",
+  "site": "https://rapidpro.idems.international",
+  "flows": [],
+  "campaigns": [
+    {
+      "uuid": "c5099e1a-a5f8-486f-8051-07f9575c72e5",
+      "name": "plh covid program",
+      "group": {
+        "uuid": "46c82f88-d6e0-4ae8-bb0d-7f0c16c2706c",
+        "name": "in program"
+      },
+      "events": [
+        {
+          "uuid": "15d1717d-b3b0-49ad-882a-147c599c8891",
+          "offset": 0,
+          "unit": "M",
+          "event_type": "F",
+          "delivery_hour": -1,
+          "message": null,
+          "relative_to": {
+            "label": "next campaign event",
+            "key": "next_campaign_event"
+          },
+          "start_mode": "I",
+          "flow": {
+            "uuid": "a368fbaf-6e13-43eb-8afa-ff8168b649ff",
+            "name": "PLH - Timed - Campaign"
+          }
+        }
+      ]
+    }
+  ],
+  "triggers": [],
+  "fields": [
+    {
+      "key": "next_campaign_event",
+      "name": "next campaign event",
+      "type": "datetime"
+    }
+  ],
+  "groups": [
+    {
+      "uuid": "46c82f88-d6e0-4ae8-bb0d-7f0c16c2706c",
+      "name": "in program",
+      "query": null
+    }
+  ]
+}
