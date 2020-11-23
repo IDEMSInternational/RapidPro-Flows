@@ -1,0 +1,6214 @@
+
+
+Content-Puzzle-knockdown*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+What happens if you only had 5 pegs? What about 10 or 20? Can you spot the pattern?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+This puzzle comes from https://nrich.maths.org/11677 and is actually related to binary numbers!
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Can you find the closest power of 2 less than 1050?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Think about the sequence of pegs left in the previous parts 2, 4, 8, ... is there another way of writing down this sequence? In what way will the sequence change in this new case?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Puzzle-onetwothreefourfive*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+How many times does the pattern 12345 appear in the 2000 digit number?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+The sequence of numbers that this formula gives are called triangular numbers. The first ten are 1, 3, 6, 10, 15, 21, 28, 36, 45, and 55.
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+What do the numbers 1 + 2 + 3 + 4 + 5 + 6 + 7 add up to?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Try dividing 960000 by 120000. What does this answer represent?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Puzzle-mean*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Make the first 15 (different) numbers as small as possible. What does this tell us about the 16th number?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+The mean is one way of describing a whole set of data with just one number. The median is another way describing the set of data with one number. If the puzzle had asked "The median of 16 different positive integers is 16. What is the greatest possible value that any of these integers could have?", then there would be no solution as you could choose any number as large as you like for the biggest number, as the value of the median of 16 numbers depends only on the eight and ninth biggest numbers!
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Could everyone be older than 16? If not, can you try and find the maximum number of people that could be older than 16 if just one of the people is as young as possible?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Think about Albert giving 4 years to all the people in the room and Belinda giving 3 years to everyone (including Albert).
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Puzzle-house*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Try starting from the bottom left vertex (point).
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+A version of this problem was originally solved by Leonard Euler. In a city consisting of 4 islands linked by bridges, he wondered if it is possible to go for a walk and cross each bridge exactly once. If you draw a vertex for each island, and a line between two vertices for each bridge, you get a drawing like in this puzzle.
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Start with the top vertex. Once you have followed each line, where do you end up? Can you make use of this information to find out where else you could start?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Puzzle-honey-bees*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+How far can one bee travel with ten gallons of honey?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Division is as bad; The Rule of Three doth puzzle me, And Practice drives me mad."
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+How far can one bee can travel on 1 gallon of honey?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+It might be easier to choose a number of hexagons to work with - try 120 and work out how many they can each do per minute.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Puzzle-alphanumerics*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+What digit must the letter R represent? If you add two 3-digit numbers together, what is the largest sum you could make?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Given the potentially large number of possibilities, computer programs are often used to generate and solve these types of puzzles.
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Once you figured out what digit F represents, you then want to consider what the largest possible value of O could be.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+There are 10 different letters used in this sum so each digit from 0 to 9 will be used. You will need an organised approach to solve this one. You might want to make a table of all of the possibilities and then cross out any values as you eliminate them. You can start with the fact that D = 1.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Puzzle-newspaper*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Can you work backwards from 8 to work out how many sheets would be underneath this one? You might want to use bits of paper and number them to help.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+You can try this puzzle with a real newspaper - take out one of the sheets and look at the numbers on it. Work out how many sheets there should be and then see if you are correct.
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+How many 1 digit numbers are there? How many 2 digit numbers?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+How many 9s are there in the first 100 numbers?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Puzzle-sword-of-josephus*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+What happens if you only had 2 pegs? What about 3, 4, 5, 6, 7, or 8 pegs? Can you spot the pattern after considering these cases?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+The legend of this puzzle is about a group of soldiers in a circle.
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+What is the biggest power of 2 (1, 2, 4, 8, ...) that is less than 2000?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Puzzle-restaurant*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Can you work out how many legs there are at each table if three quarters of the chairs have people on them?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+This puzzle was originally a problem from a UKMT maths challenge
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Start by considering how many 6¢ coins I could have...if I have too many, I won't be able to match their value with the 1¢ coins and the 2¢ coins.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Puzzle-two-distances*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Try drawing an equilateral triangle. That will give you three points that are all the same distance from each other. Where could you put the fourth point?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Alex Bellos featured this puzzle in his column in the Guardian newspaper in the UK after hearing about it from maths juggler Colin Wright, who heard it from puzzle maven Peter Winkler.
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Try to figure out what kind of triangles you can make that use 3 of the 6 distances. If you have squared paper, it helps that it is possible to put all the vertices on the grid.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Puzzle-dealing-cards*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Must there be an even or an odd number of children in the circle?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+This puzzle was written by a student at the Lycee Francais Charles de Gaulle for a Christmas puzzle involving handing out red and blue presents.
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Think about whether the number needs to be odd or even and if it needs to be divisible by 3 or 5.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Which child will get a Queen next after the 999ᵗʰ child gets one on the first turn round?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Puzzle-lost-cards*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Think about remainders when dividing. If there are two left when divided amongst five people then the number must be two more than a multiple of 5, e.g. 7 or 32
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+(18 + 8) mod 24 = 2 or in other words 8 hours after 6pm is 2am!
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Think about multiples of 12.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Think about odd and even numbers.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Puzzle-monkey-business*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Can you work out whether number 8 will be on or off? How about number 9? What is it about the factors of these two numbers that means one of them is on and one of them is off?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+This is a very famous puzzle that can be found in different contexts - opening and closing lockers is another common one. It is designed to make you think about the properties of different numbers.
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Light switch number 9 will be touched by three monkeys - 1,3, and 9, can you find other numbers that will?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Which number under 1000 has the most number of factors? Try and build up a number using small prime numbers.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+VMC - Internal - Set up default contact fields*************************************
+
+
+Content-Funfact-birthday-probability*************************************
+In a room of 23 people the probability that two people have the same birthday is more than 50%.
+
+Please select the number for the following options:
+1. I don’t get it. Why?
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: why
+arg: why
+why,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+What do we get if we use the same approach for 23 people?
+
+Please select the number for the following options:
+1. I still don’t get it. Show me.
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: show
+arg: show
+show,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+If you haven't had a coincidence yet don't worry if you keep looking it's unlikely that nothing unlikely will ever happen to you!
+
+Please select the number for the following options:
+1. Give me another fun fact.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: fun
+arg: fun
+fun,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+The probability of any 2 people having different birthdays is roughly 364 ∕ 365 there are 253 different pairs of people in a room of 23 people so the probability of them all having different birthdays is roughly 364 ∕ 365 to the power 253. This is 0.4995 slightly less than 50% so the probability of having 2 people in the room with the same birthday is just over 50%. Actually we should be including leap years but the result is still true if you do.
+
+Please select the number for the following options:
+1. I get it! That’s cool, tell me more.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Funfact-kaprekar_s-number*************************************
+Subtract the smallest number from the largest to get a new number, and carry on repeating the operation for each new number. You will always end up at the same number.
+
+Please select the number for the following options:
+1. I don’t get it. Why?
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: why
+arg: why
+why,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+For example if you start with 4252, you should do the calculation 5422 - 2245 = 3177. Then do 7731 - 1377 and keep going.
+
+Please select the number for the following options:
+1. I still don’t get it. Show me.
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: show
+arg: show
+show,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+D. R. Kaprekar (1905 - 1986) was an Indian school maths teacher who loved playing with numbers. He discovered a number of results in number theory and described various properties of numbers.
+
+Please select the number for the following options:
+1. Give me another fun fact.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: fun
+arg: fun
+fun,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+7641 – 1467 = 6174
+
+Please select the number for the following options:
+1. I get it! That’s cool, tell me more.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Funfact-palindrome-cube*************************************
+2201³ = 10662526601 is the only known palindromic cube whose root is not palindromic (a palindrome is a number that reads the same backwards as forwards).
+
+Please select the number for the following options:
+1. I don’t get it. Why?
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: why
+arg: why
+why,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Take the number 1030301. It is a palindrome. It's cube root is 101, which is also a palindrome. Can you find other examples that are both palindromes? (Remember that all one digit numbers are palindromes!)
+
+Please select the number for the following options:
+1. I still don’t get it. Show me.
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: show
+arg: show
+show,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+People have used computers to try and find another palindromic number whose cube root is not palindromic but no one has found one. This might be because there exists one that is bigger than the numbers that have been tested so far, or it might be that no more exist.
+
+Please select the number for the following options:
+1. Give me another fun fact.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: fun
+arg: fun
+fun,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+2201 is the smallest (and only one one known so far) which is itself non-palindromic.
+
+Please select the number for the following options:
+1. I get it! That’s cool, tell me more.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Funfact-four-colours*************************************
+It takes at most four colours to colour every map such that no two adjacent regions are the same colour.
+
+Please select the number for the following options:
+1. I don’t get it. Why?
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: why
+arg: why
+why,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Can you colour a map of Africa with five colours so that no two countries that touch are filled in with the same colour? Can you also succeed with four colours? How about three colours?
+
+Please select the number for the following options:
+1. I still don’t get it. Show me.
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: show
+arg: show
+show,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+The proof of the four colour theorem was famously tricky, and comes from graph theory, where mathematicians investigate an equivalent problem of colouring vertices of a network so that no edge has endpoints the same colour. The original four-colour proof was attempted by Alfred Kempe in 1879, but unfortunately Percy John Heawood found an error 11 years later. However his work was not useless, as Percy was able to prove the five-colour theorem (that one can colour a map with no two adjacent regions the sample colour using at most 5 colours) based on Kempe's work. The four colour theorem was finally proved in 1976 by Kenneth Appel, Wolfgang Haken, and John Koch using a computer to check it. This was the first major theorem to be proved using a computer. They checked around 1500 configurations using about 1200 hours of computer time. Some people were sceptical about a proof using a computer but independent verification soon convinced everyone that the four colour theorem had finally been proved.
+
+Please select the number for the following options:
+1. Give me another fun fact.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: fun
+arg: fun
+fun,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+The proof that only four colours are needed is very tricky, but the extension will give you an insight into how it is done.
+
+Please select the number for the following options:
+1. I get it! That’s cool, tell me more.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Funfact-ramanujan*************************************
+1729 is the smallest number expressible as a sum of two cube numbers in two different ways
+
+Please select the number for the following options:
+1. I don’t get it. Why?
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: why
+arg: why
+why,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+72 can be expressed as 2³ + 4³ but it is the only way with two positive cubes. Can you find the two ways to make 1729?
+
+Please select the number for the following options:
+1. I still don’t get it. Show me.
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: show
+arg: show
+show,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Bernard Frénicle de Bessy wrote about the number 1729 in 1657, but it was made popular by G. H. Hardy telling a story about Srinivasa Ramanujan in about 1919: "I remember once going to see him when he was ill at Putney. I had ridden in taxi cab number 1729 and remarked that the number seemed to me rather a dull one, and that I hoped it was not an unfavourable omen. "No," he replied, "it is a very interesting number; it is the smallest number expressible as the sum of two cubes in two different ways." 1729 is now called a "taxicab" number. It is the second taxi cab number. The first is 2 because it is the smallest number that can be written in one way as the sum of two cubes. 87539319 is the third taxi cab number because it is the smallest number that can be written in three different ways as the sum of two cubes. No one knows what the taxicab numbers are above the 6th one.
+
+Please select the number for the following options:
+1. Give me another fun fact.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: fun
+arg: fun
+fun,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+1³ + 12³ = 1 + 1728 = 1729 and also 9³ + 10³ = 729 + 1000 = 1729
+
+Please select the number for the following options:
+1. I get it! That’s cool, tell me more.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Funfact-abundant-numbers*************************************
+The integer 12 is the first abundant number. Its proper divisors (factors not including 12 itself)  are 1, 2, 3, 4, and 6 which add up to 16 which is more than 12.
+
+Please select the number for the following options:
+1. I don’t get it. Why?
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: why
+arg: why
+why,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+You could make a 10 by 10 grid of the numbers 1 to 100 and colour in the abundant numbers.
+
+Please select the number for the following options:
+1. I still don’t get it. Show me.
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: show
+arg: show
+show,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+The first known classification of numbers as deficient, perfect or abundant was by Nicomachus in his Introductio Arithmetica (circa 100)
+
+Please select the number for the following options:
+1. Give me another fun fact.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: fun
+arg: fun
+fun,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+The next abundant number is 20, because the proper divisors of 20 are 1,2,4,5, and 10 which add up to 22. Can you explain why prime numbers can never be abundant?
+
+Please select the number for the following options:
+1. I get it! That’s cool, tell me more.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Funfact-folding-paper*************************************
+If you could fold a piece of paper on itself only 42 times, it would reach the Moon!
+
+Please select the number for the following options:
+1. I don’t get it. Why?
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: why
+arg: why
+why,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Let us say that the paper thickness is about 0.1 millimeter (or 0.0039 inch). If you fold it once on itself, how thick would it be? What about it you fold it once more on itself? What about if you fold it 10 times?
+
+Please select the number for the following options:
+1. I still don’t get it. Show me.
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: show
+arg: show
+show,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Ten years later in 2012 a group of students beat Britney's record by taking 16km of toilet roll and folding it in one direction 13 times.
+
+Please select the number for the following options:
+1. Give me another fun fact.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: fun
+arg: fun
+fun,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+The distance between the Earth and the Moon is a bit less than 400000 kilometers (or 250000 miles). For us the paper is 0.1 millimeter (mm) thick. If we fold the paper once, its thickness would be doubled, so it becomes 0.2mm. Folding it again gives 0.4mm. If we fold it 10 times, it becomes (0.1mm)×2¹⁰ (two to the power 10). Now, if we compute (0.1mm)×2⁴², the result is 440 000km!
+
+Please select the number for the following options:
+1. I get it! That’s cool, tell me more.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Funfact-prime-removal*************************************
+73939133 is the largest prime number that, if you keep removing digits from the right, will always leave a prime number.
+
+Please select the number for the following options:
+1. I don’t get it. Why?
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: why
+arg: why
+why,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+If you take away the last digit the number would be 7393913, which is a prime number. Keep going ...
+
+Please select the number for the following options:
+1. I still don’t get it. Show me.
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: show
+arg: show
+show,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Interestingly there are 4260 left-truncatable primes but only 83 right-truncatable primes. If you repeatedly remove the first and last digit of a prime number and it stays prime, it is called a left-and-right-truncatable prime. There are 920720315 of those!
+
+Please select the number for the following options:
+1. Give me another fun fact.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: fun
+arg: fun
+fun,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+A right-truncatable prime is a prime number that remains a prime when you successively remove the last digit. We can look for the biggest right-truncatable prime by starting with the one digit primes 2, 3, 5, and 7. Then try to add another digit to the right of these so that the new numbers are also prime. We could have 23, 29, 31, 37, 53, 59, 71, 73, and 79. Now we try to add another digit. We could have 233, 239, 293, 311, 313, 317, 373, 379, 593, 599, 719, 733, 739, and 797. If we keep going with this process we end up with these eight digit numbers 23399339, 29399999, 37337999, 59393339, and 73939133. There are no nine digit prime numbers that start with any of these eight digits so the biggest right-truncatable number is 73939133.
+
+Please select the number for the following options:
+1. I get it! That’s cool, tell me more.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Funfact-shuffling-cards*************************************
+If you shuffle a deck of cards properly, it's more than likely that the exact order of the cards you get has never been seen before in the whole history of the universe.
+
+Please select the number for the following options:
+1. I don’t get it. Why?
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: why
+arg: why
+why,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Can we now use this to get to the 52 cards?
+
+Please select the number for the following options:
+1. I still don’t get it. Show me.
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: show
+arg: show
+show,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Therefore when you shuffle a deck, it is almost certain that you are the first person to play with the cards in exactly that order.
+
+Please select the number for the following options:
+1. Give me another fun fact.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: fun
+arg: fun
+fun,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+We want to work out how many different combinations of 52 cards there are. Let us start with thinking about just 3 cards. We could compare this to thinking about the number of ways 3 people could sit in three numbered chairs. Any of the three people could sit on the first chair, then either of the 2 remaining people could sit on the second chair and then there is 1 person left who would have no choice but to sit on the only remaining chair. We can multiply the number of choices for each chair (3×2×1 = 6) to find how many different ways there are for the 3 people to be arranged. It is interesting to note that the pattern here is taking the initial number then multiplying consecutively by the next smallest integer until you reach 1. This process has a name, it is called Factorial. The symbol for it is !. e.g. 3! = 6. Generally if you want to find the number of different ways you can rearrange n items, you can find n! = n!×(n - 1)!×(n - 2)!×…×1 The number of ways to shuffle 52 cards is 52! = 52×51×50×…×3×2×1 which is roughly equal to  8×10⁶⁷
+
+Please select the number for the following options:
+1. I get it! That’s cool, tell me more.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Funfact-square-numbers-and-triangular-numbers*************************************
+Any square number bigger than 1 is the sum of two consecutive triangular numbers.
+
+Please select the number for the following options:
+1. I don’t get it. Why?
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: why
+arg: why
+why,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Triangular numbers can be drawn with dots in the shape of a triangle. Square numbers can be drawn with dots in the shape of a square grid. See if you can work this one out visually first. Can you express it algebraically as well?
+
+Please select the number for the following options:
+1. I still don’t get it. Show me.
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: show
+arg: show
+show,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+The formula for the nᵗʰ triangular number is also exactly equal to the summation 1 + 2 + 3 + … + n and so it is a quick way to add up lists of consecutive numbers! This formula was written down by the Irish monk Dicuil in about 816AD but was possibly already known to the Pythagoreans in the 5th century BC.
+
+Please select the number for the following options:
+1. Give me another fun fact.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: fun
+arg: fun
+fun,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+The side length in points of the bigger T-number is the square root of the S-number.
+
+Please select the number for the following options:
+1. I get it! That’s cool, tell me more.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Funfact-benford_s-law*************************************
+ 
+
+Please select the number for the following options:
+1. I don’t get it. Why?
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: why
+arg: why
+why,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Have a look at some data sets that span many orders of magnitude. For example, what are the first digits of: the first 100 prime numbers (or more!), the populations of the countries in Africa, the heights of the tallest buildings in the world?
+
+Please select the number for the following options:
+1. I still don’t get it. Show me.
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: show
+arg: show
+show,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Benford's Law is used in the real world to check for fraud on big data sets. If they don't follow the law when they should, it is possible they have been falsified!
+
+Please select the number for the following options:
+1. Give me another fun fact.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: fun
+arg: fun
+fun,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Try picking random values of x, and reading off corresponding values of y from our (power law) straight line. Because of the spacing of the horizontal lines we see that we are most likely to get a value of y with first digit 1, then we are next likely to get a value of y with a first digit 2, etc. These probabilities are what leads to Benford's Law.
+
+Please select the number for the following options:
+1. I get it! That’s cool, tell me more.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Funfact-lychrel-numbers*************************************
+Can you find a starting number that doesn't end up at a palindrome? Nobody knows if this is possible.
+
+Please select the number for the following options:
+1. I don’t get it. Why?
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: why
+arg: why
+why,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Pick a positive integer (whole number), e.g. 57. Reverse the digits to get 75. Adding gives 57 +75 = 132. Then reverse this new number and add together. You get 132 + 231 = 353. This is a palindrome as it reads the same forwards as backwards, so we stop. Can you find a number that takes longer to reach a palindrome?
+
+Please select the number for the following options:
+1. I still don’t get it. Show me.
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: show
+arg: show
+show,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+If you change the base of the problem to binary then 10110 (22 in decimal) is a Lychrel number. The name Lychrel comes from a rough anagram of Wade Van Landingham's girlfriend Cheryl.
+
+Please select the number for the following options:
+1. Give me another fun fact.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: fun
+arg: fun
+fun,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+A number is called a Lychrel number if it never reaches a palindrome. No one has proved that a Lychrel number exists. One possibility is 196 - the first billion steps have been carried out by computers and it hasn't reached a palindrome… but this does not prove it never will!
+
+Please select the number for the following options:
+1. I get it! That’s cool, tell me more.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Funfact-collatz-conjecture*************************************
+Think of a positive integer (whole number). If it is even, halve it. It if is odd, multiply it by 3 and add 1. Repeat the process with your new number and keep going. Stop if you get to the number 1. Nobody knows if a number exists that doesn't end up at 1.
+
+Please select the number for the following options:
+1. I don’t get it. Why?
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: why
+arg: why
+why,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+For example, if you choose the number 6 you would get this sequence 6, 3, 10, 5, 16, 8, 4, 2, 1. So it took 8 steps to get to 1. Try some numbers of your own.
+
+Please select the number for the following options:
+1. I still don’t get it. Show me.
+2. I get it! That’s cool, tell me more.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: show
+arg: show
+show,1,
+arg list: more
+arg: more
+more,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+The conjecture is named after Lothar Collatz, who introduced the idea in 1937, two years after receiving his doctorate. Many people since Collatz have tried to find a sequence that doesn't go to 1, or to prove that all sequences go to 1 and no one has succeeded. There is a prize of at least $2,000 dollars if you succeed! On the 8th of September 2019, Terence Tao produced a proof, using sampling of numbers, that almost all numbers eventually reach a value that is quite close to 1. Roughly speaking he proved that 99% of starting values greater than 1 quadrillion eventually reach a value below 200. This is a huge step forward for such a difficult problem!
+
+Please select the number for the following options:
+1. Give me another fun fact.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: fun
+arg: fun
+fun,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+This activity is interesting because it is easy to understand the rules and start generating sequences, but no one knows whether all numbers end up at 1; it is an unsolved problem in mathematics. The longest sequence for a number smaller than 100 is for 97, which takes 118 steps but finally gets to 1. The number just before, 96, only takes 12 steps! Using computers, all numbers up to roughly 2.95×10²⁰ have been checked and they all go to 1.
+
+Please select the number for the following options:
+1. I get it! That’s cool, tell me more.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Game-fifteen*************************************
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Give me a tip to play well.
+3. Tell me about this game.
+4. Give me something else to do.
+5. That’s enough for today! Go away!
+arg list: instructions
+arg: instructions
+instructions,1,
+arg list: tip
+arg: tip
+tip,2,
+arg list: else
+arg: else
+else,4,
+arg list: away
+arg: away
+away,5,
+arg list: about
+arg: about
+about,3,
+Think about other games you might have played that this is similar to. Is it an advantage to go first or second?
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: instructions
+arg: instructions
+instructions,1,
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. Give me a tip to play well.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: tip
+arg: tip
+tip,1,
+This game is interesting because it is the same as the game tic-tac-toe/naughts and crosses. The technical term for this is isomorphic. In mathematics it is often helpful, when faced with a new problem, to relate it to one you already know how to solve.
+
+Please select the number for the following options:
+1. Give me something else to do.
+2. Give me another game.
+3. That’s enough for today! Go away!
+arg list: else
+arg: else
+else,1,
+arg list: game
+arg: game
+game,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Game-patience*************************************
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Give me a tip to play well.
+3. Tell me about this game.
+4. Give me something else to do.
+5. That’s enough for today! Go away!
+arg list: instructions
+arg: instructions
+instructions,1,
+arg list: tip
+arg: tip
+tip,2,
+arg list: else
+arg: else
+else,4,
+arg list: away
+arg: away
+away,5,
+arg list: about
+arg: about
+about,3,
+This game is mostly luck - but you need to think carefully about how many J, Q and K you cover to win the final stage!
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: instructions
+arg: instructions
+instructions,1,
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. Give me a tip to play well.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: tip
+arg: tip
+tip,1,
+These types of games are often called Patience or Solitaire. Patience because you need a lot of patience to try and win, and Solitaire because you can play them on your own. Although many variations of Patience are down to chance, it is interesting to use mathematics to analyse the probability of winning.
+
+Please select the number for the following options:
+1. Give me something else to do.
+2. Give me another game.
+3. That’s enough for today! Go away!
+arg list: else
+arg: else
+else,1,
+arg list: game
+arg: game
+game,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Game-twenty-one*************************************
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Give me a tip to play well.
+3. Tell me about this game.
+4. Give me something else to do.
+5. That’s enough for today! Go away!
+arg list: instructions
+arg: instructions
+instructions,1,
+arg list: tip
+arg: tip
+tip,2,
+arg list: else
+arg: else
+else,4,
+arg list: away
+arg: away
+away,5,
+arg list: about
+arg: about
+about,3,
+The person who says 20 wins, as they force the next person to say 21. How can you make sure you say 20? Try to work backwards. After you have played several times you might work out who is going to win before you reach 20 - think about how you know this. Can you work out if it is better to go first or second? Can you make sure you always win?
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: instructions
+arg: instructions
+instructions,1,
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. Give me a tip to play well.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: tip
+arg: tip
+tip,1,
+21 is a simple version of the set of games, Nim. It is sometimes called a Misère game - meaning a game that you play to lose. It is thought to have originated in China and is first mentioned in European history at the start of the 16ᵗʰ century. The game was originally played with 21 stones, and you have to pick 1, 2, or 3 stones at a time and the loser is the last one to pick a stone.
+
+Please select the number for the following options:
+1. Give me something else to do.
+2. Give me another game.
+3. That’s enough for today! Go away!
+arg list: else
+arg: else
+else,1,
+arg list: game
+arg: game
+game,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Game-nim*************************************
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Give me a tip to play well.
+3. Tell me about this game.
+4. Give me something else to do.
+5. That’s enough for today! Go away!
+arg list: instructions
+arg: instructions
+instructions,1,
+arg list: tip
+arg: tip
+tip,2,
+arg list: else
+arg: else
+else,4,
+arg list: away
+arg: away
+away,5,
+arg list: about
+arg: about
+about,3,
+Try to work out if it is better to go first or second.
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: instructions
+arg: instructions
+instructions,1,
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. Give me a tip to play well.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: tip
+arg: tip
+tip,1,
+This is an ancient game that owes its current name to Charles Bouton, who also developed a theory for how you can always play to win. His strategy involves binary numbers and can be found here https://plus.maths.org/content/play-win-nim. You can play different variations of the game (also called drips) online here https://wild.maths.org/tags/fun-drips
+
+Please select the number for the following options:
+1. Give me something else to do.
+2. Give me another game.
+3. That’s enough for today! Go away!
+arg list: else
+arg: else
+else,1,
+arg list: game
+arg: game
+game,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Game-mastermind*************************************
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Give me a tip to play well.
+3. Tell me about this game.
+4. Give me something else to do.
+5. That’s enough for today! Go away!
+arg list: instructions
+arg: instructions
+instructions,1,
+arg list: tip
+arg: tip
+tip,2,
+arg list: else
+arg: else
+else,4,
+arg list: away
+arg: away
+away,5,
+arg list: about
+arg: about
+about,3,
+For the setter: Think about whether it is best to have all the same suit, all different, or some the same.
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: instructions
+arg: instructions
+instructions,1,
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. Give me a tip to play well.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: tip
+arg: tip
+tip,1,
+This game can be played with numbers, letters, symbols or colours as in the popular board game.
+
+Please select the number for the following options:
+1. Give me something else to do.
+2. Give me another game.
+3. That’s enough for today! Go away!
+arg list: else
+arg: else
+else,1,
+arg list: game
+arg: game
+game,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Game-latin-squares*************************************
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Give me a tip to play well.
+3. Tell me about this game.
+4. Give me something else to do.
+5. That’s enough for today! Go away!
+arg list: instructions
+arg: instructions
+instructions,1,
+arg list: tip
+arg: tip
+tip,2,
+arg list: else
+arg: else
+else,4,
+arg list: away
+arg: away
+away,5,
+arg list: about
+arg: about
+about,3,
+Start by ignoring the suits and try to get the ranks in a square so that each rank appears only once in every row and column.
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: instructions
+arg: instructions
+instructions,1,
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. Give me a tip to play well.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: tip
+arg: tip
+tip,1,
+This puzzle is an example of a Latin square. Interestingly, if the problem had involved 6 ranks of playing cards it would have been impossible. But with 7 ranks it is quite easy to find a solution. Latin squares are used in medical trials to ensure every participant is allocated to each treatment for the same time period to prove which is the best treatment.
+
+Please select the number for the following options:
+1. Give me something else to do.
+2. Give me another game.
+3. That’s enough for today! Go away!
+arg list: else
+arg: else
+else,1,
+arg list: game
+arg: game
+game,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Game-gomoku*************************************
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Give me a tip to play well.
+3. Tell me about this game.
+4. Give me something else to do.
+5. That’s enough for today! Go away!
+arg list: instructions
+arg: instructions
+instructions,1,
+arg list: tip
+arg: tip
+tip,2,
+arg list: else
+arg: else
+else,4,
+arg list: away
+arg: away
+away,5,
+arg list: about
+arg: about
+about,3,
+It is very important to be watching your opponents moves as well as trying to make a line of 5 yourself. If your opponent has three in a row with nothing at either end - this is called "open 3" - then it is a good idea to use your turn to block one end. If they manage to get "open 4" you have certainly lost! A good attacking strategy might be to aim for two overlapping lines of open 3s - like a cross - so that it is very hard for your opponent to defend.
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: instructions
+arg: instructions
+instructions,1,
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. Give me a tip to play well.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: tip
+arg: tip
+tip,1,
+There is a World Championship tournament for Gomuku. Since 2009 it has used the Swap 2 rule to make it a fair game, no matter who starts. There are also championships for computers to play at Gomuku! So people write an artificial intelligence program and their program plays against someone else's program to see who wins. There are also computer vs. human competitions - in 2017 a computer called Yixin beat the world champion human player Rudolf Dupszki 2-0.
+
+Please select the number for the following options:
+1. Give me something else to do.
+2. Give me another game.
+3. That’s enough for today! Go away!
+arg list: else
+arg: else
+else,1,
+arg list: game
+arg: game
+game,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Game-sim*************************************
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Give me a tip to play well.
+3. Tell me about this game.
+4. Give me something else to do.
+5. That’s enough for today! Go away!
+arg list: instructions
+arg: instructions
+instructions,1,
+arg list: tip
+arg: tip
+tip,2,
+arg list: else
+arg: else
+else,4,
+arg list: away
+arg: away
+away,5,
+arg list: about
+arg: about
+about,3,
+Try to make moves in a way that removes options from your opponent. You might want to try and complete triangles that are of mixed colour.
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: instructions
+arg: instructions
+instructions,1,
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. Give me a tip to play well.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: tip
+arg: tip
+tip,1,
+The Sim pencil game was invented in 1969 by Gustavus Simmons, a cryptographer, who described it in the Journal of Recreational Mathematics. Frank P. Ramsey proved that there always has to be a winner in this game by the "Theorem on Friends and Strangers". He showed that on completing all the edges of the graph, there must be one triangle that is all the same colour.
+
+Please select the number for the following options:
+1. Give me something else to do.
+2. Give me another game.
+3. That’s enough for today! Go away!
+arg list: else
+arg: else
+else,1,
+arg list: game
+arg: game
+game,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Game-pong-hau-k_i*************************************
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Give me a tip to play well.
+3. Tell me about this game.
+4. Give me something else to do.
+5. That’s enough for today! Go away!
+arg list: instructions
+arg: instructions
+instructions,1,
+arg list: tip
+arg: tip
+tip,2,
+arg list: else
+arg: else
+else,4,
+arg list: away
+arg: away
+away,5,
+arg list: about
+arg: about
+about,3,
+Think about whether it is better to go first or second? What is the position you must achieve in order to block the other player?
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: instructions
+arg: instructions
+instructions,1,
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. Give me a tip to play well.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: tip
+arg: tip
+tip,1,
+Pong Hau K'i is a simple board game from China. It is also a traditional game in Korea, where it is known as Ou-moul-ko-no. Similar games are played in Togo. If both players play perfectly the game should end in a draw.
+
+Please select the number for the following options:
+1. Give me something else to do.
+2. Give me another game.
+3. That’s enough for today! Go away!
+arg list: else
+arg: else
+else,1,
+arg list: game
+arg: game
+game,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Game-stop-or-dare*************************************
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Give me a tip to play well.
+3. Tell me about this game.
+4. Give me something else to do.
+5. That’s enough for today! Go away!
+arg list: instructions
+arg: instructions
+instructions,1,
+arg list: tip
+arg: tip
+tip,2,
+arg list: else
+arg: else
+else,4,
+arg list: away
+arg: away
+away,5,
+arg list: about
+arg: about
+about,3,
+Try and keep count of how many K and A cards have come up already. This could change how daring you are feeling. If someone else is close to 100 it might be best to turn over more cards than you would normally.
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: instructions
+arg: instructions
+instructions,1,
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. Give me a tip to play well.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: tip
+arg: tip
+tip,1,
+This game can also be played with Dice and is sometimes called Pig. There are one and two dice versions, and even a version where you can choose how many dice to throw rather than how many times to throw a set number of dice.
+
+Please select the number for the following options:
+1. Give me something else to do.
+2. Give me another game.
+3. That’s enough for today! Go away!
+arg list: else
+arg: else
+else,1,
+arg list: game
+arg: game
+game,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Game-twenty-four*************************************
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Give me a tip to play well.
+3. Tell me about this game.
+4. Give me something else to do.
+5. That’s enough for today! Go away!
+arg list: instructions
+arg: instructions
+instructions,1,
+arg list: tip
+arg: tip
+tip,2,
+arg list: else
+arg: else
+else,4,
+arg list: away
+arg: away
+away,5,
+arg list: about
+arg: about
+about,3,
+Think of the factors of 24 to cover i.e, 1×24, 2×12, 3×8, and 4×6. If you have either of the factors in your list, say 1, 2, 3, 4, 6, 8, …  use the remaining numbers to make the other number, or use your numbers to create combinations.
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: instructions
+arg: instructions
+instructions,1,
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. Give me a tip to play well.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: tip
+arg: tip
+tip,1,
+The number 24 is used because it has so many factors. However, an analysis of all the possible combinations of 4 cards shows that the number 2 would have been the best target number! 99.19% of the combinations could be solved, compared to 80.20% for 24. If you are allowed to use factorials (e.g. 3! = 3×2×1 = 6), then you can solve many more combinations for 24.
+
+Please select the number for the following options:
+1. Give me something else to do.
+2. Give me another game.
+3. That’s enough for today! Go away!
+arg list: else
+arg: else
+else,1,
+arg list: game
+arg: game
+game,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Game-card-sums*************************************
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Give me a tip to play well.
+3. Tell me about this game.
+4. Give me something else to do.
+5. That’s enough for today! Go away!
+arg list: instructions
+arg: instructions
+instructions,1,
+arg list: tip
+arg: tip
+tip,2,
+arg list: else
+arg: else
+else,4,
+arg list: away
+arg: away
+away,5,
+arg list: about
+arg: about
+about,3,
+Think about where it is going to be best to place the biggest numbers.
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: instructions
+arg: instructions
+instructions,1,
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. Give me a tip to play well.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: tip
+arg: tip
+tip,1,
+These games feature in Andrew Jeffrey's Leader of the Pack book - which has 52 games and activities to do with a deck of cards. There is a perfect strategy to the main game.
+
+Please select the number for the following options:
+1. Give me something else to do.
+2. Give me another game.
+3. That’s enough for today! Go away!
+arg list: else
+arg: else
+else,1,
+arg list: game
+arg: game
+game,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Game-wintwothreefour*************************************
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Give me a tip to play well.
+3. Tell me about this game.
+4. Give me something else to do.
+5. That’s enough for today! Go away!
+arg list: instructions
+arg: instructions
+instructions,1,
+arg list: tip
+arg: tip
+tip,2,
+arg list: else
+arg: else
+else,4,
+arg list: away
+arg: away
+away,5,
+arg list: about
+arg: about
+about,3,
+It is tempting to focus on making your 4 digit number as big as possible, but maybe everyone else is trying to do this too! It is important to watch how your opponents are playing and try and adapt your strategy to beat them.
+
+Please select the number for the following options:
+1. I’d like more instructions.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: instructions
+arg: instructions
+instructions,1,
+Enjoy playing the game and remember to think strategically, it’s not a game of luck!
+
+Please select the number for the following options:
+1. Give me a tip to play well.
+2. Tell me about this game.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: about
+arg: about
+about,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: tip
+arg: tip
+tip,1,
+This game featured in Andrew Jeffrey's Leader of the Pack book - which has 52 games and activities to do with a deck of cards. It is simple to understand the rules but very interesting to try and find a strategy to win.
+
+Please select the number for the following options:
+1. Give me something else to do.
+2. Give me another game.
+3. That’s enough for today! Go away!
+arg list: else
+arg: else
+else,1,
+arg list: game
+arg: game
+game,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Counting-table-handshakes*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+What is the answer if there are just 2 people, or 4 people, or 6 people. Can you find a way of making the cases with fewer people help you count the cases with more people?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+The sequence of numbers we have discovered 1, 2, 5, 14, 42, ... are called Catalan numbers and they are crucial in the world of combinatorics. There is evidence of their use in China as far back as 1730, but they are named after the Belgian mathematician Eugène Charles Catalan (1814–1894).
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Counting explicitly might be too long. Can you come up with a way to reduce the problem in simpler cases you have already counted? Focus on when a fixed person shakes hands with another one: the problem splits into a left part and a right part where a lower number of people have to shake their hands.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+You will need to first find the result for 12 people so that you can use this (and all your previous answers) to find the answer for 14.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Counting-triangular-slices*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+In how many ways could you do it if the cake were a square? What if it were a five-sided pentagon? Can you use the symmetries of your cake to count faster?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+These Cₙ are called Catalan numbers and they are crucial in the world of combinatorics. There is an explicit formula for them, but finding it goes much beyond our scopes: the above recursive definition is more than enough for now! Interestingly there are many different puzzles that lead to these numbers (more than 200!) … perhaps you have seen another puzzle with the same answers?
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Can you reuse previous results to compute this number? Counting explicitly might be too long. Can you come up with a way to reduce the problem in simpler cases you have already counted? Focus on when a fixed edge of the heptagon is present in a certain triangle. The heptagon is then split into two parts, the one at the left of the above triangle and the one at the right. Both parts are smaller...
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Can you use the formula to find the answer for an eight sided shape so that you have all the values you need to find the answer for a nine sided shape?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Counting-scoring-goals*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Imagine the sequence of all goals and think about the positions in the sequence in which the second football team can have scored their 2 goals. Try to find the answer in the cases the score was 3 - 2 or 4 - 2.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Combinatorics is an area of mathematics primarily concerned with counting. Two big aspects of combinatorics are finding combinations and permutations. For combinations the order does not matter - like in our football example we didn't mind which order the away team scored the goals. For permutations the order does matter - for example there are six ways to arrange the digits 123.
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Think about the strategy you used to answer the previous question and try to generalise it for any number of goals scored by the first team.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Think about how many goals have been scored in total. In how many positions could the first goal of the second team be scored? The second? The third?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Counting-colouring*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Think about how many different colours could go in the first section, then the second ...
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+In a room with an even number of walls, two colors are always enough. For rooms with an odd number of walls, you will need three colors.
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Fix one colour, say start with the top wall red, and try to list all the different options for the other walls.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Counting-avoid-the-river*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+In how many ways you can go from home to school in a 2 by 2 grid? What about in a 3 by 3 grid?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Cₙ are called Catalan numbers and they are crucial in the world of combinatorics. There is an explicit formula for them, but finding it goes much beyond our scopes: the recursive definition we find out in this puzzle is more than enough for now!
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Counting explicitly might be too long. Can you come up with a way to reduce the problem in simpler cases you have already counted? Focus on when a path last touches the river before reaching the school. Do you know anything about all possible paths that can reach that point? What about all possible paths after that point?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+You will need to first find the result for a 6 by 6 grid so that you can use this (and all your previous answers) to find the answer for a 7 by 7 grid.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Counting-shaking-hands*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Start with a small number of children, e.g. 3, 4, or 5. What is the number of handshakes you have to add if another child joins the party?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+This is a classic puzzle that has been around for many years. There are many problem-solving strategies that can be used to find the solution - act it out, draw a diagram, look for a pattern, solve a simpler problem, make an organized list, make a table, use logical reasoning, . . . . The solution has deep mathematical properties and is a key result in the field of combinatorics. The number of handshakes is always a triangular number. The first ten triangular numbers are 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, …
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Can you find a formula for the number of handshakes when there are n children at the birthday party? Think about the strategy you used to answer the previous question and try to generalise it for any number of children.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Try using the formula we have derived for the total number of handshakes for n children.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Counting-pieces-of-cake*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Start with a small number of cuts, e.g. 1, 2, 3. How can you add another cut to get the biggest number of pieces? Remember it doesn't say that the pieces have to be the same size! What happens if many cuts pass through the same point?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+If you were allowed to cut the cake in any direction, not just from the top, with just three cuts you could cut it into 8 pieces (rather than only 6)!
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+As the number of cuts increases, drawing and counting might be too complicated: can you spot the pattern in the sequence of numbers obtained from previous examples? For 7 cuts, first work out the answer for 6 cuts and then use this result.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Once you've found out the pattern, try to find a simple formula for the maximum number of pieces. Triangular numbers might help.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Puzzle-mixed-up-socks*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Start with matching one of the red with one of the green, and the other red with a blue. You could write this as RB, RY. What would the other two pairs have to be?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+For four different pairs of socks, if they were loose in a drawer and you shut your eyes and matched them together at random there would be a 1% chance of matching them perfectly and a 46% chance of matching them completely wrongly as in the puzzle.
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Start off with the two red socks. Can you work out how many ways there are of choosing which two colours these two socks could be matched with?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+In addition to thinking about the consequences of a certain color being included in a certain bag, consider the consequence of a particular color marble not being chosen for, say, the first bag.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Puzzle-counting-squares*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Can you start with a 4 by 4 square and work out how many squares there are? Remember to keep track of how many 1 by 1, 2 by 2, 3 by 3 and 4 by 4 squares you find.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+This is an example of a puzzle where it is best to start with a smaller number and work your way up to the solution. Many questions in maths can be approached in this way. Remember to record all your working neatly and you will be able to spot patterns more easily.
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Squares can be different sizes and rotations!
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Keep a table of how many squares there are of each size. Remember you can include squares at an angle.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Counting-going-to-school*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+What is the total number of steps you have to make? Think about when you could make the two steps north.
+You could first try to find the answer if the grid was 2 by 3 and 2 by 4.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+In this formula n! = n×(n - 1)×(n - 2)×...×1.
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Think about the strategy you used to answer the previous question and try to generalise in the case the school is in the top right (north-east) of a 2 by n grid.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Think about how many ways there are to go the four steps north. Be careful not to count the same paths too many times.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Counting-different-paths*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Think about how many options you have to select the first path, then how many you have for the second and so on. Be careful that you can not choose the same path twice in a week.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Factorials get big very quickly. 5! = 120, but 20! = 2432902008176640000.
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Is there a way to use the result of the previous problem? Think about how many ways you can now walk to school on Monday.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Is this exactly the same style of problem as before? Think about how many ways you can now walk to school on Monday etc but when you get to Sunday there will still be more than one to choose from.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Counting-bar-stools*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+You could have five students sitting on the five chairs. You could have two teachers sitting on chairs number 2 and 4 and students in chairs 1, 3, and 5. Can you think of any other options? Can you think of the maximum number of teachers that could sit on the chairs? You might like to start with a smaller number of chairs and work your way up.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Fₙ = (1 ∕ √5)×( ((1 + √5) ∕ 2)ⁿ⁺¹ - ((1 - √5) ∕ 2)ⁿ⁺¹ )
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Try and build up the answer from a smaller number of chairs.
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Think about how the sequence is generated … can you find a pattern that repeats thinking about odd and even numbers?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Content-Counting-paving-paths*************************************
+@results.s_ans is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: hint
+arg: hint
+hint,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+In how many different ways can you do that in case you had fewer paving slabs for a shorter path? Think about a good strategy to classify different ways. For example, how many ways can you have 2 pairs of slabs lengthwise?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Fₙ = (1 ∕ √5)×( ((1 + √5) ∕ 2)ⁿ⁺¹ - ((1 - √5) ∕ 2)ⁿ⁺¹ )
+
+Please select the number for the following options:
+1. Give me another puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: puzzle
+arg: puzzle
+puzzle,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me a harder version.
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: harder
+arg: harder
+harder,2,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+@results.s_ans_ext1 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That's enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Counting explicitly might be too long. Can you come up with a way to reduce the problem in simpler cases you have already counted?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+Well done! That is absolutely right.
+
+Please select the number for the following options:
+1. Tell me more about this puzzle.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: more
+arg: more
+more,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+@results.s_ans_ext2 is not correct.
+
+Please select the number for the following options:
+1. Can I try again?
+2. Give me a hint!
+3. Give me something else to do.
+4. That’s enough for today! Go away!
+arg list: again
+arg: again
+again,1,
+arg list: else
+arg: else
+else,3,
+arg list: away
+arg: away
+away,4,
+arg list: hint
+arg: hint
+hint,2,
+Think about how the sequence is generated … can you find a pattern that repeats thinking about odd and even numbers?
+
+Please select the number for the following options:
+1. Take me back, I want another go.
+2. Give me something else to do.
+3. That’s enough for today! Go away!
+arg list: back
+arg: back
+back,1,
+arg list: else
+arg: else
+else,2,
+arg list: away
+arg: away
+away,3,
+
+
+Structure-Content_Handler-Puzzle_Handler*************************************
+
+
+MathsbotDemo*************************************
+Hi All I am your friendly MathsBot demo. I can give you fun facts, puzzles and games. What do you want?
+
+Please select the number for the following options:
+1. fun fact
+2. puzzle
+3. game
+arg list: fun
+arg: fun
+fun,1,
+arg list: puzzle
+arg: puzzle
+puzzle,2,
+arg list: game
+arg: game
+game,3,
+
+
+Structure-Content_Handler-Game_Handler*************************************
+
+
+Structure-Content_Handler-FunFact_Handler*************************************

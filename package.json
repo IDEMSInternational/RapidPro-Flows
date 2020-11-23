@@ -1,0 +1,27 @@
+{
+  "name": "rapidpro-flows",
+  "version": "1.0.0",
+  "description": "- **products** - JSON flows\r - **scripts** - to manage JSON flows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "csv" : "ts-node ./scripts/create_CSV_from_JSON_flows.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDEMSInternational/RapidPro-Flows.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IDEMSInternational/RapidPro-Flows/issues"
+  },
+  "homepage": "https://github.com/IDEMSInternational/RapidPro-Flows#readme",
+  "dependencies": {
+    "json-2-csv": "3.7.6",
+    "ts-node": "8.10.2",
+    "typescript": "3.9.7",
+    "@types/node": "^14.6.0"
+  }
+
+}

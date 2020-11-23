@@ -1,0 +1,2197 @@
+[
+  {
+    "SourceText": "Start from home (H) and go to school (S). You can walk along the 4 by 4 grid by making steps only towards east or north. You cannot cross the river (blue line)! In how many ways can you reach your school?",
+    "text": "Start from home (H) and go to school (S). You can walk along the 4 by 4 grid by making steps only towards east or north. You cannot cross the river (blue line)! In how many ways can you reach your school?",
+    "type": "text"
+  },
+  {
+    "SourceText": " ",
+    "text": " ",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry, I'm really not that smart yet. ",
+    "text": "Sorry, I'm really not that smart yet. ",
+    "type": "text"
+  },
+  {
+    "SourceText": "@results.s_ans is not correct.",
+    "text": "@results.s_ans is not correct.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Well done! That is absolutely right.",
+    "text": "Well done! That is absolutely right.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sorry, I'm really not that smart yet.",
+    "text": "Sorry, I'm really not that smart yet.",
+    "type": "text"
+  },
+  {
+    "SourceText": "In how many ways you can go from home to school in a 2 by 2 grid? What about in a 3 by 3 grid?",
+    "text": "In how many ways you can go from home to school in a 2 by 2 grid? What about in a 3 by 3 grid?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Cₙ are called Catalan numbers and they are crucial in the world of combinatorics. There is an explicit formula for them, but finding it goes much beyond our scopes: the recursive definition we find out in this puzzle is more than enough for now!",
+    "text": "Cₙ are called Catalan numbers and they are crucial in the world of combinatorics. There is an explicit formula for them, but finding it goes much beyond our scopes: the recursive definition we find out in this puzzle is more than enough for now!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Bye! It was fun chatting. Remember you can just type \"mathscamp\" and I'll come running!",
+    "text": "Bye! It was fun chatting. Remember you can just type \"mathscamp\" and I'll come running!",
+    "type": "text"
+  },
+  {
+    "SourceText": "In how many ways you can go from home to school in a 5 by 5 grid? Try using previous results to compute this!",
+    "text": "In how many ways you can go from home to school in a 5 by 5 grid? Try using previous results to compute this!",
+    "type": "text"
+  },
+  {
+    "SourceText": "@results.s_ans_ext1 is not correct.",
+    "text": "@results.s_ans_ext1 is not correct.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "Counting explicitly might be too long. Can you come up with a way to reduce the problem in simpler cases you have already counted? Focus on when a path last touches the river before reaching the school. Do you know anything about all possible paths that can reach that point? What about all possible paths after that point?",
+    "text": "Counting explicitly might be too long. Can you come up with a way to reduce the problem in simpler cases you have already counted? Focus on when a path last touches the river before reaching the school. Do you know anything about all possible paths that can reach that point? What about all possible paths after that point?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What if the grid has the size of 7 by 7? Try to use previous results to calculate the number of ways you can go to school in this grid.",
+    "text": "What if the grid has the size of 7 by 7? Try to use previous results to calculate the number of ways you can go to school in this grid.",
+    "type": "text"
+  },
+  {
+    "SourceText": "@results.s_ans_ext2 is not correct.",
+    "text": "@results.s_ans_ext2 is not correct.",
+    "type": "text",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated. "
+  },
+  {
+    "SourceText": "You will need to first find the result for a 6 by 6 grid so that you can use this (and all your previous answers) to find the answer for a 7 by 7 grid.",
+    "text": "You will need to first find the result for a 6 by 6 grid so that you can use this (and all your previous answers) to find the answer for a 7 by 7 grid.",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many different ways can you arrange teachers and students in a row of 5 chairs such that no 2 teachers are sat next to each other?",
+    "text": "How many different ways can you arrange teachers and students in a row of 5 chairs such that no 2 teachers are sat next to each other?",
+    "type": "text"
+  },
+  {
+    "SourceText": "You could have five students sitting on the five chairs. You could have two teachers sitting on chairs number 2 and 4 and students in chairs 1, 3, and 5. Can you think of any other options? Can you think of the maximum number of teachers that could sit on the chairs? You might like to start with a smaller number of chairs and work your way up.",
+    "text": "You could have five students sitting on the five chairs. You could have two teachers sitting on chairs number 2 and 4 and students in chairs 1, 3, and 5. Can you think of any other options? Can you think of the maximum number of teachers that could sit on the chairs? You might like to start with a smaller number of chairs and work your way up.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The sequence of numbers in this puzzle are part of the Fibonacci Sequence sequence:",
+    "text": "The sequence of numbers in this puzzle are part of the Fibonacci Sequence sequence:",
+    "type": "text"
+  },
+  {
+    "SourceText": "0, 1, 1, 2, 3, 5, 8, 13, 21, 34,... It is easy to find the next number by adding the previous two numbers, but you can also find the nᵗʰ Fibonacci number in the sequence directly using this formula:",
+    "text": "0, 1, 1, 2, 3, 5, 8, 13, 21, 34,... It is easy to find the next number by adding the previous two numbers, but you can also find the nᵗʰ Fibonacci number in the sequence directly using this formula:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Fₙ = (1 ∕ √5)×( ((1 + √5) ∕ 2)ⁿ⁺¹ - ((1 - √5) ∕ 2)ⁿ⁺¹ )",
+    "text": "Fₙ = (1 ∕ √5)×( ((1 + √5) ∕ 2)ⁿ⁺¹ - ((1 - √5) ∕ 2)ⁿ⁺¹ )",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many different ways can you arrange teachers and students in a row of 10 chairs such that no 2 teachers are sat next to each other?",
+    "text": "How many different ways can you arrange teachers and students in a row of 10 chairs such that no 2 teachers are sat next to each other?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try and build up the answer from a smaller number of chairs.",
+    "text": "Try and build up the answer from a smaller number of chairs.",
+    "type": "text"
+  },
+  {
+    "SourceText": "For all the number of chairs between 1 and 30 inclusive, how many of these will have an even number of ways of sitting on them?",
+    "text": "For all the number of chairs between 1 and 30 inclusive, how many of these will have an even number of ways of sitting on them?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about how the sequence is generated … can you find a pattern that repeats thinking about odd and even numbers?",
+    "text": "Think about how the sequence is generated … can you find a pattern that repeats thinking about odd and even numbers?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many tricolour flags are possible with 5 available colours such that two adjacent stripes must NOT be the same colour.",
+    "text": "How many tricolour flags are possible with 5 available colours such that two adjacent stripes must NOT be the same colour.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about how many different colours could go in the first section, then the second ...",
+    "text": "Think about how many different colours could go in the first section, then the second ...",
+    "type": "text"
+  },
+  {
+    "SourceText": "In a room with an even number of walls, two colors are always enough. For rooms with an odd number of walls, you will need three colors.",
+    "text": "In a room with an even number of walls, two colors are always enough. For rooms with an odd number of walls, you will need three colors.",
+    "type": "text"
+  },
+  {
+    "SourceText": "In how many different ways can I paint the five walls of a pentagonal room using red, blue and green paint so that no two neighbouring walls are the same colour?",
+    "text": "In how many different ways can I paint the five walls of a pentagonal room using red, blue and green paint so that no two neighbouring walls are the same colour?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Fix one colour, say start with the top wall red, and try to list all the different options for the other walls.",
+    "text": "Fix one colour, say start with the top wall red, and try to list all the different options for the other walls.",
+    "type": "text"
+  },
+  {
+    "SourceText": "There are 5 different paths you could take to get from home to school. In a week (from Monday to Friday) you would like to try a different path every day. In how many ways can you do this?",
+    "text": "There are 5 different paths you could take to get from home to school. In a week (from Monday to Friday) you would like to try a different path every day. In how many ways can you do this?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about how many options you have to select the first path, then how many you have for the second and so on. Be careful that you can not choose the same path twice in a week.",
+    "text": "Think about how many options you have to select the first path, then how many you have for the second and so on. Be careful that you can not choose the same path twice in a week.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Factorials were used to count permutations at least as early as the 12th century, by Indian scholars. The notation n! was introduced by the French mathematician Christian Kramp in 1808.",
+    "text": "Factorials were used to count permutations at least as early as the 12th century, by Indian scholars. The notation n! was introduced by the French mathematician Christian Kramp in 1808.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Factorials get big very quickly. 5! = 120, but 20! = 2432902008176640000.",
+    "text": "Factorials get big very quickly. 5! = 120, but 20! = 2432902008176640000.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What if you had to go to school on Saturdays as well and you also found a new path? In how many ways can you arrange your week such that every day you go to school walking on different paths?",
+    "text": "What if you had to go to school on Saturdays as well and you also found a new path? In how many ways can you arrange your week such that every day you go to school walking on different paths?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Is there a way to use the result of the previous problem? Think about how many ways you can now walk to school on Monday.",
+    "text": "Is there a way to use the result of the previous problem? Think about how many ways you can now walk to school on Monday.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What if you had to go to school on Sundays as well and you also found four new paths so there are now 10 paths to choose from? In how many ways can you arrange your week such that every day you go to school walking on different paths?",
+    "text": "What if you had to go to school on Sundays as well and you also found four new paths so there are now 10 paths to choose from? In how many ways can you arrange your week such that every day you go to school walking on different paths?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Is this exactly the same style of problem as before? Think about how many ways you can now walk to school on Monday etc but when you get to Sunday there will still be more than one to choose from.",
+    "text": "Is this exactly the same style of problem as before? Think about how many ways you can now walk to school on Monday etc but when you get to Sunday there will still be more than one to choose from.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Start from home (H) and go to school (S). You can walk along the 2 by 5 grid by making steps only towards east or north. In how many ways can you reach your school?",
+    "text": "Start from home (H) and go to school (S). You can walk along the 2 by 5 grid by making steps only towards east or north. In how many ways can you reach your school?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is the total number of steps you have to make? Think about when you could make the two steps north.",
+    "text": "What is the total number of steps you have to make? Think about when you could make the two steps north.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You could first try to find the answer if the grid was 2 by 3 and 2 by 4.",
+    "text": "You could first try to find the answer if the grid was 2 by 3 and 2 by 4.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This puzzle is all about finding the number of ways of choosing r items from a choice of n items when the order doesn't matter. The mathematical word for this is combinations, and there is a formula for finding them: ⁿCᵣ = n! ∕ (r!×(n - r)!)",
+    "text": "This puzzle is all about finding the number of ways of choosing r items from a choice of n items when the order doesn't matter. The mathematical word for this is combinations, and there is a formula for finding them: ⁿCᵣ = n! ∕ (r!×(n - r)!)",
+    "type": "text"
+  },
+  {
+    "SourceText": "In this formula n! = n×(n - 1)×(n - 2)×...×1.",
+    "text": "In this formula n! = n×(n - 1)×(n - 2)×...×1.",
+    "type": "text"
+  },
+  {
+    "SourceText": "In how many ways could you reach your school if it were further away in the top right of a 2 by 10 grid?",
+    "text": "In how many ways could you reach your school if it were further away in the top right of a 2 by 10 grid?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about the strategy you used to answer the previous question and try to generalise in the case the school is in the top right (north-east) of a 2 by n grid.",
+    "text": "Think about the strategy you used to answer the previous question and try to generalise in the case the school is in the top right (north-east) of a 2 by n grid.",
+    "type": "text"
+  },
+  {
+    "SourceText": "In how many ways could you reach your school if it were in the top right of a 4 by 5 grid?",
+    "text": "In how many ways could you reach your school if it were in the top right of a 4 by 5 grid?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about how many ways there are to go the four steps north. Be careful not to count the same paths too many times.",
+    "text": "Think about how many ways there are to go the four steps north. Be careful not to count the same paths too many times.",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many different ways can you lay 6 paving slabs, each 2 meters by 1 meter, to make a path 2 meters wide and 6 meters long from my back door into my garden, without cutting any of the paving slabs?",
+    "text": "How many different ways can you lay 6 paving slabs, each 2 meters by 1 meter, to make a path 2 meters wide and 6 meters long from my back door into my garden, without cutting any of the paving slabs?",
+    "type": "text"
+  },
+  {
+    "SourceText": "In how many different ways can you do that in case you had fewer paving slabs for a shorter path? Think about a good strategy to classify different ways. For example, how many ways can you have 2 pairs of slabs lengthwise?",
+    "text": "In how many different ways can you do that in case you had fewer paving slabs for a shorter path? Think about a good strategy to classify different ways. For example, how many ways can you have 2 pairs of slabs lengthwise?",
+    "type": "text"
+  },
+  {
+    "SourceText": "The sequence of numbers in this puzzle are part of the Fibonacci sequence:",
+    "text": "The sequence of numbers in this puzzle are part of the Fibonacci sequence:",
+    "type": "text"
+  },
+  {
+    "SourceText": "0, 1, 1, 2, 3, 5, 8, 13, 21, 34,... It is easy to find the next number by adding the previous two numbers, but you can also find numbers in the sequence directly using this formula:",
+    "text": "0, 1, 1, 2, 3, 5, 8, 13, 21, 34,... It is easy to find the next number by adding the previous two numbers, but you can also find numbers in the sequence directly using this formula:",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many different ways can you lay the 11 paving slabs of the same type to make a path 2 meters wide and 11 meters long, without cutting any of the paving slabs?",
+    "text": "How many different ways can you lay the 11 paving slabs of the same type to make a path 2 meters wide and 11 meters long, without cutting any of the paving slabs?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Counting explicitly might be too long. Can you come up with a way to reduce the problem in simpler cases you have already counted?",
+    "text": "Counting explicitly might be too long. Can you come up with a way to reduce the problem in simpler cases you have already counted?",
+    "type": "text"
+  },
+  {
+    "SourceText": "For all the paths built with a number of slabs between 1 and 30 inclusive, how many of these will have an odd number of ways of building them?",
+    "text": "For all the paths built with a number of slabs between 1 and 30 inclusive, how many of these will have an odd number of ways of building them?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is the biggest number of pieces of a circular cake you can obtain with 5 straight cuts? Cuts must be made on the top of the cake.",
+    "text": "What is the biggest number of pieces of a circular cake you can obtain with 5 straight cuts? Cuts must be made on the top of the cake.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Start with a small number of cuts, e.g. 1, 2, 3. How can you add another cut to get the biggest number of pieces? Remember it doesn't say that the pieces have to be the same size! What happens if many cuts pass through the same point?",
+    "text": "Start with a small number of cuts, e.g. 1, 2, 3. How can you add another cut to get the biggest number of pieces? Remember it doesn't say that the pieces have to be the same size! What happens if many cuts pass through the same point?",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you were allowed to cut the cake in any direction, not just from the top, with just three cuts you could cut it into 8 pieces (rather than only 6)!",
+    "text": "If you were allowed to cut the cake in any direction, not just from the top, with just three cuts you could cut it into 8 pieces (rather than only 6)!",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is the biggest number of pieces of cake you can obtain with 7 cuts?",
+    "text": "What is the biggest number of pieces of cake you can obtain with 7 cuts?",
+    "type": "text"
+  },
+  {
+    "SourceText": "As the number of cuts increases, drawing and counting might be too complicated: can you spot the pattern in the sequence of numbers obtained from previous examples? For 7 cuts, first work out the answer for 6 cuts and then use this result.",
+    "text": "As the number of cuts increases, drawing and counting might be too complicated: can you spot the pattern in the sequence of numbers obtained from previous examples? For 7 cuts, first work out the answer for 6 cuts and then use this result.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you work out the biggest number of pieces you can get with 99 cuts?",
+    "text": "Can you work out the biggest number of pieces you can get with 99 cuts?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Once you've found out the pattern, try to find a simple formula for the maximum number of pieces. Triangular numbers might help.",
+    "text": "Once you've found out the pattern, try to find a simple formula for the maximum number of pieces. Triangular numbers might help.",
+    "type": "text"
+  },
+  {
+    "SourceText": "In the final of a football cup the score was 5 - 2. In how many possible orders could the goals in the game be scored?",
+    "text": "In the final of a football cup the score was 5 - 2. In how many possible orders could the goals in the game be scored?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Imagine the sequence of all goals and think about the positions in the sequence in which the second football team can have scored their 2 goals. Try to find the answer in the cases the score was 3 - 2 or 4 - 2.",
+    "text": "Imagine the sequence of all goals and think about the positions in the sequence in which the second football team can have scored their 2 goals. Try to find the answer in the cases the score was 3 - 2 or 4 - 2.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Combinatorics is an area of mathematics primarily concerned with counting. Two big aspects of combinatorics are finding combinations and permutations. For combinations the order does not matter - like in our football example we didn't mind which order the away team scored the goals. For permutations the order does matter - for example there are six ways to arrange the digits 123.",
+    "text": "Combinatorics is an area of mathematics primarily concerned with counting. Two big aspects of combinatorics are finding combinations and permutations. For combinations the order does not matter - like in our football example we didn't mind which order the away team scored the goals. For permutations the order does matter - for example there are six ways to arrange the digits 123.",
+    "type": "text"
+  },
+  {
+    "SourceText": "In the final of a football cup the score was 6 - 2. In how many possible orders could the goals in the game be scored?",
+    "text": "In the final of a football cup the score was 6 - 2. In how many possible orders could the goals in the game be scored?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about the strategy you used to answer the previous question and try to generalise it for any number of goals scored by the first team.",
+    "text": "Think about the strategy you used to answer the previous question and try to generalise it for any number of goals scored by the first team.",
+    "type": "text"
+  },
+  {
+    "SourceText": "In the final of a football cup the score was 4 - 3. In how many possible orders could the goals in the game be scored?",
+    "text": "In the final of a football cup the score was 4 - 3. In how many possible orders could the goals in the game be scored?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about how many goals have been scored in total. In how many positions could the first goal of the second team be scored? The second? The third?",
+    "text": "Think about how many goals have been scored in total. In how many positions could the first goal of the second team be scored? The second? The third?",
+    "type": "text"
+  },
+  {
+    "SourceText": "At your friend's birthday there are 8 children. Each child shakes hands with all the others in the party. How many handshakes happened in total?",
+    "text": "At your friend's birthday there are 8 children. Each child shakes hands with all the others in the party. How many handshakes happened in total?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Start with a small number of children, e.g. 3, 4, or 5. What is the number of handshakes you have to add if another child joins the party?",
+    "text": "Start with a small number of children, e.g. 3, 4, or 5. What is the number of handshakes you have to add if another child joins the party?",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is a classic puzzle that has been around for many years. There are many problem-solving strategies that can be used to find the solution - act it out, draw a diagram, look for a pattern, solve a simpler problem, make an organized list, make a table, use logical reasoning, . . . . The solution has deep mathematical properties and is a key result in the field of combinatorics. The number of handshakes is always a triangular number. The first ten triangular numbers are 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, …",
+    "text": "This is a classic puzzle that has been around for many years. There are many problem-solving strategies that can be used to find the solution - act it out, draw a diagram, look for a pattern, solve a simpler problem, make an organized list, make a table, use logical reasoning, . . . . The solution has deep mathematical properties and is a key result in the field of combinatorics. The number of handshakes is always a triangular number. The first ten triangular numbers are 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, …",
+    "type": "text"
+  },
+  {
+    "SourceText": "The whole school came to the birthday party: there are now 100 children! How many handshakes happen?",
+    "text": "The whole school came to the birthday party: there are now 100 children! How many handshakes happen?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you find a formula for the number of handshakes when there are n children at the birthday party? Think about the strategy you used to answer the previous question and try to generalise it for any number of children.",
+    "text": "Can you find a formula for the number of handshakes when there are n children at the birthday party? Think about the strategy you used to answer the previous question and try to generalise it for any number of children.",
+    "type": "text"
+  },
+  {
+    "SourceText": "A bigger school had a party. There were 28680 handshakes! How many children were there?",
+    "text": "A bigger school had a party. There were 28680 handshakes! How many children were there?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try using the formula we have derived for the total number of handshakes for n children.",
+    "text": "Try using the formula we have derived for the total number of handshakes for n children.",
+    "type": "text"
+  },
+  {
+    "SourceText": "If 8 people are seated around a circular table, in how many ways can all of them be simultaneously shaking hands with another person at the table in such a way that none of the arms cross each other? (They have very long arms).",
+    "text": "If 8 people are seated around a circular table, in how many ways can all of them be simultaneously shaking hands with another person at the table in such a way that none of the arms cross each other? (They have very long arms).",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is the answer if there are just 2 people, or 4 people, or 6 people. Can you find a way of making the cases with fewer people help you count the cases with more people?",
+    "text": "What is the answer if there are just 2 people, or 4 people, or 6 people. Can you find a way of making the cases with fewer people help you count the cases with more people?",
+    "type": "text"
+  },
+  {
+    "SourceText": "The sequence of numbers we have discovered 1, 2, 5, 14, 42, ... are called Catalan numbers and they are crucial in the world of combinatorics. There is evidence of their use in China as far back as 1730, but they are named after the Belgian mathematician Eugène Charles Catalan (1814–1894).",
+    "text": "The sequence of numbers we have discovered 1, 2, 5, 14, 42, ... are called Catalan numbers and they are crucial in the world of combinatorics. There is evidence of their use in China as far back as 1730, but they are named after the Belgian mathematician Eugène Charles Catalan (1814–1894).",
+    "type": "text"
+  },
+  {
+    "SourceText": "What if we have 10 people at the table? It may be useful to use previous results to help you!",
+    "text": "What if we have 10 people at the table? It may be useful to use previous results to help you!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Counting explicitly might be too long. Can you come up with a way to reduce the problem in simpler cases you have already counted? Focus on when a fixed person shakes hands with another one: the problem splits into a left part and a right part where a lower number of people have to shake their hands.",
+    "text": "Counting explicitly might be too long. Can you come up with a way to reduce the problem in simpler cases you have already counted? Focus on when a fixed person shakes hands with another one: the problem splits into a left part and a right part where a lower number of people have to shake their hands.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What if we have 14 people at the table? Can you use previous results to calculate the number of ways they can shake hands?",
+    "text": "What if we have 14 people at the table? Can you use previous results to calculate the number of ways they can shake hands?",
+    "type": "text"
+  },
+  {
+    "SourceText": "You will need to first find the result for 12 people so that you can use this (and all your previous answers) to find the answer for 14.",
+    "text": "You will need to first find the result for 12 people so that you can use this (and all your previous answers) to find the answer for 14.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Consider the cake below – a six-sided hexagon. Now split it into triangles by cutting along diagonals which can only meet at the vertices, one example is given in red. This splitting into triangles is called a triangulation, in how many ways can you do this?",
+    "text": "Consider the cake below – a six-sided hexagon. Now split it into triangles by cutting along diagonals which can only meet at the vertices, one example is given in red. This splitting into triangles is called a triangulation, in how many ways can you do this?",
+    "type": "text"
+  },
+  {
+    "SourceText": "In how many ways could you do it if the cake were a square? What if it were a five-sided pentagon? Can you use the symmetries of your cake to count faster?",
+    "text": "In how many ways could you do it if the cake were a square? What if it were a five-sided pentagon? Can you use the symmetries of your cake to count faster?",
+    "type": "text"
+  },
+  {
+    "SourceText": "These Cₙ are called Catalan numbers and they are crucial in the world of combinatorics. There is an explicit formula for them, but finding it goes much beyond our scopes: the above recursive definition is more than enough for now! Interestingly there are many different puzzles that lead to these numbers (more than 200!) … perhaps you have seen another puzzle with the same answers?",
+    "text": "These Cₙ are called Catalan numbers and they are crucial in the world of combinatorics. There is an explicit formula for them, but finding it goes much beyond our scopes: the above recursive definition is more than enough for now! Interestingly there are many different puzzles that lead to these numbers (more than 200!) … perhaps you have seen another puzzle with the same answers?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you find the answer to the same question if the cake has the shape of a seven-sided heptagon?",
+    "text": "Can you find the answer to the same question if the cake has the shape of a seven-sided heptagon?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you reuse previous results to compute this number? Counting explicitly might be too long. Can you come up with a way to reduce the problem in simpler cases you have already counted? Focus on when a fixed edge of the heptagon is present in a certain triangle. The heptagon is then split into two parts, the one at the left of the above triangle and the one at the right. Both parts are smaller...",
+    "text": "Can you reuse previous results to compute this number? Counting explicitly might be too long. Can you come up with a way to reduce the problem in simpler cases you have already counted? Focus on when a fixed edge of the heptagon is present in a certain triangle. The heptagon is then split into two parts, the one at the left of the above triangle and the one at the right. Both parts are smaller...",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you find the answer to the same question if the cake has the shape of a nine-sided nonagon?",
+    "text": "Can you find the answer to the same question if the cake has the shape of a nine-sided nonagon?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you use the formula to find the answer for an eight sided shape so that you have all the values you need to find the answer for a nine sided shape?",
+    "text": "Can you use the formula to find the answer for an eight sided shape so that you have all the values you need to find the answer for a nine sided shape?",
+    "type": "text"
+  },
+  {
+    "SourceText": "The integer 12 is the first abundant number. Its proper divisors (factors not including 12 itself)  are 1, 2, 3, 4, and 6 which add up to 16 which is more than 12.",
+    "text": "The integer 12 is the first abundant number. Its proper divisors (factors not including 12 itself)  are 1, 2, 3, 4, and 6 which add up to 16 which is more than 12.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You could make a 10 by 10 grid of the numbers 1 to 100 and colour in the abundant numbers.",
+    "text": "You could make a 10 by 10 grid of the numbers 1 to 100 and colour in the abundant numbers.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The first known classification of numbers as deficient, perfect or abundant was by Nicomachus in his Introductio Arithmetica (circa 100)",
+    "text": "The first known classification of numbers as deficient, perfect or abundant was by Nicomachus in his Introductio Arithmetica (circa 100)",
+    "type": "text"
+  },
+  {
+    "SourceText": "The next abundant number is 20, because the proper divisors of 20 are 1,2,4,5, and 10 which add up to 22. Can you explain why prime numbers can never be abundant?",
+    "text": "The next abundant number is 20, because the proper divisors of 20 are 1,2,4,5, and 10 which add up to 22. Can you explain why prime numbers can never be abundant?",
+    "type": "text"
+  },
+  {
+    "SourceText": "When you look at numbers found in real-world data sets, for most sets of numbers the first digit is more often a 1 than any other digit. 2 is a more common first digit than 3, and so on up to 9. In fact, the first digits often follow the same pattern (distribution).",
+    "text": "When you look at numbers found in real-world data sets, for most sets of numbers the first digit is more often a 1 than any other digit. 2 is a more common first digit than 3, and so on up to 9. In fact, the first digits often follow the same pattern (distribution).",
+    "type": "text"
+  },
+  {
+    "SourceText": "Have a look at some data sets that span many orders of magnitude. For example, what are the first digits of: the first 100 prime numbers (or more!), the populations of the countries in Africa, the heights of the tallest buildings in the world?",
+    "text": "Have a look at some data sets that span many orders of magnitude. For example, what are the first digits of: the first 100 prime numbers (or more!), the populations of the countries in Africa, the heights of the tallest buildings in the world?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Benford's Law is used in the real world to check for fraud on big data sets. If they don't follow the law when they should, it is possible they have been falsified!",
+    "text": "Benford's Law is used in the real world to check for fraud on big data sets. If they don't follow the law when they should, it is possible they have been falsified!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Many data sets (for example, populations of countries, heights of buildings, stock prices) or famous sequences (Fibonnacci numbers, prime numbers) are spread over very different scales (orders of magnitude). Many of these big sets of data arise from decreasing power laws. A simple example might be",
+    "text": "Many data sets (for example, populations of countries, heights of buildings, stock prices) or famous sequences (Fibonnacci numbers, prime numbers) are spread over very different scales (orders of magnitude). Many of these big sets of data arise from decreasing power laws. A simple example might be",
+    "type": "text"
+  },
+  {
+    "SourceText": "y = k×10⁽⁻ᵃˣ⁾ where k, a > 0. Choosing a = 0.1 and k = 1000 gives the following:",
+    "text": "y = k×10⁽⁻ᵃˣ⁾ where k, a > 0. Choosing a = 0.1 and k = 1000 gives the following:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Power laws will look like a straight line on semi-log graph paper - where the y-axis is on a log-scale paper. We can show this by rewriting our formula for the power law y = k×10⁽⁻ᵃˣ⁾ = 10ᵇ×10⁽⁻ᵃˣ⁾ = 10⁽⁻ᵃˣ⁺ᵇ⁾ , and then applying a logarithm on both sides: log₁₀(y) = - a×x + b. This is the equation when the y-axis is on a log scale. The same example is shown below:",
+    "text": "Power laws will look like a straight line on semi-log graph paper - where the y-axis is on a log-scale paper. We can show this by rewriting our formula for the power law y = k×10⁽⁻ᵃˣ⁾ = 10ᵇ×10⁽⁻ᵃˣ⁾ = 10⁽⁻ᵃˣ⁺ᵇ⁾ , and then applying a logarithm on both sides: log₁₀(y) = - a×x + b. This is the equation when the y-axis is on a log scale. The same example is shown below:",
+    "type": "text"
+  },
+  {
+    "SourceText": "The horizontal lines represent 1, 2, 3, 4, …, 10, 20, 30, …, 100, 200, 300, … and note they are unevenly spaced on the y axis! The largest spaces are between 1 and 2, between 10 and 20, and between 100 and 200. The smallest spaces are between 9 and 10, 90 and 100.",
+    "text": "The horizontal lines represent 1, 2, 3, 4, …, 10, 20, 30, …, 100, 200, 300, … and note they are unevenly spaced on the y axis! The largest spaces are between 1 and 2, between 10 and 20, and between 100 and 200. The smallest spaces are between 9 and 10, 90 and 100.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try picking random values of x, and reading off corresponding values of y from our (power law) straight line. Because of the spacing of the horizontal lines we see that we are most likely to get a value of y with first digit 1, then we are next likely to get a value of y with a first digit 2, etc. These probabilities are what leads to Benford's Law.",
+    "text": "Try picking random values of x, and reading off corresponding values of y from our (power law) straight line. Because of the spacing of the horizontal lines we see that we are most likely to get a value of y with first digit 1, then we are next likely to get a value of y with a first digit 2, etc. These probabilities are what leads to Benford's Law.",
+    "type": "text"
+  },
+  {
+    "SourceText": "In a room of 23 people the probability that two people have the same birthday is more than 50%.",
+    "text": "In a room of 23 people the probability that two people have the same birthday is more than 50%.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The probability that two people have the same birthday is just 1 minus the probability of everyone's birthday being different.",
+    "text": "The probability that two people have the same birthday is just 1 minus the probability of everyone's birthday being different.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You should ask yourself the following questions:",
+    "text": "You should ask yourself the following questions:",
+    "type": "text"
+  },
+  {
+    "SourceText": "If we only have 2 people what is the probability their birthday is different?",
+    "text": "If we only have 2 people what is the probability their birthday is different?",
+    "type": "text"
+  },
+  {
+    "SourceText": "If we had 5 people, in how many ways can we select two to compare their birthdays?",
+    "text": "If we had 5 people, in how many ways can we select two to compare their birthdays?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What do we get if we use the same approach for 23 people?",
+    "text": "What do we get if we use the same approach for 23 people?",
+    "type": "text"
+  },
+  {
+    "SourceText": "This problem is not a paradox but it is counter-intuitive. The number of people needed seems surprisingly small, perhaps because we imagine ourselves as one of the people in the room and think of only 22 possibilities for a match, rather than thinking of the 253 different pairs of people in the room.",
+    "text": "This problem is not a paradox but it is counter-intuitive. The number of people needed seems surprisingly small, perhaps because we imagine ourselves as one of the people in the room and think of only 22 possibilities for a match, rather than thinking of the 253 different pairs of people in the room.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can extend the birthday problem - you would only need 88 people to have a greater than 50% chance of 3 people sharing a birthday.",
+    "text": "You can extend the birthday problem - you would only need 88 people to have a greater than 50% chance of 3 people sharing a birthday.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Have you experienced a surprising coincidence in your life?",
+    "text": "Have you experienced a surprising coincidence in your life?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Coincidences like meeting someone with exactly the same birthday as you are unlikely events on their own. However, as with the birthday problem, the number of events can increase exponentially meaning that in a group or over time it is more likely to have coincidences than not!",
+    "text": "Coincidences like meeting someone with exactly the same birthday as you are unlikely events on their own. However, as with the birthday problem, the number of events can increase exponentially meaning that in a group or over time it is more likely to have coincidences than not!",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you haven't had a coincidence yet don't worry if you keep looking it's unlikely that nothing unlikely will ever happen to you!",
+    "text": "If you haven't had a coincidence yet don't worry if you keep looking it's unlikely that nothing unlikely will ever happen to you!",
+    "type": "text"
+  },
+  {
+    "SourceText": "The probability of any 2 people having different birthdays is roughly 364 ∕ 365 there are 253 different pairs of people in a room of 23 people so the probability of them all having different birthdays is roughly 364 ∕ 365 to the power 253. This is 0.4995 slightly less than 50% so the probability of having 2 people in the room with the same birthday is just over 50%. Actually we should be including leap years but the result is still true if you do.",
+    "text": "The probability of any 2 people having different birthdays is roughly 364 ∕ 365 there are 253 different pairs of people in a room of 23 people so the probability of them all having different birthdays is roughly 364 ∕ 365 to the power 253. This is 0.4995 slightly less than 50% so the probability of having 2 people in the room with the same birthday is just over 50%. Actually we should be including leap years but the result is still true if you do.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think of a positive integer (whole number). If it is even, halve it. It if is odd, multiply it by 3 and add 1. Repeat the process with your new number and keep going. Stop if you get to the number 1. Nobody knows if a number exists that doesn't end up at 1.",
+    "text": "Think of a positive integer (whole number). If it is even, halve it. It if is odd, multiply it by 3 and add 1. Repeat the process with your new number and keep going. Stop if you get to the number 1. Nobody knows if a number exists that doesn't end up at 1.",
+    "type": "text"
+  },
+  {
+    "SourceText": "For example, if you choose the number 6 you would get this sequence 6, 3, 10, 5, 16, 8, 4, 2, 1. So it took 8 steps to get to 1. Try some numbers of your own.",
+    "text": "For example, if you choose the number 6 you would get this sequence 6, 3, 10, 5, 16, 8, 4, 2, 1. So it took 8 steps to get to 1. Try some numbers of your own.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The conjecture is named after Lothar Collatz, who introduced the idea in 1937, two years after receiving his doctorate. Many people since Collatz have tried to find a sequence that doesn't go to 1, or to prove that all sequences go to 1 and no one has succeeded. There is a prize of at least $2,000 dollars if you succeed! On the 8th of September 2019, Terence Tao produced a proof, using sampling of numbers, that almost all numbers eventually reach a value that is quite close to 1. Roughly speaking he proved that 99% of starting values greater than 1 quadrillion eventually reach a value below 200. This is a huge step forward for such a difficult problem!",
+    "text": "The conjecture is named after Lothar Collatz, who introduced the idea in 1937, two years after receiving his doctorate. Many people since Collatz have tried to find a sequence that doesn't go to 1, or to prove that all sequences go to 1 and no one has succeeded. There is a prize of at least $2,000 dollars if you succeed! On the 8th of September 2019, Terence Tao produced a proof, using sampling of numbers, that almost all numbers eventually reach a value that is quite close to 1. Roughly speaking he proved that 99% of starting values greater than 1 quadrillion eventually reach a value below 200. This is a huge step forward for such a difficult problem!",
+    "type": "text"
+  },
+  {
+    "SourceText": "This activity is interesting because it is easy to understand the rules and start generating sequences, but no one knows whether all numbers end up at 1; it is an unsolved problem in mathematics. The longest sequence for a number smaller than 100 is for 97, which takes 118 steps but finally gets to 1. The number just before, 96, only takes 12 steps! Using computers, all numbers up to roughly 2.95×10²⁰ have been checked and they all go to 1.",
+    "text": "This activity is interesting because it is easy to understand the rules and start generating sequences, but no one knows whether all numbers end up at 1; it is an unsolved problem in mathematics. The longest sequence for a number smaller than 100 is for 97, which takes 118 steps but finally gets to 1. The number just before, 96, only takes 12 steps! Using computers, all numbers up to roughly 2.95×10²⁰ have been checked and they all go to 1.",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you could fold a piece of paper on itself only 42 times, it would reach the Moon!",
+    "text": "If you could fold a piece of paper on itself only 42 times, it would reach the Moon!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Let us say that the paper thickness is about 0.1 millimeter (or 0.0039 inch). If you fold it once on itself, how thick would it be? What about it you fold it once more on itself? What about if you fold it 10 times?",
+    "text": "Let us say that the paper thickness is about 0.1 millimeter (or 0.0039 inch). If you fold it once on itself, how thick would it be? What about it you fold it once more on itself? What about if you fold it 10 times?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try to fold a piece paper 6 times, remember to fold it completely over itself at each repetition. Can you fold it a seventh time? An eighth? How far can you go? Maybe we need a larger piece of paper to begin with! It was thought for years that 7 was the maximum number of times a piece of paper could be folded, but in 2002 American teenager Britney Gallivan demonstrated that a sheet of paper can be folded 12 times, provided that it is long enough and thin enough.  Britney Gallivan demonstrated this by using a 1200m length of toilet paper, which provided her with both the length and thinness which she required.  Britney even came up with a formula that showed how long the piece of paper would have to be able to fold it n times:",
+    "text": "Try to fold a piece paper 6 times, remember to fold it completely over itself at each repetition. Can you fold it a seventh time? An eighth? How far can you go? Maybe we need a larger piece of paper to begin with! It was thought for years that 7 was the maximum number of times a piece of paper could be folded, but in 2002 American teenager Britney Gallivan demonstrated that a sheet of paper can be folded 12 times, provided that it is long enough and thin enough.  Britney Gallivan demonstrated this by using a 1200m length of toilet paper, which provided her with both the length and thinness which she required.  Britney even came up with a formula that showed how long the piece of paper would have to be able to fold it n times:",
+    "type": "text"
+  },
+  {
+    "SourceText": "L = π×t×(2ⁿ + 4)(2ⁿ - 1) ∕ 6",
+    "text": "L = π×t×(2ⁿ + 4)(2ⁿ - 1) ∕ 6",
+    "type": "text"
+  },
+  {
+    "SourceText": "L is the length of paper required, t is the thickness of the paper and n is how many folds you can make.",
+    "text": "L is the length of paper required, t is the thickness of the paper and n is how many folds you can make.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Ten years later in 2012 a group of students beat Britney's record by taking 16km of toilet roll and folding it in one direction 13 times.",
+    "text": "Ten years later in 2012 a group of students beat Britney's record by taking 16km of toilet roll and folding it in one direction 13 times.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The distance between the Earth and the Moon is a bit less than 400000 kilometers (or 250000 miles). For us the paper is 0.1 millimeter (mm) thick. If we fold the paper once, its thickness would be doubled, so it becomes 0.2mm. Folding it again gives 0.4mm. If we fold it 10 times, it becomes (0.1mm)×2¹⁰ (two to the power 10). Now, if we compute (0.1mm)×2⁴², the result is 440 000km!",
+    "text": "The distance between the Earth and the Moon is a bit less than 400000 kilometers (or 250000 miles). For us the paper is 0.1 millimeter (mm) thick. If we fold the paper once, its thickness would be doubled, so it becomes 0.2mm. Folding it again gives 0.4mm. If we fold it 10 times, it becomes (0.1mm)×2¹⁰ (two to the power 10). Now, if we compute (0.1mm)×2⁴², the result is 440 000km!",
+    "type": "text"
+  },
+  {
+    "SourceText": "It takes at most four colours to colour every map such that no two adjacent regions are the same colour.",
+    "text": "It takes at most four colours to colour every map such that no two adjacent regions are the same colour.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you colour a map of Africa with five colours so that no two countries that touch are filled in with the same colour? Can you also succeed with four colours? How about three colours?",
+    "text": "Can you colour a map of Africa with five colours so that no two countries that touch are filled in with the same colour? Can you also succeed with four colours? How about three colours?",
+    "type": "text"
+  },
+  {
+    "SourceText": "The proof of the four colour theorem was famously tricky, and comes from graph theory, where mathematicians investigate an equivalent problem of colouring vertices of a network so that no edge has endpoints the same colour. The original four-colour proof was attempted by Alfred Kempe in 1879, but unfortunately Percy John Heawood found an error 11 years later. However his work was not useless, as Percy was able to prove the five-colour theorem (that one can colour a map with no two adjacent regions the sample colour using at most 5 colours) based on Kempe's work. The four colour theorem was finally proved in 1976 by Kenneth Appel, Wolfgang Haken, and John Koch using a computer to check it. This was the first major theorem to be proved using a computer. They checked around 1500 configurations using about 1200 hours of computer time. Some people were sceptical about a proof using a computer but independent verification soon convinced everyone that the four colour theorem had finally been proved.",
+    "text": "The proof of the four colour theorem was famously tricky, and comes from graph theory, where mathematicians investigate an equivalent problem of colouring vertices of a network so that no edge has endpoints the same colour. The original four-colour proof was attempted by Alfred Kempe in 1879, but unfortunately Percy John Heawood found an error 11 years later. However his work was not useless, as Percy was able to prove the five-colour theorem (that one can colour a map with no two adjacent regions the sample colour using at most 5 colours) based on Kempe's work. The four colour theorem was finally proved in 1976 by Kenneth Appel, Wolfgang Haken, and John Koch using a computer to check it. This was the first major theorem to be proved using a computer. They checked around 1500 configurations using about 1200 hours of computer time. Some people were sceptical about a proof using a computer but independent verification soon convinced everyone that the four colour theorem had finally been proved.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The four color theorem says that given any separation of a plane into contiguous regions, producing a figure called a map, no more than four colours are required to colour the regions of the map so that no two adjacent regions have the same colour. We can see why it is not possible with three colours by looking at the situation around Rwanda:",
+    "text": "The four color theorem says that given any separation of a plane into contiguous regions, producing a figure called a map, no more than four colours are required to colour the regions of the map so that no two adjacent regions have the same colour. We can see why it is not possible with three colours by looking at the situation around Rwanda:",
+    "type": "text"
+  },
+  {
+    "SourceText": "If we try using red, blue and green we can get this far:",
+    "text": "If we try using red, blue and green we can get this far:",
+    "type": "text"
+  },
+  {
+    "SourceText": "But we can't colour Rwanda using red (because it shares a border with Uganda and Burundi) green (because of Tanzania) or blue (Democratic Republic of Congo). We definitely need another colour.",
+    "text": "But we can't colour Rwanda using red (because it shares a border with Uganda and Burundi) green (because of Tanzania) or blue (Democratic Republic of Congo). We definitely need another colour.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The proof that only four colours are needed is very tricky, but the extension will give you an insight into how it is done.",
+    "text": "The proof that only four colours are needed is very tricky, but the extension will give you an insight into how it is done.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Choose a four digit number where the digits are not all the same.",
+    "text": "Choose a four digit number where the digits are not all the same.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Rearrange the digits to get the largest and smallest numbers these digits can make.",
+    "text": "Rearrange the digits to get the largest and smallest numbers these digits can make.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Subtract the smallest number from the largest to get a new number, and carry on repeating the operation for each new number. You will always end up at the same number.",
+    "text": "Subtract the smallest number from the largest to get a new number, and carry on repeating the operation for each new number. You will always end up at the same number.",
+    "type": "text"
+  },
+  {
+    "SourceText": "For example if you start with 4252, you should do the calculation 5422 - 2245 = 3177. Then do 7731 - 1377 and keep going.",
+    "text": "For example if you start with 4252, you should do the calculation 5422 - 2245 = 3177. Then do 7731 - 1377 and keep going.",
+    "type": "text"
+  },
+  {
+    "SourceText": "D. R. Kaprekar (1905 - 1986) was an Indian school maths teacher who loved playing with numbers. He discovered a number of results in number theory and described various properties of numbers.",
+    "text": "D. R. Kaprekar (1905 - 1986) was an Indian school maths teacher who loved playing with numbers. He discovered a number of results in number theory and described various properties of numbers.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You always end up with the number 6174. This is known as Kaprekar's number. For example 5432 – 2345 = 3087",
+    "text": "You always end up with the number 6174. This is known as Kaprekar's number. For example 5432 – 2345 = 3087",
+    "type": "text"
+  },
+  {
+    "SourceText": "8730 – 0378 = 8352",
+    "text": "8730 – 0378 = 8352",
+    "type": "text"
+  },
+  {
+    "SourceText": "8532 – 2358 = 6174",
+    "text": "8532 – 2358 = 6174",
+    "type": "text"
+  },
+  {
+    "SourceText": "7641 – 1467 = 6174",
+    "text": "7641 – 1467 = 6174",
+    "type": "text"
+  },
+  {
+    "SourceText": "Take a positive integer (whole number). Reverse the digits to get a new number. Add the two numbers together. Repeat this process until you get a palindrome (a number that reads the same forwards and backwards).",
+    "text": "Take a positive integer (whole number). Reverse the digits to get a new number. Add the two numbers together. Repeat this process until you get a palindrome (a number that reads the same forwards and backwards).",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you find a starting number that doesn't end up at a palindrome? Nobody knows if this is possible.",
+    "text": "Can you find a starting number that doesn't end up at a palindrome? Nobody knows if this is possible.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Pick a positive integer (whole number), e.g. 57. Reverse the digits to get 75. Adding gives 57 +75 = 132. Then reverse this new number and add together. You get 132 + 231 = 353. This is a palindrome as it reads the same forwards as backwards, so we stop. Can you find a number that takes longer to reach a palindrome?",
+    "text": "Pick a positive integer (whole number), e.g. 57. Reverse the digits to get 75. Adding gives 57 +75 = 132. Then reverse this new number and add together. You get 132 + 231 = 353. This is a palindrome as it reads the same forwards as backwards, so we stop. Can you find a number that takes longer to reach a palindrome?",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you change the base of the problem to binary then 10110 (22 in decimal) is a Lychrel number. The name Lychrel comes from a rough anagram of Wade Van Landingham's girlfriend Cheryl.",
+    "text": "If you change the base of the problem to binary then 10110 (22 in decimal) is a Lychrel number. The name Lychrel comes from a rough anagram of Wade Van Landingham's girlfriend Cheryl.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Some numbers end up in a palindrome after one step, e.g. 243: 243 +342 = 585. Some take a bit longer, e.g. 87:",
+    "text": "Some numbers end up in a palindrome after one step, e.g. 243: 243 +342 = 585. Some take a bit longer, e.g. 87:",
+    "type": "text"
+  },
+  {
+    "SourceText": "87 + 78 = 165,",
+    "text": "87 + 78 = 165,",
+    "type": "text"
+  },
+  {
+    "SourceText": "165 +561 = 726,",
+    "text": "165 +561 = 726,",
+    "type": "text"
+  },
+  {
+    "SourceText": "726 + 627 = 1353,",
+    "text": "726 + 627 = 1353,",
+    "type": "text"
+  },
+  {
+    "SourceText": "1353 + 3531 = 4884.",
+    "text": "1353 + 3531 = 4884.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Some numbers take a very long time – 89 takes an unusually large 24 steps (the most of any number under 10,000) to reach the palindrome 8813200023188.",
+    "text": "Some numbers take a very long time – 89 takes an unusually large 24 steps (the most of any number under 10,000) to reach the palindrome 8813200023188.",
+    "type": "text"
+  },
+  {
+    "SourceText": "A number is called a Lychrel number if it never reaches a palindrome. No one has proved that a Lychrel number exists. One possibility is 196 - the first billion steps have been carried out by computers and it hasn't reached a palindrome… but this does not prove it never will!",
+    "text": "A number is called a Lychrel number if it never reaches a palindrome. No one has proved that a Lychrel number exists. One possibility is 196 - the first billion steps have been carried out by computers and it hasn't reached a palindrome… but this does not prove it never will!",
+    "type": "text"
+  },
+  {
+    "SourceText": "2201³ = 10662526601 is the only known palindromic cube whose root is not palindromic (a palindrome is a number that reads the same backwards as forwards).",
+    "text": "2201³ = 10662526601 is the only known palindromic cube whose root is not palindromic (a palindrome is a number that reads the same backwards as forwards).",
+    "type": "text"
+  },
+  {
+    "SourceText": "Take the number 1030301. It is a palindrome. It's cube root is 101, which is also a palindrome. Can you find other examples that are both palindromes? (Remember that all one digit numbers are palindromes!)",
+    "text": "Take the number 1030301. It is a palindrome. It's cube root is 101, which is also a palindrome. Can you find other examples that are both palindromes? (Remember that all one digit numbers are palindromes!)",
+    "type": "text"
+  },
+  {
+    "SourceText": "People have used computers to try and find another palindromic number whose cube root is not palindromic but no one has found one. This might be because there exists one that is bigger than the numbers that have been tested so far, or it might be that no more exist.",
+    "text": "People have used computers to try and find another palindromic number whose cube root is not palindromic but no one has found one. This might be because there exists one that is bigger than the numbers that have been tested so far, or it might be that no more exist.",
+    "type": "text"
+  },
+  {
+    "SourceText": "According to the On-line Encyclopedia of Integer Sequences, The sequence of positive integers whose cube is palindromic begins:",
+    "text": "According to the On-line Encyclopedia of Integer Sequences, The sequence of positive integers whose cube is palindromic begins:",
+    "type": "text"
+  },
+  {
+    "SourceText": "1, 2, 7, 11, 101, 111, 1001, 2201, 10001, 10101, …",
+    "text": "1, 2, 7, 11, 101, 111, 1001, 2201, 10001, 10101, …",
+    "type": "text"
+  },
+  {
+    "SourceText": "The corresponding sequence of palindromic cubes begins:",
+    "text": "The corresponding sequence of palindromic cubes begins:",
+    "type": "text"
+  },
+  {
+    "SourceText": "1, 8, 343, 1331, 1030301, 1367631, 1003003001, 10662526601, 1000300030001, …",
+    "text": "1, 8, 343, 1331, 1030301, 1367631, 1003003001, 10662526601, 1000300030001, …",
+    "type": "text"
+  },
+  {
+    "SourceText": "2201 is the smallest (and only one one known so far) which is itself non-palindromic.",
+    "text": "2201 is the smallest (and only one one known so far) which is itself non-palindromic.",
+    "type": "text"
+  },
+  {
+    "SourceText": "73939133 is the largest prime number that, if you keep removing digits from the right, will always leave a prime number.",
+    "text": "73939133 is the largest prime number that, if you keep removing digits from the right, will always leave a prime number.",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you take away the last digit the number would be 7393913, which is a prime number. Keep going ...",
+    "text": "If you take away the last digit the number would be 7393913, which is a prime number. Keep going ...",
+    "type": "text"
+  },
+  {
+    "SourceText": "Interestingly there are 4260 left-truncatable primes but only 83 right-truncatable primes. If you repeatedly remove the first and last digit of a prime number and it stays prime, it is called a left-and-right-truncatable prime. There are 920720315 of those!",
+    "text": "Interestingly there are 4260 left-truncatable primes but only 83 right-truncatable primes. If you repeatedly remove the first and last digit of a prime number and it stays prime, it is called a left-and-right-truncatable prime. There are 920720315 of those!",
+    "type": "text"
+  },
+  {
+    "SourceText": "A right-truncatable prime is a prime number that remains a prime when you successively remove the last digit. We can look for the biggest right-truncatable prime by starting with the one digit primes 2, 3, 5, and 7. Then try to add another digit to the right of these so that the new numbers are also prime. We could have 23, 29, 31, 37, 53, 59, 71, 73, and 79. Now we try to add another digit. We could have 233, 239, 293, 311, 313, 317, 373, 379, 593, 599, 719, 733, 739, and 797. If we keep going with this process we end up with these eight digit numbers 23399339, 29399999, 37337999, 59393339, and 73939133. There are no nine digit prime numbers that start with any of these eight digits so the biggest right-truncatable number is 73939133.",
+    "text": "A right-truncatable prime is a prime number that remains a prime when you successively remove the last digit. We can look for the biggest right-truncatable prime by starting with the one digit primes 2, 3, 5, and 7. Then try to add another digit to the right of these so that the new numbers are also prime. We could have 23, 29, 31, 37, 53, 59, 71, 73, and 79. Now we try to add another digit. We could have 233, 239, 293, 311, 313, 317, 373, 379, 593, 599, 719, 733, 739, and 797. If we keep going with this process we end up with these eight digit numbers 23399339, 29399999, 37337999, 59393339, and 73939133. There are no nine digit prime numbers that start with any of these eight digits so the biggest right-truncatable number is 73939133.",
+    "type": "text"
+  },
+  {
+    "SourceText": "1729 is the smallest number expressible as a sum of two cube numbers in two different ways",
+    "text": "1729 is the smallest number expressible as a sum of two cube numbers in two different ways",
+    "type": "text"
+  },
+  {
+    "SourceText": "72 can be expressed as 2³ + 4³ but it is the only way with two positive cubes. Can you find the two ways to make 1729?",
+    "text": "72 can be expressed as 2³ + 4³ but it is the only way with two positive cubes. Can you find the two ways to make 1729?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Bernard Frénicle de Bessy wrote about the number 1729 in 1657, but it was made popular by G. H. Hardy telling a story about Srinivasa Ramanujan in about 1919: \"I remember once going to see him when he was ill at Putney. I had ridden in taxi cab number 1729 and remarked that the number seemed to me rather a dull one, and that I hoped it was not an unfavourable omen. \"No,\" he replied, \"it is a very interesting number; it is the smallest number expressible as the sum of two cubes in two different ways.\" 1729 is now called a \"taxicab\" number. It is the second taxi cab number. The first is 2 because it is the smallest number that can be written in one way as the sum of two cubes. 87539319 is the third taxi cab number because it is the smallest number that can be written in three different ways as the sum of two cubes. No one knows what the taxicab numbers are above the 6th one.",
+    "text": "Bernard Frénicle de Bessy wrote about the number 1729 in 1657, but it was made popular by G. H. Hardy telling a story about Srinivasa Ramanujan in about 1919: \"I remember once going to see him when he was ill at Putney. I had ridden in taxi cab number 1729 and remarked that the number seemed to me rather a dull one, and that I hoped it was not an unfavourable omen. \"No,\" he replied, \"it is a very interesting number; it is the smallest number expressible as the sum of two cubes in two different ways.\" 1729 is now called a \"taxicab\" number. It is the second taxi cab number. The first is 2 because it is the smallest number that can be written in one way as the sum of two cubes. 87539319 is the third taxi cab number because it is the smallest number that can be written in three different ways as the sum of two cubes. No one knows what the taxicab numbers are above the 6th one.",
+    "type": "text"
+  },
+  {
+    "SourceText": "1³ + 12³ = 1 + 1728 = 1729 and also 9³ + 10³ = 729 + 1000 = 1729",
+    "text": "1³ + 12³ = 1 + 1728 = 1729 and also 9³ + 10³ = 729 + 1000 = 1729",
+    "type": "text"
+  },
+  {
+    "SourceText": "If you shuffle a deck of cards properly, it's more than likely that the exact order of the cards you get has never been seen before in the whole history of the universe.",
+    "text": "If you shuffle a deck of cards properly, it's more than likely that the exact order of the cards you get has never been seen before in the whole history of the universe.",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many arrangements of the 52 cards can we have? Maybe this is too big to start with. Let's try out a smaller number of 3 cards, how many different arrangements can we have? Now try 4 cards?",
+    "text": "How many arrangements of the 52 cards can we have? Maybe this is too big to start with. Let's try out a smaller number of 3 cards, how many different arrangements can we have? Now try 4 cards?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can we now use this to get to the 52 cards?",
+    "text": "Can we now use this to get to the 52 cards?",
+    "type": "text"
+  },
+  {
+    "SourceText": "52! is around 8×10⁶⁷. If someone shuffled a deck of cards once per second since the beginning of the universe (let's say around 14 billion years ago) they would only have shuffled the deck 10¹⁸ times.",
+    "text": "52! is around 8×10⁶⁷. If someone shuffled a deck of cards once per second since the beginning of the universe (let's say around 14 billion years ago) they would only have shuffled the deck 10¹⁸ times.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Therefore when you shuffle a deck, it is almost certain that you are the first person to play with the cards in exactly that order.",
+    "text": "Therefore when you shuffle a deck, it is almost certain that you are the first person to play with the cards in exactly that order.",
+    "type": "text"
+  },
+  {
+    "SourceText": "We want to work out how many different combinations of 52 cards there are. Let us start with thinking about just 3 cards. We could compare this to thinking about the number of ways 3 people could sit in three numbered chairs. Any of the three people could sit on the first chair, then either of the 2 remaining people could sit on the second chair and then there is 1 person left who would have no choice but to sit on the only remaining chair. We can multiply the number of choices for each chair (3×2×1 = 6) to find how many different ways there are for the 3 people to be arranged. It is interesting to note that the pattern here is taking the initial number then multiplying consecutively by the next smallest integer until you reach 1. This process has a name, it is called Factorial. The symbol for it is !. e.g. 3! = 6. Generally if you want to find the number of different ways you can rearrange n items, you can find n! = n!×(n - 1)!×(n - 2)!×…×1 The number of ways to shuffle 52 cards is 52! = 52×51×50×…×3×2×1 which is roughly equal to  8×10⁶⁷",
+    "text": "We want to work out how many different combinations of 52 cards there are. Let us start with thinking about just 3 cards. We could compare this to thinking about the number of ways 3 people could sit in three numbered chairs. Any of the three people could sit on the first chair, then either of the 2 remaining people could sit on the second chair and then there is 1 person left who would have no choice but to sit on the only remaining chair. We can multiply the number of choices for each chair (3×2×1 = 6) to find how many different ways there are for the 3 people to be arranged. It is interesting to note that the pattern here is taking the initial number then multiplying consecutively by the next smallest integer until you reach 1. This process has a name, it is called Factorial. The symbol for it is !. e.g. 3! = 6. Generally if you want to find the number of different ways you can rearrange n items, you can find n! = n!×(n - 1)!×(n - 2)!×…×1 The number of ways to shuffle 52 cards is 52! = 52×51×50×…×3×2×1 which is roughly equal to  8×10⁶⁷",
+    "type": "text"
+  },
+  {
+    "SourceText": "The first six triangular numbers are 1, 3, 6, 10, and 15",
+    "text": "The first six triangular numbers are 1, 3, 6, 10, and 15",
+    "type": "text"
+  },
+  {
+    "SourceText": "The first six square numbers are 1, 4, 9, 16, and 25",
+    "text": "The first six square numbers are 1, 4, 9, 16, and 25",
+    "type": "text"
+  },
+  {
+    "SourceText": "Any square number bigger than 1 is the sum of two consecutive triangular numbers.",
+    "text": "Any square number bigger than 1 is the sum of two consecutive triangular numbers.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Triangular numbers can be drawn with dots in the shape of a triangle. Square numbers can be drawn with dots in the shape of a square grid. See if you can work this one out visually first. Can you express it algebraically as well?",
+    "text": "Triangular numbers can be drawn with dots in the shape of a triangle. Square numbers can be drawn with dots in the shape of a square grid. See if you can work this one out visually first. Can you express it algebraically as well?",
+    "type": "text"
+  },
+  {
+    "SourceText": "The formula for the nᵗʰ triangular number is also exactly equal to the summation 1 + 2 + 3 + … + n and so it is a quick way to add up lists of consecutive numbers! This formula was written down by the Irish monk Dicuil in about 816AD but was possibly already known to the Pythagoreans in the 5th century BC.",
+    "text": "The formula for the nᵗʰ triangular number is also exactly equal to the summation 1 + 2 + 3 + … + n and so it is a quick way to add up lists of consecutive numbers! This formula was written down by the Irish monk Dicuil in about 816AD but was possibly already known to the Pythagoreans in the 5th century BC.",
+    "type": "text"
+  },
+  {
+    "SourceText": "We first show this visually, in the image below you can see that 4 = 1 + 3,  9 = 3 + 6, 16 = 6 + 10, and 25 = 10 + 15.",
+    "text": "We first show this visually, in the image below you can see that 4 = 1 + 3,  9 = 3 + 6, 16 = 6 + 10, and 25 = 10 + 15.",
+    "type": "text"
+  },
+  {
+    "SourceText": "If we take T = triangular and S = square, then we can draw the S-number as an S-grid of points, the smaller T-number forms the upper T of points, the larger T-number forms the lower T AND the diagonal of points.",
+    "text": "If we take T = triangular and S = square, then we can draw the S-number as an S-grid of points, the smaller T-number forms the upper T of points, the larger T-number forms the lower T AND the diagonal of points.",
+    "type": "text"
+  },
+  {
+    "SourceText": "These are consecutive triangular numbers making a square.",
+    "text": "These are consecutive triangular numbers making a square.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The side length in points of the bigger T-number is the square root of the S-number.",
+    "text": "The side length in points of the bigger T-number is the square root of the S-number.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Card Sums",
+    "text": "Card Sums",
+    "type": "text"
+  },
+  {
+    "SourceText": "Remove the 10, J, Q, K, and Joker cards and shuffle the rest of the pack.",
+    "text": "Remove the 10, J, Q, K, and Joker cards and shuffle the rest of the pack.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Any number of players can play. Deal 6 cards face up on a table. Everyone has 1 minute to decide how to set them out in the layout above to make the biggest total of the two multiplications. A counts as 1. The player with the highest score wins.",
+    "text": "Any number of players can play. Deal 6 cards face up on a table. Everyone has 1 minute to decide how to set them out in the layout above to make the biggest total of the two multiplications. A counts as 1. The player with the highest score wins.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Enjoy playing the game and remember to think strategically, it’s not a game of luck!",
+    "text": "Enjoy playing the game and remember to think strategically, it’s not a game of luck!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about where it is going to be best to place the biggest numbers.",
+    "text": "Think about where it is going to be best to place the biggest numbers.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It might help if everyone has pen and paper. After one minute, everyone says their highest total. The person who says the highest number explains how they came to that number, by arranging the cards. If they are correct they win a point, if incorrect, the person with the next highest total attempts to justify their answer. If two people have the same answer they get a point each.",
+    "text": "It might help if everyone has pen and paper. After one minute, everyone says their highest total. The person who says the highest number explains how they came to that number, by arranging the cards. If they are correct they win a point, if incorrect, the person with the next highest total attempts to justify their answer. If two people have the same answer they get a point each.",
+    "type": "text"
+  },
+  {
+    "SourceText": "These games feature in Andrew Jeffrey's Leader of the Pack book - which has 52 games and activities to do with a deck of cards. There is a perfect strategy to the main game.",
+    "text": "These games feature in Andrew Jeffrey's Leader of the Pack book - which has 52 games and activities to do with a deck of cards. There is a perfect strategy to the main game.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Fifteen",
+    "text": "Fifteen",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is a game for two players (or a group split into two teams). Take the A and 2 to 9 cards of any suit and place them face up in order. A = 1 in this game. Take it in turns to choose one of the cards and place it in front of you. To win, be the first player to hold exactly three cards that add up to 15. You can have more than three cards, but you only win if three of them make 15.",
+    "text": "This is a game for two players (or a group split into two teams). Take the A and 2 to 9 cards of any suit and place them face up in order. A = 1 in this game. Take it in turns to choose one of the cards and place it in front of you. To win, be the first player to hold exactly three cards that add up to 15. You can have more than three cards, but you only win if three of them make 15.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Write down all the combinations of three numbers that add up to 15. How can you be sure that you have found all the combinations? Which numbers appear in 2, 3, and 4 of these combinations?",
+    "text": "Write down all the combinations of three numbers that add up to 15. How can you be sure that you have found all the combinations? Which numbers appear in 2, 3, and 4 of these combinations?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about other games you might have played that this is similar to. Is it an advantage to go first or second?",
+    "text": "Think about other games you might have played that this is similar to. Is it an advantage to go first or second?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Remember you can't use two numbers to make 15, you can't use four numbers, it must be three numbers. You can have more than three cards in your hand and use only 3 of them. The game is a draw if all the cards have been chosen and nobody can make 15.",
+    "text": "Remember you can't use two numbers to make 15, you can't use four numbers, it must be three numbers. You can have more than three cards in your hand and use only 3 of them. The game is a draw if all the cards have been chosen and nobody can make 15.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This game is interesting because it is the same as the game tic-tac-toe/naughts and crosses. The technical term for this is isomorphic. In mathematics it is often helpful, when faced with a new problem, to relate it to one you already know how to solve.",
+    "text": "This game is interesting because it is the same as the game tic-tac-toe/naughts and crosses. The technical term for this is isomorphic. In mathematics it is often helpful, when faced with a new problem, to relate it to one you already know how to solve.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Gomoku",
+    "text": "Gomoku",
+    "type": "text"
+  },
+  {
+    "SourceText": "Start by drawing a square grid of 15 by 15 lines. Two players take it in turns to place a counter on any point where lines cross. The player who gets five of their counters in a straight line wins. The line can be vertical, horizontal or diagonal.",
+    "text": "Start by drawing a square grid of 15 by 15 lines. Two players take it in turns to place a counter on any point where lines cross. The player who gets five of their counters in a straight line wins. The line can be vertical, horizontal or diagonal.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is very important to be watching your opponents moves as well as trying to make a line of 5 yourself. If your opponent has three in a row with nothing at either end - this is called \"open 3\" - then it is a good idea to use your turn to block one end. If they manage to get \"open 4\" you have certainly lost! A good attacking strategy might be to aim for two overlapping lines of open 3s - like a cross - so that it is very hard for your opponent to defend.",
+    "text": "It is very important to be watching your opponents moves as well as trying to make a line of 5 yourself. If your opponent has three in a row with nothing at either end - this is called \"open 3\" - then it is a good idea to use your turn to block one end. If they manage to get \"open 4\" you have certainly lost! A good attacking strategy might be to aim for two overlapping lines of open 3s - like a cross - so that it is very hard for your opponent to defend.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This game is traditionally played with black and white counters, but you could use any different counters, or little pieces of paper. You could also draw the grid in pen and then use pencil to mark x or o for each player and then rub them out when you are finished to be able to use the grid again.",
+    "text": "This game is traditionally played with black and white counters, but you could use any different counters, or little pieces of paper. You could also draw the grid in pen and then use pencil to mark x or o for each player and then rub them out when you are finished to be able to use the grid again.",
+    "type": "text"
+  },
+  {
+    "SourceText": "There is a World Championship tournament for Gomuku. Since 2009 it has used the Swap 2 rule to make it a fair game, no matter who starts. There are also championships for computers to play at Gomuku! So people write an artificial intelligence program and their program plays against someone else's program to see who wins. There are also computer vs. human competitions - in 2017 a computer called Yixin beat the world champion human player Rudolf Dupszki 2-0.",
+    "text": "There is a World Championship tournament for Gomuku. Since 2009 it has used the Swap 2 rule to make it a fair game, no matter who starts. There are also championships for computers to play at Gomuku! So people write an artificial intelligence program and their program plays against someone else's program to see who wins. There are also computer vs. human competitions - in 2017 a computer called Yixin beat the world champion human player Rudolf Dupszki 2-0.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Latin Squares",
+    "text": "Latin Squares",
+    "type": "text"
+  },
+  {
+    "SourceText": "Take the 16 J, Q, K and A cards from a pack. Try to put them in a 4 by 4 square so that each rank (J, Q, K, A) and each suit (Clubs, Diamonds, Hearts, Spades) appears only once in each row and column.",
+    "text": "Take the 16 J, Q, K and A cards from a pack. Try to put them in a 4 by 4 square so that each rank (J, Q, K, A) and each suit (Clubs, Diamonds, Hearts, Spades) appears only once in each row and column.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Start by ignoring the suits and try to get the ranks in a square so that each rank appears only once in every row and column.",
+    "text": "Start by ignoring the suits and try to get the ranks in a square so that each rank appears only once in every row and column.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This could be a one player puzzle or get a group of people to try it together as it is quite tricky!",
+    "text": "This could be a one player puzzle or get a group of people to try it together as it is quite tricky!",
+    "type": "text"
+  },
+  {
+    "SourceText": "This puzzle is an example of a Latin square. Interestingly, if the problem had involved 6 ranks of playing cards it would have been impossible. But with 7 ranks it is quite easy to find a solution. Latin squares are used in medical trials to ensure every participant is allocated to each treatment for the same time period to prove which is the best treatment.",
+    "text": "This puzzle is an example of a Latin square. Interestingly, if the problem had involved 6 ranks of playing cards it would have been impossible. But with 7 ranks it is quite easy to find a solution. Latin squares are used in medical trials to ensure every participant is allocated to each treatment for the same time period to prove which is the best treatment.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Mastermind",
+    "text": "Mastermind",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is a two player game. Player 1 secretly chooses four cards and puts them in a row face down. Player 2 has seven attempts to guess the suits (clubs, diamonds, hearts, spades) of these cards, in order. Player 2 guesses by laying four cards in a row face up. Player 1 looks at the suits, and tells them how many suits they guessed in the correct position (x), and how many other suits they have guessed correctly but in the wrong position (o). Player 2 uses this information to make a better guess next time.",
+    "text": "This is a two player game. Player 1 secretly chooses four cards and puts them in a row face down. Player 2 has seven attempts to guess the suits (clubs, diamonds, hearts, spades) of these cards, in order. Player 2 guesses by laying four cards in a row face up. Player 1 looks at the suits, and tells them how many suits they guessed in the correct position (x), and how many other suits they have guessed correctly but in the wrong position (o). Player 2 uses this information to make a better guess next time.",
+    "type": "text"
+  },
+  {
+    "SourceText": "For the guesser: Your first guess will be at random but after that you should be using logic to work out what the solution might be. One good strategy for beginners is just change one card at a time, but as you play more you may find a better optimal strategy.",
+    "text": "For the guesser: Your first guess will be at random but after that you should be using logic to work out what the solution might be. One good strategy for beginners is just change one card at a time, but as you play more you may find a better optimal strategy.",
+    "type": "text"
+  },
+  {
+    "SourceText": "For the setter: Think about whether it is best to have all the same suit, all different, or some the same.",
+    "text": "For the setter: Think about whether it is best to have all the same suit, all different, or some the same.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is how a game might work:",
+    "text": "Here is how a game might work:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Player 1 chooses 1) 4 of Hearts, 2) 3 of Clubs, 3) 8 of Spades, 4) 10 of Spades and places them face down.",
+    "text": "Player 1 chooses 1) 4 of Hearts, 2) 3 of Clubs, 3) 8 of Spades, 4) 10 of Spades and places them face down.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Player 2 lays down for example: 1) 6 of Hearts, 2) 4 of Spades, 3) J of Diamonds, 4) 3 of Spades.",
+    "text": "Player 2 lays down for example: 1) 6 of Hearts, 2) 4 of Spades, 3) J of Diamonds, 4) 3 of Spades.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Player 2 has three correct suits (Heart, Spade and Spade) and two in the correct position - 1) and 4) so Player 1 would say \"you have two in the correct position and one in the wrong position\", but doesn't say which ones - an easy way to record this would be xxo. Then player 2 would guess again. They might think that it was the last two cards that were perfectly correct, so keep these and guess a different first two. Recording the results on pen and paper will be necessary and would look like this:",
+    "text": "Player 2 has three correct suits (Heart, Spade and Spade) and two in the correct position - 1) and 4) so Player 1 would say \"you have two in the correct position and one in the wrong position\", but doesn't say which ones - an easy way to record this would be xxo. Then player 2 would guess again. They might think that it was the last two cards that were perfectly correct, so keep these and guess a different first two. Recording the results on pen and paper will be necessary and would look like this:",
+    "type": "text"
+  },
+  {
+    "SourceText": "HSDS  xxo",
+    "text": "HSDS  xxo",
+    "type": "text"
+  },
+  {
+    "SourceText": "CCDS  xoo",
+    "text": "CCDS  xoo",
+    "type": "text"
+  },
+  {
+    "SourceText": "Note that it is just the suits we are interested in, not the numbers. Player 1 is not saying which ones are correct, just saying how many are correct. Player 2 keeps guessing until all four are correct.",
+    "text": "Note that it is just the suits we are interested in, not the numbers. Player 1 is not saying which ones are correct, just saying how many are correct. Player 2 keeps guessing until all four are correct.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This game can be played with numbers, letters, symbols or colours as in the popular board game.",
+    "text": "This game can be played with numbers, letters, symbols or colours as in the popular board game.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Nim",
+    "text": "Nim",
+    "type": "text"
+  },
+  {
+    "SourceText": "|",
+    "text": "|",
+    "type": "text"
+  },
+  {
+    "SourceText": "| | |",
+    "text": "| | |",
+    "type": "text"
+  },
+  {
+    "SourceText": "| | | | |",
+    "text": "| | | | |",
+    "type": "text"
+  },
+  {
+    "SourceText": "Arrange 9 sticks in 3 rows as shown. Two players take it in turn to remove one or more sticks from a single row. The loser is the person to take the last stick. Can you find a winning strategy?",
+    "text": "Arrange 9 sticks in 3 rows as shown. Two players take it in turn to remove one or more sticks from a single row. The loser is the person to take the last stick. Can you find a winning strategy?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try to think a few moves ahead. For example if you can remove a stick to leave this pattern",
+    "text": "Try to think a few moves ahead. For example if you can remove a stick to leave this pattern",
+    "type": "text"
+  },
+  {
+    "SourceText": "| |",
+    "text": "| |",
+    "type": "text"
+  },
+  {
+    "SourceText": "then you will be able to win.",
+    "text": "then you will be able to win.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try to work out if it is better to go first or second.",
+    "text": "Try to work out if it is better to go first or second.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can remove as many sticks as you like each turn as long as they come from the same row. For example an opening move could be to take all 5 sticks from the bottom row. You must take at least one stick each turn. You are trying to leave just one stick left for your opponent to be forced to take and therefore lose the game.",
+    "text": "You can remove as many sticks as you like each turn as long as they come from the same row. For example an opening move could be to take all 5 sticks from the bottom row. You must take at least one stick each turn. You are trying to leave just one stick left for your opponent to be forced to take and therefore lose the game.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is an ancient game that owes its current name to Charles Bouton, who also developed a theory for how you can always play to win. His strategy involves binary numbers and can be found here https://plus.maths.org/content/play-win-nim. You can play different variations of the game (also called drips) online here https://wild.maths.org/tags/fun-drips",
+    "text": "This is an ancient game that owes its current name to Charles Bouton, who also developed a theory for how you can always play to win. His strategy involves binary numbers and can be found here https://plus.maths.org/content/play-win-nim. You can play different variations of the game (also called drips) online here https://wild.maths.org/tags/fun-drips",
+    "type": "text"
+  },
+  {
+    "SourceText": "Patience",
+    "text": "Patience",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is a one player game of patience. Lay out a grid of 8 cards in 2 rows of 4 cards, face up and hold the remaining cards. If you find two cards in the grid that sum to 11 you can put new cards from your hand on top of them. If you find the 3 picture cards (J, Q, and K) you can also put 3 new cards on top. The object of the game is to put down all the cards in your hand.",
+    "text": "This is a one player game of patience. Lay out a grid of 8 cards in 2 rows of 4 cards, face up and hold the remaining cards. If you find two cards in the grid that sum to 11 you can put new cards from your hand on top of them. If you find the 3 picture cards (J, Q, and K) you can also put 3 new cards on top. The object of the game is to put down all the cards in your hand.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This game is mostly luck - but you need to think carefully about how many J, Q and K you cover to win the final stage!",
+    "text": "This game is mostly luck - but you need to think carefully about how many J, Q and K you cover to win the final stage!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Remove the Jokers before starting. A has a value of 1 in this game. If you manage to play all your cards, the last stage of the game is to pick up pairs of piles of cards whose top cards add up to 11, or three piles whose top cards are J, Q, K. You have won the game if you can pick up all the cards. If you can't put down all your cards, count how many are left",
+    "text": "Remove the Jokers before starting. A has a value of 1 in this game. If you manage to play all your cards, the last stage of the game is to pick up pairs of piles of cards whose top cards add up to 11, or three piles whose top cards are J, Q, K. You have won the game if you can pick up all the cards. If you can't put down all your cards, count how many are left",
+    "type": "text"
+  },
+  {
+    "SourceText": "These types of games are often called Patience or Solitaire. Patience because you need a lot of patience to try and win, and Solitaire because you can play them on your own. Although many variations of Patience are down to chance, it is interesting to use mathematics to analyse the probability of winning.",
+    "text": "These types of games are often called Patience or Solitaire. Patience because you need a lot of patience to try and win, and Solitaire because you can play them on your own. Although many variations of Patience are down to chance, it is interesting to use mathematics to analyse the probability of winning.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Pong Hau K'i",
+    "text": "Pong Hau K'i",
+    "type": "text"
+  },
+  {
+    "SourceText": "Draw the grid shown with five points and seven connecting lines. Two players place two counters of the same colour/design in the grid as shown.",
+    "text": "Draw the grid shown with five points and seven connecting lines. Two players place two counters of the same colour/design in the grid as shown.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Decide who will go first. The first player moves one of their pieces to the centre point. Then players take turns moving a counter along a line to an empty point until one player cannot move a counter and loses.",
+    "text": "Decide who will go first. The first player moves one of their pieces to the centre point. Then players take turns moving a counter along a line to an empty point until one player cannot move a counter and loses.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about whether it is better to go first or second? What is the position you must achieve in order to block the other player?",
+    "text": "Think about whether it is better to go first or second? What is the position you must achieve in order to block the other player?",
+    "type": "text"
+  },
+  {
+    "SourceText": "If the same moves are repeated three times, you can decide the game is tied. Each time you play, you should change who goes first or swap starting positions (if you were in the top two positions the first time, take the bottom two positions next time).",
+    "text": "If the same moves are repeated three times, you can decide the game is tied. Each time you play, you should change who goes first or swap starting positions (if you were in the top two positions the first time, take the bottom two positions next time).",
+    "type": "text"
+  },
+  {
+    "SourceText": "Pong Hau K'i is a simple board game from China. It is also a traditional game in Korea, where it is known as Ou-moul-ko-no. Similar games are played in Togo. If both players play perfectly the game should end in a draw.",
+    "text": "Pong Hau K'i is a simple board game from China. It is also a traditional game in Korea, where it is known as Ou-moul-ko-no. Similar games are played in Togo. If both players play perfectly the game should end in a draw.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Sim",
+    "text": "Sim",
+    "type": "text"
+  },
+  {
+    "SourceText": "Draw six points in a hexagon. Players take turns to draw a straight line between any two points. Each player should use a different colour. Try to avoid making a triangle: the player that completes a triangle with their colour first loses the game.",
+    "text": "Draw six points in a hexagon. Players take turns to draw a straight line between any two points. Each player should use a different colour. Try to avoid making a triangle: the player that completes a triangle with their colour first loses the game.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try to make moves in a way that removes options from your opponent. You might want to try and complete triangles that are of mixed colour.",
+    "text": "Try to make moves in a way that removes options from your opponent. You might want to try and complete triangles that are of mixed colour.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You might want to draw all the possible lines between the points to start with and then colour over them. This would make the game a bit easier to play. If you don't have two different colours you could use solid and dotted lines for the two players.",
+    "text": "You might want to draw all the possible lines between the points to start with and then colour over them. This would make the game a bit easier to play. If you don't have two different colours you could use solid and dotted lines for the two players.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The Sim pencil game was invented in 1969 by Gustavus Simmons, a cryptographer, who described it in the Journal of Recreational Mathematics. Frank P. Ramsey proved that there always has to be a winner in this game by the \"Theorem on Friends and Strangers\". He showed that on completing all the edges of the graph, there must be one triangle that is all the same colour.",
+    "text": "The Sim pencil game was invented in 1969 by Gustavus Simmons, a cryptographer, who described it in the Journal of Recreational Mathematics. Frank P. Ramsey proved that there always has to be a winner in this game by the \"Theorem on Friends and Strangers\". He showed that on completing all the edges of the graph, there must be one triangle that is all the same colour.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Stop or Dare",
+    "text": "Stop or Dare",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is a game for two or three players. Shuffle the deck and place it face down. The first player turns over the top card and continues turning over cards, adding together the value of each card, until they decide to stop and record their score. J = 11 and Q = 12.",
+    "text": "This is a game for two or three players. Shuffle the deck and place it face down. The first player turns over the top card and continues turning over cards, adding together the value of each card, until they decide to stop and record their score. J = 11 and Q = 12.",
+    "type": "text"
+  },
+  {
+    "SourceText": "If an A or a K is turned over, no points are scored at all and the turn is finished.",
+    "text": "If an A or a K is turned over, no points are scored at all and the turn is finished.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Players take turns until someone reaches 100 or more - this player is the winner.",
+    "text": "Players take turns until someone reaches 100 or more - this player is the winner.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try and keep count of how many K and A cards have come up already. This could change how daring you are feeling. If someone else is close to 100 it might be best to turn over more cards than you would normally.",
+    "text": "Try and keep count of how many K and A cards have come up already. This could change how daring you are feeling. If someone else is close to 100 it might be best to turn over more cards than you would normally.",
+    "type": "text"
+  },
+  {
+    "SourceText": "If the cards are all turned over before the target is reached, just reshuffle the pack and continue.",
+    "text": "If the cards are all turned over before the target is reached, just reshuffle the pack and continue.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This game can also be played with Dice and is sometimes called Pig. There are one and two dice versions, and even a version where you can choose how many dice to throw rather than how many times to throw a set number of dice.",
+    "text": "This game can also be played with Dice and is sometimes called Pig. There are one and two dice versions, and even a version where you can choose how many dice to throw rather than how many times to throw a set number of dice.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Twenty-four",
+    "text": "Twenty-four",
+    "type": "text"
+  },
+  {
+    "SourceText": "Remove the 10, J, Q, K, and Joker cards from the deck. Shuffle the rest and deal four cards face up on the table so that every player can see them. Each player attempts to make the number 24 silently using all four numbers (A count as 1), and as many operations +, −, × and ÷ and brackets () as needed. The first person to give an answer with an explanation wins and keeps the 4 cards. Keep playing until there are no cards left.",
+    "text": "Remove the 10, J, Q, K, and Joker cards from the deck. Shuffle the rest and deal four cards face up on the table so that every player can see them. Each player attempts to make the number 24 silently using all four numbers (A count as 1), and as many operations +, −, × and ÷ and brackets () as needed. The first person to give an answer with an explanation wins and keeps the 4 cards. Keep playing until there are no cards left.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think of the factors of 24 to cover i.e, 1×24, 2×12, 3×8, and 4×6. If you have either of the factors in your list, say 1, 2, 3, 4, 6, 8, …  use the remaining numbers to make the other number, or use your numbers to create combinations.",
+    "text": "Think of the factors of 24 to cover i.e, 1×24, 2×12, 3×8, and 4×6. If you have either of the factors in your list, say 1, 2, 3, 4, 6, 8, …  use the remaining numbers to make the other number, or use your numbers to create combinations.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is a game for two or more players.",
+    "text": "This is a game for two or more players.",
+    "type": "text"
+  },
+  {
+    "SourceText": "A few combinations might be impossible. In this case, put the cards back and shuffle again to choose another 4.",
+    "text": "A few combinations might be impossible. In this case, put the cards back and shuffle again to choose another 4.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The number 24 is used because it has so many factors. However, an analysis of all the possible combinations of 4 cards shows that the number 2 would have been the best target number! 99.19% of the combinations could be solved, compared to 80.20% for 24. If you are allowed to use factorials (e.g. 3! = 3×2×1 = 6), then you can solve many more combinations for 24.",
+    "text": "The number 24 is used because it has so many factors. However, an analysis of all the possible combinations of 4 cards shows that the number 2 would have been the best target number! 99.19% of the combinations could be solved, compared to 80.20% for 24. If you are allowed to use factorials (e.g. 3! = 3×2×1 = 6), then you can solve many more combinations for 24.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Twenty-one",
+    "text": "Twenty-one",
+    "type": "text"
+  },
+  {
+    "SourceText": "Players take it in turn to count up, starting from 1 and saying 1, 2, or 3 numbers at a time. Continue counting from where the other player stops. The player who says 21 loses.",
+    "text": "Players take it in turn to count up, starting from 1 and saying 1, 2, or 3 numbers at a time. Continue counting from where the other player stops. The player who says 21 loses.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The person who says 20 wins, as they force the next person to say 21. How can you make sure you say 20? Try to work backwards. After you have played several times you might work out who is going to win before you reach 20 - think about how you know this. Can you work out if it is better to go first or second? Can you make sure you always win?",
+    "text": "The person who says 20 wins, as they force the next person to say 21. How can you make sure you say 20? Try to work backwards. After you have played several times you might work out who is going to win before you reach 20 - think about how you know this. Can you work out if it is better to go first or second? Can you make sure you always win?",
+    "type": "text"
+  },
+  {
+    "SourceText": "An example game: P1 = Player 1, P2 = Player 2.",
+    "text": "An example game: P1 = Player 1, P2 = Player 2.",
+    "type": "text"
+  },
+  {
+    "SourceText": "P1: 1,2,3       P2: 4",
+    "text": "P1: 1,2,3       P2: 4",
+    "type": "text"
+  },
+  {
+    "SourceText": "P1: 5,6          P2: 7,8,9",
+    "text": "P1: 5,6          P2: 7,8,9",
+    "type": "text"
+  },
+  {
+    "SourceText": "P1: 10           P2: 11,12,13",
+    "text": "P1: 10           P2: 11,12,13",
+    "type": "text"
+  },
+  {
+    "SourceText": "P1: 14,15,16 P2:17,18,19",
+    "text": "P1: 14,15,16 P2:17,18,19",
+    "type": "text"
+  },
+  {
+    "SourceText": "P1: 20           P2: 21",
+    "text": "P1: 20           P2: 21",
+    "type": "text"
+  },
+  {
+    "SourceText": "Player 1 wins!",
+    "text": "Player 1 wins!",
+    "type": "text"
+  },
+  {
+    "SourceText": "21 is a simple version of the set of games, Nim. It is sometimes called a Misère game - meaning a game that you play to lose. It is thought to have originated in China and is first mentioned in European history at the start of the 16ᵗʰ century. The game was originally played with 21 stones, and you have to pick 1, 2, or 3 stones at a time and the loser is the last one to pick a stone.",
+    "text": "21 is a simple version of the set of games, Nim. It is sometimes called a Misère game - meaning a game that you play to lose. It is thought to have originated in China and is first mentioned in European history at the start of the 16ᵗʰ century. The game was originally played with 21 stones, and you have to pick 1, 2, or 3 stones at a time and the loser is the last one to pick a stone.",
+    "type": "text"
+  },
+  {
+    "SourceText": "WinTwoThreeFour",
+    "text": "WinTwoThreeFour",
+    "type": "text"
+  },
+  {
+    "SourceText": "Remove the 10, J, Q, K, and Jokers. Deal each player 9 cards. Players secretly arrange their cards to make a 4-digit number, a 3-digit number and a 2-digit number. All at once, the players show their three numbers.",
+    "text": "Remove the 10, J, Q, K, and Jokers. Deal each player 9 cards. Players secretly arrange their cards to make a 4-digit number, a 3-digit number and a 2-digit number. All at once, the players show their three numbers.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The biggest 2-digit number gets 2 points, biggest 3-digit gets 3 points, biggest 4-digit gets 4 points. If there is a tie then the points are split between the players.",
+    "text": "The biggest 2-digit number gets 2 points, biggest 3-digit gets 3 points, biggest 4-digit gets 4 points. If there is a tie then the points are split between the players.",
+    "type": "text"
+  },
+  {
+    "SourceText": "It is tempting to focus on making your 4 digit number as big as possible, but maybe everyone else is trying to do this too! It is important to watch how your opponents are playing and try and adapt your strategy to beat them.",
+    "text": "It is tempting to focus on making your 4 digit number as big as possible, but maybe everyone else is trying to do this too! It is important to watch how your opponents are playing and try and adapt your strategy to beat them.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You could play a certain number of rounds or play until a player gets to a certain score, e.g. 25.",
+    "text": "You could play a certain number of rounds or play until a player gets to a certain score, e.g. 25.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This game featured in Andrew Jeffrey's Leader of the Pack book - which has 52 games and activities to do with a deck of cards. It is simple to understand the rules but very interesting to try and find a strategy to win.",
+    "text": "This game featured in Andrew Jeffrey's Leader of the Pack book - which has 52 games and activities to do with a deck of cards. It is simple to understand the rules but very interesting to try and find a strategy to win.",
+    "type": "text"
+  },
+  {
+    "SourceText": "In the sum CAR + CAT = RARE each letter represents a different digit from 0 to 9. What is the value of the word RARE?",
+    "text": "In the sum CAR + CAT = RARE each letter represents a different digit from 0 to 9. What is the value of the word RARE?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What digit must the letter R represent? If you add two 3-digit numbers together, what is the largest sum you could make?",
+    "text": "What digit must the letter R represent? If you add two 3-digit numbers together, what is the largest sum you could make?",
+    "type": "text"
+  },
+  {
+    "SourceText": "These types of puzzles are called 'Cryptarithms' or 'Verbal Arithmetic'. The most classic example was published in the July 1924 issue of Strand Magazine by English mathematician Henry Dudeney.",
+    "text": "These types of puzzles are called 'Cryptarithms' or 'Verbal Arithmetic'. The most classic example was published in the July 1924 issue of Strand Magazine by English mathematician Henry Dudeney.",
+    "type": "text"
+  },
+  {
+    "SourceText": "SEND + MORE = MONEY",
+    "text": "SEND + MORE = MONEY",
+    "type": "text"
+  },
+  {
+    "SourceText": "Given the potentially large number of possibilities, computer programs are often used to generate and solve these types of puzzles.",
+    "text": "Given the potentially large number of possibilities, computer programs are often used to generate and solve these types of puzzles.",
+    "type": "text"
+  },
+  {
+    "SourceText": "In the sum TWO + TWO = FOUR each letter represents a different digit from 0 to 9. There are 7 different solutions to this sum. For these 7 solutions, what is the largest value of the word FOUR?",
+    "text": "In the sum TWO + TWO = FOUR each letter represents a different digit from 0 to 9. There are 7 different solutions to this sum. For these 7 solutions, what is the largest value of the word FOUR?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Once you figured out what digit F represents, you then want to consider what the largest possible value of O could be.",
+    "text": "Once you figured out what digit F represents, you then want to consider what the largest possible value of O could be.",
+    "type": "text"
+  },
+  {
+    "SourceText": "In the sum MATHS + GAMES = DECODE each letter represents a different digit from 0 to 9. What is the value of the word DECODE?",
+    "text": "In the sum MATHS + GAMES = DECODE each letter represents a different digit from 0 to 9. What is the value of the word DECODE?",
+    "type": "text"
+  },
+  {
+    "SourceText": "There are 10 different letters used in this sum so each digit from 0 to 9 will be used. You will need an organised approach to solve this one. You might want to make a table of all of the possibilities and then cross out any values as you eliminate them. You can start with the fact that D = 1.",
+    "text": "There are 10 different letters used in this sum so each digit from 0 to 9 will be used. You will need an organised approach to solve this one. You might want to make a table of all of the possibilities and then cross out any values as you eliminate them. You can start with the fact that D = 1.",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many squares are there in the 10 by 10 square grid below?",
+    "text": "How many squares are there in the 10 by 10 square grid below?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you start with a 4 by 4 square and work out how many squares there are? Remember to keep track of how many 1 by 1, 2 by 2, 3 by 3 and 4 by 4 squares you find.",
+    "text": "Can you start with a 4 by 4 square and work out how many squares there are? Remember to keep track of how many 1 by 1, 2 by 2, 3 by 3 and 4 by 4 squares you find.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is an example of a puzzle where it is best to start with a smaller number and work your way up to the solution. Many questions in maths can be approached in this way. Remember to record all your working neatly and you will be able to spot patterns more easily.",
+    "text": "This is an example of a puzzle where it is best to start with a smaller number and work your way up to the solution. Many questions in maths can be approached in this way. Remember to record all your working neatly and you will be able to spot patterns more easily.",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many different squares can you make by joining dots on a 5 by 5 lattice?",
+    "text": "How many different squares can you make by joining dots on a 5 by 5 lattice?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Squares can be different sizes and rotations!",
+    "text": "Squares can be different sizes and rotations!",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many different squares can you make by joining dots on a 6 by 6 lattice?",
+    "text": "How many different squares can you make by joining dots on a 6 by 6 lattice?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Keep a table of how many squares there are of each size. Remember you can include squares at an angle.",
+    "text": "Keep a table of how many squares there are of each size. Remember you can include squares at an angle.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Children are sitting in a circle, and a teacher walks around the circle, dealing cards. The teacher gives a Jack to every second child, and a Queen to every third child.",
+    "text": "Children are sitting in a circle, and a teacher walks around the circle, dealing cards. The teacher gives a Jack to every second child, and a Queen to every third child.",
+    "type": "text"
+  },
+  {
+    "SourceText": "After going around four times, the sixth child from where the teacher started has two Jacks and two Queens.",
+    "text": "After going around four times, the sixth child from where the teacher started has two Jacks and two Queens.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is the smallest number of children could there be?",
+    "text": "What is the smallest number of children could there be?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Must there be an even or an odd number of children in the circle?",
+    "text": "Must there be an even or an odd number of children in the circle?",
+    "type": "text"
+  },
+  {
+    "SourceText": "This puzzle was written by a student at the Lycee Francais Charles de Gaulle for a Christmas puzzle involving handing out red and blue presents.",
+    "text": "This puzzle was written by a student at the Lycee Francais Charles de Gaulle for a Christmas puzzle involving handing out red and blue presents.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Children are sitting in a circle, and a teacher walks around the circle, dealing cards. The teacher gives a Jack to every second child, a Queen to every third child and a King to every fifth child.",
+    "text": "Children are sitting in a circle, and a teacher walks around the circle, dealing cards. The teacher gives a Jack to every second child, a Queen to every third child and a King to every fifth child.",
+    "type": "text"
+  },
+  {
+    "SourceText": "After going around four times, the sixth child from where the teacher started has four Jacks, two Queens and no Kings.",
+    "text": "After going around four times, the sixth child from where the teacher started has four Jacks, two Queens and no Kings.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is the fewest amount of children could there be?",
+    "text": "What is the fewest amount of children could there be?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about whether the number needs to be odd or even and if it needs to be divisible by 3 or 5.",
+    "text": "Think about whether the number needs to be odd or even and if it needs to be divisible by 3 or 5.",
+    "type": "text"
+  },
+  {
+    "SourceText": "1000 students are sitting in a circle, and a teacher walks around the circle, dealing cards. The teacher gives a Jack to every second child, and a Queen to every third child",
+    "text": "1000 students are sitting in a circle, and a teacher walks around the circle, dealing cards. The teacher gives a Jack to every second child, and a Queen to every third child",
+    "type": "text"
+  },
+  {
+    "SourceText": "After the teacher goes around 1000 times, how many cards in total will the sixth child have?",
+    "text": "After the teacher goes around 1000 times, how many cards in total will the sixth child have?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Which child will get a Queen next after the 999ᵗʰ child gets one on the first turn round?",
+    "text": "Which child will get a Queen next after the 999ᵗʰ child gets one on the first turn round?",
+    "type": "text"
+  },
+  {
+    "SourceText": "One gallon of honey provides fuel for one bee to fly about seven million miles.",
+    "text": "One gallon of honey provides fuel for one bee to fly about seven million miles.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Roughly how many bees could fly one thousand miles if they had ten gallons of honey?",
+    "text": "Roughly how many bees could fly one thousand miles if they had ten gallons of honey?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How far can one bee travel with ten gallons of honey?",
+    "text": "How far can one bee travel with ten gallons of honey?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Problems such as \"if A people can dig a trench in B days. How long will it take C people to dig the trench?\" can be solved by calculating (A×B  ∕ C). This ancient technique is called \"the rule of three\" and was written about in a nursery rhyme in 1570:  \"Multiplication is vexation;",
+    "text": "Problems such as \"if A people can dig a trench in B days. How long will it take C people to dig the trench?\" can be solved by calculating (A×B  ∕ C). This ancient technique is called \"the rule of three\" and was written about in a nursery rhyme in 1570:  \"Multiplication is vexation;",
+    "type": "text"
+  },
+  {
+    "SourceText": "Division is as bad; The Rule of Three doth puzzle me, And Practice drives me mad.\"",
+    "text": "Division is as bad; The Rule of Three doth puzzle me, And Practice drives me mad.\"",
+    "type": "text"
+  },
+  {
+    "SourceText": "Now suppose 4 bees can each travel 6 million miles on 2 gallons of honey. How far could 8 bees each travel with 6 gallons of honey?",
+    "text": "Now suppose 4 bees can each travel 6 million miles on 2 gallons of honey. How far could 8 bees each travel with 6 gallons of honey?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How far can one bee can travel on 1 gallon of honey?",
+    "text": "How far can one bee can travel on 1 gallon of honey?",
+    "type": "text"
+  },
+  {
+    "SourceText": "A worker bee can make a hive of hexagons in 60 minutes, and a queen bee can make the same size hive in 40 minutes. How many minutes will it take them if they do it together?",
+    "text": "A worker bee can make a hive of hexagons in 60 minutes, and a queen bee can make the same size hive in 40 minutes. How many minutes will it take them if they do it together?",
+    "type": "text"
+  },
+  {
+    "SourceText": "It might be easier to choose a number of hexagons to work with - try 120 and work out how many they can each do per minute.",
+    "text": "It might be easier to choose a number of hexagons to work with - try 120 and work out how many they can each do per minute.",
+    "type": "text"
+  },
+  {
+    "SourceText": "From how many vertices (points) is it possible to draw this figure by an uninterrupted movement of the pen, going through each line exactly once?",
+    "text": "From how many vertices (points) is it possible to draw this figure by an uninterrupted movement of the pen, going through each line exactly once?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try starting from the bottom left vertex (point).",
+    "text": "Try starting from the bottom left vertex (point).",
+    "type": "text"
+  },
+  {
+    "SourceText": "A version of this problem was originally solved by Leonard Euler. In a city consisting of 4 islands linked by bridges, he wondered if it is possible to go for a walk and cross each bridge exactly once. If you draw a vertex for each island, and a line between two vertices for each bridge, you get a drawing like in this puzzle.",
+    "text": "A version of this problem was originally solved by Leonard Euler. In a city consisting of 4 islands linked by bridges, he wondered if it is possible to go for a walk and cross each bridge exactly once. If you draw a vertex for each island, and a line between two vertices for each bridge, you get a drawing like in this puzzle.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Start with the top vertex. Once you have followed each line, where do you end up? Can you make use of this information to find out where else you could start?",
+    "text": "Start with the top vertex. Once you have followed each line, where do you end up? Can you make use of this information to find out where else you could start?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Pegs numbered 1 to 50 are placed in order in a line, with number 1 on the left.",
+    "text": "Pegs numbered 1 to 50 are placed in order in a line, with number 1 on the left.",
+    "type": "text"
+  },
+  {
+    "SourceText": "They are then knocked over, one at a time, following these two rules:",
+    "text": "They are then knocked over, one at a time, following these two rules:",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is the number of the last peg to be knocked down?",
+    "text": "What is the number of the last peg to be knocked down?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What happens if you only had 5 pegs? What about 10 or 20? Can you spot the pattern?",
+    "text": "What happens if you only had 5 pegs? What about 10 or 20? Can you spot the pattern?",
+    "type": "text"
+  },
+  {
+    "SourceText": "This puzzle is all about powers of numbers.",
+    "text": "This puzzle is all about powers of numbers.",
+    "type": "text"
+  },
+  {
+    "SourceText": "This puzzle comes from https://nrich.maths.org/11677 and is actually related to binary numbers!",
+    "text": "This puzzle comes from https://nrich.maths.org/11677 and is actually related to binary numbers!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Pegs numbered 1 to 1050 are placed in order in a line, with number 1 on the left.",
+    "text": "Pegs numbered 1 to 1050 are placed in order in a line, with number 1 on the left.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you find the closest power of 2 less than 1050?",
+    "text": "Can you find the closest power of 2 less than 1050?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Pegs numbered 1 to 10000050 are placed in order in a line, with number 1 on the left.",
+    "text": "Pegs numbered 1 to 10000050 are placed in order in a line, with number 1 on the left.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about the sequence of pegs left in the previous parts 2, 4, 8, ... is there another way of writing down this sequence? In what way will the sequence change in this new case?",
+    "text": "Think about the sequence of pegs left in the previous parts 2, 4, 8, ... is there another way of writing down this sequence? In what way will the sequence change in this new case?",
+    "type": "text"
+  },
+  {
+    "SourceText": "A small number of cards has been lost from a complete pack of 52. If I deal among four people, three cards remain. If I deal among three people, two remain and if I deal among five people, two cards remain. How many cards are there?",
+    "text": "A small number of cards has been lost from a complete pack of 52. If I deal among four people, three cards remain. If I deal among three people, two remain and if I deal among five people, two cards remain. How many cards are there?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about remainders when dividing. If there are two left when divided amongst five people then the number must be two more than a multiple of 5, e.g. 7 or 32",
+    "text": "Think about remainders when dividing. If there are two left when divided amongst five people then the number must be two more than a multiple of 5, e.g. 7 or 32",
+    "type": "text"
+  },
+  {
+    "SourceText": "There is a special name for the operation of dividing by a number and finding the remainder in mathematics - it is called modular arithmetic. 47 mod 5 = 2 because when you divide 47 by 5 you have a remainder of 2. It is a powerful technique in mathematics to prove facts about numbers. We use it in everyday life when we tell the time with a 24 hour clock.",
+    "text": "There is a special name for the operation of dividing by a number and finding the remainder in mathematics - it is called modular arithmetic. 47 mod 5 = 2 because when you divide 47 by 5 you have a remainder of 2. It is a powerful technique in mathematics to prove facts about numbers. We use it in everyday life when we tell the time with a 24 hour clock.",
+    "type": "text"
+  },
+  {
+    "SourceText": "(18 + 8) mod 24 = 2 or in other words 8 hours after 6pm is 2am!",
+    "text": "(18 + 8) mod 24 = 2 or in other words 8 hours after 6pm is 2am!",
+    "type": "text"
+  },
+  {
+    "SourceText": "Some cards have been lost from a complete pack of 52. If I deal among three or four people there are always two cards remaining. How many different options are there for the number of cards remaining?",
+    "text": "Some cards have been lost from a complete pack of 52. If I deal among three or four people there are always two cards remaining. How many different options are there for the number of cards remaining?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about multiples of 12.",
+    "text": "Think about multiples of 12.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Some cards have been lost from a complete pack of 52. If I deal among two people there is one card remaining, and if I deal among four people there are two cards remaining. How many different options are there for the number of cards remaining?",
+    "text": "Some cards have been lost from a complete pack of 52. If I deal among two people there is one card remaining, and if I deal among four people there are two cards remaining. How many different options are there for the number of cards remaining?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about odd and even numbers.",
+    "text": "Think about odd and even numbers.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The average (mean) of 16 different positive integers is 16. What is the greatest possible value that any of these integers could have?",
+    "text": "The average (mean) of 16 different positive integers is 16. What is the greatest possible value that any of these integers could have?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Make the first 15 (different) numbers as small as possible. What does this tell us about the 16th number?",
+    "text": "Make the first 15 (different) numbers as small as possible. What does this tell us about the 16th number?",
+    "type": "text"
+  },
+  {
+    "SourceText": "The mean is one way of describing a whole set of data with just one number. The median is another way describing the set of data with one number. If the puzzle had asked \"The median of 16 different positive integers is 16. What is the greatest possible value that any of these integers could have?\", then there would be no solution as you could choose any number as large as you like for the biggest number, as the value of the median of 16 numbers depends only on the eight and ninth biggest numbers!",
+    "text": "The mean is one way of describing a whole set of data with just one number. The median is another way describing the set of data with one number. If the puzzle had asked \"The median of 16 different positive integers is 16. What is the greatest possible value that any of these integers could have?\", then there would be no solution as you could choose any number as large as you like for the biggest number, as the value of the median of 16 numbers depends only on the eight and ninth biggest numbers!",
+    "type": "text"
+  },
+  {
+    "SourceText": "The average (mean) age of 7 people is 16. Given that all their ages are different positive integers, what is the maximum number of people that could be older than 16?",
+    "text": "The average (mean) age of 7 people is 16. Given that all their ages are different positive integers, what is the maximum number of people that could be older than 16?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Could everyone be older than 16? If not, can you try and find the maximum number of people that could be older than 16 if just one of the people is as young as possible?",
+    "text": "Could everyone be older than 16? If not, can you try and find the maximum number of people that could be older than 16 if just one of the people is as young as possible?",
+    "type": "text"
+  },
+  {
+    "SourceText": "When Albert entered the room, the average age increased by 4 years. When Belinda then entered the room, the average age increased by another 3 years. Albert and Belinda are twins. How many people were in the room before Albert entered?",
+    "text": "When Albert entered the room, the average age increased by 4 years. When Belinda then entered the room, the average age increased by another 3 years. Albert and Belinda are twins. How many people were in the room before Albert entered?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Think about Albert giving 4 years to all the people in the room and Belinda giving 3 years to everyone (including Albert).",
+    "text": "Think about Albert giving 4 years to all the people in the room and Belinda giving 3 years to everyone (including Albert).",
+    "type": "text"
+  },
+  {
+    "SourceText": "You have a pair of red socks, a pair of blue socks, a pair of yellow socks, and a pair of green socks. In how many ways can you mix them up and form new pairs so that all the new pairs are mismatched, and none of the new (mismatched) pairs is the same as another new (mismatched) pair?",
+    "text": "You have a pair of red socks, a pair of blue socks, a pair of yellow socks, and a pair of green socks. In how many ways can you mix them up and form new pairs so that all the new pairs are mismatched, and none of the new (mismatched) pairs is the same as another new (mismatched) pair?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Start with matching one of the red with one of the green, and the other red with a blue. You could write this as RB, RY. What would the other two pairs have to be?",
+    "text": "Start with matching one of the red with one of the green, and the other red with a blue. You could write this as RB, RY. What would the other two pairs have to be?",
+    "type": "text"
+  },
+  {
+    "SourceText": "For four different pairs of socks, if they were loose in a drawer and you shut your eyes and matched them together at random there would be a 1% chance of matching them perfectly and a 46% chance of matching them completely wrongly as in the puzzle.",
+    "text": "For four different pairs of socks, if they were loose in a drawer and you shut your eyes and matched them together at random there would be a 1% chance of matching them perfectly and a 46% chance of matching them completely wrongly as in the puzzle.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You have five pairs of socks, each a different colour (red, blue, yellow, green, orange). Mix them up and form new pairs so that all the new pairs are mismatched, and none of the new (mismatched) pairs is the same as another new (mismatched) pair.",
+    "text": "You have five pairs of socks, each a different colour (red, blue, yellow, green, orange). Mix them up and form new pairs so that all the new pairs are mismatched, and none of the new (mismatched) pairs is the same as another new (mismatched) pair.",
+    "type": "text"
+  },
+  {
+    "SourceText": "In how many ways can you mix them up and form new pairs in this way?",
+    "text": "In how many ways can you mix them up and form new pairs in this way?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Start off with the two red socks. Can you work out how many ways there are of choosing which two colours these two socks could be matched with?",
+    "text": "Start off with the two red socks. Can you work out how many ways there are of choosing which two colours these two socks could be matched with?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Imagine you have a bag with 3 red marbles, a bag with 3 blue marbles, a bag with 3 green marbles, and a bag with 3 yellow ones. If the order of the bags doesn't matter, in how many ways can we mix up and sort the marbles into the 4 different bags with 3 different coloured marbles each?",
+    "text": "Imagine you have a bag with 3 red marbles, a bag with 3 blue marbles, a bag with 3 green marbles, and a bag with 3 yellow ones. If the order of the bags doesn't matter, in how many ways can we mix up and sort the marbles into the 4 different bags with 3 different coloured marbles each?",
+    "type": "text"
+  },
+  {
+    "SourceText": "In addition to thinking about the consequences of a certain color being included in a certain bag, consider the consequence of a particular color marble not being chosen for, say, the first bag.",
+    "text": "In addition to thinking about the consequences of a certain color being included in a certain bag, consider the consequence of a particular color marble not being chosen for, say, the first bag.",
+    "type": "text"
+  },
+  {
+    "SourceText": "A large room has 1000 light bulbs in it, all are switched off",
+    "text": "A large room has 1000 light bulbs in it, all are switched off",
+    "type": "text"
+  },
+  {
+    "SourceText": "1000 monkeys enter the room and decide to press the light switches in a very particular way.",
+    "text": "1000 monkeys enter the room and decide to press the light switches in a very particular way.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The 1st monkey presses every multiple of 1.",
+    "text": "The 1st monkey presses every multiple of 1.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The 2nd monkey presses every multiple of 2.",
+    "text": "The 2nd monkey presses every multiple of 2.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The 3rd monkey presses every multiple of 3.",
+    "text": "The 3rd monkey presses every multiple of 3.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Etc., until the 1000th monkey.",
+    "text": "Etc., until the 1000th monkey.",
+    "type": "text"
+  },
+  {
+    "SourceText": "After all the monkeys have finished pressing switches, how many lights in total will be on?",
+    "text": "After all the monkeys have finished pressing switches, how many lights in total will be on?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you work out whether number 8 will be on or off? How about number 9? What is it about the factors of these two numbers that means one of them is on and one of them is off?",
+    "text": "Can you work out whether number 8 will be on or off? How about number 9? What is it about the factors of these two numbers that means one of them is on and one of them is off?",
+    "type": "text"
+  },
+  {
+    "SourceText": "This is a very famous puzzle that can be found in different contexts - opening and closing lockers is another common one. It is designed to make you think about the properties of different numbers.",
+    "text": "This is a very famous puzzle that can be found in different contexts - opening and closing lockers is another common one. It is designed to make you think about the properties of different numbers.",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many lights switches will be touched by exactly three monkeys?",
+    "text": "How many lights switches will be touched by exactly three monkeys?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Light switch number 9 will be touched by three monkeys - 1,3, and 9, can you find other numbers that will?",
+    "text": "Light switch number 9 will be touched by three monkeys - 1,3, and 9, can you find other numbers that will?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Which light bulb will be touched by the most monkeys?",
+    "text": "Which light bulb will be touched by the most monkeys?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Which number under 1000 has the most number of factors? Try and build up a number using small prime numbers.",
+    "text": "Which number under 1000 has the most number of factors? Try and build up a number using small prime numbers.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Below is a single sheet from a newspaper. Given that each sheet has four pages, how many sheets are there altogether?",
+    "text": "Below is a single sheet from a newspaper. Given that each sheet has four pages, how many sheets are there altogether?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you work backwards from 8 to work out how many sheets would be underneath this one? You might want to use bits of paper and number them to help.",
+    "text": "Can you work backwards from 8 to work out how many sheets would be underneath this one? You might want to use bits of paper and number them to help.",
+    "type": "text"
+  },
+  {
+    "SourceText": "You can try this puzzle with a real newspaper - take out one of the sheets and look at the numbers on it. Work out how many sheets there should be and then see if you are correct.",
+    "text": "You can try this puzzle with a real newspaper - take out one of the sheets and look at the numbers on it. Work out how many sheets there should be and then see if you are correct.",
+    "type": "text"
+  },
+  {
+    "SourceText": "If it takes 852 digits to number all the pages of a book, in the usual order, what is the number on the last page of the book?",
+    "text": "If it takes 852 digits to number all the pages of a book, in the usual order, what is the number on the last page of the book?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many 1 digit numbers are there? How many 2 digit numbers?",
+    "text": "How many 1 digit numbers are there? How many 2 digit numbers?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Numbering the pages of a book requires printing 123 nines. What is the minimum number of pages the book could have?",
+    "text": "Numbering the pages of a book requires printing 123 nines. What is the minimum number of pages the book could have?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many 9s are there in the first 100 numbers?",
+    "text": "How many 9s are there in the first 100 numbers?",
+    "type": "text"
+  },
+  {
+    "SourceText": "The pattern 123451234512345... is continued to form a 2000 digit number.",
+    "text": "The pattern 123451234512345... is continued to form a 2000 digit number.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is the sum of all 2000 digits?",
+    "text": "What is the sum of all 2000 digits?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many times does the pattern 12345 appear in the 2000 digit number?",
+    "text": "How many times does the pattern 12345 appear in the 2000 digit number?",
+    "type": "text"
+  },
+  {
+    "SourceText": "There is a formula for adding the numbers 1, 2, 3, …, n together. It is ½×n×(n + 1). For example 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28 can be found by  ½×7×8  = 28.",
+    "text": "There is a formula for adding the numbers 1, 2, 3, …, n together. It is ½×n×(n + 1). For example 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28 can be found by  ½×7×8  = 28.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The sequence of numbers that this formula gives are called triangular numbers. The first ten are 1, 3, 6, 10, 15, 21, 28, 36, 45, and 55.",
+    "text": "The sequence of numbers that this formula gives are called triangular numbers. The first ten are 1, 3, 6, 10, 15, 21, 28, 36, 45, and 55.",
+    "type": "text"
+  },
+  {
+    "SourceText": "The pattern 123456712345671234567... is continued to form a 2100 digit number.",
+    "text": "The pattern 123456712345671234567... is continued to form a 2100 digit number.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is the sum of all 2100 digits?",
+    "text": "What is the sum of all 2100 digits?",
+    "type": "text"
+  },
+  {
+    "SourceText": "What do the numbers 1 + 2 + 3 + 4 + 5 + 6 + 7 add up to?",
+    "text": "What do the numbers 1 + 2 + 3 + 4 + 5 + 6 + 7 add up to?",
+    "type": "text"
+  },
+  {
+    "SourceText": "The pattern 1234...n,1234,...n,1234…,n is carried on for 120000 digits. If the sum of these digits is 960000, what is n equal to?",
+    "text": "The pattern 1234...n,1234,...n,1234…,n is carried on for 120000 digits. If the sum of these digits is 960000, what is n equal to?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try dividing 960000 by 120000. What does this answer represent?",
+    "text": "Try dividing 960000 by 120000. What does this answer represent?",
+    "type": "text"
+  },
+  {
+    "SourceText": "At a restaurant each table has 3 legs, each chair has 4 legs and all the customers and the three members of staff have 2 legs each. There are four chairs at each table. Three quarters of the chairs are occupied by customers and there are 206 legs altogether in the restaurant. How many chairs does the restaurant have?",
+    "text": "At a restaurant each table has 3 legs, each chair has 4 legs and all the customers and the three members of staff have 2 legs each. There are four chairs at each table. Three quarters of the chairs are occupied by customers and there are 206 legs altogether in the restaurant. How many chairs does the restaurant have?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can you work out how many legs there are at each table if three quarters of the chairs have people on them?",
+    "text": "Can you work out how many legs there are at each table if three quarters of the chairs have people on them?",
+    "type": "text"
+  },
+  {
+    "SourceText": "This puzzle was originally a problem from a UKMT maths challenge",
+    "text": "This puzzle was originally a problem from a UKMT maths challenge",
+    "type": "text"
+  },
+  {
+    "SourceText": "I have 30 coins. Some of the coins are 1¢, some are 2¢ and some are 6¢. The value of the 6¢ coins is worth the same amount as the total value of the 1¢ coins and the 2¢ coins combined. Given that I have a different amount of each type of coin, what is the total value of all of the coins (in ¢)?",
+    "text": "I have 30 coins. Some of the coins are 1¢, some are 2¢ and some are 6¢. The value of the 6¢ coins is worth the same amount as the total value of the 1¢ coins and the 2¢ coins combined. Given that I have a different amount of each type of coin, what is the total value of all of the coins (in ¢)?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Start by considering how many 6¢ coins I could have...if I have too many, I won't be able to match their value with the 1¢ coins and the 2¢ coins.",
+    "text": "Start by considering how many 6¢ coins I could have...if I have too many, I won't be able to match their value with the 1¢ coins and the 2¢ coins.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Pegs numbered 1 to 52 are placed in a circle. Starting with number 2, alternate pegs are knocked down until only one is left.",
+    "text": "Pegs numbered 1 to 52 are placed in a circle. Starting with number 2, alternate pegs are knocked down until only one is left.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What happens if you only had 2 pegs? What about 3, 4, 5, 6, 7, or 8 pegs? Can you spot the pattern after considering these cases?",
+    "text": "What happens if you only had 2 pegs? What about 3, 4, 5, 6, 7, or 8 pegs? Can you spot the pattern after considering these cases?",
+    "type": "text"
+  },
+  {
+    "SourceText": "The legend of this puzzle is about a group of soldiers in a circle.",
+    "text": "The legend of this puzzle is about a group of soldiers in a circle.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Pegs numbered 1 to 2000 are placed in a circle. Starting with number 1, alternate pegs are knocked down until only one is left.",
+    "text": "Pegs numbered 1 to 2000 are placed in a circle. Starting with number 1, alternate pegs are knocked down until only one is left.",
+    "type": "text"
+  },
+  {
+    "SourceText": "What is the biggest power of 2 (1, 2, 4, 8, ...) that is less than 2000?",
+    "text": "What is the biggest power of 2 (1, 2, 4, 8, ...) that is less than 2000?",
+    "type": "text"
+  },
+  {
+    "SourceText": "How many ways are there to draw four dots on a piece of paper such that whichever two dots you choose, the distance between these two points is one of only two values?",
+    "text": "How many ways are there to draw four dots on a piece of paper such that whichever two dots you choose, the distance between these two points is one of only two values?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Here is one correct example:",
+    "text": "Here is one correct example:",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try drawing an equilateral triangle. That will give you three points that are all the same distance from each other. Where could you put the fourth point?",
+    "text": "Try drawing an equilateral triangle. That will give you three points that are all the same distance from each other. Where could you put the fourth point?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Alex Bellos featured this puzzle in his column in the Guardian newspaper in the UK after hearing about it from maths juggler Colin Wright, who heard it from puzzle maven Peter Winkler.",
+    "text": "Alex Bellos featured this puzzle in his column in the Guardian newspaper in the UK after hearing about it from maths juggler Colin Wright, who heard it from puzzle maven Peter Winkler.",
+    "type": "text"
+  },
+  {
+    "SourceText": "In how many different ways can you draw 4 points in the plane whose pairwise distances are √2, √2, 2, √10, √10 and 4?",
+    "text": "In how many different ways can you draw 4 points in the plane whose pairwise distances are √2, √2, 2, √10, √10 and 4?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Try to figure out what kind of triangles you can make that use 3 of the 6 distances. If you have squared paper, it helps that it is possible to put all the vertices on the grid.",
+    "text": "Try to figure out what kind of triangles you can make that use 3 of the 6 distances. If you have squared paper, it helps that it is possible to put all the vertices on the grid.",
+    "type": "text"
+  },
+  {
+    "SourceText": "Hi All I am your friendly MathsBot demo. I can give you fun facts, puzzles and games. What do you want?",
+    "text": "Hi All I am your friendly MathsBot demo. I can give you fun facts, puzzles and games. What do you want?",
+    "type": "text"
+  },
+  {
+    "SourceText": "Can I try again?",
+    "text": "Can I try again?",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Give me a hint!",
+    "text": "Give me a hint!",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Give me something else to do.",
+    "text": "Give me something else to do.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "That’s enough for today! Go away!",
+    "text": "That’s enough for today! Go away!",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Tell me more about this puzzle.",
+    "text": "Tell me more about this puzzle.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Give me a harder version.",
+    "text": "Give me a harder version.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Take me back, I want another go.",
+    "text": "Take me back, I want another go.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Give me another puzzle.",
+    "text": "Give me another puzzle.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "That's enough for today! Go away!",
+    "text": "That's enough for today! Go away!",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I don’t get it. Why?",
+    "text": "I don’t get it. Why?",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I get it! That’s cool, tell me more.",
+    "text": "I get it! That’s cool, tell me more.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I still don’t get it. Show me.",
+    "text": "I still don’t get it. Show me.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Give me another fun fact.",
+    "text": "Give me another fun fact.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "I’d like more instructions.",
+    "text": "I’d like more instructions.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Give me a tip to play well.",
+    "text": "Give me a tip to play well.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Tell me about this game.",
+    "text": "Tell me about this game.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "Give me another game.",
+    "text": "Give me another game.",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "fun fact",
+    "text": "fun fact",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "puzzle",
+    "text": "puzzle",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "game",
+    "text": "game",
+    "type": "quick_replies",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  {
+    "SourceText": "again",
+    "text": "again",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "hint",
+    "text": "hint",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "else",
+    "text": "else",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "away",
+    "text": "away",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "more",
+    "text": "more",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "harder",
+    "text": "harder",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "back",
+    "text": "back",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "puzzle",
+    "text": "puzzle",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "why",
+    "text": "why",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "more ",
+    "text": "more ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "fun",
+    "text": "fun",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "show",
+    "text": "show",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "else ",
+    "text": "else ",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "instructions",
+    "text": "instructions",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "tip",
+    "text": "tip",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "about",
+    "text": "about",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  {
+    "SourceText": "game",
+    "text": "game",
+    "type": "arguments",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+]
