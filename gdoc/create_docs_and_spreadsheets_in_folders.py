@@ -44,7 +44,7 @@ def main():
     
     # create external folder
     file_metadata = {
-        'name': 'ParenText Jamaica',
+        'name': 'ParenText Moa',
         'mimeType': 'application/vnd.google-apps.folder'
     }
     folder_file = drive_service.files().create(body=file_metadata,
@@ -129,7 +129,7 @@ def main():
     folders_IDs['ParenText'] = parentext_folder_id
 
     with open('./folders_IDs.json', 'w') as outfile:
-        json.dump(folders_IDs, outfile)
+        json.dump(folders_IDs, outfile,indent=4)
 
 
  ##################################################################################
