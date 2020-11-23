@@ -1,12 +1,13 @@
 var fs = require('fs');
 var path = require("path");
-var input_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master.json");
+//var input_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master.json");
+var input_path = path.join(__dirname, "../products/virtual-maths-camp/development/vmc-master.json");
 var json_string = fs.readFileSync(input_path).toString();
 var obj = JSON.parse(json_string);
 
 // var count = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
 
-
+var exceptions = ["no", "prefer not to say", "prefer not to answer", "prefer not to tell", "i prefer not to tell", "does not apply", "go back to the previous options"];
 
 var curr_quick_replies;
 var curr_act;
@@ -16,23 +17,39 @@ var arg;
 var new_test = "";
 var quick_reply;
 
-//var debug ="";
+var debug ="";
 
 for (var fl = 0; fl < obj.flows.length; fl++) {
-    //debug = debug +"\n\n" + obj.flows[fl].name + "\n";
+    debug = debug +"\n\n" + obj.flows[fl].name + "*************************************"+"\n";
     for (var nd = 0; nd < obj.flows[fl].nodes.length; nd++) {
         for (var ac = 0; ac < obj.flows[fl].nodes[nd].actions.length; ac++) {
             curr_act = obj.flows[fl].nodes[nd].actions[ac];
             if (curr_act.type == "send_msg") {
                 if (curr_act.quick_replies.length > 0) {
-                    // for audio recording
-                    obj.flows[fl].nodes[nd].actions[ac].text = obj.flows[fl].nodes[nd].actions[ac].text + " Please select the number for the following options:";
+                    
+                    obj.flows[fl].nodes[nd].actions[ac].text = obj.flows[fl].nodes[nd].actions[ac].text + "\n\n" + "Please select the number for the following options:";
+                    
+                    var selectors = [];
                     for (qr = 0; qr < curr_act.quick_replies.length; qr++) {
                         // letters
                         //obj.flows[fl].nodes[nd].actions[ac].text = obj.flows[fl].nodes[nd].actions[ac].text + "\n" + count[qr] + ". " + curr_act.quick_replies[qr];
 
                         // decreasing numbers
-                        obj.flows[fl].nodes[nd].actions[ac].text = obj.flows[fl].nodes[nd].actions[ac].text + "\n" + (curr_act.quick_replies.length - qr -1) + ". " + curr_act.quick_replies[qr];
+                        //selectors.push(curr_act.quick_replies.length - qr -1);
+
+                        //increasing numbers with 0s
+                        if (qr == curr_act.quick_replies.length-1){
+                            if (qr == 9 || exceptions.includes(curr_act.quick_replies[qr].toLowerCase().trim())){
+                                selectors.push(0)
+                            } else {
+                                selectors.push(qr+1);
+                            }
+                        } else {
+                            selectors.push(qr+1);
+                        }
+
+
+                        obj.flows[fl].nodes[nd].actions[ac].text = obj.flows[fl].nodes[nd].actions[ac].text + "\n" + selectors[qr] + ". " + curr_act.quick_replies[qr];
 
                     }
                     curr_quick_replies = obj.flows[fl].nodes[nd].actions[ac].quick_replies;
@@ -40,7 +57,7 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                     dest_id = obj.flows[fl].nodes[nd].exits[0].destination_uuid;
 
                     
-                    //debug = debug + obj.flows[fl].nodes[nd].actions[ac].text  + "\n";
+                    debug = debug + obj.flows[fl].nodes[nd].actions[ac].text  + "\n";
 
                     for (var j = 0; j < obj.flows[fl].nodes.length; j++) {
                         if (obj.flows[fl].nodes[j].uuid == dest_id) {
@@ -54,7 +71,7 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                                             old_test = arg_list.join(",")+ ",";
                                             new_test = arg_list.join(",")+ ",";
                                             
-                                            //debug = debug + "arg list: " + arg_list + "\n";
+                                            debug = debug + "arg list: " + arg_list + "\n";
                                             for (var ar = 0; ar < arg_list.length; ar++) {
 
                                                 arg = arg_list[ar];
@@ -66,15 +83,15 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
 
                                                     if (r_exp.test(quick_reply)) {
                                                         // new_test = new_test + count[qr] + ",";
-                                                        new_test = new_test + (curr_quick_replies.length - qr -1) + ",";
-                                                        //debug = debug + new_test + "\n";
+                                                        new_test = new_test + selectors[qr] + ",";
+                                                        debug = debug + new_test + "\n";
                                                     }
                                                 }
                                             }
                                            
                                             if (new_test == old_test){
                                                 console.log("no match"+ obj.flows[fl].name)
-                                                //debug = debug + "NO MATCH " +"\n";
+                                                debug = debug + "NO MATCH " +"\n";
                                             }
                                             else {
                                             obj.flows[fl].nodes[j].router.cases[c].arguments = [new_test];
@@ -85,8 +102,8 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_all_words") {
 
-                                            arg_list = obj.flows[fl].nodes[j].router.cases[c].arguments[0].split(/[\s,]+/);
-
+                                            arg_list = obj.flows[fl].nodes[j].router.cases[c].arguments[0].split(/[\s,]+/).filter(function(i){return i});;
+                                            new_test = "";
                                             for (qr = 0; qr < curr_quick_replies.length; qr++) {
                                                 quick_reply = curr_quick_replies[qr];
                                                 var match_all = arg_list.every(function (word) {
@@ -98,7 +115,7 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
 
                                                 if (match_all) {
                                                     // new_test = new_test + count[qr] + ",";
-                                                    new_test = new_test + (curr_quick_replies.length - qr -1) + ",";
+                                                    new_test = new_test + selectors[qr] + ",";
 
 
                                                 }
@@ -108,7 +125,7 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                                             }
                                             if (new_test == ""){
                                                 console.log("no match"+ obj.flows[fl].name)
-                                                //debug = debug + "NO MATCH " +"\n";
+                                                debug = debug + "NO MATCH " +"\n";
                                             }
                                             else {
                                             obj.flows[fl].nodes[j].router.cases[c].arguments = [new_test];
@@ -127,7 +144,7 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                                                 if (r_exp.test(quick_reply)) {
 
                                                     //new_test = new_test + count[qr] + ",";
-                                                    new_test = new_test + (curr_quick_replies.length - qr -1)+ ",";
+                                                    new_test = new_test + selectors[qr]+ ",";
 
                                                 }
 
@@ -148,14 +165,15 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                                         }
                                         else if (obj.flows[fl].nodes[j].router.cases[c].type == "has_only_phrase") {
                                             arg = obj.flows[fl].nodes[j].router.cases[c].arguments[0];
-                                            //debug = debug + "arg: " + arg + "\n";
+                                            debug = debug + "arg: " + arg + "\n";
+                                            new_test ="";
                                             for (var qr = 0; qr < curr_quick_replies.length; qr++) {
                                                 quick_reply = curr_quick_replies[qr];
 
                                                 if (quick_reply.toLowerCase().trim() == arg.toLowerCase().trim()) {
                                                     //new_test = new_test + count[qr] + ",";
-                                                    new_test = new_test + (curr_quick_replies.length - qr -1)+ ",";
-                                                    //debug = debug + new_test + "\n";
+                                                    new_test = new_test + selectors[qr]+ ",";
+                                                    debug = debug + new_test + "\n";
 
                                                 }
 
@@ -163,7 +181,7 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
 
                                             }
                                             if (new_test == ""){
-                                                //debug = debug + "NO MATCH " +"\n";
+                                                debug = debug + "NO MATCH " +"\n";
                                                 console.log("no match"+ obj.flows[fl].name)
                                                 
 
@@ -202,14 +220,14 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
 
 }
 new_flows = JSON.stringify(obj, null, 2);
-var output_path = path.join(__dirname, "../products/covid-19-parenting/development/plh_master_no_quick_replies.json");
+var output_path = path.join(__dirname, "../products/virtual-maths-camp/development/vmc-master_no_quick_replies.json");
 fs.writeFile(output_path, new_flows, function (err, result) {
     if (err) console.log('error', err);
 });
 
-/*
+
 var new_flows = debug;
-var output_path = path.join(__dirname, "../products/covid-19-parenting/development/debug_qr.txt");
+var output_path = path.join(__dirname, "../products/virtual-maths-camp/development/vmc-master-debug_qr.txt");
 fs.writeFile(output_path, new_flows, function (err, result) {
     if (err) console.log('error', err);
-});*/
+});

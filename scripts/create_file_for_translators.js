@@ -89,7 +89,6 @@ for (fl in obj) {
             atom_to_translate.flow_id = fl;
             atom_to_translate.bit_id = key_bit;
             atom_to_translate.bit_type = "arguments";
-            atom_to_translate.type_id = "0";
             atom_to_translate.text = bit.arguments[0];
             atom_to_translate.note = "This is an argument and it may be used to identify a corresponding quick reply"
 
@@ -102,7 +101,7 @@ for (fl in obj) {
 
 
     }
-
+/*
     if (word_count > 2000) {
         new_file = JSON.stringify(new_file, null, 2);
         //output_path = path.join(__dirname, "../products/covid-19-parenting/development/non_nested_file_for_translation_plh_master_part_" + count + ".json");
@@ -115,13 +114,15 @@ for (fl in obj) {
         count++;
 
     }
+    */
 
 }
 
 
 new_file = JSON.stringify(new_file, null, 2);
 //output_path = path.join(__dirname, "../products/virtual-maths-camp/development/non_nested_file_for_translation_plh_master_part_" + count + ".json");
-output_path = path.join(__dirname, "../products/covid-19-parenting/development//translation/eng/file_for_translation_plh_master_activity_" + count + ".json");
+//output_path = path.join(__dirname, "../products/covid-19-parenting/development//translation/eng/file_for_translation_plh_master_activity_" + count + ".json");
+output_path = path.join(__dirname, "../products/covid-19-parenting/development//translation/eng/file_for_translation_plh_master_activity.json");
 fs.writeFile(output_path, new_file, function (err, result) {
     if (err) console.log('error', err);
 });

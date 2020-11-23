@@ -1,6 +1,3 @@
-/*import * as fs from "fs";
-import * as path from "path";
-import { json2csv } from "json-2-csv";*/
 
 var fs = require('fs');
 var path = require("path");

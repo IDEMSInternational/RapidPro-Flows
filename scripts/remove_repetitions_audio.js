@@ -1,6 +1,6 @@
 var fs = require('fs');
 var path = require("path");
-var input_path = path.join(__dirname, "../products/covid-19-parenting/development/audio-recording/eng/file_for_audio_recording_plh_masterlabel.json");
+var input_path = path.join(__dirname, "../products/covid-19-parenting/development/audio-recording/eng/file_for_audio_recording_plh_master.json");
 var json_string = fs.readFileSync(input_path).toString();
 var audio_rec_info = JSON.parse(json_string);
 
@@ -39,7 +39,7 @@ distinct_text.forEach((unique_string) =>{
  });
 
 
-
+console.log(to_record.length)
 
 file_for_recorder = JSON.stringify(to_record, null, 2);
 var output_path = path.join(__dirname, "../products/covid-19-parenting/development/audio-recording/eng/file_for_audio_recording_no_rep.json");

@@ -18,6 +18,7 @@ bit_types.forEach((type) =>{
     var distinct_text = [... new Set(obj_filtered.map(x => {if (type == "arguments") {return x.text.toLowerCase()  }else {return x.text}}))];
     
     distinct_text.forEach((unique_string) =>{
+       new_bit = {};
        var obj_same_text = obj_filtered.filter(function(atom) {return (atom.text == unique_string)});
        new_bit.SourceText = unique_string;
        new_bit.text = unique_string;
