@@ -7,6 +7,8 @@ var json_string = fs.readFileSync(input_path).toString();
 var latest_flows = JSON.parse(json_string);
 
 
+var new_lang = "msa";
+
 // load all translated files
 var input_path_transl_2 = path.join(__dirname, "../../products/covid-19-parenting/development/translation/msa/step_3_file_for_transl_content_msa.json");
 var input_path_transl_3 = path.join(__dirname, "../../products/covid-19-parenting/development/translation/msa/step_3_file_for_transl_supportive_msa.json");
@@ -28,7 +30,7 @@ var unused_translations = Object.assign([], obj_transl_full);
 
 
 // initialise output variables
-var flows_localisations = {};
+var flows_localizations = {};
 var partially_translated_flows = {};
 var missing_bits = [];
 
@@ -40,6 +42,9 @@ for (var fl = 0; fl < latest_flows.flows.length; fl++){
     var curr_flow_obj = Object.assign({}, latest_flows);
     curr_flow_obj.flows = [Object.assign({}, latest_flows.flows[fl])];
 
+    var curr_flow_name = latest_flows.flows[fl].name;
+    var curr_flow_uuid = latest_flows.flows[fl].uuid;
+
     // use this object to define the 3 steps for translation only for the current flow
     var step_1 = extract_bits_to_be_translated(curr_flow_obj);
     var step_2 = create_file_for_translators(step_1);
@@ -50,13 +55,13 @@ for (var fl = 0; fl < latest_flows.flows.length; fl++){
     // first looking into the corresponding set of translations based on the flow name, and then into
     // the others if there is no match
 
-    if (latest_flows.flows[fl].name.startsWith("PLH - Activity")){
+    if (curr_flow_name.startsWith("PLH - Activity")){
         var corresp_transl_set = obj_transl_1;
     }
-    else if (latest_flows.flows[fl].name.startsWith("PLH - Content")){
+    else if (curr_flow_name.startsWith("PLH - Content")){
         var corresp_transl_set = obj_transl_2;
     }
-    else if (latest_flows.flows[fl].name.startsWith("PLH - Supportive")){
+    else if (curr_flow_name.startsWith("PLH - Supportive")){
         var corresp_transl_set = obj_transl_3;
     }
     else{
@@ -80,7 +85,7 @@ for (var fl = 0; fl < latest_flows.flows.length; fl++){
         }
 
         if (curr_bit_translation.length >1){
-            console.log("error: " + curr_bit_translation.length + " matches for bit " + step_2[bit].text + " in flow "+ latest_flows.flows[fl].name)
+            console.log("error: " + curr_bit_translation.length + " matches for bit " + step_2[bit].text + " in flow "+ curr_flow_name)
             curr_bit_translation.forEach(bit => { console.log(bit.text)})
             break
         } else if (curr_bit_translation.length == 0){
@@ -100,9 +105,14 @@ for (var fl = 0; fl < latest_flows.flows.length; fl++){
     
     // check if the flow is fully translated now: 
     // if not, add to the list of flows with incomplete translation, counting the missing bits to translate
-    // if yes, proceed with reconstruction of step_2, step_1 and localisation
+    // if yes, proceed with reconstruction of translated step_1 (localisation)
 
     if (step_2.length == translated_step_2.length){
+        var new_loc = {};
+        new_loc[new_lang] = translate_localization(step_1[curr_flow_uuid].localization.eng, translated_step_2);
+        
+        flows_localizations[curr_flow_uuid] = JSON.parse(JSON.stringify(step_1[curr_flow_uuid]));
+        flows_localizations[curr_flow_uuid].localization = new_loc;
 
     }
     else{
@@ -115,16 +125,114 @@ for (var fl = 0; fl < latest_flows.flows.length; fl++){
 }
 
 
+// remove repetitions from missing bits to translate
+var missing_bits_step_3 = remove_repetitions(missing_bits);
+
+
+// add localization to flows
+for (var fl = 0; fl < latest_flows.flows.length; fl++) {
+    var flow_id = latest_flows.flows[fl].uuid;
+    if (flows_localizations.hasOwnProperty(flow_id)) {
+        latest_flows.flows[fl].localization = flows_localizations[flow_id].localization;
+    }
+}
+
+
+
+
 partially_translated_flows = JSON.stringify(partially_translated_flows, null, 2);
 var output_path = path.join(__dirname, "../../products/covid-19-parenting/development/translation/msa/partially_translated_flows.json");
 fs.writeFile(output_path, partially_translated_flows, function (err, result) {
     if (err) console.log('error', err);
 });
 
+unused_translations = JSON.stringify(unused_translations, null, 2);
+var output_path = path.join(__dirname, "../../products/covid-19-parenting/development/translation/msa/unused_translations.json");
+fs.writeFile(output_path, unused_translations, function (err, result) {
+    if (err) console.log('error', err);
+});
+
+flows_localizations = JSON.stringify(flows_localizations, null, 2);
+var output_path = path.join(__dirname, "../../products/covid-19-parenting/development/translation/msa/flows_localisations.json");
+fs.writeFile(output_path, flows_localizations, function (err, result) {
+    if (err) console.log('error', err);
+});
+
+
+missing_bits_step_3 = JSON.stringify(missing_bits_step_3, null, 2);
+var output_path = path.join(__dirname, "../../products/covid-19-parenting/development/translation/msa/missing_bits_to_translate.json");
+fs.writeFile(output_path, missing_bits_step_3, function (err, result) {
+    if (err) console.log('error', err);
+});
+
+
+var flows_with_localiz = JSON.stringify(latest_flows, null, 2);
+var output_path = path.join(__dirname, "../../products/covid-19-parenting/development/translation/msa/plh_master_msa.json");
+fs.writeFile(output_path, flows_with_localiz, function (err, result) {
+    if (err) console.log('error', err);
+});
+
+/////////////////////////////////////////////////////////////////
+// function to translate localisation
+///////////////////////////////////////////////////////////////
+
+function translate_localization(eng_loc, transl_step_2){
+    var nl = "\n";
+    translated_loc = JSON.parse(JSON.stringify(eng_loc));
+    for (bit_id in translated_loc){
+        var bit = translated_loc[bit_id];
+        if (bit.hasOwnProperty('text')) {
+            translated_loc[bit_id].text[0] = "";
+            var corresp_atoms = transl_step_2.filter(function (atom) { return (atom.bit_id == bit_id && atom.bit_type == "text") });
+            corresp_atoms = corresp_atoms.sort(function (a, b) { return a.type_id - b.type_id });
+            for (tx = 0; tx < corresp_atoms.length; tx++) {
+                if (tx == 0) {
+                    if (corresp_atoms[tx].hasOwnProperty('has_bullet') && corresp_atoms[tx].has_bullet == true){
+                        translated_loc[bit_id].text[0] = translated_loc[bit_id].text[0] + "•\t" + corresp_atoms[tx].text;
+                    }
+                    else{
+                        translated_loc[bit_id].text[0] =  translated_loc[bit_id].text[0] + corresp_atoms[tx].text;
+                    }
+                }
+                else {
+                    if (corresp_atoms[tx].hasOwnProperty('has_bullet') && corresp_atoms[tx].has_bullet == true){
+                        translated_loc[bit_id].text[0] =  translated_loc[bit_id].text[0] + nl.repeat(corresp_atoms[tx].has_extraline+1) + "•\t" + corresp_atoms[tx].text;
+                    }
+                    else{
+                        translated_loc[bit_id].text[0] = translated_loc[bit_id].text[0] + nl.repeat(corresp_atoms[tx].has_extraline+1) + corresp_atoms[tx].text;
+                    }
+                    
+                }
+            }
+
+
+        }
+        if (bit.hasOwnProperty('quick_replies')) {
+            translated_loc[bit_id].quick_replies = [];
+            var corresp_atoms = transl_step_2.filter(function (atom) { return (atom.bit_id == bit_id && atom.bit_type == "quick_replies") });
+            corresp_atoms = corresp_atoms.sort(function (a, b) { return a.type_id - b.type_id });
+            for (qr = 0; qr < corresp_atoms.length; qr++) {
+                translated_loc[bit_id].quick_replies.push(corresp_atoms[qr].text);
+            }
+
+        }
+        if (bit.hasOwnProperty('arguments')) {
+            translated_loc[bit_id].arguments = [];
+            var corresp_atoms = transl_step_2.filter(function (atom) { return (atom.bit_id == bit_id && atom.bit_type == "arguments") });
+            if (corresp_atoms.length>0){
+                translated_loc[bit_id].arguments.push(corresp_atoms[0].text);
+            }else{
+                console.log("no match arguments")
+            }
+
+        }
+
+    }
 
 
 
-
+    return translated_loc
+}
 
 /////////////////////////////////////////////////////////////////
 // functions to create files for translators
