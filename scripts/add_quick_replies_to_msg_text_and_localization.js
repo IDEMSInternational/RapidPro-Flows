@@ -19,6 +19,7 @@ var select_phrases = {};
 select_phrases.msa = select_phrase_msa;
 
 for (var fl = 0; fl < obj.flows.length; fl++) {
+    //console.log(obj.flows[fl].name + "*************************************")
     var curr_loc = obj.flows[fl].localization;
 
     debug = debug + "\n\n" + obj.flows[fl].name + "*************************************" + "\n";
@@ -92,9 +93,9 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                     dest_id = obj.flows[fl].nodes[nd].exits[0].destination_uuid;
 
 
-                    debug = debug + obj.flows[fl].nodes[nd].actions[ac].text + "\n";
+                    debug = debug + "\n" + obj.flows[fl].nodes[nd].actions[ac].text + "\n";
                     for (lang in curr_loc) {
-                        debug_lang[lang] = debug_lang[lang] + obj.flows[fl].localization[lang][act_id].text + "\n";
+                        debug_lang[lang] = debug_lang[lang] + "\n" + obj.flows[fl].localization[lang][act_id].text + "\n";
                     }
 
 
@@ -114,7 +115,8 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                                         var new_test = arg_list.join(",") + ",";
 
                                         // variable to check if the matching between arguments and quick replies is consistent across languages
-                                        var matching_selectors = "";
+                                        var matching_selectors = [];
+
 
                                         // do the same for the languages in localiz
                                         var arg_list_lang = {};
@@ -126,7 +128,7 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                                             arg_list_lang[lang] = obj.flows[fl].localization[lang][case_id].arguments[0].split(/[\s,]+/).filter(function (i) { return i });
                                             old_test_lang[lang] = arg_list_lang[lang].join(",") + ",";
                                             new_test_lang[lang] = arg_list_lang[lang].join(",") + ",";
-                                            matching_selectors_lang[lang] = "";
+                                            matching_selectors_lang[lang] = [];
                                         }
 
 
@@ -149,7 +151,10 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                                                 if (r_exp.test(quick_reply)) {
                                                     // new_test = new_test + count[qr] + ",";
                                                     new_test = new_test + selectors[qr] + ",";
-                                                    matching_selectors = matching_selectors + selectors[qr] + ",";
+                                                    if (!matching_selectors.includes(selectors[qr])) {
+                                                        matching_selectors.push(selectors[qr]);
+
+                                                    }
                                                     debug = debug + new_test + "\n";
                                                 }
                                             }
@@ -179,18 +184,31 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                                                     if (r_exp.test(quick_reply)) {
                                                         // new_test = new_test + count[qr] + ",";
                                                         new_test_lang[lang] = new_test_lang[lang] + selectors[qr] + ",";
-                                                        matching_selectors_lang[lang] = matching_selectors_lang[lang] + selectors[qr] + ",";
+                                                        if (!matching_selectors_lang[lang].includes(selectors[qr])) {
+                                                            matching_selectors_lang[lang].push(selectors[qr]);
+                                                        }
                                                         debug_lang[lang] = debug_lang[lang] + new_test_lang[lang] + "\n";
                                                     }
                                                 }
                                             }
 
-                                            if (new_test == old_test) {
-                                                console.log("no match main version in flow " + obj.flows[fl].name)
-                                                debug = debug + "NO MATCH " + "\n";
+                                            if (new_test_lang[lang] == old_test_lang[lang]) {
+
+                                                console.log("no match " + lang + " in flow " + obj.flows[fl].name)
+                                                debug_lang[lang] = debug_lang[lang] + "NO MATCH " + "\n";
                                             }
-                                            else {
-                                                obj.flows[fl].nodes[j].router.cases[c].arguments = [new_test];
+
+
+                                            var unique_selectors = matching_selectors.sort().join(',');
+                                            var unique_selectors_lang = matching_selectors_lang[lang].sort().join(',');
+                                            if (unique_selectors != unique_selectors_lang) {
+                                                console.log(" in flow " + obj.flows[fl].name + "no matching selectors original " + matching_selectors + " and " + lang + " " + matching_selectors_lang[lang])
+                                                debug_lang[lang] = debug_lang[lang] + "NO MATCHING SELECTORS " + "\n";
+                                            }
+
+
+                                            if (new_test_lang[lang] != old_test_lang[lang] && unique_selectors == unique_selectors_lang) {
+                                                obj.flows[fl].localization[lang][case_id].arguments = [new_test_lang[lang]];
 
                                             }
                                         }
@@ -199,10 +217,29 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                                     }
                                     else if (curr_case.type == "has_all_words") {
 
-                                        arg_list = obj.flows[fl].nodes[j].router.cases[c].arguments[0].split(/[\s,]+/).filter(function (i) { return i });;
-                                        new_test = "";
-                                        for (qr = 0; qr < curr_quick_replies.length; qr++) {
-                                            quick_reply = curr_quick_replies[qr];
+                                        var arg_list = obj.flows[fl].nodes[j].router.cases[c].arguments[0].split(/[\s,]+/).filter(function (i) { return i });;
+                                        var new_test = "";
+
+
+                                        // do the same for the languages in localiz
+                                        var arg_list_lang = {};
+                                        var new_test_lang = {};
+                                        var matching_selectors_lang = {};
+
+                                        for (lang in curr_loc) {
+                                            arg_list_lang[lang] = obj.flows[fl].localization[lang][case_id].arguments[0].split(/[\s,]+/).filter(function (i) { return i });
+                                            new_test_lang[lang] = "";
+
+                                        }
+
+                                        debug = debug + "arg list: " + arg_list + "\n";
+                                        for (lang in curr_loc) {
+                                            debug_lang[lang] = debug_lang[lang] + "arg list: " + arg_list_lang[lang] + "\n";
+                                        }
+
+                                        // find matching qr
+                                        for (var qr = 0; qr < curr_quick_replies.length; qr++) {
+                                            var quick_reply = curr_quick_replies[qr];
                                             var match_all = arg_list.every(function (word) {
 
                                                 r_exp = new RegExp(word, "i");
@@ -226,16 +263,76 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                                         }
                                         else {
                                             obj.flows[fl].nodes[j].router.cases[c].arguments = [new_test];
-                                            new_test = "";
+
                                         }
+
+
+
+
+                                        // find matching quick reply in localization
+                                        for (lang in curr_loc) {
+                                            for (var qr = 0; qr < curr_transl_quick_replies[lang].length; qr++) {
+                                                var quick_reply = curr_transl_quick_replies[lang][qr];
+                                                var match_all = arg_list_lang[lang].every(function (word) {
+
+                                                    r_exp = new RegExp(word, "i");
+                                                    return r_exp.test(quick_reply)
+
+                                                });
+
+                                                if (match_all) {
+
+                                                    new_test_lang[lang] = new_test_lang[lang] + selectors[qr] + ",";
+
+                                                }
+
+
+
+                                            }
+                                            if (new_test_lang[lang] == "") {
+                                                console.log("no match msa " + obj.flows[fl].name)
+                                                debug_lang[lang] = debug_lang[lang] + "NO MATCH " + "\n";
+                                            }
+
+
+                                            if (new_test_lang[lang] != new_test) {
+                                                console.log(" in flow " + obj.flows[fl].name + "no matching selectors")
+                                                debug_lang[lang] = debug_lang[lang] + "NO MATCHING SELECTORS " + "\n";
+                                            }
+
+
+                                            if (new_test_lang[lang] != "" && new_test_lang[lang] == new_test) {
+                                                obj.flows[fl].localization[lang][case_id].arguments = [new_test_lang[lang]];
+
+                                            }
+
+
+                                        }
+
                                     }
                                     else if (curr_case.type == "has_phrase") {
-                                        arg = obj.flows[fl].nodes[j].router.cases[c].arguments[0];
+                                        var arg = obj.flows[fl].nodes[j].router.cases[c].arguments[0];
+                                        var new_test = "";
+                                        debug = debug + "arg: " + arg + "\n";
 
+                                        // do the same for the languages in localiz
+                                        var arg_lang = {};
+                                        var new_test_lang = {};
+
+                                        for (lang in curr_loc) {
+                                            arg_lang[lang] = obj.flows[fl].localization[lang][case_id].arguments[0];
+                                            new_test_lang[lang] = "";
+                                            debug_lang[lang] = debug_lang[lang] + "arg: " + arg_lang[lang] + "\n";
+
+                                        }
+
+
+
+                                        // find matching qr
                                         for (var qr = 0; qr < curr_quick_replies.length; qr++) {
-                                            quick_reply = curr_quick_replies[qr];
+                                            var quick_reply = curr_quick_replies[qr];
 
-                                            r_exp = new RegExp(arg, "i");
+                                            var r_exp = new RegExp(arg, "i");
 
 
                                             if (r_exp.test(quick_reply)) {
@@ -244,31 +341,77 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                                                 new_test = new_test + selectors[qr] + ",";
 
                                             }
-
-
-
                                         }
 
                                         if (new_test == "") {
                                             console.log("no match" + obj.flows[fl].name)
+                                            debug = debug + "NO MATCH " + "\n";
                                         }
                                         else {
                                             obj.flows[fl].nodes[j].router.cases[c].arguments = [new_test];
-                                            new_test = "";
+                                        }
+
+
+
+                                        // find matching quick reply in localization
+                                        for (lang in curr_loc) {
+                                            for (var qr = 0; qr < curr_transl_quick_replies[lang].length; qr++) {
+                                                var quick_reply = curr_quick_repliecurr_transl_quick_replies[lang][qr];
+                                                var r_exp = new RegExp(arg, "i");
+
+                                                if (r_exp.test(quick_reply)) {
+                                                    new_test_lang[lang] = new_test_lang[lang] + selectors[qr] + ",";
+
+                                                }
+                                            }
+
+                                            if (new_test_lang[lang] == "") {
+                                                console.log("no match msa" + obj.flows[fl].name)
+                                                debug_lang[lang] = debug_lang[lang] + "NO MATCH " + "\n";
+                                            }
+
+                                            if (new_test_lang[lang] != new_test) {
+                                                console.log(" in flow " + obj.flows[fl].name + "no matching selectors")
+                                                debug_lang[lang] = debug_lang[lang] + "NO MATCHING SELECTORS " + "\n";
+                                            }
+
+
+                                            if (new_test_lang[lang] != "" && new_test_lang[lang] == new_test) {
+                                                obj.flows[fl].localization[lang][case_id].arguments = [new_test_lang[lang]];
+
+                                            }
+
 
                                         }
+
+
 
 
                                     }
                                     else if (curr_case.type == "has_only_phrase") {
-                                        arg = obj.flows[fl].nodes[j].router.cases[c].arguments[0];
+                                        var arg = obj.flows[fl].nodes[j].router.cases[c].arguments[0];
                                         debug = debug + "arg: " + arg + "\n";
                                         new_test = "";
+
+                                        // do the same for the languages in localiz
+                                        var arg_lang = {};
+                                        var new_test_lang = {};
+
+                                        for (lang in curr_loc) {
+                                            arg_lang[lang] = obj.flows[fl].localization[lang][case_id].arguments[0];
+                                            new_test_lang[lang] = "";
+                                            debug_lang[lang] = debug_lang[lang] + "arg: " + arg_lang[lang] + "\n";
+
+                                        }
+
+
+
+
+                                        // find matching qr
                                         for (var qr = 0; qr < curr_quick_replies.length; qr++) {
-                                            quick_reply = curr_quick_replies[qr];
+                                            var quick_reply = curr_quick_replies[qr];
 
                                             if (quick_reply.toLowerCase().trim() == arg.toLowerCase().trim()) {
-                                                //new_test = new_test + count[qr] + ",";
                                                 new_test = new_test + selectors[qr] + ",";
                                                 debug = debug + new_test + "\n";
 
@@ -285,7 +428,38 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
                                         }
                                         else {
                                             obj.flows[fl].nodes[j].router.cases[c].arguments = [new_test];
-                                            new_test = "";
+
+                                        }
+
+                                        // find matching quick reply in localization
+                                        for (lang in curr_loc) {
+                                            for (var qr = 0; qr < curr_transl_quick_replies[lang].length; qr++) {
+                                                var quick_reply = curr_quick_repliecurr_transl_quick_replies[lang][qr];
+
+                                                if (quick_reply.toLowerCase().trim() == arg_lang[lang].toLowerCase().trim()) {
+                                                    new_test_lang[lang] = new_test_lang[lang] + selectors[qr] + ",";
+                                                    debug_lang[lang] = debug_lang[lang] + new_test_lang[lang] + "\n";
+
+                                                }
+                                            }
+
+                                            if (new_test_lang[lang] == "") {
+                                                console.log("no match msa" + obj.flows[fl].name)
+                                                debug_lang[lang] = debug_lang[lang] + "NO MATCH " + "\n";
+                                            }
+
+                                            if (new_test_lang[lang] != new_test) {
+                                                console.log(" in flow " + obj.flows[fl].name + "no matching selectors")
+                                                debug_lang[lang] = debug_lang[lang] + "NO MATCHING SELECTORS " + "\n";
+                                            }
+
+
+                                            if (new_test_lang[lang] != "" && new_test_lang[lang] == new_test) {
+                                                obj.flows[fl].localization[lang][case_id].arguments = [new_test_lang[lang]];
+
+                                            }
+
+
                                         }
 
                                     }
@@ -316,15 +490,22 @@ for (var fl = 0; fl < obj.flows.length; fl++) {
         }
 
     }
-    new_flows = JSON.stringify(obj, null, 2);
-    var output_path = path.join(__dirname, "../products/virtual-maths-camp/development/vmc-master_no_quick_replies.json");
-    fs.writeFile(output_path, new_flows, function (err, result) {
-        if (err) console.log('error', err);
-    });
+
+}
+new_flows = JSON.stringify(obj, null, 2);
+var output_path = path.join(__dirname, "../products/covid-19-parenting/development/translation/msa/plh_master_msa_no_qr.json");
+fs.writeFile(output_path, new_flows, function (err, result) {
+    if (err) console.log('error', err);
+});
 
 
-    var new_flows = debug;
-    var output_path = path.join(__dirname, "../products/virtual-maths-camp/development/vmc-master-debug_qr.txt");
-    fs.writeFile(output_path, new_flows, function (err, result) {
-        if (err) console.log('error', err);
-    });
+
+var output_path = path.join(__dirname, "../products/covid-19-parenting/development/translation/msa/debug.txt");
+fs.writeFile(output_path, debug, function (err, result) {
+    if (err) console.log('error', err);
+});
+
+var output_path = path.join(__dirname, "../products/covid-19-parenting/development/translation/msa/debug_msa.txt");
+fs.writeFile(output_path, debug_lang.msa, function (err, result) {
+    if (err) console.log('error', err);
+});
