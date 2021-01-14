@@ -1,0 +1,1261 @@
+{
+  "0": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "9606d118-2359-4819-ae98-f882f44019bb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Pegs numbered 1 to 50 are placed in order in a line, with number 1 on the left."
+  },
+  "18": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "9606d118-2359-4819-ae98-f882f44019bb",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "They are then knocked over, one at a time, following these two rules:"
+  },
+  "31": {
+    "has_extraline": 1,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "9606d118-2359-4819-ae98-f882f44019bb",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "1. Starting with the first standing peg on the left, alternate pegs are knocked down, until the end of the row is reached."
+  },
+  "54": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "9606d118-2359-4819-ae98-f882f44019bb",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "2. Each time the end of the row is reached, repeat the previous rule."
+  },
+  "68": {
+    "has_extraline": 1,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "9606d118-2359-4819-ae98-f882f44019bb",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "What is the number of the last peg to be knocked down?"
+  },
+  "80": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "a4f1ea18-b182-46c6-a507-e887169f83ba",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I'm really not that smart yet. "
+  },
+  "88": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "9ab85a85-bbfc-45dc-a9eb-183c1e8ceafe",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.s_ans is not correct.",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "92": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "9ab85a85-bbfc-45dc-a9eb-183c1e8ceafe",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Can I try again?",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "96": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "9ab85a85-bbfc-45dc-a9eb-183c1e8ceafe",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Give me a hint!",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "100": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "9ab85a85-bbfc-45dc-a9eb-183c1e8ceafe",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "Give me something else to do.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "106": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "9ab85a85-bbfc-45dc-a9eb-183c1e8ceafe",
+    "bit_type": "quick_replies",
+    "type_id": 3,
+    "text": "That’s enough for today! Go away!",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "112": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "0c336f71-7b66-49ae-b040-2b4abc36f541",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done! That is absolutely right."
+  },
+  "118": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "0c336f71-7b66-49ae-b040-2b4abc36f541",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Tell me more about this puzzle.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "124": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "0c336f71-7b66-49ae-b040-2b4abc36f541",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Give me a harder version.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "129": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "0c336f71-7b66-49ae-b040-2b4abc36f541",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "Give me something else to do.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "135": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "0c336f71-7b66-49ae-b040-2b4abc36f541",
+    "bit_type": "quick_replies",
+    "type_id": 3,
+    "text": "That’s enough for today! Go away!",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "141": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "898e35d2-5941-4021-8843-b03ea55086db",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "again",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "142": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "3c2a80e2-bf99-4fb5-ba7a-407af2df5d02",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "hint",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "143": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "2827d21f-46a1-4c35-8bfc-79385ef76d3f",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "else",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "144": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "b3121373-c90b-45a0-96db-40ffd7556768",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "away",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "145": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "7306a278-9a17-466d-8391-9ee556406ffe",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I'm really not that smart yet."
+  },
+  "152": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "f9538939-c8b3-415d-b219-e47f7d29709d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "What happens if you only had 5 pegs? What about 10 or 20? Can you spot the pattern?"
+  },
+  "170": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "f9538939-c8b3-415d-b219-e47f7d29709d",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Take me back, I want another go.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "177": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "f9538939-c8b3-415d-b219-e47f7d29709d",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Tell me more about this problem solving technique.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "185": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "f9538939-c8b3-415d-b219-e47f7d29709d",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "Give me something else to do.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "191": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "f9538939-c8b3-415d-b219-e47f7d29709d",
+    "bit_type": "quick_replies",
+    "type_id": 3,
+    "text": "That’s enough for today! Go away!",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "197": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "5bf96bc5-045d-4f9e-9827-f7fa9b2c0ec2",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "more",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "198": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "74d06981-643f-4bc1-99c3-aceaee0c1304",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "harder",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "199": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "75e07f5a-5e93-4f0f-9b52-55b0c00714fd",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "else",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "200": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "dbd8dff4-46ab-4267-80d8-b8d2a2da70ba",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "away",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "201": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "fbe50d2b-83fa-4d9d-bd4d-0180132f0368",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I'm really not that smart yet. "
+  },
+  "209": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "e6b19e8f-8441-444d-8a61-cc89566a4473",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "back",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "210": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "9d98201b-7ea6-42be-a462-cb1d76b274db",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "technique",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "211": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "f9037231-b3ca-4c28-918e-e821ca0b1de7",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "else",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "212": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "07c8afb1-d2ba-4199-a257-51fc2d103a90",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "away",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "213": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "fa7476b3-8f75-4e2e-a428-0d77a23bb5f6",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "This puzzle comes from https://nrich.maths.org/11677 and is actually related to binary numbers!"
+  },
+  "225": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "fa7476b3-8f75-4e2e-a428-0d77a23bb5f6",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Give me another puzzle.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "229": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "fa7476b3-8f75-4e2e-a428-0d77a23bb5f6",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Give me something else to do.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "235": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "fa7476b3-8f75-4e2e-a428-0d77a23bb5f6",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "That’s enough for today! Go away!",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "241": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "5bf82442-40a2-45fb-be9b-097dd9905de5",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I'm really not that smart yet. "
+  },
+  "249": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "9c2dc84e-72b1-418b-83ed-28b3a92fa92a",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "puzzle",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "250": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "69530b43-108f-47e5-a5ab-5865005f0eae",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "else",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "251": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "8c69fdde-34ec-4a2c-aeb3-9a2a9060c271",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "away",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "252": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "775a922b-dae7-4206-9984-14ab934c4dc9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "*in development*"
+  },
+  "254": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "775a922b-dae7-4206-9984-14ab934c4dc9",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "goes to ‘using a smaller’ example activity"
+  },
+  "261": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "775a922b-dae7-4206-9984-14ab934c4dc9",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "*in development*"
+  },
+  "263": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "4d08661b-5d07-4193-8a05-bb1c053f2fcc",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Bye! It was fun chatting. Remember you can just type \"mathscamp\" and I'll come running!"
+  },
+  "278": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "1cc11dd8-7008-43c5-aa65-e6eba5d7c791",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Pegs numbered 1 to 1050 are placed in order in a line, with number 1 on the left."
+  },
+  "296": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "1cc11dd8-7008-43c5-aa65-e6eba5d7c791",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "They are then knocked over, one at a time, following these two rules:"
+  },
+  "309": {
+    "has_extraline": 1,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "1cc11dd8-7008-43c5-aa65-e6eba5d7c791",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "1. Starting with the first standing peg on the left, alternate pegs are knocked down, until the end of the row is reached."
+  },
+  "332": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "1cc11dd8-7008-43c5-aa65-e6eba5d7c791",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "2. Each time the end of the row is reached, repeat the previous rule."
+  },
+  "346": {
+    "has_extraline": 1,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "1cc11dd8-7008-43c5-aa65-e6eba5d7c791",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "What is the number of the last peg to be knocked down?"
+  },
+  "358": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "89f3fafd-da1e-428b-ab1c-e629e4a61f93",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done! That is absolutely right."
+  },
+  "364": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "89f3fafd-da1e-428b-ab1c-e629e4a61f93",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Tell me more about this puzzle.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "370": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "89f3fafd-da1e-428b-ab1c-e629e4a61f93",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Give me a harder version.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "375": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "89f3fafd-da1e-428b-ab1c-e629e4a61f93",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "Give me something else to do.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "381": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "89f3fafd-da1e-428b-ab1c-e629e4a61f93",
+    "bit_type": "quick_replies",
+    "type_id": 3,
+    "text": "That’s enough for today! Go away!",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "387": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "e8a10358-7f5d-4462-bea7-7e4744f17deb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.s_ans_ext1 is not correct.",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "391": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "e8a10358-7f5d-4462-bea7-7e4744f17deb",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Can I try again?",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "395": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "e8a10358-7f5d-4462-bea7-7e4744f17deb",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Give me something else to do.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "401": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "e8a10358-7f5d-4462-bea7-7e4744f17deb",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "That’s enough for today! Go away!",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "407": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "91148155-c6d3-441a-8df5-e385444940fa",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I'm really not that smart yet. "
+  },
+  "415": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "4a2be382-7517-4580-8d6a-cc3d4e57d731",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "more",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "416": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "3d779cab-e817-4a7c-ae51-29b7df74ad6e",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "harder",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "417": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "57bfb67d-6287-476f-a605-ec4d05eba84f",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "else",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "418": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "9b14d327-afdb-46db-988e-c10dfc9277bd",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "away",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "419": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "b0777c78-c484-4d1d-86a0-4d167abdb97c",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "again",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "420": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "b61d2f8f-ffc0-4c3b-b708-e51de308033d",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "else",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "421": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "a04cdc46-161e-4f4e-a753-47e47d93214d",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "away",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "422": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "06ece0db-a7d8-4ae8-ae59-980639fb6643",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I'm really not that smart yet. "
+  },
+  "430": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "95d7ee8d-8aeb-47f2-895c-082be80cd430",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Pegs numbered 1 to 10000050 are placed in order in a line, with number 1 on the left."
+  },
+  "448": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "95d7ee8d-8aeb-47f2-895c-082be80cd430",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "They are then knocked over, one at a time, following these two rules:"
+  },
+  "461": {
+    "has_extraline": 1,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "95d7ee8d-8aeb-47f2-895c-082be80cd430",
+    "bit_type": "text",
+    "type_id": 3,
+    "text": "1. Starting with the first standing peg on the left, 9 pegs are knocked down and the tenth is left standing, until the end of the row is reached."
+  },
+  "490": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "95d7ee8d-8aeb-47f2-895c-082be80cd430",
+    "bit_type": "text",
+    "type_id": 4,
+    "text": "2. Each time the end of the row is reached, repeat the previous rule."
+  },
+  "504": {
+    "has_extraline": 1,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "95d7ee8d-8aeb-47f2-895c-082be80cd430",
+    "bit_type": "text",
+    "type_id": 6,
+    "text": "What is the number of the last peg to be knocked down?"
+  },
+  "516": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "8a75e0b4-9a26-4c26-b42f-3971acf9c417",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Well done! That is absolutely right."
+  },
+  "522": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "8a75e0b4-9a26-4c26-b42f-3971acf9c417",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Tell me more about this puzzle.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "528": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "8a75e0b4-9a26-4c26-b42f-3971acf9c417",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Give me something else to do.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "534": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "8a75e0b4-9a26-4c26-b42f-3971acf9c417",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "That’s enough for today! Go away!",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "540": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "1c802e8c-1e81-443a-8314-c04bd09e2a78",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "@results.s_ans_ext2 is not correct.",
+    "note": "Strings like @fields.xxx and @results.yyy should not be translated"
+  },
+  "544": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "1c802e8c-1e81-443a-8314-c04bd09e2a78",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "Can I try again?",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "548": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "1c802e8c-1e81-443a-8314-c04bd09e2a78",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Give me something else to do.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "554": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "1c802e8c-1e81-443a-8314-c04bd09e2a78",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "That’s enough for today! Go away!",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "560": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "3b4140de-cf23-4d04-bab4-1b0d18fdfacf",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "more",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "561": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "e691825f-8b1b-45af-b411-2ab6a081fc6a",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "else",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "562": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "dba29b64-4997-44fd-b48a-c5994e74f2a5",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "away",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "563": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "751aacc4-7a9b-46ec-9864-6c8c2d24f4cb",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I'm really not that smart yet. "
+  },
+  "571": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "a2f80163-34dd-4c31-9ddd-88983484117b",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "again",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "572": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "c81b5fc0-fe32-4645-bdeb-0d0b24d5892b",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "else",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "573": {
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "c95fb8f1-b07d-40ff-b51f-b11a36589fec",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "away",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "574": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "db51593e-db10-479c-8c1a-d6c20491ae83",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I'm really not that smart yet. "
+  },
+  "582": {
+    "has_extraline": 0,
+    "flow_id": "e5473686-ab33-43d6-a39c-993c04e8a4c0",
+    "bit_id": "bf621ae8-36e5-47e7-aaf1-d0287f8c2584",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Bye! It was fun chatting. Remember you can just type \"mathscamp\" and I'll come running!"
+  },
+  "597": {
+    "has_extraline": 0,
+    "flow_id": "42ce4a8e-2bcf-4ee2-8859-a39e3dbfcd18",
+    "bit_id": "d2abe729-cee2-474b-8a72-9a468b16c42d",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Hi All I am your friendly Maths Bot demo. I can give you fun facts, puzzles, games and activities. What do you want?"
+  },
+  "620": {
+    "flow_id": "42ce4a8e-2bcf-4ee2-8859-a39e3dbfcd18",
+    "bit_id": "d2abe729-cee2-474b-8a72-9a468b16c42d",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "fun fact",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "622": {
+    "flow_id": "42ce4a8e-2bcf-4ee2-8859-a39e3dbfcd18",
+    "bit_id": "d2abe729-cee2-474b-8a72-9a468b16c42d",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "puzzle",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "623": {
+    "flow_id": "42ce4a8e-2bcf-4ee2-8859-a39e3dbfcd18",
+    "bit_id": "d2abe729-cee2-474b-8a72-9a468b16c42d",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "game",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "624": {
+    "flow_id": "42ce4a8e-2bcf-4ee2-8859-a39e3dbfcd18",
+    "bit_id": "d2abe729-cee2-474b-8a72-9a468b16c42d",
+    "bit_type": "quick_replies",
+    "type_id": 3,
+    "text": "activity",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "625": {
+    "flow_id": "42ce4a8e-2bcf-4ee2-8859-a39e3dbfcd18",
+    "bit_id": "48cd5288-a43d-41cc-8a3f-4f4018749146",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "fun",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "626": {
+    "flow_id": "42ce4a8e-2bcf-4ee2-8859-a39e3dbfcd18",
+    "bit_id": "2027e179-e133-4d6f-9ee5-9b8eab1e0fcd",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "puzzle",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "627": {
+    "flow_id": "42ce4a8e-2bcf-4ee2-8859-a39e3dbfcd18",
+    "bit_id": "da7e8433-da56-46fc-b468-066b9d9f10c0",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "game",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "628": {
+    "flow_id": "42ce4a8e-2bcf-4ee2-8859-a39e3dbfcd18",
+    "bit_id": "1c272b98-633a-43f0-b0fe-f5bedf3e459e",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "activity",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "629": {
+    "has_extraline": 0,
+    "flow_id": "42ce4a8e-2bcf-4ee2-8859-a39e3dbfcd18",
+    "bit_id": "55dfa29b-8030-4e24-be66-7142c06a371a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I'm really not that smart yet. "
+  },
+  "637": {
+    "has_extraline": 0,
+    "flow_id": "56829e0f-7626-42af-b4b6-26e00bc9dd60",
+    "bit_id": "60de99f6-e625-418e-8d70-2604f18f6c7a",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "*IN DEVELOPMENT*"
+  },
+  "639": {
+    "has_extraline": 0,
+    "flow_id": "7dfbaea9-8bf2-4b39-a7b3-6557340201d9",
+    "bit_id": "45691c7c-57cb-477f-a4f5-7c3593bfdf17",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "*IN DEVELOPMENT*"
+  },
+  "641": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "45d4c542-b69d-4863-a604-4c42256fecea",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "In a room of 23 people the probability that two people have the same birthday is more than 50%."
+  },
+  "660": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "45d4c542-b69d-4863-a604-4c42256fecea",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "I want to explore this.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "665": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "45d4c542-b69d-4863-a604-4c42256fecea",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "I don’t get it. Why?",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "670": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "45d4c542-b69d-4863-a604-4c42256fecea",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "I get it! That’s cool, tell me more.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "678": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "45d4c542-b69d-4863-a604-4c42256fecea",
+    "bit_type": "quick_replies",
+    "type_id": 3,
+    "text": "Give me something else to do.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "684": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "45d4c542-b69d-4863-a604-4c42256fecea",
+    "bit_type": "quick_replies",
+    "type_id": 4,
+    "text": "That’s enough for today! Go away!",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "690": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "0d8d3351-448e-4fc8-94ce-d3c9ba96ac3d",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "explore",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "691": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "d8856d68-acea-46ee-a875-d43926ae16ce",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "why",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "692": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "57b60c1b-cac5-4ce7-a30a-12ba326d69eb",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "more ",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "694": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "cc103fab-9102-473e-b05a-f652cc267ad6",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "else",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "695": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "93ec9920-67d0-4761-84ce-1a09e5acdb96",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "away",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "696": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "e2203494-8ee1-4faa-9edc-9d11912176c3",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I'm really not that smart yet. "
+  },
+  "704": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "42a7bda8-655c-41df-a1ae-d83e3d5bf3f9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "*in development*"
+  },
+  "706": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "42a7bda8-655c-41df-a1ae-d83e3d5bf3f9",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "goes to related activity"
+  },
+  "710": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "42a7bda8-655c-41df-a1ae-d83e3d5bf3f9",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "*in development*"
+  },
+  "712": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "ebbe2030-956d-4f3c-babe-5ca4ede4c2d9",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "The probability that two people have the same birthday is just 1 minus the probability of everyone's birthday being different."
+  },
+  "732": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "ebbe2030-956d-4f3c-babe-5ca4ede4c2d9",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "If we only have 2 people what is the probability their birthday is different? "
+  },
+  "747": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "ebbe2030-956d-4f3c-babe-5ca4ede4c2d9",
+    "bit_type": "text",
+    "type_id": 2,
+    "text": "If we had 5 people, in how many ways can we select two to compare their birthdays?"
+  },
+  "764": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "c13049cb-2ed2-41f2-86e0-83ccca0420c8",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Have you experienced a surprising coincidence in your life? "
+  },
+  "774": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "c13049cb-2ed2-41f2-86e0-83ccca0420c8",
+    "bit_type": "text",
+    "type_id": 1,
+    "text": "Coincidences like meeting someone with exactly the same birthday as you are unlikely events on their own. However, as with the birthday problem, the number of events can increase exponentially meaning that in a group or over time it is more likely to have coincidences than not!"
+  },
+  "821": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "2568558e-8ccb-4c42-96ae-932708ecbeb0",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Bye! It was fun chatting. Remember you can just type \"mathscamp\" and I'll come running!"
+  },
+  "836": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "21f2891b-a8f2-465d-bab7-2d70611afe20",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "What do we get if we use the same approach for 23 people?"
+  },
+  "849": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "21f2891b-a8f2-465d-bab7-2d70611afe20",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "I want to explore this.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "854": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "21f2891b-a8f2-465d-bab7-2d70611afe20",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "I still don’t get it. Show me.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "861": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "21f2891b-a8f2-465d-bab7-2d70611afe20",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "I get it! That’s cool, tell me more.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "869": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "21f2891b-a8f2-465d-bab7-2d70611afe20",
+    "bit_type": "quick_replies",
+    "type_id": 3,
+    "text": "Give me something else to do.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "875": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "21f2891b-a8f2-465d-bab7-2d70611afe20",
+    "bit_type": "quick_replies",
+    "type_id": 4,
+    "text": "That’s enough for today! Go away!",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "881": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "afbe8b37-3059-4229-af7b-7a420a5d9fec",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "If you haven’t had a coincidence yet don’t worry if you keep looking it’s unlikely that nothing unlikely will ever happen to you! "
+  },
+  "905": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "afbe8b37-3059-4229-af7b-7a420a5d9fec",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "I want to explore this.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "910": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "afbe8b37-3059-4229-af7b-7a420a5d9fec",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "Give me another fun fact.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "915": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "afbe8b37-3059-4229-af7b-7a420a5d9fec",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "Give me something else to do.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "921": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "afbe8b37-3059-4229-af7b-7a420a5d9fec",
+    "bit_type": "quick_replies",
+    "type_id": 3,
+    "text": "That’s enough for today! Go away!",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "927": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "58f3b3c1-8d00-4a38-b96b-6ddae014a28a",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "explore",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "928": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "2a3171c9-e066-4db0-82c1-1ed15cd9ac37",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "show",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "929": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "8112c1bb-851d-47d4-ac4d-5313ebde9315",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "more",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "930": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "fd3887bc-42d6-48b7-8846-c3e2ded68aa2",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "else ",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "932": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "5df1e40a-f617-461a-af3b-2ec208f79e4e",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "away",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "933": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "8e5a30c5-8eef-489e-8e59-743dc39ac3de",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I'm really not that smart yet. "
+  },
+  "941": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "517eb75b-39e6-4954-8fba-396c4f347764",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I'm really not that smart yet. "
+  },
+  "949": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "6011396d-7ae3-488a-ac62-ab3d66f4a7b2",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "explore",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "950": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "ab173899-6b0a-428b-bcf4-902b71fe09f8",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "fun",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "951": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "48af4f8e-c524-4627-947d-d4eabc2dfd97",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "else",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "952": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "7c149693-7f5e-49f2-abb5-dd68a1796854",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "away",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "953": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "2e325e01-06e4-463d-9287-a07bac542f69",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "The probability of any 2 people having different birthdays is roughly 364/365 there are 253 different pairs of people in a room of 23 people so the probability of them all having different birthdays is roughly 364/365 to the power 253. This is 0.4995 slightly less than 50% so the probability of having 2 people in the room with the same birthday is just over 50%. Actually we should be including leap years but the result is still true if you do."
+  },
+  "1035": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "2e325e01-06e4-463d-9287-a07bac542f69",
+    "bit_type": "quick_replies",
+    "type_id": 0,
+    "text": "I want to explore this.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "1040": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "2e325e01-06e4-463d-9287-a07bac542f69",
+    "bit_type": "quick_replies",
+    "type_id": 1,
+    "text": "I get it! That’s cool, tell me more.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "1048": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "2e325e01-06e4-463d-9287-a07bac542f69",
+    "bit_type": "quick_replies",
+    "type_id": 2,
+    "text": "Give me something else to do.",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "1054": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "2e325e01-06e4-463d-9287-a07bac542f69",
+    "bit_type": "quick_replies",
+    "type_id": 3,
+    "text": "That’s enough for today! Go away!",
+    "note": "This is a quick reply and its translation should be uniquely identified by the corresponding argument"
+  },
+  "1060": {
+    "has_extraline": 0,
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "c77d3c8a-d7a1-46bd-b9e1-86536b5ccf59",
+    "bit_type": "text",
+    "type_id": 0,
+    "text": "Sorry, I'm really not that smart yet. "
+  },
+  "1068": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "2890a6a8-8df4-4cc3-a80b-88b0664ab8b3",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "explore",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "1069": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "e322ed95-f863-4b8c-8324-744d1c2b8a37",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "more",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "1070": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "e3fe42f2-da56-4e4f-885d-40182bd0b8eb",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "else",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  },
+  "1071": {
+    "flow_id": "6b2767ff-8895-4c0c-9871-4a345704cd90",
+    "bit_id": "4f78dcdb-81a5-45e2-82ec-d5bb5f85c4ab",
+    "bit_type": "arguments",
+    "type_id": "0",
+    "text": "away",
+    "note": "This is an argument and it may be used to identify a corresponding quick reply"
+  }
+}
