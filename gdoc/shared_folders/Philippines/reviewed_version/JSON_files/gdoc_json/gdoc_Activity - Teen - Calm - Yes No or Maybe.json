@@ -1,0 +1,319 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 49,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 49,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Teen - Calm - Yes No or Maybe\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.rpy96khdo4o1",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 57,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 57,
+                    "startIndex": 49,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.i6z1uacqgozg",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 49
+    },
+    {
+        "endIndex": 75,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 75,
+                    "startIndex": 57,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.7gurfh5rxh80",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 57
+    },
+    {
+        "endIndex": 83,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 83,
+                    "startIndex": 75,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.w7flayvfom2z",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 75
+    },
+    {
+        "endIndex": 101,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 101,
+                    "startIndex": 83,
+                    "textRun": {
+                        "content": "Yes, No, or Maybe\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 83
+    },
+    {
+        "endIndex": 200,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 200,
+                    "startIndex": 101,
+                    "textRun": {
+                        "content": "\u2022\tAsk each other questions. They can be any questions about things you like or what you did today.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 101
+    },
+    {
+        "endIndex": 260,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 260,
+                    "startIndex": 200,
+                    "textRun": {
+                        "content": "\u2022\tThe only rule is that you can\u2019t answer Yes, No, or Maybe.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 200
+    },
+    {
+        "endIndex": 329,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 329,
+                    "startIndex": 260,
+                    "textRun": {
+                        "content": "\u2022\tHow long can you last? How creative can you get with your answers?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 260
+    },
+    {
+        "endIndex": 358,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 358,
+                    "startIndex": 329,
+                    "textRun": {
+                        "content": "\u2022\tSwap over and play again! \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 329
+    },
+    {
+        "endIndex": 380,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 380,
+                    "startIndex": 358,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.f1lkda3q7jqz",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 358
+    },
+    {
+        "endIndex": 383,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 383,
+                    "startIndex": 380,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ikpqmsoaiku7",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 380
+    },
+    {
+        "endIndex": 420,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 420,
+                    "startIndex": 383,
+                    "textRun": {
+                        "content": "b66fce13-cc9a-48ff-9df6-9ca152166a26\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 383
+    },
+    {
+        "endIndex": 434,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 434,
+                    "startIndex": 420,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.g0bganagvckk",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 420
+    },
+    {
+        "endIndex": 436,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 436,
+                    "startIndex": 434,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 434
+    }
+]
