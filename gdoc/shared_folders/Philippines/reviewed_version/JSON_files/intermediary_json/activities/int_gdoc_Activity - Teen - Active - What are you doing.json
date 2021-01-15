@@ -1,0 +1,13 @@
+{
+  "PLH - Activity - Teen - Active - What are you doing": {
+    "Content": {
+      "Set of messages 1": {
+        "Message": "What Are You Doing? \n\u2022\tThis game is best when more than 2 people play.\n\u2022\tOne person pretends to be doing something \u2013 for example, combing hair. \n\u2022\tA second person asks, \u201cWhat are you doing?\u201d\n\u2022\tThe first person needs to say something that has nothing to do with combing hair, for example, \u201cTying my shoes.\u201d  \n\u2022\tThe second person then starts pretending to tie their shoes until a new person asks, \u201cWhat are you doing?\u201d \n\u2022\tThe second person\u2019s answer must always be something different from what they are actually doing!\nThe next person should act out the second person\u2019s answer and when someone asks what they are doing, their answer must be different from what they are actually doing!"
+      }
+    },
+    "Technical information": {
+      "Id": "46774918-7d53-42a1-8e5f-3b4da5fb1dc1",
+      "Template_type": "1"
+    }
+  }
+}

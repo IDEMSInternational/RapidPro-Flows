@@ -1,0 +1,319 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 49,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 49,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Teen - Calm - The Interrupter\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.qfvo7qsat5lu",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 57,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 57,
+                    "startIndex": 49,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.7jthjuvfpbnq",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 49
+    },
+    {
+        "endIndex": 75,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 75,
+                    "startIndex": 57,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.itzdd2aca3j2",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 57
+    },
+    {
+        "endIndex": 83,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 83,
+                    "startIndex": 75,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.4rd2ajd0u572",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 75
+    },
+    {
+        "endIndex": 99,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 99,
+                    "startIndex": 83,
+                    "textRun": {
+                        "content": "The Interrupter\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 83
+    },
+    {
+        "endIndex": 150,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 150,
+                    "startIndex": 99,
+                    "textRun": {
+                        "content": "\u2022\tChoose a storyteller to start making up a story.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 99
+    },
+    {
+        "endIndex": 207,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 207,
+                    "startIndex": 150,
+                    "textRun": {
+                        "content": "\u2022\tStory listeners can interrupt with a word at any time.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 150
+    },
+    {
+        "endIndex": 264,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 264,
+                    "startIndex": 207,
+                    "textRun": {
+                        "content": "\u2022\tThe storyteller needs to fit that word in their story.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 207
+    },
+    {
+        "endIndex": 301,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 301,
+                    "startIndex": 264,
+                    "textRun": {
+                        "content": "\u2022\tTry with a different storyteller! \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 264
+    },
+    {
+        "endIndex": 323,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 323,
+                    "startIndex": 301,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.mhh72hd3am0u",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 301
+    },
+    {
+        "endIndex": 326,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 326,
+                    "startIndex": 323,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.t6qc8owm90a1",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 323
+    },
+    {
+        "endIndex": 363,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 363,
+                    "startIndex": 326,
+                    "textRun": {
+                        "content": "8d77bacb-18b0-4b90-9a73-8662450c6744\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 326
+    },
+    {
+        "endIndex": 377,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 377,
+                    "startIndex": 363,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.uvpaingexmqn",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 363
+    },
+    {
+        "endIndex": 379,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 379,
+                    "startIndex": 377,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 377
+    }
+]

@@ -1,0 +1,566 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 42,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 42,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Adult - Active - Relax\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.1mjgwxrh6qa9",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 50,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 50,
+                    "startIndex": 42,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.d2hy6e7hc604",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 42
+    },
+    {
+        "endIndex": 68,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 68,
+                    "startIndex": 50,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.j8bluq2q8qk3",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 50
+    },
+    {
+        "endIndex": 78,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 78,
+                    "startIndex": 68,
+                    "textRun": {
+                        "content": "Message 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.gd4trbg73av1",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 68
+    },
+    {
+        "endIndex": 207,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 207,
+                    "startIndex": 78,
+                    "textRun": {
+                        "content": "Hello! How are you feeling? If you are feeling overwhelmed or stressed, here's a fun activity that can also release some stress.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 78
+    },
+    {
+        "endIndex": 217,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 217,
+                    "startIndex": 207,
+                    "textRun": {
+                        "content": "Message 2\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.fdhz4wt27z55",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 207
+    },
+    {
+        "endIndex": 407,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 407,
+                    "startIndex": 217,
+                    "textRun": {
+                        "content": "Stand up and stretch your arms up to the sky. Push away any clouds and let the Sunshine of Positive Attention shine down on you. Stretch to both sides. Stretch to the front and to the back.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 217
+    },
+    {
+        "endIndex": 417,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 417,
+                    "startIndex": 407,
+                    "textRun": {
+                        "content": "Message 3\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.kp5qlpwtbki4",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 407
+    },
+    {
+        "endIndex": 613,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 613,
+                    "startIndex": 417,
+                    "textRun": {
+                        "content": "Let your hand hang by your side. As you breathe in, squeeze your shoulders up to your ears, scrunch your eyes, and hold your breath. Release your shoulders as you breathe out and relax your body.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 417
+    },
+    {
+        "endIndex": 623,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 623,
+                    "startIndex": 613,
+                    "textRun": {
+                        "content": "Message 4\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.lpvk8pwc8uuf",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 613
+    },
+    {
+        "endIndex": 754,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 754,
+                    "startIndex": 623,
+                    "textRun": {
+                        "content": "Relax your arms and let them swing to the front and back. Take 4 deep breaths while you do this. This is good for your lower back.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 623
+    },
+    {
+        "endIndex": 755,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 755,
+                    "startIndex": 754,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 754
+    },
+    {
+        "endIndex": 903,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 903,
+                    "startIndex": 755,
+                    "textRun": {
+                        "content": "Relax your arms and let your arms swing sideways as you turn your upper body. Your arms should gently hit your back as you twist from side to side.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 755
+    },
+    {
+        "endIndex": 913,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 913,
+                    "startIndex": 903,
+                    "textRun": {
+                        "content": "Message 5\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.30n6y7e56kp5",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 903
+    },
+    {
+        "endIndex": 1119,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1119,
+                    "startIndex": 913,
+                    "textRun": {
+                        "content": "Place one foot in front of the other and make small circles from your ankles. Remember to turn your foot to both sides - to the left and then to the right. Do each foot with four circles in each direction.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 913
+    },
+    {
+        "endIndex": 1129,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1129,
+                    "startIndex": 1119,
+                    "textRun": {
+                        "content": "Message 6\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.w7i43bavrh9n",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 1119
+    },
+    {
+        "endIndex": 1233,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1233,
+                    "startIndex": 1129,
+                    "textRun": {
+                        "content": "Now shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1129
+    },
+    {
+        "endIndex": 1243,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1243,
+                    "startIndex": 1233,
+                    "textRun": {
+                        "content": "Message 7\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.k0op5wajoj5j",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 1233
+    },
+    {
+        "endIndex": 1393,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1393,
+                    "startIndex": 1243,
+                    "textRun": {
+                        "content": "Close your eyes and raise your arms slowly above your head as you breathe in. Lower your arms slowly to your side as you breathe out. Repeat 4 times.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1243
+    },
+    {
+        "endIndex": 1403,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1403,
+                    "startIndex": 1393,
+                    "textRun": {
+                        "content": "Message 8\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.mibash7sqolk",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 1393
+    },
+    {
+        "endIndex": 1582,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1582,
+                    "startIndex": 1403,
+                    "textRun": {
+                        "content": "Take a moment to reflect on your experience. Remember that you can do this activity at any time whenever you feel like you need to release stress and energise your mind and body.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1403
+    },
+    {
+        "endIndex": 1604,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1604,
+                    "startIndex": 1582,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.q9m4w4pnwo2t",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 1582
+    },
+    {
+        "endIndex": 1607,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1607,
+                    "startIndex": 1604,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.xgxvay63bm9x",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 1604
+    },
+    {
+        "endIndex": 1644,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1644,
+                    "startIndex": 1607,
+                    "textRun": {
+                        "content": "87aaaa2e-c306-4ccd-b92d-12ffbbc3cc70\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1607
+    },
+    {
+        "endIndex": 1658,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1658,
+                    "startIndex": 1644,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.om9ngq13v5mw",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 1644
+    },
+    {
+        "endIndex": 1660,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1660,
+                    "startIndex": 1658,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1658
+    }
+]

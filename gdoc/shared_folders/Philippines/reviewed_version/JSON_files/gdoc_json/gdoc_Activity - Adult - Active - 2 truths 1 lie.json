@@ -1,0 +1,339 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 51,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 51,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Adult - Active - 2 truths 1 lie\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.4dbae1dp7hma",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 59,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 59,
+                    "startIndex": 51,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.cy3qligatp8s",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 51
+    },
+    {
+        "endIndex": 77,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 77,
+                    "startIndex": 59,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.nn64r0376ugr",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 59
+    },
+    {
+        "endIndex": 85,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 85,
+                    "startIndex": 77,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.gwfgqlbyyxcs",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 77
+    },
+    {
+        "endIndex": 101,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 101,
+                    "startIndex": 85,
+                    "textRun": {
+                        "content": "2 Truths, 1 Lie\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 85
+    },
+    {
+        "endIndex": 185,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 185,
+                    "startIndex": 101,
+                    "textRun": {
+                        "content": "\u2022\tThink of three statements about yourself. Two must be true and one must be a lie.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 101
+    },
+    {
+        "endIndex": 327,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 327,
+                    "startIndex": 185,
+                    "textRun": {
+                        "content": "\u2022\tIt might help to think of wishes, dreams, likes or dislikes. For example, I hate bananas, I love ice cream and I really wish I could sing. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 185
+    },
+    {
+        "endIndex": 405,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 405,
+                    "startIndex": 327,
+                    "textRun": {
+                        "content": "\u2022\tSay them to your partner or friends. Ask them to guess which one is a lie. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 327
+    },
+    {
+        "endIndex": 452,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 452,
+                    "startIndex": 405,
+                    "textRun": {
+                        "content": "\u2022\tDid they guess correctly? Was it a surprise?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 405
+    },
+    {
+        "endIndex": 530,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 530,
+                    "startIndex": 452,
+                    "textRun": {
+                        "content": "\u2022\tNow ask them to do the same. Did you learn something new about each other? \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 452
+    },
+    {
+        "endIndex": 552,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 552,
+                    "startIndex": 530,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.s1s401pfzzlr",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 530
+    },
+    {
+        "endIndex": 555,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 555,
+                    "startIndex": 552,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.fxxwqtjxg5z7",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 552
+    },
+    {
+        "endIndex": 592,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 592,
+                    "startIndex": 555,
+                    "textRun": {
+                        "content": "68109791-0b47-4c44-8287-24e046e058a2\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 555
+    },
+    {
+        "endIndex": 606,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 606,
+                    "startIndex": 592,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.55j9y9ry5o7n",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 592
+    },
+    {
+        "endIndex": 608,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 608,
+                    "startIndex": 606,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 606
+    }
+]

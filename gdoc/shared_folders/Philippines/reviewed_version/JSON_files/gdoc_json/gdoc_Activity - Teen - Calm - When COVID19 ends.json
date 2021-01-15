@@ -1,0 +1,299 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 51,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 51,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Teen - Calm - When COVID19 ends\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.fqrbcbvy2fqz",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 59,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 59,
+                    "startIndex": 51,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.qdo2x7utmx6u",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 51
+    },
+    {
+        "endIndex": 77,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 77,
+                    "startIndex": 59,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.h2qfjp1y1f7r",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 59
+    },
+    {
+        "endIndex": 85,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 85,
+                    "startIndex": 77,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.q7e62wvy07nm",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 77
+    },
+    {
+        "endIndex": 121,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 121,
+                    "startIndex": 85,
+                    "textRun": {
+                        "content": "Memory game \u2013 \u201cWhen COVID-19 ends\u2026\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 85
+    },
+    {
+        "endIndex": 202,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 202,
+                    "startIndex": 121,
+                    "textRun": {
+                        "content": "\u2022\tFirst person says, \u201cWhen COVID-19 ends, I am going to\u2026 (e.g., go to the park)\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 121
+    },
+    {
+        "endIndex": 326,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 326,
+                    "startIndex": 202,
+                    "textRun": {
+                        "content": "\u2022\tSecond person adds to first person\u2019s plan, \u201cWhen COVID-19 ends, I am going to the park and\u2026 (e.g., visit my best friend)\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 202
+    },
+    {
+        "endIndex": 443,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 443,
+                    "startIndex": 326,
+                    "textRun": {
+                        "content": "\u2022\tEach person adds to the previous list of plans, trying to think of all of the fun things to do when COVID-19 ends.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 326
+    },
+    {
+        "endIndex": 465,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 465,
+                    "startIndex": 443,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.y2st1jlrqljv",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 443
+    },
+    {
+        "endIndex": 468,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 468,
+                    "startIndex": 465,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.iqzekvb860qv",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 465
+    },
+    {
+        "endIndex": 505,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 505,
+                    "startIndex": 468,
+                    "textRun": {
+                        "content": "c38bd134-dc1d-467f-bff2-1828096e781d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 468
+    },
+    {
+        "endIndex": 519,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 519,
+                    "startIndex": 505,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.1cr4vsyu7cwg",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 505
+    },
+    {
+        "endIndex": 521,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 521,
+                    "startIndex": 519,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 519
+    }
+]

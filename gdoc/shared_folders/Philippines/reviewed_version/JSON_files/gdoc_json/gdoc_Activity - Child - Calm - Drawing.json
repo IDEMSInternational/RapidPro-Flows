@@ -1,0 +1,359 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 42,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 42,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Calm - Drawing\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.4sd9scosdnwj",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 50,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 50,
+                    "startIndex": 42,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.iye5xg1d1dmj",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 42
+    },
+    {
+        "endIndex": 68,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 68,
+                    "startIndex": 50,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.3p6t0fnx9g4y",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 50
+    },
+    {
+        "endIndex": 76,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 76,
+                    "startIndex": 68,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.c0lakgyuzhn3",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 68
+    },
+    {
+        "endIndex": 84,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 84,
+                    "startIndex": 76,
+                    "textRun": {
+                        "content": "Drawing\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 76
+    },
+    {
+        "endIndex": 136,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 136,
+                    "startIndex": 84,
+                    "textRun": {
+                        "content": "\u2022\tChildren love to draw! It helps build creativity.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 84
+    },
+    {
+        "endIndex": 198,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 198,
+                    "startIndex": 136,
+                    "textRun": {
+                        "content": "\u2022\tGet some pens or crayons and a piece of paper or cardboard.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 136
+    },
+    {
+        "endIndex": 250,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 250,
+                    "startIndex": 198,
+                    "textRun": {
+                        "content": "\u2022\tLet your children freely draw whatever they want.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 198
+    },
+    {
+        "endIndex": 410,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 410,
+                    "startIndex": 250,
+                    "textRun": {
+                        "content": "\u2022\tWhile your child is drawing, use words to describe what they are doing: \u201cI see you are drawing a person\u201d or \u201cI see you are making lines with the red crayon.\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 250
+    },
+    {
+        "endIndex": 456,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 456,
+                    "startIndex": 410,
+                    "textRun": {
+                        "content": "\u2022\tYou can also have fun drawing next to them.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 410
+    },
+    {
+        "endIndex": 587,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 587,
+                    "startIndex": 456,
+                    "textRun": {
+                        "content": "\u2022\tPut their drawings up on the wall, refrigerator, or outside to decorate the house \u2013 it will make your children feel appreciated!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 456
+    },
+    {
+        "endIndex": 609,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 609,
+                    "startIndex": 587,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.sm14v1nlz86a",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 587
+    },
+    {
+        "endIndex": 612,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 612,
+                    "startIndex": 609,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.4a96ul8o6ovj",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 609
+    },
+    {
+        "endIndex": 649,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 649,
+                    "startIndex": 612,
+                    "textRun": {
+                        "content": "8f3fb4cb-df0f-4fb3-885b-777d4f7066f2\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 612
+    },
+    {
+        "endIndex": 663,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 663,
+                    "startIndex": 649,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.eklck220fagc",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 649
+    },
+    {
+        "endIndex": 665,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 665,
+                    "startIndex": 663,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 663
+    }
+]

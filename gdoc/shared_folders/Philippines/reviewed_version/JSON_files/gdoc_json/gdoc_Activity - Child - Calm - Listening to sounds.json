@@ -1,0 +1,359 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 54,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 54,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Calm - Listening to sounds\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ri2qfpa6vflf",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 62,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 62,
+                    "startIndex": 54,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.divrh1korsld",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 54
+    },
+    {
+        "endIndex": 80,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 80,
+                    "startIndex": 62,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.izak4llfobuw",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 62
+    },
+    {
+        "endIndex": 88,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 88,
+                    "startIndex": 80,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.8gkkz4mkmbhd",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 80
+    },
+    {
+        "endIndex": 108,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 108,
+                    "startIndex": 88,
+                    "textRun": {
+                        "content": "Listening to Sounds\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 88
+    },
+    {
+        "endIndex": 140,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 140,
+                    "startIndex": 108,
+                    "textRun": {
+                        "content": "\u2022\tSit down and close your eyes.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 108
+    },
+    {
+        "endIndex": 250,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 250,
+                    "startIndex": 140,
+                    "textRun": {
+                        "content": "\u2022\tHow many sounds can you hear? Listen to the sounds inside and outside the room. Count them on your fingers.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 140
+    },
+    {
+        "endIndex": 330,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 330,
+                    "startIndex": 250,
+                    "textRun": {
+                        "content": "\u2022\tAfter ten seconds, how many fingers do you have up? What sounds did you hear?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 250
+    },
+    {
+        "endIndex": 368,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 368,
+                    "startIndex": 330,
+                    "textRun": {
+                        "content": "\u2022\tTry again for another ten seconds. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 330
+    },
+    {
+        "endIndex": 445,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 445,
+                    "startIndex": 368,
+                    "textRun": {
+                        "content": "\u2022\tCan you hear any new sounds? Can you hear any sounds inside your own body?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 368
+    },
+    {
+        "endIndex": 508,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 508,
+                    "startIndex": 445,
+                    "textRun": {
+                        "content": "\u2022\tNotice how you feel and ask your child how they are feeling.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 445
+    },
+    {
+        "endIndex": 530,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 530,
+                    "startIndex": 508,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.j9uq0egwmfaq",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 508
+    },
+    {
+        "endIndex": 533,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 533,
+                    "startIndex": 530,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.yup8nlp794vl",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 530
+    },
+    {
+        "endIndex": 570,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 570,
+                    "startIndex": 533,
+                    "textRun": {
+                        "content": "a1d162dc-6e65-484a-81ef-b2d05da5ff0d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 533
+    },
+    {
+        "endIndex": 584,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 584,
+                    "startIndex": 570,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.bkd8s52mbzvh",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 570
+    },
+    {
+        "endIndex": 586,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 586,
+                    "startIndex": 584,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 584
+    }
+]

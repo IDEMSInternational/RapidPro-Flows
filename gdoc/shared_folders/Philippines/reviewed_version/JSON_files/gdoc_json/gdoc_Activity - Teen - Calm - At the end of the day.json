@@ -1,0 +1,339 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 55,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 55,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Teen - Calm - At the end of the day\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.sqaded2wfef",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 63,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 63,
+                    "startIndex": 55,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.w40ieewghb75",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 55
+    },
+    {
+        "endIndex": 81,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 81,
+                    "startIndex": 63,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.p4yhbodstyg5",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 63
+    },
+    {
+        "endIndex": 89,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 89,
+                    "startIndex": 81,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.kl6f4xep8b2f",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 81
+    },
+    {
+        "endIndex": 111,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 111,
+                    "startIndex": 89,
+                    "textRun": {
+                        "content": "At the End of the Day\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 89
+    },
+    {
+        "endIndex": 177,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 177,
+                    "startIndex": 111,
+                    "textRun": {
+                        "content": "\u2022\tAt the end of each day, take a minute to think about the day.  \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 111
+    },
+    {
+        "endIndex": 239,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 239,
+                    "startIndex": 177,
+                    "textRun": {
+                        "content": "\u2022\tTalk to your teen about one positive or fun thing they did.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 177
+    },
+    {
+        "endIndex": 291,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 291,
+                    "startIndex": 239,
+                    "textRun": {
+                        "content": "\u2022\tPraise yourself for one thing you did well today.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 239
+    },
+    {
+        "endIndex": 341,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 341,
+                    "startIndex": 291,
+                    "textRun": {
+                        "content": "\u2022\tThink of one thing that you are grateful for.  \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 291
+    },
+    {
+        "endIndex": 359,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 359,
+                    "startIndex": 341,
+                    "textRun": {
+                        "content": "\u2022\tYou are a star!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 341
+    },
+    {
+        "endIndex": 381,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 381,
+                    "startIndex": 359,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.l9c0z6ai38mr",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 359
+    },
+    {
+        "endIndex": 384,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 384,
+                    "startIndex": 381,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.t265ny1kx7rd",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 381
+    },
+    {
+        "endIndex": 421,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 421,
+                    "startIndex": 384,
+                    "textRun": {
+                        "content": "c434ebf4-ffbf-4113-aeac-dfbd2ff15b07\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 384
+    },
+    {
+        "endIndex": 435,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 435,
+                    "startIndex": 421,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.2x925o4uxruj",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 421
+    },
+    {
+        "endIndex": 437,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 437,
+                    "startIndex": 435,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 435
+    }
+]

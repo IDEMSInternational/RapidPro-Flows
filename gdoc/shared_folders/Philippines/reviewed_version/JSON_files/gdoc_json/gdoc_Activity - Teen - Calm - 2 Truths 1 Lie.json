@@ -1,0 +1,339 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 48,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 48,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Teen - Calm - 2 Truths 1 Lie\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.oudns0tcjtud",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 56,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 56,
+                    "startIndex": 48,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.pxwlx5l5y5t7",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 48
+    },
+    {
+        "endIndex": 74,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 74,
+                    "startIndex": 56,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ktf1mv50a2it",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 56
+    },
+    {
+        "endIndex": 82,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 82,
+                    "startIndex": 74,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.k154nqmytdsp",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 74
+    },
+    {
+        "endIndex": 98,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 98,
+                    "startIndex": 82,
+                    "textRun": {
+                        "content": "2 Truths, 1 Lie\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 82
+    },
+    {
+        "endIndex": 182,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 182,
+                    "startIndex": 98,
+                    "textRun": {
+                        "content": "\u2022\tThink of three statements about yourself. Two must be true and one must be a lie.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 98
+    },
+    {
+        "endIndex": 363,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 363,
+                    "startIndex": 182,
+                    "textRun": {
+                        "content": "\u2022\tIt might help to think of wishes, dreams, experiences at school, likes or dislikes. For example, I hate bananas, my favourite subject is science, and I really wish I could sing. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 182
+    },
+    {
+        "endIndex": 431,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 431,
+                    "startIndex": 363,
+                    "textRun": {
+                        "content": "\u2022\tSay them to your teenager. Ask them to guess which one is a lie. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 363
+    },
+    {
+        "endIndex": 478,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 478,
+                    "startIndex": 431,
+                    "textRun": {
+                        "content": "\u2022\tDid they guess correctly? Was it a surprise?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 431
+    },
+    {
+        "endIndex": 555,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 555,
+                    "startIndex": 478,
+                    "textRun": {
+                        "content": "\u2022\tNow ask them to do the same. Did you learn something new about each other?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 478
+    },
+    {
+        "endIndex": 577,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 577,
+                    "startIndex": 555,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.wsoczil43qqa",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 555
+    },
+    {
+        "endIndex": 580,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 580,
+                    "startIndex": 577,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.x27pid71qwj6",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 577
+    },
+    {
+        "endIndex": 617,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 617,
+                    "startIndex": 580,
+                    "textRun": {
+                        "content": "191acf13-d2ed-41d8-9743-8546c274a81f\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 580
+    },
+    {
+        "endIndex": 631,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 631,
+                    "startIndex": 617,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.1381k37z3bw0",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 617
+    },
+    {
+        "endIndex": 633,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 633,
+                    "startIndex": 631,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 631
+    }
+]

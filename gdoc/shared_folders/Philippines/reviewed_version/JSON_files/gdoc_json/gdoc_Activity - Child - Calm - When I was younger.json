@@ -1,0 +1,319 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 53,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 53,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Calm - When I was younger\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.taorjg821lm9",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 61,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 61,
+                    "startIndex": 53,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.pit0v556krr5",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 53
+    },
+    {
+        "endIndex": 79,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 79,
+                    "startIndex": 61,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.m6c62r1sys71",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 61
+    },
+    {
+        "endIndex": 87,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 87,
+                    "startIndex": 79,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.vefih27q33j0",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 79
+    },
+    {
+        "endIndex": 106,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 106,
+                    "startIndex": 87,
+                    "textRun": {
+                        "content": "When I Was Younger\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 87
+    },
+    {
+        "endIndex": 159,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 159,
+                    "startIndex": 106,
+                    "textRun": {
+                        "content": "\u2022\tChildren love to hear stories about your own life!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 106
+    },
+    {
+        "endIndex": 235,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 235,
+                    "startIndex": 159,
+                    "textRun": {
+                        "content": "\u2022\tThink of a time when you were younger when something BIG happened to you.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 159
+    },
+    {
+        "endIndex": 310,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 310,
+                    "startIndex": 235,
+                    "textRun": {
+                        "content": "\u2022\tIt can be an adventure, happy memory, or challenge that you experienced.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 235
+    },
+    {
+        "endIndex": 365,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 365,
+                    "startIndex": 310,
+                    "textRun": {
+                        "content": "\u2022\tShare it with your child and notice how they listen!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 310
+    },
+    {
+        "endIndex": 387,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 387,
+                    "startIndex": 365,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.gebfad18oub",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 365
+    },
+    {
+        "endIndex": 390,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 390,
+                    "startIndex": 387,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.cii0cb9sl9nk",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 387
+    },
+    {
+        "endIndex": 427,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 427,
+                    "startIndex": 390,
+                    "textRun": {
+                        "content": "725e54cf-5002-4cc9-9ced-9d156c253771\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 390
+    },
+    {
+        "endIndex": 441,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 441,
+                    "startIndex": 427,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.5a6lej970ph",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 427
+    },
+    {
+        "endIndex": 443,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 443,
+                    "startIndex": 441,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 441
+    }
+]

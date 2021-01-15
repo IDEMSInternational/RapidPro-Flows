@@ -1,0 +1,339 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 54,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 54,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Adult - Calm - Give yourself a hug\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.2p7jmb58fhyf",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 62,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 62,
+                    "startIndex": 54,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.6n441etpgnxe",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 54
+    },
+    {
+        "endIndex": 80,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 80,
+                    "startIndex": 62,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.phlpxwlrpe7r",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 62
+    },
+    {
+        "endIndex": 88,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 88,
+                    "startIndex": 80,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.v24zxc9b8fpc",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 80
+    },
+    {
+        "endIndex": 108,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 108,
+                    "startIndex": 88,
+                    "textRun": {
+                        "content": "Give Yourself A Hug\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 88
+    },
+    {
+        "endIndex": 139,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 139,
+                    "startIndex": 108,
+                    "textRun": {
+                        "content": "\u2022\tBella mama, bella mama hey. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 108
+    },
+    {
+        "endIndex": 199,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 199,
+                    "startIndex": 139,
+                    "textRun": {
+                        "content": "\u2022\tHey there! How are you feeling today? Do you feel great?!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 139
+    },
+    {
+        "endIndex": 366,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 366,
+                    "startIndex": 199,
+                    "textRun": {
+                        "content": "\u2022\tMaybe not. Maybe you shouted again at your children today? Maybe you got angry and said something you don't feel proud of? It\u2019s ok. It\u2019s super stressful right now. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 199
+    },
+    {
+        "endIndex": 710,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 710,
+                    "startIndex": 366,
+                    "textRun": {
+                        "content": "\u2022\tTake a deep breath and think of one thing you did today that you do feel proud of. It doesn't have to be big. And wrap your arms around your body and give yourself a hug. And now think of one thing you did today that you don't feel proud of. What can you do differently tomorrow? And wrap your arms around your body and give yourself a hug. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 366
+    },
+    {
+        "endIndex": 789,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 789,
+                    "startIndex": 710,
+                    "textRun": {
+                        "content": "\u2022\tBella mama, bella mama, bella mama, bella mama, bella mama, bella mama hey\u201d.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 710
+    },
+    {
+        "endIndex": 811,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 811,
+                    "startIndex": 789,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.76tng5sc2kvq",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 789
+    },
+    {
+        "endIndex": 814,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 814,
+                    "startIndex": 811,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.fuenkp72w499",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 811
+    },
+    {
+        "endIndex": 851,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 851,
+                    "startIndex": 814,
+                    "textRun": {
+                        "content": "39cae48e-d578-4c49-a1ab-8d36bd9b10a1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 814
+    },
+    {
+        "endIndex": 865,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 865,
+                    "startIndex": 851,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.bozkuned7iz3",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 851
+    },
+    {
+        "endIndex": 867,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 867,
+                    "startIndex": 865,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 865
+    }
+]

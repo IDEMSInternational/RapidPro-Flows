@@ -1,0 +1,57 @@
+{
+  "PLH - Content - Positive - Behave - Crying": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "The sound of a baby crying can be very distressing, especially for a parent. It is completely natural to want to make it stop. You might also think that you are not a good parent or that your baby is crying to spite you. But all babies cry. It is one of the main ways a baby can tell you that something is wrong.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "The sound of a baby crying can be very distressing, especially for a parent. It is completely natural to want to make it stop. You might also think that you are not a good parent or that your baby is crying to spite you. But all babies cry. It is one of the main ways a baby can tell you that something is wrong.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video that might help you when your baby cries.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Crying.m4v"
+        }
+      },
+      "List of tips": {
+        "Message": "Here are some tips that might help when your baby cries:\n\n",
+        "Option 1: Why babies cry": {
+          "Message": "1. Why do babies cry?\n\nCrying is a normal part of your baby's development. Sometimes babies even have crying patterns. Crying usually increases at 2-3 weeks old and is generally highest when your baby is around 6 to 8 weeks. Often babies will start crying less around 3 to 4 months. Of course, remember that every baby is different!"
+        },
+        "Option 2: Respond as soon as you can": {
+          "Message": "2. Respond as soon as you can\n\nGo to your baby when you hear them crying. You will not spoil your baby by picking them up. Babies who are carried and cuddled frequently, during both fussy and contented periods, may actually cry less."
+        },
+        "Option 3: Check to see why your baby is crying": {
+          "Message": "3.  Check to see why your baby is crying\n\nThere are lots of reasons why babies cry. It might be hunger, pain, too much going on, rough handling, feeling cold/hot, wanting contact or attention, or feeling irritable. Babies can cry when they sense tension in the room. And sometimes they cry for no reason at all! "
+        },
+        "Option 4: Comfort your baby": {
+          "Message": "4. Comfort your baby\n\nTry swaddling, gently rocking, or singing or soft music. You might need to feed your baby or change their diaper. They may be too hot or too cold. Or maybe they just need to be held. Take a Pause and try to relax - your baby can actually sense tension from you, too!"
+        },
+        "Option 5: Take a break if you need it": {
+          "Message 1": "5. Take a break!\n\nIf you are getting angry because your baby won’t stop crying, it’s OK to leave them on their back in a safe place and walk away for a bit. Check on your baby every 5-10 minutes. ",
+          "Message 2": "Call someone for help - a family member, a friend. Sometimes just talking with someone is enough, but if you feel overwhelmed, ask someone for help. Calling for help is a sign of strength."
+        },
+        "Option 6: Be gentle and patient with yourself": {
+          "Message": "6. Be gentle and patient with yourself\n\nWe know that this is not easy. You are not a bad parent if your baby continues to cry after you have done all they can to calm them. You are doing your best!"
+        },
+        "Option 7: If you think your baby is injured or sick, call or visit a clinic": {
+          "Message": "7. If you think your baby is injured or sick, call or visit a clinic\n\nIf your baby cries for a long time and does not stop, they might be injured or sick. You should seek medical help immediately. "
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about what to do when your baby is crying:\n\n"
+      },
+      "Set of messages 1": {
+        "Message": "Well done! You have added another skill to your Parenting Toolkit. Remember that there are no bad parents. We are all learning here!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "72fce5e3-ab15-4fea-97ff-e511df2af716",
+      "Id tip": "cc5e9f3f-5155-4a3f-a902-351f89169898",
+      "Template type": "2"
+    }
+  }
+}

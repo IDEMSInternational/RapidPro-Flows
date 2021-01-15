@@ -1,0 +1,319 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 54,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 54,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Adult - Calm - Release some energy\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.p6t5yeg24rkl",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 62,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 62,
+                    "startIndex": 54,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.9ka31ix24el4",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 54
+    },
+    {
+        "endIndex": 80,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 80,
+                    "startIndex": 62,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.hho9q7op974o",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 62
+    },
+    {
+        "endIndex": 88,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 88,
+                    "startIndex": 80,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.gzu4of2eekv8",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 80
+    },
+    {
+        "endIndex": 108,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 108,
+                    "startIndex": 88,
+                    "textRun": {
+                        "content": "Release Some Energy\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 88
+    },
+    {
+        "endIndex": 150,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 150,
+                    "startIndex": 108,
+                    "textRun": {
+                        "content": "\u2022\tBaba da bi da ba da baaa! Pause Power! \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 108
+    },
+    {
+        "endIndex": 270,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 270,
+                    "startIndex": 150,
+                    "textRun": {
+                        "content": "\u2022\tWhat\u2019s Pause Power I hear you say? It\u2019s the ability to transform from a grumpy, angry person into a calm, clear one. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 150
+    },
+    {
+        "endIndex": 463,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 463,
+                    "startIndex": 270,
+                    "textRun": {
+                        "content": "\u2022\tWhen I\u2019m feeling frustrated I plant my feet firmly on the ground and I breathe in and out three times as slowly as I can. Sometimes I imagine I\u2019m smelling a flower and blowing out a candle. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 270
+    },
+    {
+        "endIndex": 537,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 537,
+                    "startIndex": 463,
+                    "textRun": {
+                        "content": "Ta-da!!!! Pause Power! My transformation from grumpy to calm is complete!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 463
+    },
+    {
+        "endIndex": 559,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 559,
+                    "startIndex": 537,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.2y1s9oatfgu",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 537
+    },
+    {
+        "endIndex": 562,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 562,
+                    "startIndex": 559,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.2pfyyxtbkszg",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 559
+    },
+    {
+        "endIndex": 599,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 599,
+                    "startIndex": 562,
+                    "textRun": {
+                        "content": "75290179-d548-4b8e-98bd-f3b33b16cdd6\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 562
+    },
+    {
+        "endIndex": 613,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 613,
+                    "startIndex": 599,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.8yy02xdw7sts",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 599
+    },
+    {
+        "endIndex": 615,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 615,
+                    "startIndex": 613,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 613
+    }
+]

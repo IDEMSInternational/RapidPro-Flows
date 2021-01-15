@@ -1,0 +1,339 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 43,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 43,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Teen - Active - Co chef\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ha0rdqo85i27",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 51,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 51,
+                    "startIndex": 43,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.lhyrmrvq53ef",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 43
+    },
+    {
+        "endIndex": 69,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 69,
+                    "startIndex": 51,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.7i6i89lc403c",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 51
+    },
+    {
+        "endIndex": 77,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 77,
+                    "startIndex": 69,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.8bbj5aqhninv",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 69
+    },
+    {
+        "endIndex": 85,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 85,
+                    "startIndex": 77,
+                    "textRun": {
+                        "content": "Co-chef\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 77
+    },
+    {
+        "endIndex": 143,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 143,
+                    "startIndex": 85,
+                    "textRun": {
+                        "content": "\u2022\tAsk your teen what kind of meal they would like to eat.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 85
+    },
+    {
+        "endIndex": 211,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 211,
+                    "startIndex": 143,
+                    "textRun": {
+                        "content": "\u2022\tPrepare it together! The first time, you may need to guide them. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 143
+    },
+    {
+        "endIndex": 313,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 313,
+                    "startIndex": 211,
+                    "textRun": {
+                        "content": "\u2022\tOnce your teen knows how to prepare the meal, let them take the lead and follow their instructions.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 211
+    },
+    {
+        "endIndex": 389,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 389,
+                    "startIndex": 313,
+                    "textRun": {
+                        "content": "\u2022\t Let each child and teen in the house have a turn at being the head chef.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 313
+    },
+    {
+        "endIndex": 445,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 445,
+                    "startIndex": 389,
+                    "textRun": {
+                        "content": "\u2022\tYou can even help them make a budget for ingredients!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 389
+    },
+    {
+        "endIndex": 467,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 467,
+                    "startIndex": 445,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.rhtrnpb5ocjy",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 445
+    },
+    {
+        "endIndex": 470,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 470,
+                    "startIndex": 467,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ax13g8lnn8ju",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 467
+    },
+    {
+        "endIndex": 507,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 507,
+                    "startIndex": 470,
+                    "textRun": {
+                        "content": "cf605e5f-a4f3-4863-9b64-20b6f3d9317d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 470
+    },
+    {
+        "endIndex": 521,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 521,
+                    "startIndex": 507,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.og3lzubr3p1z",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 507
+    },
+    {
+        "endIndex": 523,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 523,
+                    "startIndex": 521,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 521
+    }
+]

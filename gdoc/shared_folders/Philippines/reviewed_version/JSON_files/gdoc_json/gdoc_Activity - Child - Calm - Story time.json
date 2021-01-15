@@ -1,0 +1,359 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 45,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 45,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Calm - Story time\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.sd2mzw71kc03",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 53,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 53,
+                    "startIndex": 45,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.jm6qe0ud3ga7",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 45
+    },
+    {
+        "endIndex": 71,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 71,
+                    "startIndex": 53,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.hv6fjd5mpfjk",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 53
+    },
+    {
+        "endIndex": 79,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 79,
+                    "startIndex": 71,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.iwyb9tv1iu3u",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 71
+    },
+    {
+        "endIndex": 90,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 90,
+                    "startIndex": 79,
+                    "textRun": {
+                        "content": "Story time\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 79
+    },
+    {
+        "endIndex": 145,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 145,
+                    "startIndex": 90,
+                    "textRun": {
+                        "content": "\u2022\tStart the story with \u201cOnce upon a time there was a\u2026\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 90
+    },
+    {
+        "endIndex": 189,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 189,
+                    "startIndex": 145,
+                    "textRun": {
+                        "content": "\u2022\tLet your child make up the next sentence.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 145
+    },
+    {
+        "endIndex": 220,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 220,
+                    "startIndex": 189,
+                    "textRun": {
+                        "content": "\u2022\tThen you make up a sentence.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 189
+    },
+    {
+        "endIndex": 271,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 271,
+                    "startIndex": 220,
+                    "textRun": {
+                        "content": "\u2022\tTake turns until you have a wonderful new story.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 220
+    },
+    {
+        "endIndex": 320,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 320,
+                    "startIndex": 271,
+                    "textRun": {
+                        "content": "\u2022\tMake sure to end the story on a positive note.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 271
+    },
+    {
+        "endIndex": 381,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 381,
+                    "startIndex": 320,
+                    "textRun": {
+                        "content": "\u2022\tAsk your child what was their favourite part of the story!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 320
+    },
+    {
+        "endIndex": 403,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 403,
+                    "startIndex": 381,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.5bj5h3r35qx",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 381
+    },
+    {
+        "endIndex": 406,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 406,
+                    "startIndex": 403,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.mwwl5etzv3og",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 403
+    },
+    {
+        "endIndex": 443,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 443,
+                    "startIndex": 406,
+                    "textRun": {
+                        "content": "849990a5-e1f3-4d74-95bd-b0dd15049992\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 406
+    },
+    {
+        "endIndex": 457,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 457,
+                    "startIndex": 443,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.1lnpsijw6as7",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 443
+    },
+    {
+        "endIndex": 459,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 459,
+                    "startIndex": 457,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 457
+    }
+]

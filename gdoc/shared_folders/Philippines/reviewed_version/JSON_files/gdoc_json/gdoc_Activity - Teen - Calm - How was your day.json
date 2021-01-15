@@ -1,0 +1,319 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 50,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 50,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Teen - Calm - How was your day\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.wocag3qi64iy",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 58,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 58,
+                    "startIndex": 50,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.9ach8uohxvs0",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 50
+    },
+    {
+        "endIndex": 76,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 76,
+                    "startIndex": 58,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.jj70bmdmmdn3",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 58
+    },
+    {
+        "endIndex": 84,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 84,
+                    "startIndex": 76,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.yzxcv9j924zi",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 76
+    },
+    {
+        "endIndex": 102,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 102,
+                    "startIndex": 84,
+                    "textRun": {
+                        "content": "How was your day?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 84
+    },
+    {
+        "endIndex": 149,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 149,
+                    "startIndex": 102,
+                    "textRun": {
+                        "content": "\u2022\tAsk each other, \u201cWhat made you happy today?\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 102
+    },
+    {
+        "endIndex": 195,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 195,
+                    "startIndex": 149,
+                    "textRun": {
+                        "content": "\u2022\tAsk each other, \u201cWhat was difficult today?\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 149
+    },
+    {
+        "endIndex": 236,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 236,
+                    "startIndex": 195,
+                    "textRun": {
+                        "content": "\u2022\tAsk each other, \u201cHow can we help you?\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 195
+    },
+    {
+        "endIndex": 317,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 317,
+                    "startIndex": 236,
+                    "textRun": {
+                        "content": "\u2022\tTry to do this together every day, when you are eating together or before bed.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 236
+    },
+    {
+        "endIndex": 339,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 339,
+                    "startIndex": 317,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.3cii734oxdd0",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 317
+    },
+    {
+        "endIndex": 342,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 342,
+                    "startIndex": 339,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.b34gmpg708ji",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 339
+    },
+    {
+        "endIndex": 379,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 379,
+                    "startIndex": 342,
+                    "textRun": {
+                        "content": "37280ea1-d752-402d-aa52-9336c892207e\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 342
+    },
+    {
+        "endIndex": 393,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 393,
+                    "startIndex": 379,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.d37pje3nvng4",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 379
+    },
+    {
+        "endIndex": 395,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 395,
+                    "startIndex": 393,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 393
+    }
+]

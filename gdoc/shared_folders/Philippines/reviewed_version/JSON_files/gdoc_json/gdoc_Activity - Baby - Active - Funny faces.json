@@ -1,0 +1,359 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 47,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 47,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Baby - Active - Funny faces\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.9llrbzruw85e",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 55,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 55,
+                    "startIndex": 47,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.jsl9u3v6g61m",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 47
+    },
+    {
+        "endIndex": 73,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 73,
+                    "startIndex": 55,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.qu863ngmujk3",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 55
+    },
+    {
+        "endIndex": 81,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 81,
+                    "startIndex": 73,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.e33kyhodsm0o",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 73
+    },
+    {
+        "endIndex": 93,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 93,
+                    "startIndex": 81,
+                    "textRun": {
+                        "content": "Funny Faces\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 81
+    },
+    {
+        "endIndex": 158,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 158,
+                    "startIndex": 93,
+                    "textRun": {
+                        "content": "\u2022\tLook at your baby in the eyes and make different funny faces. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 93
+    },
+    {
+        "endIndex": 239,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 239,
+                    "startIndex": 158,
+                    "textRun": {
+                        "content": "\u2022\tMake a big face. Make a small face. Make a happy face. Make a surprised face. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 158
+    },
+    {
+        "endIndex": 321,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 321,
+                    "startIndex": 239,
+                    "textRun": {
+                        "content": "\u2022\tWhich ones make your baby smile or laugh? Do them again, even bigger this time!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 239
+    },
+    {
+        "endIndex": 369,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 369,
+                    "startIndex": 321,
+                    "textRun": {
+                        "content": "\u2022\tPlay with different feelings and add sounds. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 321
+    },
+    {
+        "endIndex": 442,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 442,
+                    "startIndex": 369,
+                    "textRun": {
+                        "content": "\u2022\tCopy their facial expressions too. Exaggerate them to make them funny.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 369
+    },
+    {
+        "endIndex": 481,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 481,
+                    "startIndex": 442,
+                    "textRun": {
+                        "content": "\u2022\tAlways end on a positive expression!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 442
+    },
+    {
+        "endIndex": 503,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 503,
+                    "startIndex": 481,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ky92i7g2jv1n",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 481
+    },
+    {
+        "endIndex": 506,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 506,
+                    "startIndex": 503,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.j6rufsc03k1x",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 503
+    },
+    {
+        "endIndex": 543,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 543,
+                    "startIndex": 506,
+                    "textRun": {
+                        "content": "49d70ae8-ecc1-469e-a039-7d01633832a0\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 506
+    },
+    {
+        "endIndex": 557,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 557,
+                    "startIndex": 543,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.cl4qgbodkoxq",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 543
+    },
+    {
+        "endIndex": 559,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 559,
+                    "startIndex": 557,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 557
+    }
+]

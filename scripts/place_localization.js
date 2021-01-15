@@ -10,19 +10,15 @@ var obj_tr = JSON.parse(json_string_transl);
 
 
 
-var flow_id;
-var fl;
-
-
-for (fl = 0; fl < obj_fl.flows.length; fl++) {
-    flow_id = obj_fl.flows[fl].uuid;
+for (var fl = 0; fl < obj_fl.flows.length; fl++) {
+    var flow_id = obj_fl.flows[fl].uuid;
     if (obj_tr.hasOwnProperty(flow_id)) {
         obj_fl.flows[fl].localization = obj_tr[flow_id].localization;
     }
 }
 
-var new_flows = JSON.stringify(obj_fl, null, 2);
+var flows_with_localiz = JSON.stringify(obj_fl, null, 2);
 var output_path = path.join(__dirname, "../chiara-testing/santiago_test_with_localization.json");
-fs.writeFile(output_path, new_flows, function (err, result) {
+fs.writeFile(output_path, flows_with_localiz, function (err, result) {
     if (err) console.log('error', err);
 });

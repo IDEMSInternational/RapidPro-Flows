@@ -1,0 +1,319 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 54,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 54,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Teen - Calm - Just a friendly chat\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.dsymobgtgx9b",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 62,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 62,
+                    "startIndex": 54,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.2gxzonse5c9f",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 54
+    },
+    {
+        "endIndex": 80,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 80,
+                    "startIndex": 62,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.aaezqqgrk5kh",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 62
+    },
+    {
+        "endIndex": 88,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 88,
+                    "startIndex": 80,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.708vn9t0cf3d",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 80
+    },
+    {
+        "endIndex": 109,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 109,
+                    "startIndex": 88,
+                    "textRun": {
+                        "content": "Just a friendly chat\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 88
+    },
+    {
+        "endIndex": 173,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 173,
+                    "startIndex": 109,
+                    "textRun": {
+                        "content": "\u2022\tHave a conversation with your teen about something they like.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 109
+    },
+    {
+        "endIndex": 264,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 264,
+                    "startIndex": 173,
+                    "textRun": {
+                        "content": "\u2022\tIt can be about anything they choose to talk about: sports, friends, music, celebrities\u2026\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 173
+    },
+    {
+        "endIndex": 322,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 322,
+                    "startIndex": 264,
+                    "textRun": {
+                        "content": "\u2022\tTry to listen to your teen and give them space to talk.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 264
+    },
+    {
+        "endIndex": 385,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 385,
+                    "startIndex": 322,
+                    "textRun": {
+                        "content": "\u2022\tWhat new thing did you learn about your teen from your chat?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 322
+    },
+    {
+        "endIndex": 407,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 407,
+                    "startIndex": 385,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.3td3pr45llxl",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 385
+    },
+    {
+        "endIndex": 410,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 410,
+                    "startIndex": 407,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.8dos46ryhjjl",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 407
+    },
+    {
+        "endIndex": 447,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 447,
+                    "startIndex": 410,
+                    "textRun": {
+                        "content": "43e6f558-82c4-4f23-92d8-fcf9d9a38d25\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 410
+    },
+    {
+        "endIndex": 461,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 461,
+                    "startIndex": 447,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.4my2gsi2br2v",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 447
+    },
+    {
+        "endIndex": 463,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 463,
+                    "startIndex": 461,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 461
+    }
+]

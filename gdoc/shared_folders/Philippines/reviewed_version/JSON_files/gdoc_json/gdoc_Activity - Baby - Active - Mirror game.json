@@ -1,0 +1,299 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 47,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 47,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Baby - Active - Mirror game\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.d6rak9eskpfh",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 55,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 55,
+                    "startIndex": 47,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.8r1fd0y2pjc1",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 47
+    },
+    {
+        "endIndex": 73,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 73,
+                    "startIndex": 55,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.r4a7g56s1n1m",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 55
+    },
+    {
+        "endIndex": 81,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 81,
+                    "startIndex": 73,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.pkn0x7lz8gye",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 73
+    },
+    {
+        "endIndex": 93,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 93,
+                    "startIndex": 81,
+                    "textRun": {
+                        "content": "Mirror Game\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 81
+    },
+    {
+        "endIndex": 155,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 155,
+                    "startIndex": 93,
+                    "textRun": {
+                        "content": "\u2022 Get to your baby's level so they can see you and hear you. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 93
+    },
+    {
+        "endIndex": 200,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 200,
+                    "startIndex": 155,
+                    "textRun": {
+                        "content": "\u2022 Copy their facial expressions and sounds. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 155
+    },
+    {
+        "endIndex": 273,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 273,
+                    "startIndex": 200,
+                    "textRun": {
+                        "content": "\u2022\u00a0It is simple and helps create a strong bond between you and your baby!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 200
+    },
+    {
+        "endIndex": 295,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 295,
+                    "startIndex": 273,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.v0wfu9g9fznw",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 273
+    },
+    {
+        "endIndex": 298,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 298,
+                    "startIndex": 295,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.1deniz66mh7p",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 295
+    },
+    {
+        "endIndex": 335,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 335,
+                    "startIndex": 298,
+                    "textRun": {
+                        "content": "054ff285-2dc4-40a3-ab3f-9d531b6dd7ee\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 298
+    },
+    {
+        "endIndex": 349,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 349,
+                    "startIndex": 335,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.9dlrzzyxvwgq",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 335
+    },
+    {
+        "endIndex": 351,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 351,
+                    "startIndex": 349,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 349
+    }
+]

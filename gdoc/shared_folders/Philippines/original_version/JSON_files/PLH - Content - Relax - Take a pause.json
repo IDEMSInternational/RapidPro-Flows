@@ -1,0 +1,39 @@
+{
+  "PLH - Content - Relax - Take a pause": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "Hello! This is a stressful time, especially for parents. When we are stressed or angry, we do not make the best decisions. Taking the time to care for ourselves will help us care for our children.\nToday's tip is about how to keep calm and manage stress in our busy lives. ",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "Taking a Pause is a simple relaxation activity that you can do whenever you are feeling stressed or worried. It can also be helpful when you find your child is irritating you or has done something wrong.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video about how to keep calm and manage stress in our busy lives.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Keep_Calm_And_Manage_Stress_Including_Take_A_Pause.m4v"
+        },
+        "Audio": {
+          "Text": "Here's an audio message to help you take a pause!",
+          "Link": "missing"
+        },
+        "Low media text option": {
+          "Message": "Let's take a pause together! Take a deep breath and ask yourself, \"What am I thinking?\"\n\nNotice if your thoughts are positive or negative. Notice if your emotions are pleasant or unpleasant. Whatever you are feeling, it is okay. Notice how your body feels. Notice anything that hurts or is tense. \nFocus on your breath as it goes in and out. Do this for about 10 breaths. \nNow, expand your awareness to your whole body. Listen to the sounds in the room. \nTake a moment to reflect on whether you feel any different. "
+        }
+      },
+      "Set of messages 1": {
+        "Message 1": "Here is a comic to remind you of taking a pause!",
+        "Message 2": "Well done for Taking a Pause. You have added another skill to your Parenting Toolkit! \n\nYou can do this anytime you are feeling stressed. It gives you a chance to be calmer. Even a few deep breaths or connecting with the ground beneath you can make a difference. You can also Take a Pause with your Children!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "fc83e9a6-2fde-419c-84b2-64182e20cc8f",
+      "Id tip": "6445c8ce-01a8-4546-aa39-4dc4e39878af",
+      "Template type": "6"
+    }
+  }
+}

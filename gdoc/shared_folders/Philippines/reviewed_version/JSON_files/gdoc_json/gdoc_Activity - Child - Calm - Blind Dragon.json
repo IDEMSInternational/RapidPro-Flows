@@ -1,0 +1,359 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 47,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 47,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Calm - Blind Dragon\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.elsp9jevcq6r",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 55,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 55,
+                    "startIndex": 47,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.crysfdmlyxcb",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 47
+    },
+    {
+        "endIndex": 73,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 73,
+                    "startIndex": 55,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.aa4i622amyg9",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 55
+    },
+    {
+        "endIndex": 81,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 81,
+                    "startIndex": 73,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.all0zyett4rs",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 73
+    },
+    {
+        "endIndex": 93,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 93,
+                    "startIndex": 81,
+                    "textRun": {
+                        "content": "Blind Kapre\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 81
+    },
+    {
+        "endIndex": 145,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 145,
+                    "startIndex": 93,
+                    "textRun": {
+                        "content": "\u2022\tThis game is great if you have at least 4 people.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 93
+    },
+    {
+        "endIndex": 617,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 617,
+                    "startIndex": 145,
+                    "textRun": {
+                        "content": "\u2022\tTell the story about a ferocious Kapre who lived near a village. He would sneak into the village at night and steal people\u2019s treasures \u2013 anything they loved.  Anybody who tried to take their treasure back would be eaten alive. This continued for many years until the Kapre became old, fat, and blind from sitting on his treasure and gazing at the glare of the gold coins. Then the townspeople could try and sneak into his lair and steal back their relatives\u2019 treasure. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 145
+    },
+    {
+        "endIndex": 729,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 729,
+                    "startIndex": 617,
+                    "textRun": {
+                        "content": "\u2022\tOne person plays the Kapre. The Kapre sits blindfolded or with eyes closed surrounded by a pile of treasure. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 617
+    },
+    {
+        "endIndex": 794,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 794,
+                    "startIndex": 729,
+                    "textRun": {
+                        "content": "\u2022\tEveryone has one piece of treasure that they must steal back. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 729
+    },
+    {
+        "endIndex": 879,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 879,
+                    "startIndex": 794,
+                    "textRun": {
+                        "content": "\u2022\tIf the Kapre hears you and points at you, you must go back to the starting place. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 794
+    },
+    {
+        "endIndex": 937,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 937,
+                    "startIndex": 879,
+                    "textRun": {
+                        "content": "\u2022\tOnly one person can try to get the treasure at a time. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 879
+    },
+    {
+        "endIndex": 959,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 959,
+                    "startIndex": 937,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.wr27ltdu28mt",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 937
+    },
+    {
+        "endIndex": 962,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 962,
+                    "startIndex": 959,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.b1wikxrp2dee",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 959
+    },
+    {
+        "endIndex": 999,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 999,
+                    "startIndex": 962,
+                    "textRun": {
+                        "content": "ff389072-acf5-40ec-b90f-a03f0944d8ac\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 962
+    },
+    {
+        "endIndex": 1013,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1013,
+                    "startIndex": 999,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.bl19s8tzlik5",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 999
+    },
+    {
+        "endIndex": 1015,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1015,
+                    "startIndex": 1013,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1013
+    }
+]

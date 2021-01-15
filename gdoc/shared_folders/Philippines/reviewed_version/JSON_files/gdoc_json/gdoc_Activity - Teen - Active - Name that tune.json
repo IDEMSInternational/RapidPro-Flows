@@ -1,0 +1,299 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 50,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 50,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Teen - Active - Name that tune\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.4mertv80e6qe",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 58,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 58,
+                    "startIndex": 50,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.si7ow0jn6pjc",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 50
+    },
+    {
+        "endIndex": 76,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 76,
+                    "startIndex": 58,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.4pfrsecetqgz",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 58
+    },
+    {
+        "endIndex": 84,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 84,
+                    "startIndex": 76,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.emm6hln3rasb",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 76
+    },
+    {
+        "endIndex": 99,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 99,
+                    "startIndex": 84,
+                    "textRun": {
+                        "content": "Name that tune\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 84
+    },
+    {
+        "endIndex": 145,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 145,
+                    "startIndex": 99,
+                    "textRun": {
+                        "content": "\u2022\tFirst person gets to choose or sing a song.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 99
+    },
+    {
+        "endIndex": 241,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 241,
+                    "startIndex": 145,
+                    "textRun": {
+                        "content": "\u2022\tEveryone else must guess the name of the tune (to make it harder, they can guess the singer).\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 145
+    },
+    {
+        "endIndex": 339,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 339,
+                    "startIndex": 241,
+                    "textRun": {
+                        "content": "\u2022\tThe first one to guess it right becomes the next leader who will choose or sing the next song. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 241
+    },
+    {
+        "endIndex": 361,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 361,
+                    "startIndex": 339,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.i0uhy7gerxso",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 339
+    },
+    {
+        "endIndex": 364,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 364,
+                    "startIndex": 361,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.a5fdbatfxgxj",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 361
+    },
+    {
+        "endIndex": 401,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 401,
+                    "startIndex": 364,
+                    "textRun": {
+                        "content": "ffdddcb6-b10a-49d6-8ebc-0b1dbacb4114\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 364
+    },
+    {
+        "endIndex": 415,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 415,
+                    "startIndex": 401,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.kew6jc71r87o",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 401
+    },
+    {
+        "endIndex": 417,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 417,
+                    "startIndex": 415,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 415
+    }
+]

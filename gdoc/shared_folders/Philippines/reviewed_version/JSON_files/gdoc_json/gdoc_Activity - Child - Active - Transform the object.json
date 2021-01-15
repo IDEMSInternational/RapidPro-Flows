@@ -1,0 +1,299 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 57,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 57,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Active - Transform the object\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.163zji2d8asz",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 65,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 65,
+                    "startIndex": 57,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.qlwn1pullx1b",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 57
+    },
+    {
+        "endIndex": 83,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 83,
+                    "startIndex": 65,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.jf55u1xqscor",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 65
+    },
+    {
+        "endIndex": 91,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 91,
+                    "startIndex": 83,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.6ldud7usbu4i",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 83
+    },
+    {
+        "endIndex": 112,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 112,
+                    "startIndex": 91,
+                    "textRun": {
+                        "content": "Transform the object\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 91
+    },
+    {
+        "endIndex": 200,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 200,
+                    "startIndex": 112,
+                    "textRun": {
+                        "content": "\u2022\tEveryday household items like brooms, mops, or scarfs can become fun props for games.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 112
+    },
+    {
+        "endIndex": 333,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 333,
+                    "startIndex": 200,
+                    "textRun": {
+                        "content": "\u2022\tPlace an object in the center of the room and whenever someone has an idea, they jump in and show the rest what the object can be.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 200
+    },
+    {
+        "endIndex": 412,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 412,
+                    "startIndex": 333,
+                    "textRun": {
+                        "content": "\u2022\tFor example, a broom might be ridden as a horse or a microphone or a guitar!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 333
+    },
+    {
+        "endIndex": 434,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 434,
+                    "startIndex": 412,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.aep85us5dxf2",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 412
+    },
+    {
+        "endIndex": 437,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 437,
+                    "startIndex": 434,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.k3r8ietpki8m",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 434
+    },
+    {
+        "endIndex": 474,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 474,
+                    "startIndex": 437,
+                    "textRun": {
+                        "content": "216a00ac-d55a-414c-acd3-5624ecd75d34\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 437
+    },
+    {
+        "endIndex": 488,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 488,
+                    "startIndex": 474,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.2ebm9sfk4u1t",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 474
+    },
+    {
+        "endIndex": 490,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 490,
+                    "startIndex": 488,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 488
+    }
+]

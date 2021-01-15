@@ -1,0 +1,319 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 50,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 50,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Calm - The Interrupter\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.3c6hxhte2gwd",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 58,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 58,
+                    "startIndex": 50,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.okr67y9zcya1",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 50
+    },
+    {
+        "endIndex": 76,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 76,
+                    "startIndex": 58,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.5iyqyhbir7u0",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 58
+    },
+    {
+        "endIndex": 84,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 84,
+                    "startIndex": 76,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.3f5nogk356l9",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 76
+    },
+    {
+        "endIndex": 100,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 100,
+                    "startIndex": 84,
+                    "textRun": {
+                        "content": "The Interrupter\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 84
+    },
+    {
+        "endIndex": 151,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 151,
+                    "startIndex": 100,
+                    "textRun": {
+                        "content": "\u2022\tChoose a storyteller to start making up a story.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 100
+    },
+    {
+        "endIndex": 208,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 208,
+                    "startIndex": 151,
+                    "textRun": {
+                        "content": "\u2022\tStory listeners can interrupt with a word at any time.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 151
+    },
+    {
+        "endIndex": 265,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 265,
+                    "startIndex": 208,
+                    "textRun": {
+                        "content": "\u2022\tThe storyteller needs to fit that word in their story.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 208
+    },
+    {
+        "endIndex": 302,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 302,
+                    "startIndex": 265,
+                    "textRun": {
+                        "content": "\u2022\tTry with a different storyteller! \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 265
+    },
+    {
+        "endIndex": 324,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 324,
+                    "startIndex": 302,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.lmi4v224l5sv",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 302
+    },
+    {
+        "endIndex": 327,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 327,
+                    "startIndex": 324,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.vgsa4sfevnnv",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 324
+    },
+    {
+        "endIndex": 364,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 364,
+                    "startIndex": 327,
+                    "textRun": {
+                        "content": "bd551449-3454-42c9-8b14-99302534f0f1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 327
+    },
+    {
+        "endIndex": 378,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 378,
+                    "startIndex": 364,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ar6ultrghfs8",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 364
+    },
+    {
+        "endIndex": 380,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 380,
+                    "startIndex": 378,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 378
+    }
+]

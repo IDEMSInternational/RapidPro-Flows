@@ -1,0 +1,321 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 49,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 49,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Adult - Calm - Magical number\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.97l4o0x9q148",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 57,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 57,
+                    "startIndex": 49,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.8nkfleli0bsn",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 49
+    },
+    {
+        "endIndex": 75,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 75,
+                    "startIndex": 57,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.11upfbhfxwa5",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 57
+    },
+    {
+        "endIndex": 85,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 85,
+                    "startIndex": 75,
+                    "textRun": {
+                        "content": "Message 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.viu9l8vfoxez",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 75
+    },
+    {
+        "endIndex": 254,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 254,
+                    "startIndex": 85,
+                    "textRun": {
+                        "content": "Hello! Did you know that 3 is a magical number? Breathe in to the count of three and breathe out to the count of three. How do you feel now? Do you feel any different? \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 85
+    },
+    {
+        "endIndex": 264,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 264,
+                    "startIndex": 254,
+                    "textRun": {
+                        "content": "Message 2\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.h33jd7977hmp",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 254
+    },
+    {
+        "endIndex": 455,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 455,
+                    "startIndex": 264,
+                    "textRun": {
+                        "content": "What are your three favourite foods? Can you name three things you can see right now? Can you hear three sounds you can hear right now? What are three things you are grateful for right now? \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 264
+    },
+    {
+        "endIndex": 465,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 465,
+                    "startIndex": 455,
+                    "textRun": {
+                        "content": "Message 3\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.vv9i8bcsh2wf",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 455
+    },
+    {
+        "endIndex": 612,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 612,
+                    "startIndex": 465,
+                    "textRun": {
+                        "content": "Breathe in to the count of three and breathe out to the count of three? How do you feel now? Do you feel any different? Three is a magical number!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 465
+    },
+    {
+        "endIndex": 634,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 634,
+                    "startIndex": 612,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.2lbwwryvfocs",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 612
+    },
+    {
+        "endIndex": 637,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 637,
+                    "startIndex": 634,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.palmn0erpggr",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 634
+    },
+    {
+        "endIndex": 674,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 674,
+                    "startIndex": 637,
+                    "textRun": {
+                        "content": "6ab7afec-9f3e-4ae9-941f-dd0ecb1dcce0\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 637
+    },
+    {
+        "endIndex": 688,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 688,
+                    "startIndex": 674,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.uu9zbwkccdd",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 674
+    },
+    {
+        "endIndex": 690,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 690,
+                    "startIndex": 688,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 688
+    }
+]

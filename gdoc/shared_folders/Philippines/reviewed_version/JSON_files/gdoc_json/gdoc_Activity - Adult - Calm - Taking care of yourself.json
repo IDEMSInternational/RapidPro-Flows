@@ -1,0 +1,563 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 58,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 58,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Adult - Calm - Taking care of yourself\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.gawglgbo7fc",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 66,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 66,
+                    "startIndex": 58,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.7mr80qpu7fnv",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 58
+    },
+    {
+        "endIndex": 84,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 84,
+                    "startIndex": 66,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.j1dxz3yea6r0",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 66
+    },
+    {
+        "endIndex": 94,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 94,
+                    "startIndex": 84,
+                    "textRun": {
+                        "content": "Message 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.1apthd6use7w",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 84
+    },
+    {
+        "endIndex": 118,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 118,
+                    "startIndex": 94,
+                    "textRun": {
+                        "content": "Taking care of yourself\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 94
+    },
+    {
+        "endIndex": 119,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 119,
+                    "startIndex": 118,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 118
+    },
+    {
+        "endIndex": 234,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 234,
+                    "startIndex": 119,
+                    "textRun": {
+                        "content": "Here is a short activity that can help when you are feeling like needing some more support to get through the day.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 119
+    },
+    {
+        "endIndex": 244,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 244,
+                    "startIndex": 234,
+                    "textRun": {
+                        "content": "Message 2\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.kndd1ph8mbdj",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 234
+    },
+    {
+        "endIndex": 468,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 468,
+                    "startIndex": 244,
+                    "textRun": {
+                        "content": "Recognise what is happening for you in this moment. What are you thinking? Are your thoughts positive or negative. How do you feel? Do you feel pleasant or unpleasant? How does your body feel? Do you feel tense or relaxed? \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 244
+    },
+    {
+        "endIndex": 478,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 478,
+                    "startIndex": 468,
+                    "textRun": {
+                        "content": "Message 3\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.dlgi9eg97cs4",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 468
+    },
+    {
+        "endIndex": 581,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 581,
+                    "startIndex": 478,
+                    "textRun": {
+                        "content": "Connect to your heart in a kind and gentle way. You may want to place one hand on your heart or chest.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 478
+    },
+    {
+        "endIndex": 591,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 591,
+                    "startIndex": 581,
+                    "textRun": {
+                        "content": "Message 4\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.8kga2ejlzfej",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 581
+    },
+    {
+        "endIndex": 650,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 650,
+                    "startIndex": 591,
+                    "textRun": {
+                        "content": "You can then say the following words silently to yourself:\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 591
+    },
+    {
+        "endIndex": 669,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 669,
+                    "startIndex": 650,
+                    "textRun": {
+                        "content": "May I be peaceful.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 650
+    },
+    {
+        "endIndex": 684,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 684,
+                    "startIndex": 669,
+                    "textRun": {
+                        "content": "May I be safe.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 669
+    },
+    {
+        "endIndex": 702,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 702,
+                    "startIndex": 684,
+                    "textRun": {
+                        "content": "May I be healthy.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 684
+    },
+    {
+        "endIndex": 718,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 718,
+                    "startIndex": 702,
+                    "textRun": {
+                        "content": "May I be happy.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 702
+    },
+    {
+        "endIndex": 750,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 750,
+                    "startIndex": 718,
+                    "textRun": {
+                        "content": "May there be love in my family.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 718
+    },
+    {
+        "endIndex": 768,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 768,
+                    "startIndex": 750,
+                    "textRun": {
+                        "content": "May I feel loved.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 750
+    },
+    {
+        "endIndex": 778,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 778,
+                    "startIndex": 768,
+                    "textRun": {
+                        "content": "Message 5\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.y4568f38onmk",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 768
+    },
+    {
+        "endIndex": 921,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 921,
+                    "startIndex": 778,
+                    "textRun": {
+                        "content": "Take a moment to reflect on your experience. Remember that you can do this activity at any time whenever you feel like you need extra support.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 778
+    },
+    {
+        "endIndex": 943,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 943,
+                    "startIndex": 921,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.brxo82pswkhp",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 921
+    },
+    {
+        "endIndex": 946,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 946,
+                    "startIndex": 943,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.n7miqr673dej",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 943
+    },
+    {
+        "endIndex": 983,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 983,
+                    "startIndex": 946,
+                    "textRun": {
+                        "content": "9b027c4f-82a6-4cba-980c-ff3cf9eeaaad\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 946
+    },
+    {
+        "endIndex": 997,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 997,
+                    "startIndex": 983,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.23mcfqp9q7yo",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 983
+    },
+    {
+        "endIndex": 999,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 999,
+                    "startIndex": 997,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 997
+    }
+]

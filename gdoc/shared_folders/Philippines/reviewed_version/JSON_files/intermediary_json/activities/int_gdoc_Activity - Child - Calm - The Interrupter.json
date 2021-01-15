@@ -1,0 +1,13 @@
+{
+  "PLH - Activity - Child - Calm - The Interrupter": {
+    "Content": {
+      "Set of messages 1": {
+        "Message": "The Interrupter\n\u2022\tChoose a storyteller to start making up a story.\n\u2022\tStory listeners can interrupt with a word at any time.\n\u2022\tThe storyteller needs to fit that word in their story.\n\u2022\tTry with a different storyteller! "
+      }
+    },
+    "Technical information": {
+      "Id": "bd551449-3454-42c9-8b14-99302534f0f1",
+      "Template_type": "1"
+    }
+  }
+}

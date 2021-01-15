@@ -1,0 +1,319 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 49,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 49,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Active - Freeze dance\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.kbroopdd02f0",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 57,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 57,
+                    "startIndex": 49,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ahdwuvuhv5sq",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 49
+    },
+    {
+        "endIndex": 75,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 75,
+                    "startIndex": 57,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ggjj7iecstob",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 57
+    },
+    {
+        "endIndex": 83,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 83,
+                    "startIndex": 75,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.k7sqh8ygrbq4",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 75
+    },
+    {
+        "endIndex": 96,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 96,
+                    "startIndex": 83,
+                    "textRun": {
+                        "content": "Freeze dance\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 83
+    },
+    {
+        "endIndex": 155,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 155,
+                    "startIndex": 96,
+                    "textRun": {
+                        "content": "\u2022\tPlay music or someone sings a song, and everyone dances.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 96
+    },
+    {
+        "endIndex": 201,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 201,
+                    "startIndex": 155,
+                    "textRun": {
+                        "content": "\u2022\tWhen the music stops, everyone must freeze.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 155
+    },
+    {
+        "endIndex": 267,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 267,
+                    "startIndex": 201,
+                    "textRun": {
+                        "content": "\u2022\tLast person still dancing becomes the judge for the next round.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 201
+    },
+    {
+        "endIndex": 468,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 468,
+                    "startIndex": 267,
+                    "textRun": {
+                        "content": "\u2022\tA variation to Freeze Dance is Animal Dance: It\u2019s the same as Freeze Dance but when the music stops, one member of the family calls out the name of an animal, and everyone has to become that animal.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 267
+    },
+    {
+        "endIndex": 490,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 490,
+                    "startIndex": 468,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.wyb7e5m88vqn",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 468
+    },
+    {
+        "endIndex": 493,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 493,
+                    "startIndex": 490,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.imxekas492ep",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 490
+    },
+    {
+        "endIndex": 530,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 530,
+                    "startIndex": 493,
+                    "textRun": {
+                        "content": "cdc4e7f5-bfce-4585-8dc6-fe89bbe72b7e\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 493
+    },
+    {
+        "endIndex": 544,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 544,
+                    "startIndex": 530,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.1aaqzatgqtwb",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 530
+    },
+    {
+        "endIndex": 546,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 546,
+                    "startIndex": 544,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 544
+    }
+]

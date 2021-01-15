@@ -1,0 +1,48 @@
+{
+  "PLH - Content - Positive - Safe or unsafe touch": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message 1": "N Today's Tip is about how we can help to protect our children.",
+        "Message 2": "N The idea of talking to children about abuse can be scary. We don't know what to say. But there are some simple things can help them understand when it is not OK to be touched, and that they can tell you if something ever happens. ",
+        "Message 3": "N When you are walking or doing something together it can be easier to chat. ",
+        "Interaction message": "N Do you want to learn more about how to protect your child from abuse?",
+        "Interaction message if already completed": "N We know that you have already received this tip (well done!). Would like to review them again?",
+        "Message for negative answer": "N That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message 1": "n The idea of talking to children about abuse can be scary. We don't know what to say. But there are some simple things can help them understand when it is not OK to be touched, and that they can tell you if something ever happens. ",
+        "Message 2": "n When you are walking or doing something together it can be easier to chat. ",
+        "Interaction message": "n Do you want to learn more about how to protect your child from abuse?",
+        "Message for negative answer": "n That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "N Here's a video on how you can help protect your child.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Good_Bad_Touch.m4v"
+        }
+      },
+      "List of tips": {
+        "Message": "m Here are 3 things that you should make sure your child knows to protect them from abuse:\n\n",
+        "Option 1: n Learn about private parts": {
+          "Message": "n 1. Learn about private parts\n\nThe parts of their body that go under people's underwear or a swimsuit are private parts. It is not OK for other people to touch or to ask to look at them, or ask them to look at or touch theirs."
+        },
+        "Option 2: n Your body belongs to you": {
+          "Message": "n 2. Your body belongs to you\n\nIf someone tries to touch your children's private parts they must say NO and tell a grown up that they trust. "
+        },
+        "Option 3: n Bad secrets should be told": {
+          "Message": "n 3. Bad secrets should be told. \n\nYour children should tell you if there is a secret that makes them feel worried. You will not be angry. Only nice secrets - like a surprise birthday party - should be kept secret. "
+        },
+        "Message for choosing another tip": "n Please select another number if you want to learn more about how to protect your child from abuse:\n\n"
+      },
+      "Set of messages 1": {
+        "Message 1": "n We understand that this can be really difficult. Please type \"Help\" if you want any extra support or guidance.",
+        "Message 2": "n Well done! You have added another skill to your Parenting Toolkit! Supporting your child through a crisis will also teach them how to support others in difficult times. Good for you!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "826c8b1b-270a-454f-9714-eb994954c9c6",
+      "Id tip": "c49aa0d8-d70b-4808-af04-8dd1f9e0d55d",
+      "Template type": "2"
+    }
+  }
+}

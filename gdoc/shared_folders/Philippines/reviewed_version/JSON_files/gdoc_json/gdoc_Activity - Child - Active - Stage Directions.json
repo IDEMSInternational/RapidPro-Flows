@@ -1,0 +1,399 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 53,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 53,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Active - Stage Directions\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.pqa0x3fps016",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 61,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 61,
+                    "startIndex": 53,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.lgzl7wxi1abu",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 53
+    },
+    {
+        "endIndex": 79,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 79,
+                    "startIndex": 61,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.mpk51z23qxx4",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 61
+    },
+    {
+        "endIndex": 87,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 87,
+                    "startIndex": 79,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.r5bitffvfrj2",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 79
+    },
+    {
+        "endIndex": 104,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 104,
+                    "startIndex": 87,
+                    "textRun": {
+                        "content": "Stage Directions\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 87
+    },
+    {
+        "endIndex": 251,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 251,
+                    "startIndex": 104,
+                    "textRun": {
+                        "content": "\u2022\tThis is the same as Ship to Shore but with Stage Directions. This can be done in an elevated and safe area. The director gives the instructions.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 104
+    },
+    {
+        "endIndex": 293,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 293,
+                    "startIndex": 251,
+                    "textRun": {
+                        "content": " \u201cStage Right\u201d means you go to the right.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 251
+    },
+    {
+        "endIndex": 333,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 333,
+                    "startIndex": 293,
+                    "textRun": {
+                        "content": " \u201cStage Left\u201d means you go to the left.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 293
+    },
+    {
+        "endIndex": 366,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 366,
+                    "startIndex": 333,
+                    "textRun": {
+                        "content": " \u201cDownstage\u201d means you go down. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 333
+    },
+    {
+        "endIndex": 394,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 394,
+                    "startIndex": 366,
+                    "textRun": {
+                        "content": " \u201cUpstage\u201d means you go up.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 366
+    },
+    {
+        "endIndex": 453,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 453,
+                    "startIndex": 394,
+                    "textRun": {
+                        "content": " \u201cCentre Stage\u201d means you go to the centre of the stage.\u201d \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 394
+    },
+    {
+        "endIndex": 556,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 556,
+                    "startIndex": 453,
+                    "textRun": {
+                        "content": "\u2022\tYou can have fun actions like \u201cDramatic Death, Take a Bow, Open the Curtain, Clean the Floor,\u201d etc. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 453
+    },
+    {
+        "endIndex": 650,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 650,
+                    "startIndex": 556,
+                    "textRun": {
+                        "content": "\u2022\tInstead of \u201cLifeboat\u201d you make \u201cCast of Actors.\u201d Those not in the cast become the director!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 556
+    },
+    {
+        "endIndex": 672,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 672,
+                    "startIndex": 650,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.6xdgfzmmrwvc",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 650
+    },
+    {
+        "endIndex": 675,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 675,
+                    "startIndex": 672,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.yvcpper6ljy0",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 672
+    },
+    {
+        "endIndex": 712,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 712,
+                    "startIndex": 675,
+                    "textRun": {
+                        "content": "516a78bc-45b1-406c-a08b-f4a62d8f0561\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 675
+    },
+    {
+        "endIndex": 726,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 726,
+                    "startIndex": 712,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.j9b095oi0av",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 712
+    },
+    {
+        "endIndex": 728,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 728,
+                    "startIndex": 726,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 726
+    }
+]

@@ -1,0 +1,328 @@
+{
+      "_ui": {
+        "nodes": {
+          "1d826ada-5754-4adf-ace7-b68cf87e3b42": {
+            "position": {
+              "left": 240,
+              "top": 1040
+            },
+            "type": "execute_actions"
+          },
+          "2b813f8e-0bb7-407a-88d7-631a5679768d": {
+            "position": {
+              "left": 260,
+              "top": 540
+            },
+            "type": "execute_actions"
+          },
+          "6fa632af-a0d7-4ce5-9ab0-e778e5f2682d": {
+            "config": {},
+            "position": {
+              "left": 720,
+              "top": 1600
+            },
+            "type": "split_by_subflow"
+          },
+          "85a11d9f-6092-44dc-8797-51149be2d2ca": {
+            "position": {
+              "left": 260,
+              "top": 800
+            },
+            "type": "execute_actions"
+          },
+          "8855cb9b-7bfe-474b-ae18-f69c055bdf7c": {
+            "position": {
+              "left": 560,
+              "top": 960
+            },
+            "type": "execute_actions"
+          },
+          "8d9a363e-9566-4de7-813b-28dd3756190a": {
+            "position": {
+              "left": 540,
+              "top": 1380
+            },
+            "type": "execute_actions"
+          },
+          "c4fef547-0276-4e0a-b340-1e5ba15a05cb": {
+            "position": {
+              "left": 320,
+              "top": 60
+            },
+            "type": "execute_actions"
+          },
+          "c5dbc1bf-b60f-43d6-a4b1-54d07b50f3b4": {
+            "position": {
+              "left": 560,
+              "top": 560
+            },
+            "type": "execute_actions"
+          },
+          "df306c97-3318-4dda-a952-f50c595e308c": {
+            "position": {
+              "left": 540,
+              "top": 1180
+            },
+            "type": "execute_actions"
+          },
+          "fd8cdda0-6345-422a-8aa9-b71a9f04122d": {
+            "position": {
+              "left": 560,
+              "top": 760
+            },
+            "type": "execute_actions"
+          }
+        }
+      },
+      "expire_after_minutes": 60,
+      "ignore_triggers": true,
+      "language": "eng",
+      "localization": {},
+      "metadata": {
+        "revision": 1
+      },
+      "name": "PLH - Activity - Adult - Active - Relax",
+      "nodes": [
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Hello! How are you feeling? If you are feeling overwhelmed or stress, here's a fun activity that can also release some stress.",
+              "type": "send_msg",
+              "uuid": "86cd793e-3bd4-4cc3-bb17-fd429ff72ae5"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "2b813f8e-0bb7-407a-88d7-631a5679768d",
+              "uuid": "2f67401c-98f6-4f6b-beb7-cb7ad1726107"
+            }
+          ],
+          "uuid": "c4fef547-0276-4e0a-b340-1e5ba15a05cb"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Stand up and stretch your arms up to the sky. Push away any clouds and let the Sunshine of Positive Attention shine down on you. Stretch to both sides. Stretch to the front and to the back.",
+              "type": "send_msg",
+              "uuid": "1948ebaf-eef9-42f3-b51e-1596ac310b1b"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "85a11d9f-6092-44dc-8797-51149be2d2ca",
+              "uuid": "adb427b2-d66d-45e6-874c-504c10cc447a"
+            }
+          ],
+          "uuid": "2b813f8e-0bb7-407a-88d7-631a5679768d"
+        },
+        {
+          "actions": [
+            {
+              "all_urns": false,
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Place one foot in front of the other and make small circles from ankles, remember to turn to both sides. Do each foot with four circles in each direction",
+              "type": "send_msg",
+              "uuid": "8ff34d88-65fb-4829-951a-1e4399f417f3"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "fd8cdda0-6345-422a-8aa9-b71a9f04122d",
+              "uuid": "6ec4ebf2-d2d1-4b76-9782-95e82451b954"
+            }
+          ],
+          "uuid": "c5dbc1bf-b60f-43d6-a4b1-54d07b50f3b4"
+        },
+        {
+          "actions": [
+            {
+              "all_urns": false,
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Now shake your whole body as fast as you can. Shake it up high! Shake it down low! Shake it all around!",
+              "type": "send_msg",
+              "uuid": "8476dfc4-8adf-42a8-a0f9-e1eeba3b6973"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "8855cb9b-7bfe-474b-ae18-f69c055bdf7c",
+              "uuid": "bedfd30b-3685-46de-a589-7d50c6d29685"
+            }
+          ],
+          "uuid": "fd8cdda0-6345-422a-8aa9-b71a9f04122d"
+        },
+        {
+          "actions": [
+            {
+              "all_urns": false,
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Let your hand hang by your side. Squeeze your shoulders tightly up to your ears as you breathe in, scrunch your eyes, and hold your breath. Release your shoulders as you relax your body.",
+              "type": "send_msg",
+              "uuid": "2c5f92de-f031-4e0f-bc95-be6b7f63b67b"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "1d826ada-5754-4adf-ace7-b68cf87e3b42",
+              "uuid": "8633cc9a-2e3b-47e5-8aba-95188f45446a"
+            }
+          ],
+          "uuid": "85a11d9f-6092-44dc-8797-51149be2d2ca"
+        },
+        {
+          "actions": [
+            {
+              "all_urns": false,
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Close your eyes and raise your arms slowly above your head as you breathe in. Lower your arms slowly to your side as you breathe out. Repeat 4 times.",
+              "type": "send_msg",
+              "uuid": "00033055-cfdf-4ad6-9aa1-b09943836d3e"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "df306c97-3318-4dda-a952-f50c595e308c",
+              "uuid": "50ba40c4-aa9a-44bf-b4d2-bab71359f139"
+            }
+          ],
+          "uuid": "8855cb9b-7bfe-474b-ae18-f69c055bdf7c"
+        },
+        {
+          "actions": [
+            {
+              "all_urns": false,
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Relax your arms and let them swing to the front and back. Take 4 deep breaths while you do this. This is good for your lower back.\n\nRelax your arms and let your arms to swing sideways, and turn your upper body. Your arms should gently hit your back as you twist from side to side.",
+              "type": "send_msg",
+              "uuid": "a7a76468-d8e7-4392-902c-9014f808ce09"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "c5dbc1bf-b60f-43d6-a4b1-54d07b50f3b4",
+              "uuid": "75310c98-105b-4a0c-af29-b46997d5bbe3"
+            }
+          ],
+          "uuid": "1d826ada-5754-4adf-ace7-b68cf87e3b42"
+        },
+        {
+          "actions": [
+            {
+              "all_urns": false,
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Take a moment to reflect on your experience. Remember that you can do this activity at any time whenever you feel like you need to release stress and energise your mind and body.",
+              "type": "send_msg",
+              "uuid": "306a6f89-b421-4f81-bbaf-12c26b916e01"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "fe465bb7-5b62-4593-90d8-1672f729eaf7"
+            }
+          ],
+          "uuid": "df306c97-3318-4dda-a952-f50c595e308c"
+        },
+        {
+          "actions": [
+            {
+              "field": {
+                "key": "current_type_assessed",
+                "name": "current type assessed"
+              },
+              "type": "set_contact_field",
+              "uuid": "6d90fc17-b3ee-4daf-b1ab-ab660823dd2f",
+              "value": "activity"
+            },
+            {
+              "field": {
+                "key": "current_activity",
+                "name": "current activity"
+              },
+              "type": "set_contact_field",
+              "uuid": "a8511879-a5dc-429f-9852-52d22088499b",
+              "value": "Adult 8"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "6fa632af-a0d7-4ce5-9ab0-e778e5f2682d",
+              "uuid": "a9de98bd-de12-43ac-8a4d-8c3d7acdb7fa"
+            }
+          ],
+          "uuid": "8d9a363e-9566-4de7-813b-28dd3756190a"
+        },
+        {
+          "actions": [
+            {
+              "flow": {
+                "name": "Feedbak flow for activity or tip",
+                "uuid": "7535a8c5-f7cf-4171-bb34-22381b1c91b4"
+              },
+              "type": "enter_flow",
+              "uuid": "ebccfe4f-c806-4a1c-9519-1b61578591a4"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "0d0a360c-1a82-4edf-bc8d-95864cbbd694"
+            },
+            {
+              "destination_uuid": null,
+              "uuid": "1728c1c7-17f9-41b3-b9c2-9c8398794428"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "completed"
+                ],
+                "category_uuid": "2ef9fbea-006e-44ec-a832-a539da20fd87",
+                "type": "has_only_text",
+                "uuid": "a9b873a9-073f-4b0c-ab3e-174dcfa18e88"
+              },
+              {
+                "arguments": [
+                  "expired"
+                ],
+                "category_uuid": "ee6d62d2-d2fa-4437-bed3-aa647aa9ec4c",
+                "type": "has_only_text",
+                "uuid": "79ad842c-0370-44b6-b471-6d95f1c696a4"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "0d0a360c-1a82-4edf-bc8d-95864cbbd694",
+                "name": "Complete",
+                "uuid": "2ef9fbea-006e-44ec-a832-a539da20fd87"
+              },
+              {
+                "exit_uuid": "1728c1c7-17f9-41b3-b9c2-9c8398794428",
+                "name": "Expired",
+                "uuid": "ee6d62d2-d2fa-4437-bed3-aa647aa9ec4c"
+              }
+            ],
+            "default_category_uuid": "ee6d62d2-d2fa-4437-bed3-aa647aa9ec4c",
+            "operand": "@child.run.status",
+            "type": "switch"
+          },
+          "uuid": "6fa632af-a0d7-4ce5-9ab0-e778e5f2682d"
+        }
+      ],
+      "spec_version": "13.1.0",
+      "type": "messaging",
+      "uuid": "87aaaa2e-c306-4ccd-b92d-12ffbbc3cc70",
+      "revision": 1
+    }

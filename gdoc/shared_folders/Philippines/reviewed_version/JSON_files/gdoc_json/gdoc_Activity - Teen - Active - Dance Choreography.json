@@ -1,0 +1,319 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 54,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 54,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Teen - Active - Dance Choreography\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.e5he9az75gme",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 62,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 62,
+                    "startIndex": 54,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.5seo5gc3tdda",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 54
+    },
+    {
+        "endIndex": 80,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 80,
+                    "startIndex": 62,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.tqi0qwih8fl",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 62
+    },
+    {
+        "endIndex": 88,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 88,
+                    "startIndex": 80,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.3u40z0cuws8o",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 80
+    },
+    {
+        "endIndex": 107,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 107,
+                    "startIndex": 88,
+                    "textRun": {
+                        "content": "Dance choreography\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 88
+    },
+    {
+        "endIndex": 168,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 168,
+                    "startIndex": 107,
+                    "textRun": {
+                        "content": "\u2022\tCreate a dance choreography to your teen's favorite songs.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 107
+    },
+    {
+        "endIndex": 228,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 228,
+                    "startIndex": 168,
+                    "textRun": {
+                        "content": "\u2022\tFirst person does a dance move and everyone else copies. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 168
+    },
+    {
+        "endIndex": 269,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 269,
+                    "startIndex": 228,
+                    "textRun": {
+                        "content": "\u2022\tEveryone takes turns being the leader.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 228
+    },
+    {
+        "endIndex": 301,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 301,
+                    "startIndex": 269,
+                    "textRun": {
+                        "content": "\u2022\tPerform it for the household!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 269
+    },
+    {
+        "endIndex": 323,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 323,
+                    "startIndex": 301,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.byom4bqy8z9f",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 301
+    },
+    {
+        "endIndex": 326,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 326,
+                    "startIndex": 323,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.qvmtzutcff4w",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 323
+    },
+    {
+        "endIndex": 363,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 363,
+                    "startIndex": 326,
+                    "textRun": {
+                        "content": "df8dcab5-8eac-41fb-be7f-43b1fe1b4380\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 326
+    },
+    {
+        "endIndex": 377,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 377,
+                    "startIndex": 363,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.c2cuu59eruwy",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 363
+    },
+    {
+        "endIndex": 379,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 379,
+                    "startIndex": 377,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 377
+    }
+]

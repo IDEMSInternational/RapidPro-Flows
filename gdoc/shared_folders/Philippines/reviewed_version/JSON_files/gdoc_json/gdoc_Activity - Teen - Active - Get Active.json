@@ -1,0 +1,319 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 46,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 46,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Teen - Active - Get Active\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.8i2lcau4j8kr",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 54,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 54,
+                    "startIndex": 46,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.t8ta98vpc5dy",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 46
+    },
+    {
+        "endIndex": 72,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 72,
+                    "startIndex": 54,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.6kct0aymnbo0",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 54
+    },
+    {
+        "endIndex": 80,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 80,
+                    "startIndex": 72,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.3t7c2pz4rxmx",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 72
+    },
+    {
+        "endIndex": 92,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 92,
+                    "startIndex": 80,
+                    "textRun": {
+                        "content": "Get active!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 80
+    },
+    {
+        "endIndex": 195,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 195,
+                    "startIndex": 92,
+                    "textRun": {
+                        "content": "\u2022\tCome up with three types of exercise together. For example, walking, jogging, basketball or dancing.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 92
+    },
+    {
+        "endIndex": 232,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 232,
+                    "startIndex": 195,
+                    "textRun": {
+                        "content": "\u2022\tPick one together and try it out. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 195
+    },
+    {
+        "endIndex": 333,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 333,
+                    "startIndex": 232,
+                    "textRun": {
+                        "content": "\u2022\tIf you both like it, decide how often you are going to do it. Once or twice a week? Every morning?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 232
+    },
+    {
+        "endIndex": 494,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 494,
+                    "startIndex": 333,
+                    "textRun": {
+                        "content": "\u2022\tTogether think of ways to make it even more fun. Can you jog to a certain point? Take turns in being the coach? Motivate each other with a small free reward? \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 333
+    },
+    {
+        "endIndex": 516,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 516,
+                    "startIndex": 494,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.jz34h2e3qyva",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 494
+    },
+    {
+        "endIndex": 519,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 519,
+                    "startIndex": 516,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ir236pfykz5n",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 516
+    },
+    {
+        "endIndex": 556,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 556,
+                    "startIndex": 519,
+                    "textRun": {
+                        "content": "444d242f-9ee7-444a-b579-4c3046feb9d4\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 519
+    },
+    {
+        "endIndex": 570,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 570,
+                    "startIndex": 556,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.lbtnuxm06yf5",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 556
+    },
+    {
+        "endIndex": 572,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 572,
+                    "startIndex": 570,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 570
+    }
+]

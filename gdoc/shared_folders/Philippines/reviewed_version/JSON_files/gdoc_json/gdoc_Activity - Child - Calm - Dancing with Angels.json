@@ -1,0 +1,339 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 54,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 54,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Calm - Dancing with Angels\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.vs7y4m1beir8",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 62,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 62,
+                    "startIndex": 54,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.tzpd8podiqoa",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 54
+    },
+    {
+        "endIndex": 80,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 80,
+                    "startIndex": 62,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ozbv0qlv431y",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 62
+    },
+    {
+        "endIndex": 88,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 88,
+                    "startIndex": 80,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.g4326rp37pi6",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 80
+    },
+    {
+        "endIndex": 108,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 108,
+                    "startIndex": 88,
+                    "textRun": {
+                        "content": "Dancing with Angels\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 88
+    },
+    {
+        "endIndex": 207,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 207,
+                    "startIndex": 108,
+                    "textRun": {
+                        "content": "\u2022\tThis activity helps children learn how to lead. It also builds trust between you and your child.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 108
+    },
+    {
+        "endIndex": 300,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 300,
+                    "startIndex": 207,
+                    "textRun": {
+                        "content": "\u2022\tPlay a piece of music that is gentle and relaxed to encourage smooth and calming movement.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 207
+    },
+    {
+        "endIndex": 405,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 405,
+                    "startIndex": 300,
+                    "textRun": {
+                        "content": "\u2022\tOne person goes first and closes their eyes while the other person is the guardian angel or protector.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 300
+    },
+    {
+        "endIndex": 514,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 514,
+                    "startIndex": 405,
+                    "textRun": {
+                        "content": "\u2022\tThe guardian angel must protect the person with their eyes closed from harm while gently dancing together.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 405
+    },
+    {
+        "endIndex": 592,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 592,
+                    "startIndex": 514,
+                    "textRun": {
+                        "content": "\u2022\tWhen the music ends, the dancer can open their eyes before switching roles.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 514
+    },
+    {
+        "endIndex": 614,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 614,
+                    "startIndex": 592,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.2s7jyfoych3w",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 592
+    },
+    {
+        "endIndex": 617,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 617,
+                    "startIndex": 614,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.tgb3xu772n6h",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 614
+    },
+    {
+        "endIndex": 654,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 654,
+                    "startIndex": 617,
+                    "textRun": {
+                        "content": "9f2861a8-d0d4-47c6-ad70-4291e67fcfec\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 617
+    },
+    {
+        "endIndex": 668,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 668,
+                    "startIndex": 654,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.w9lsxl29918l",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 654
+    },
+    {
+        "endIndex": 670,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 670,
+                    "startIndex": 668,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 668
+    }
+]

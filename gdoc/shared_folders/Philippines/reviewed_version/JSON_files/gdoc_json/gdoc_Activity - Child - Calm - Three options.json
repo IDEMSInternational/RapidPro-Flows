@@ -1,0 +1,319 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 48,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 48,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Calm - Three options\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.vc6c7t5m01yl",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 56,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 56,
+                    "startIndex": 48,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.d8lh3pyrpmy4",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 48
+    },
+    {
+        "endIndex": 74,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 74,
+                    "startIndex": 56,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ee46vh22u0xk",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 56
+    },
+    {
+        "endIndex": 82,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 82,
+                    "startIndex": 74,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.dyn0ciif58jr",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 74
+    },
+    {
+        "endIndex": 96,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 96,
+                    "startIndex": 82,
+                    "textRun": {
+                        "content": "Three options\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 82
+    },
+    {
+        "endIndex": 197,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 197,
+                    "startIndex": 96,
+                    "textRun": {
+                        "content": "\u2022\tThink of three different situations. For example, driving a car, sailing a boat or flying a plane.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 96
+    },
+    {
+        "endIndex": 257,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 257,
+                    "startIndex": 197,
+                    "textRun": {
+                        "content": "\u2022\tSay them to your child and ask, \u201cWhich would you prefer?\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 197
+    },
+    {
+        "endIndex": 273,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 273,
+                    "startIndex": 257,
+                    "textRun": {
+                        "content": "\u2022\tAsk them why?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 257
+    },
+    {
+        "endIndex": 347,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 347,
+                    "startIndex": 273,
+                    "textRun": {
+                        "content": "\u2022\tNow think of three more situations or ask your child to do it for you. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 273
+    },
+    {
+        "endIndex": 369,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 369,
+                    "startIndex": 347,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.pucr3yvne3sb",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 347
+    },
+    {
+        "endIndex": 372,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 372,
+                    "startIndex": 369,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.5fcopjuy6l0u",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 369
+    },
+    {
+        "endIndex": 409,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 409,
+                    "startIndex": 372,
+                    "textRun": {
+                        "content": "6d422fab-41c5-475f-8563-0d05f9d935a3\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 372
+    },
+    {
+        "endIndex": 423,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 423,
+                    "startIndex": 409,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.bbi11yh5g4y4",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 409
+    },
+    {
+        "endIndex": 425,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 425,
+                    "startIndex": 423,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 423
+    }
+]

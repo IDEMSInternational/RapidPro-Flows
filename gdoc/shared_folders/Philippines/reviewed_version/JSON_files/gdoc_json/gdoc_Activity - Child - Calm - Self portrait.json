@@ -1,0 +1,379 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 48,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 48,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Calm - Self portrait\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.mv3ggkhcfjqt",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 56,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 56,
+                    "startIndex": 48,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.g3914j7wlx22",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 48
+    },
+    {
+        "endIndex": 74,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 74,
+                    "startIndex": 56,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.x3k1l1vgbkkj",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 56
+    },
+    {
+        "endIndex": 82,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 82,
+                    "startIndex": 74,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.2h2a8s3cgjz2",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 74
+    },
+    {
+        "endIndex": 96,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 96,
+                    "startIndex": 82,
+                    "textRun": {
+                        "content": "Self-portrait\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 82
+    },
+    {
+        "endIndex": 157,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 157,
+                    "startIndex": 96,
+                    "textRun": {
+                        "content": "\u2022\tHere\u2019s how your children can draw a picture of themselves!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 96
+    },
+    {
+        "endIndex": 280,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 280,
+                    "startIndex": 157,
+                    "textRun": {
+                        "content": "\u2022\tFind a big piece of paper or cardboard. It needs to be the same length or slightly longer than the height of your child.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 157
+    },
+    {
+        "endIndex": 365,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 365,
+                    "startIndex": 280,
+                    "textRun": {
+                        "content": "\u2022\tAsk your child to lie down on the paper. Carefully draw the outline of your child.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 280
+    },
+    {
+        "endIndex": 458,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 458,
+                    "startIndex": 365,
+                    "textRun": {
+                        "content": "\u2022\tNow let your child fill in the outline: face, hair, clothes, shoes, or anything they want!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 365
+    },
+    {
+        "endIndex": 545,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 545,
+                    "startIndex": 458,
+                    "textRun": {
+                        "content": "\u2022\tAsk your child to draw things that they like and do not like outside of the outline.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 458
+    },
+    {
+        "endIndex": 645,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 645,
+                    "startIndex": 545,
+                    "textRun": {
+                        "content": "\u2022\tHave a conversation with your child about these things. You may learn something about your child!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 545
+    },
+    {
+        "endIndex": 762,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 762,
+                    "startIndex": 645,
+                    "textRun": {
+                        "content": "\u2022\tYou can put their outline up in their room or anywhere in the house \u2013 it will make your children feel appreciated!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 645
+    },
+    {
+        "endIndex": 784,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 784,
+                    "startIndex": 762,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ey45tukqs9iv",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 762
+    },
+    {
+        "endIndex": 787,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 787,
+                    "startIndex": 784,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.emof5xpobeyj",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 784
+    },
+    {
+        "endIndex": 824,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 824,
+                    "startIndex": 787,
+                    "textRun": {
+                        "content": "ba52e05a-3efb-4059-8b73-601523ba18fe\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 787
+    },
+    {
+        "endIndex": 838,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 838,
+                    "startIndex": 824,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.jkvzyn93r1p7",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 824
+    },
+    {
+        "endIndex": 840,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 840,
+                    "startIndex": 838,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 838
+    }
+]

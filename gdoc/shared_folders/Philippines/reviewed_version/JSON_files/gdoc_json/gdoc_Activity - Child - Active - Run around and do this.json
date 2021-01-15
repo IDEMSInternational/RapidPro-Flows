@@ -1,0 +1,359 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 59,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 59,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Active - Run around and do this\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.77suijm7ufw",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 67,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 67,
+                    "startIndex": 59,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.hrczk3piwshi",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 59
+    },
+    {
+        "endIndex": 85,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 85,
+                    "startIndex": 67,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.tja52m4ytlu",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 67
+    },
+    {
+        "endIndex": 93,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 93,
+                    "startIndex": 85,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.443owwo3pvhb",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 85
+    },
+    {
+        "endIndex": 117,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 117,
+                    "startIndex": 93,
+                    "textRun": {
+                        "content": "Run Around and Do This \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 93
+    },
+    {
+        "endIndex": 207,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 207,
+                    "startIndex": 117,
+                    "textRun": {
+                        "content": "\u2022\tEveryone runs around the room or garden.  Make sure the space is large enough and safe.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 117
+    },
+    {
+        "endIndex": 299,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 299,
+                    "startIndex": 207,
+                    "textRun": {
+                        "content": "\u2022\tAt any time, someone can stop somewhere and say, \u201cWhen you get over here, you do this!\u201d  \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 207
+    },
+    {
+        "endIndex": 374,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 374,
+                    "startIndex": 299,
+                    "textRun": {
+                        "content": "\u2022\tWhat you do can be anything: push-ups, singing a song, crying, jumping\u2026 \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 299
+    },
+    {
+        "endIndex": 454,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 454,
+                    "startIndex": 374,
+                    "textRun": {
+                        "content": "\u2022\tThe more you play, the more there are things to do in more and more places.  \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 374
+    },
+    {
+        "endIndex": 503,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 503,
+                    "startIndex": 454,
+                    "textRun": {
+                        "content": "\u2022\tEach person can decide where to go and when.  \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 454
+    },
+    {
+        "endIndex": 581,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 581,
+                    "startIndex": 503,
+                    "textRun": {
+                        "content": "\u2022\tIt\u2019s fun to interact with other people who are doing the same thing as you!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 503
+    },
+    {
+        "endIndex": 603,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 603,
+                    "startIndex": 581,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.520kwzt982s6",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 581
+    },
+    {
+        "endIndex": 606,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 606,
+                    "startIndex": 603,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.yebz3kt6zewr",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 603
+    },
+    {
+        "endIndex": 643,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 643,
+                    "startIndex": 606,
+                    "textRun": {
+                        "content": "0de62b05-2cb9-44ad-a0bb-0711b236f568\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 606
+    },
+    {
+        "endIndex": 657,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 657,
+                    "startIndex": 643,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.5pixaae5rypq",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 643
+    },
+    {
+        "endIndex": 659,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 659,
+                    "startIndex": 657,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 657
+    }
+]

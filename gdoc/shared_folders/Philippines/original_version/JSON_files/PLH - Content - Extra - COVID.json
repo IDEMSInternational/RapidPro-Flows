@@ -1,0 +1,42 @@
+{
+  "PLH - Content - Extra - COVID": {
+    "Content": {
+      "Default introduction": {
+        "Message": "When your children ask you about COVID-19, be willing to talk. They will already have heard something. Silence and secrets do not protect our children. Honesty and openness do. Think about how much they will understand. You know them best.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" if you want to learn more about how to talk about COVID-19 with your child. Chat to you later!"
+      },
+      "Media": {
+        "Video": {
+          "Text": "Video of Talking about COVID19",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Talking_About_Covid19.m4v"
+        }
+      },
+      "List of tips": {
+        "Message": "Here are 4 simple steps that you can do when talking about COVID-19 with your children:\n\n",
+        "Option 1: Be open, honest, and supportive": {
+          "Message 1": "Step 1. Be open, honest, and supportive\nAllow your child to talk freely. Ask them open questions and find out how much they already know. ",
+          "Message 2": "Always answer their questions truthfully. Think about how old your child is and how much they can understand.\nYour child may be scared or confused. Give them space to share how they are feeling and let them know you are there for them."
+        },
+        "Option 2: It is okay not to know the answers": {
+          "Message": "Step 2. It is OK not to know the answers.\n\nIt is fine to say “We don’t know, but we are working on it; or we don’t know, ‘but we think’.”  Use this as an opportunity to learn something new with your child. The WHO and UNICEF websites are great first steps to learn.\n\nWHO: https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public\nUNICEF: https://www.unicef.org/coronavirus/covid-19 "
+        },
+        "Option 3: Be a hero not a bully": {
+          "Message 1": "Step 3. Be a hero not a bully\nExplain that COVID-19 has nothing to do with the way someone looks, where they are from, or what language they speak. ",
+          "Message 2": "Tell your child that we can be compassionate to people who are sick and those who are caring for them. "
+        },
+        "Option 4: End on a good note": {
+          "Message": "Step 4. End on a good note\nCheck to see if your child is okay. Remind them that you care and that they can talk to you anytime. Then do something fun together!"
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about how to talk about COVID-19 with your children:\n\n"
+      },
+      "Set of messages 1": {
+        "Message": "Well done for adding another tool to your Parenting First Aid Kit! When you talk about COVID-19 with your child in a supportive way, you make them feel loved and safe. You are the hero of this story!"
+      }
+    },
+    "Technical information": {
+      "Id": "501fd7d5-d511-413c-a0c3-3729f8fb6b9a",
+      "Template_type": "2"
+    }
+  }
+}

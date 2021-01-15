@@ -1,0 +1,359 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 48,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 48,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Adult - Calm - A short pause\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.w3mywjk01k5g",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 56,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 56,
+                    "startIndex": 48,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.xb4d4defph0w",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 48
+    },
+    {
+        "endIndex": 74,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 74,
+                    "startIndex": 56,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.i3zq0gapu5tx",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 56
+    },
+    {
+        "endIndex": 82,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 82,
+                    "startIndex": 74,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.otzipyipe3ot",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 74
+    },
+    {
+        "endIndex": 96,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 96,
+                    "startIndex": 82,
+                    "textRun": {
+                        "content": "A Short Pause\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 82
+    },
+    {
+        "endIndex": 128,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 128,
+                    "startIndex": 96,
+                    "textRun": {
+                        "content": "\u2022\tSit down and close your eyes.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 96
+    },
+    {
+        "endIndex": 176,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 176,
+                    "startIndex": 128,
+                    "textRun": {
+                        "content": "\u2022\tListen to your breath as it goes in and out. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 128
+    },
+    {
+        "endIndex": 200,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 200,
+                    "startIndex": 176,
+                    "textRun": {
+                        "content": "\u2022\tNotice how you feel. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 176
+    },
+    {
+        "endIndex": 232,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 232,
+                    "startIndex": 200,
+                    "textRun": {
+                        "content": "\u2022\tTake a few more deep breaths.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 200
+    },
+    {
+        "endIndex": 304,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 304,
+                    "startIndex": 232,
+                    "textRun": {
+                        "content": "\u2022\tWhen you are ready, open your eyes again. Do you feel any different? \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 232
+    },
+    {
+        "endIndex": 343,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 343,
+                    "startIndex": 304,
+                    "textRun": {
+                        "content": "\u2022\tRemind yourself that \u201cI will be ok.\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 304
+    },
+    {
+        "endIndex": 365,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 365,
+                    "startIndex": 343,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.a28f50hed4gb",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 343
+    },
+    {
+        "endIndex": 368,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 368,
+                    "startIndex": 365,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.f92nk8tg495n",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 365
+    },
+    {
+        "endIndex": 405,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 405,
+                    "startIndex": 368,
+                    "textRun": {
+                        "content": "e88bbb2e-7249-4454-a31f-1a4a94b87bb5\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 368
+    },
+    {
+        "endIndex": 419,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 419,
+                    "startIndex": 405,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.twp6lsl7yl16",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 405
+    },
+    {
+        "endIndex": 421,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 421,
+                    "startIndex": 419,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 419
+    }
+]

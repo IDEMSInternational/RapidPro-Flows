@@ -1,0 +1,319 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 41,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 41,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Baby - Calm - Lullaby\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.t9mifbrywwwh",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 49,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 49,
+                    "startIndex": 41,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.uljntlbuacfz",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 41
+    },
+    {
+        "endIndex": 67,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 67,
+                    "startIndex": 49,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.a1qjc4mj4gkt",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 49
+    },
+    {
+        "endIndex": 75,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 75,
+                    "startIndex": 67,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.2f6cel546wd5",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 67
+    },
+    {
+        "endIndex": 83,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 83,
+                    "startIndex": 75,
+                    "textRun": {
+                        "content": "Lullaby\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 75
+    },
+    {
+        "endIndex": 158,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 158,
+                    "startIndex": 83,
+                    "textRun": {
+                        "content": "\u2022\tWhen your baby or toddler cries, sing a soft song to calm you both down.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 83
+    },
+    {
+        "endIndex": 256,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 256,
+                    "startIndex": 158,
+                    "textRun": {
+                        "content": "\u2022\tSing a soothing song you know or make up your own with a simple melody and some soothing words.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 158
+    },
+    {
+        "endIndex": 348,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 348,
+                    "startIndex": 256,
+                    "textRun": {
+                        "content": "\u2022\tRepeat it over and over in a rhythmical way. For example, \u201cMy little one, oh little one.\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 256
+    },
+    {
+        "endIndex": 410,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 410,
+                    "startIndex": 348,
+                    "textRun": {
+                        "content": "\u2022\tSing the same song regularly so your child gets used to it!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 348
+    },
+    {
+        "endIndex": 432,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 432,
+                    "startIndex": 410,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.gj0x7b2jnr8z",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 410
+    },
+    {
+        "endIndex": 435,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 435,
+                    "startIndex": 432,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.rpbqh3tcai5h",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 432
+    },
+    {
+        "endIndex": 472,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 472,
+                    "startIndex": 435,
+                    "textRun": {
+                        "content": "28ea2327-d2c6-40be-8ead-528e9bc685bf\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 435
+    },
+    {
+        "endIndex": 486,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 486,
+                    "startIndex": 472,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.67w10amjck1a",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 472
+    },
+    {
+        "endIndex": 488,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 488,
+                    "startIndex": 486,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 486
+    }
+]

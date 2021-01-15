@@ -1,0 +1,299 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 51,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 51,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Active - Name that tune\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.iu3dyaqyx8q0",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 59,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 59,
+                    "startIndex": 51,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.9rk5tus8wv",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 51
+    },
+    {
+        "endIndex": 77,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 77,
+                    "startIndex": 59,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.k7pcwykzharw",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 59
+    },
+    {
+        "endIndex": 85,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 85,
+                    "startIndex": 77,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.f0eu01lk0ei0",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 77
+    },
+    {
+        "endIndex": 100,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 100,
+                    "startIndex": 85,
+                    "textRun": {
+                        "content": "Name that tune\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 85
+    },
+    {
+        "endIndex": 146,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 146,
+                    "startIndex": 100,
+                    "textRun": {
+                        "content": "\u2022\tFirst person gets to choose or sing a song.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 100
+    },
+    {
+        "endIndex": 241,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 241,
+                    "startIndex": 146,
+                    "textRun": {
+                        "content": "\u2022\tEveryone else must guess the name of the tune (to make it harder they can guess the singer).\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 146
+    },
+    {
+        "endIndex": 338,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 338,
+                    "startIndex": 241,
+                    "textRun": {
+                        "content": "\u2022\tThe first one to guess it right becomes the next leader who will choose or sing the next song.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 241
+    },
+    {
+        "endIndex": 360,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 360,
+                    "startIndex": 338,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.37s42y1uu32c",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 338
+    },
+    {
+        "endIndex": 363,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 363,
+                    "startIndex": 360,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.1vszz1wpk0r3",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 360
+    },
+    {
+        "endIndex": 400,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 400,
+                    "startIndex": 363,
+                    "textRun": {
+                        "content": "c5dd3d5e-298e-454c-8ff0-cdb5d94d559c\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 363
+    },
+    {
+        "endIndex": 414,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 414,
+                    "startIndex": 400,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.sk2p6nuv5jd6",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 400
+    },
+    {
+        "endIndex": 416,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 416,
+                    "startIndex": 414,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 414
+    }
+]

@@ -1,0 +1,379 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 55,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 55,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Active - What are you doing\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.gzs7u9r0arme",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 63,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 63,
+                    "startIndex": 55,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ne8tjb7vb658",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 55
+    },
+    {
+        "endIndex": 81,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 81,
+                    "startIndex": 63,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.24o1awelo08j",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 63
+    },
+    {
+        "endIndex": 89,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 89,
+                    "startIndex": 81,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.j6qpse2w3749",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 81
+    },
+    {
+        "endIndex": 110,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 110,
+                    "startIndex": 89,
+                    "textRun": {
+                        "content": "What Are You Doing? \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 89
+    },
+    {
+        "endIndex": 160,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 160,
+                    "startIndex": 110,
+                    "textRun": {
+                        "content": "\u2022\tThis game is best when more than 2 people play.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 110
+    },
+    {
+        "endIndex": 234,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 234,
+                    "startIndex": 160,
+                    "textRun": {
+                        "content": "\u2022\tOne person pretends to be doing something \u2013 for example, combing hair. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 160
+    },
+    {
+        "endIndex": 280,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 280,
+                    "startIndex": 234,
+                    "textRun": {
+                        "content": "\u2022\tA second person asks, \u201cWhat are you doing?\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 234
+    },
+    {
+        "endIndex": 397,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 397,
+                    "startIndex": 280,
+                    "textRun": {
+                        "content": "\u2022\tThe first person needs to say something that has nothing to do with combing hair, for example, \u201cTying my shoes.\u201d  \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 280
+    },
+    {
+        "endIndex": 507,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 507,
+                    "startIndex": 397,
+                    "textRun": {
+                        "content": "\u2022\tThe second person then starts pretending to tie their shoes until a new person asks, \u201cWhat are you doing?\u201d \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 397
+    },
+    {
+        "endIndex": 606,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 606,
+                    "startIndex": 507,
+                    "textRun": {
+                        "content": "\u2022\tThe second person\u2019s answer must always be something different from what they are actually doing!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 507
+    },
+    {
+        "endIndex": 774,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 774,
+                    "startIndex": 606,
+                    "textRun": {
+                        "content": "The next person should act out the second person\u2019s answer and when someone asks what they are doing, their answer must be different from what they are actually doing! \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 606
+    },
+    {
+        "endIndex": 796,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 796,
+                    "startIndex": 774,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.a4f8xkydxa79",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 774
+    },
+    {
+        "endIndex": 799,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 799,
+                    "startIndex": 796,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.3cqhxpifihfh",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 796
+    },
+    {
+        "endIndex": 836,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 836,
+                    "startIndex": 799,
+                    "textRun": {
+                        "content": "1832c2d6-ac6b-471d-867e-96fec1c5a2dd\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 799
+    },
+    {
+        "endIndex": 850,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 850,
+                    "startIndex": 836,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.4btm6euu2cc2",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 836
+    },
+    {
+        "endIndex": 852,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 852,
+                    "startIndex": 850,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 850
+    }
+]

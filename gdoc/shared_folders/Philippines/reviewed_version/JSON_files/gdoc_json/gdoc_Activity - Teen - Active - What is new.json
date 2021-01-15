@@ -1,0 +1,299 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 47,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 47,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Teen - Active - What is new\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.jgtnakkml90z",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 55,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 55,
+                    "startIndex": 47,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.rdlydk2f10ox",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 47
+    },
+    {
+        "endIndex": 73,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 73,
+                    "startIndex": 55,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.edl1bfdrv1au",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 55
+    },
+    {
+        "endIndex": 81,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 81,
+                    "startIndex": 73,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.w101x9cvldoc",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 73
+    },
+    {
+        "endIndex": 93,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 93,
+                    "startIndex": 81,
+                    "textRun": {
+                        "content": "What\u2019s new?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 81
+    },
+    {
+        "endIndex": 271,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 271,
+                    "startIndex": 93,
+                    "textRun": {
+                        "content": "\u2022\tThink of a new skill you could learn together with your teen. For example, keeping a ball in the air or your foot, juggling, learning a new language, or playing an instrument?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 93
+    },
+    {
+        "endIndex": 313,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 313,
+                    "startIndex": 271,
+                    "textRun": {
+                        "content": "\u2022\tTake turns in trying the new skill out.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 271
+    },
+    {
+        "endIndex": 383,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 383,
+                    "startIndex": 313,
+                    "textRun": {
+                        "content": "\u2022\tMake sure to praise each other, and try to learn and play together!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 313
+    },
+    {
+        "endIndex": 405,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 405,
+                    "startIndex": 383,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.dxag6h1jgilp",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 383
+    },
+    {
+        "endIndex": 408,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 408,
+                    "startIndex": 405,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.r3qmralw6fny",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 405
+    },
+    {
+        "endIndex": 445,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 445,
+                    "startIndex": 408,
+                    "textRun": {
+                        "content": "c60e37aa-13fb-4d19-87cc-6a93544b1418\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 408
+    },
+    {
+        "endIndex": 459,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 459,
+                    "startIndex": 445,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.7o0pu4rnfl9",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 445
+    },
+    {
+        "endIndex": 461,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 461,
+                    "startIndex": 459,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 459
+    }
+]

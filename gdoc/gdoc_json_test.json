@@ -1,0 +1,1743 @@
+[
+    {
+        "endIndex": 42,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 42,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Content - Positive - Book sharing\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.a50dvnswf2g9",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 50,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 50,
+                    "startIndex": 42,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.dxuvroavr7nx",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 42
+    },
+    {
+        "endIndex": 81,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 81,
+                    "startIndex": 50,
+                    "textRun": {
+                        "content": "Introduction for timed content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.2kfd6ohnfoz8",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 50
+    },
+    {
+        "endIndex": 89,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 89,
+                    "startIndex": 81,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.56jndft8anco",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 81
+    },
+    {
+        "endIndex": 268,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 268,
+                    "startIndex": 89,
+                    "textRun": {
+                        "content": "Hello! Book-sharing can be a great learning for your child. You can use simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 89
+    },
+    {
+        "endIndex": 288,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 288,
+                    "startIndex": 268,
+                    "textRun": {
+                        "content": "Interaction message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.cdo99ofjlxmv",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 268
+    },
+    {
+        "endIndex": 381,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 381,
+                    "startIndex": 288,
+                    "textRun": {
+                        "content": "Would you like to learn more about how you can help your child develop through book sharing?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 288
+    },
+    {
+        "endIndex": 422,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 422,
+                    "startIndex": 381,
+                    "textRun": {
+                        "content": "Interaction message if already completed\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.cyg4w7q8bbdb",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 381
+    },
+    {
+        "endIndex": 517,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 517,
+                    "startIndex": 422,
+                    "textRun": {
+                        "content": "We know that you have already received this tip (well done!). Would like to review them again?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 422
+    },
+    {
+        "endIndex": 545,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 545,
+                    "startIndex": 517,
+                    "textRun": {
+                        "content": "Message for negative answer\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.cfg05i2i0kin",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 517
+    },
+    {
+        "endIndex": 659,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 659,
+                    "startIndex": 545,
+                    "textRun": {
+                        "content": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 545
+    },
+    {
+        "endIndex": 680,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 680,
+                    "startIndex": 659,
+                    "textRun": {
+                        "content": "Default introduction\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.sv97xlqcelmq",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 659
+    },
+    {
+        "endIndex": 688,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 688,
+                    "startIndex": 680,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.zdu4am2z9c67",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 680
+    },
+    {
+        "endIndex": 860,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 860,
+                    "startIndex": 688,
+                    "textRun": {
+                        "content": "Book-sharing can be a great learning for your child. You can use simple pictures in books, magazines, or newspapers to do lots of things that you and your child can enjoy.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 688
+    },
+    {
+        "endIndex": 880,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 880,
+                    "startIndex": 860,
+                    "textRun": {
+                        "content": "Interaction message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.q5jz1we3lyqq",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 860
+    },
+    {
+        "endIndex": 973,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 973,
+                    "startIndex": 880,
+                    "textRun": {
+                        "content": "Would you like to learn more about how you can help your child develop through book sharing?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 880
+    },
+    {
+        "endIndex": 1001,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1001,
+                    "startIndex": 973,
+                    "textRun": {
+                        "content": "Message for negative answer\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.lbgykugwaaon",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 973
+    },
+    {
+        "endIndex": 1115,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1115,
+                    "startIndex": 1001,
+                    "textRun": {
+                        "content": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1001
+    },
+    {
+        "endIndex": 1121,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1121,
+                    "startIndex": 1115,
+                    "textRun": {
+                        "content": "Media\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ijk5el1dyesu",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 1115
+    },
+    {
+        "endIndex": 1127,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1127,
+                    "startIndex": 1121,
+                    "textRun": {
+                        "content": "Video\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.a81c02lnp37h",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 1121
+    },
+    {
+        "endIndex": 1132,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1132,
+                    "startIndex": 1127,
+                    "textRun": {
+                        "content": "Text\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.w3bdtnn8a60y",
+                "namedStyleType": "HEADING_5"
+            }
+        },
+        "startIndex": 1127
+    },
+    {
+        "endIndex": 1201,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1201,
+                    "startIndex": 1132,
+                    "textRun": {
+                        "content": "Here's a video to take you through the shared book reading activity!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1132
+    },
+    {
+        "endIndex": 1206,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1206,
+                    "startIndex": 1201,
+                    "textRun": {
+                        "content": "Link\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.xxrvn9sb600s",
+                "namedStyleType": "HEADING_5"
+            }
+        },
+        "startIndex": 1201
+    },
+    {
+        "endIndex": 1355,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1355,
+                    "startIndex": 1206,
+                    "textRun": {
+                        "content": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Shared_Book_Reading.m4v\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1206
+    },
+    {
+        "endIndex": 1368,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1368,
+                    "startIndex": 1355,
+                    "textRun": {
+                        "content": "List of tips\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ku0bzd5c2qfd",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 1355
+    },
+    {
+        "endIndex": 1376,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1376,
+                    "startIndex": 1368,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.86733ob1z1hs",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 1368
+    },
+    {
+        "endIndex": 1430,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1430,
+                    "startIndex": 1376,
+                    "textRun": {
+                        "content": "Here are some tips for sharing books with your child:\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1376
+    },
+    {
+        "endIndex": 1431,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1431,
+                    "startIndex": 1430,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1430
+    },
+    {
+        "endIndex": 1470,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1470,
+                    "startIndex": 1431,
+                    "textRun": {
+                        "content": "Option 1: Follow your child's interest\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.19cn5sf2om4i",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 1431
+    },
+    {
+        "endIndex": 1478,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1478,
+                    "startIndex": 1470,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.9474491x9wuq",
+                "namedStyleType": "HEADING_5"
+            }
+        },
+        "startIndex": 1470
+    },
+    {
+        "endIndex": 1510,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1510,
+                    "startIndex": 1478,
+                    "textRun": {
+                        "content": "1. Follow your child\u2019s interest\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1478
+    },
+    {
+        "endIndex": 1698,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1698,
+                    "startIndex": 1510,
+                    "textRun": {
+                        "content": "Talk about what interests your child. When your child shows interest in a picture (pointing, patting, looking), use this as a chance to talk about what has attracted your child\u2019s interest\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1510
+    },
+    {
+        "endIndex": 1733,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1714,
+                    "startIndex": 1698,
+                    "textRun": {
+                        "content": "Option 2: Use a ",
+                        "textStyle": {}
+                    }
+                },
+                {
+                    "endIndex": 1720,
+                    "startIndex": 1714,
+                    "textRun": {
+                        "content": "lively",
+                        "suggestedInsertionIds": [
+                            "suggest.i0oz8qetdxcy"
+                        ],
+                        "textStyle": {}
+                    }
+                },
+                {
+                    "endIndex": 1727,
+                    "startIndex": 1720,
+                    "textRun": {
+                        "content": "lifely ",
+                        "suggestedDeletionIds": [
+                            "suggest.i0oz8qetdxcy"
+                        ],
+                        "textStyle": {}
+                    }
+                },
+                {
+                    "endIndex": 1733,
+                    "startIndex": 1727,
+                    "textRun": {
+                        "content": "voice\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.98k5q8zggk8s",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 1698
+    },
+    {
+        "endIndex": 1741,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1741,
+                    "startIndex": 1733,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.7w8g9p3c6kb7",
+                "namedStyleType": "HEADING_5"
+            }
+        },
+        "startIndex": 1733
+    },
+    {
+        "endIndex": 1763,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1763,
+                    "startIndex": 1741,
+                    "textRun": {
+                        "content": "2. Use a lively voice\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1741
+    },
+    {
+        "endIndex": 1860,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1860,
+                    "startIndex": 1763,
+                    "textRun": {
+                        "content": "Speak with a lively or animated voice. This will help to keep the child\u2019s attention on the book.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1763
+    },
+    {
+        "endIndex": 1890,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1890,
+                    "startIndex": 1860,
+                    "textRun": {
+                        "content": "Option 3: Pointing and naming\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.qtkxvrhp5ige",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 1860
+    },
+    {
+        "endIndex": 1900,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1900,
+                    "startIndex": 1890,
+                    "textRun": {
+                        "content": "Message 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.b8bf3cexjcja",
+                "namedStyleType": "HEADING_5"
+            }
+        },
+        "startIndex": 1890
+    },
+    {
+        "endIndex": 1923,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 1923,
+                    "startIndex": 1900,
+                    "textRun": {
+                        "content": "3. Pointing and naming\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1900
+    },
+    {
+        "endIndex": 2148,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2148,
+                    "startIndex": 1923,
+                    "textRun": {
+                        "content": "Pointing to and naming an object or person in the book will help your child learn new words. Children learn through repetition, so repeat the word and look for other opportunities to use the word (in the book or elsewhere). \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1923
+    },
+    {
+        "endIndex": 2158,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2158,
+                    "startIndex": 2148,
+                    "textRun": {
+                        "content": "Message 2\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.9t4xwysezprs",
+                "namedStyleType": "HEADING_5"
+            }
+        },
+        "startIndex": 2148
+    },
+    {
+        "endIndex": 2290,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2290,
+                    "startIndex": 2158,
+                    "textRun": {
+                        "content": "If your child knows a word and can say that word, ask \u201cWhat\u2019s that?\u201d and give them the opportunity to say the word and point to it.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 2158
+    },
+    {
+        "endIndex": 2327,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2327,
+                    "startIndex": 2290,
+                    "textRun": {
+                        "content": "Option 4: Be positive and supportive\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.cdjgu5xksvie",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 2290
+    },
+    {
+        "endIndex": 2335,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2335,
+                    "startIndex": 2327,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.vi42j3aa3bz3",
+                "namedStyleType": "HEADING_5"
+            }
+        },
+        "startIndex": 2327
+    },
+    {
+        "endIndex": 2365,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2365,
+                    "startIndex": 2335,
+                    "textRun": {
+                        "content": "4. Be positive and supportive\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 2335
+    },
+    {
+        "endIndex": 2584,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2482,
+                    "startIndex": 2365,
+                    "textRun": {
+                        "content": "Always respond positively to whatever your child says about the pictures. For example, if your child points to a red ",
+                        "textStyle": {}
+                    }
+                },
+                {
+                    "endIndex": 2488,
+                    "startIndex": 2482,
+                    "textRun": {
+                        "content": "tomato",
+                        "suggestedInsertionIds": [
+                            "suggest.4ujld1hp98c"
+                        ],
+                        "textStyle": {}
+                    }
+                },
+                {
+                    "endIndex": 2493,
+                    "startIndex": 2488,
+                    "textRun": {
+                        "content": "apple",
+                        "suggestedDeletionIds": [
+                            "suggest.4ujld1hp98c"
+                        ],
+                        "textStyle": {}
+                    }
+                },
+                {
+                    "endIndex": 2504,
+                    "startIndex": 2493,
+                    "textRun": {
+                        "content": " and says \u201c",
+                        "textStyle": {}
+                    }
+                },
+                {
+                    "endIndex": 2509,
+                    "startIndex": 2504,
+                    "textRun": {
+                        "content": "apple",
+                        "suggestedInsertionIds": [
+                            "suggest.cjqlbqhuitbk"
+                        ],
+                        "textStyle": {}
+                    }
+                },
+                {
+                    "endIndex": 2515,
+                    "startIndex": 2509,
+                    "textRun": {
+                        "content": "Tomato",
+                        "suggestedDeletionIds": [
+                            "suggest.cjqlbqhuitbk"
+                        ],
+                        "textStyle": {}
+                    }
+                },
+                {
+                    "endIndex": 2567,
+                    "startIndex": 2515,
+                    "textRun": {
+                        "content": "\u201d, you can say \u201cYes, you\u2019re right, it\u2019s red - it's a",
+                        "textStyle": {}
+                    }
+                },
+                {
+                    "endIndex": 2574,
+                    "startIndex": 2567,
+                    "textRun": {
+                        "content": " tomato",
+                        "suggestedInsertionIds": [
+                            "suggest.5kvhedvejz3z"
+                        ],
+                        "textStyle": {}
+                    }
+                },
+                {
+                    "endIndex": 2581,
+                    "startIndex": 2574,
+                    "textRun": {
+                        "content": "n apple",
+                        "suggestedDeletionIds": [
+                            "suggest.5kvhedvejz3z"
+                        ],
+                        "textStyle": {}
+                    }
+                },
+                {
+                    "endIndex": 2584,
+                    "startIndex": 2581,
+                    "textRun": {
+                        "content": "!\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 2365
+    },
+    {
+        "endIndex": 2619,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2619,
+                    "startIndex": 2584,
+                    "textRun": {
+                        "content": "Option 5: Making actions and links\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.h36my58ncgw8",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 2584
+    },
+    {
+        "endIndex": 2627,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2627,
+                    "startIndex": 2619,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.obrimdthzmtg",
+                "namedStyleType": "HEADING_5"
+            }
+        },
+        "startIndex": 2619
+    },
+    {
+        "endIndex": 2655,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2655,
+                    "startIndex": 2627,
+                    "textRun": {
+                        "content": "5. Making actions and links\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 2627
+    },
+    {
+        "endIndex": 2897,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2897,
+                    "startIndex": 2655,
+                    "textRun": {
+                        "content": "Connect things in the book with familiar things in your child\u2019s world. For example, if the baby in the book is wearing shoes, ask your child to point out their own shoes. If someone in the book is waving, you and your child can do the same. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 2655
+    },
+    {
+        "endIndex": 2930,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2930,
+                    "startIndex": 2897,
+                    "textRun": {
+                        "content": "Option 6: Talking about feelings\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.h4kn6t9e419l",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 2897
+    },
+    {
+        "endIndex": 2940,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2940,
+                    "startIndex": 2930,
+                    "textRun": {
+                        "content": "Message 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.s9fjituzijlb",
+                "namedStyleType": "HEADING_5"
+            }
+        },
+        "startIndex": 2930
+    },
+    {
+        "endIndex": 2966,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2966,
+                    "startIndex": 2940,
+                    "textRun": {
+                        "content": "6. Talking about feelings\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 2940
+    },
+    {
+        "endIndex": 3266,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 3266,
+                    "startIndex": 2966,
+                    "textRun": {
+                        "content": "Books are a great way for children to learn more about feelings. You can use your face and voice to help them understand emotion words like happy, sad, angry, or scared. You can use what is happening in the book to talk about your child\u2019s own feelings, and why other people might feel a certain way.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 2966
+    },
+    {
+        "endIndex": 3276,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 3276,
+                    "startIndex": 3266,
+                    "textRun": {
+                        "content": "Message 2\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.kqj89zine3j7",
+                "namedStyleType": "HEADING_5"
+            }
+        },
+        "startIndex": 3266
+    },
+    {
+        "endIndex": 3301,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 3301,
+                    "startIndex": 3276,
+                    "textRun": {
+                        "content": "Here are some examples! \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 3276
+    },
+    {
+        "endIndex": 3385,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 3385,
+                    "startIndex": 3301,
+                    "textRun": {
+                        "content": "\u201cLook, she is smiling. Why do you think she is smiling? What made you smile today?\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 3301
+    },
+    {
+        "endIndex": 3476,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 3476,
+                    "startIndex": 3385,
+                    "textRun": {
+                        "content": "\u201cThe monkey is sad because he is all on his own. Can you remember when you were last sad?\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 3385
+    },
+    {
+        "endIndex": 3580,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 3580,
+                    "startIndex": 3476,
+                    "textRun": {
+                        "content": "\u201cThat tiger looks angry. Why do you think he is angry? Do you remember when I got angry this morning?\u201d \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 3476
+    },
+    {
+        "endIndex": 3624,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 3624,
+                    "startIndex": 3580,
+                    "textRun": {
+                        "content": "Option 7: Babies and books go well together\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.mq7aoo5lwrfb",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 3580
+    },
+    {
+        "endIndex": 3634,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 3634,
+                    "startIndex": 3624,
+                    "textRun": {
+                        "content": "Message 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ew1wfaoc1jpu",
+                "namedStyleType": "HEADING_5"
+            }
+        },
+        "startIndex": 3624
+    },
+    {
+        "endIndex": 3655,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 3655,
+                    "startIndex": 3634,
+                    "textRun": {
+                        "content": "7. Babies and Books!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 3634
+    },
+    {
+        "endIndex": 3907,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 3907,
+                    "startIndex": 3655,
+                    "textRun": {
+                        "content": "Even very young babies enjoy book-sharing and looking at the pictures together with a parent or caregiver. In fact, regular book-sharing helps their development and learning. And it is okay for them to put the book in their mouth - they are exploring!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 3655
+    },
+    {
+        "endIndex": 3917,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 3917,
+                    "startIndex": 3907,
+                    "textRun": {
+                        "content": "Message 2\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.3fryydshr1f3",
+                "namedStyleType": "HEADING_5"
+            }
+        },
+        "startIndex": 3907
+    },
+    {
+        "endIndex": 4145,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4145,
+                    "startIndex": 3917,
+                    "textRun": {
+                        "content": "You can use books and stories to help talk with children about topics related to COVID-19 (such as getting sick, not going to school or work, staying indoors, feeling worried) and help them think about how this makes them feel.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 3917
+    },
+    {
+        "endIndex": 4178,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4178,
+                    "startIndex": 4145,
+                    "textRun": {
+                        "content": "Message for choosing another tip\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.m3amr86appop",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 4145
+    },
+    {
+        "endIndex": 4270,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4270,
+                    "startIndex": 4178,
+                    "textRun": {
+                        "content": "Please select another number if you want to learn more about sharing books with your child:\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 4178
+    },
+    {
+        "endIndex": 4271,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4271,
+                    "startIndex": 4270,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 4270
+    },
+    {
+        "endIndex": 4272,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4272,
+                    "startIndex": 4271,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 4271
+    },
+    {
+        "endIndex": 4290,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4290,
+                    "startIndex": 4272,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.1c8ue0b0nlbw",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 4272
+    },
+    {
+        "endIndex": 4298,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4298,
+                    "startIndex": 4290,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.htipujhqm8fj",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 4290
+    },
+    {
+        "endIndex": 4570,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4570,
+                    "startIndex": 4298,
+                    "textRun": {
+                        "content": "Well done! You have added another tool to your Parenting Toolbox! Sharing books with your child will help them to learn to speak, think and focus better. It will also help them to get along with others better, by helping them understand about feelings. Chat to you later!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 4298
+    },
+    {
+        "endIndex": 4592,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4592,
+                    "startIndex": 4570,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.r43rnk7npf6o",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 4570
+    },
+    {
+        "endIndex": 4601,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4601,
+                    "startIndex": 4592,
+                    "textRun": {
+                        "content": "Id intro\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.qv7vgxwylogp",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 4592
+    },
+    {
+        "endIndex": 4638,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4638,
+                    "startIndex": 4601,
+                    "textRun": {
+                        "content": "fc8f073e-1543-44d2-aa56-4489ea354dcc\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 4601
+    },
+    {
+        "endIndex": 4645,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4645,
+                    "startIndex": 4638,
+                    "textRun": {
+                        "content": "Id tip\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.5rrzdk1hkq5x",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 4638
+    },
+    {
+        "endIndex": 4682,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4682,
+                    "startIndex": 4645,
+                    "textRun": {
+                        "content": "9f5e3722-b6b8-4382-b06c-873c965b3414\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 4645
+    },
+    {
+        "endIndex": 4696,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4696,
+                    "startIndex": 4682,
+                    "textRun": {
+                        "content": "Template type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.fzkanc4g17eg",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 4682
+    },
+    {
+        "endIndex": 4698,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 4698,
+                    "startIndex": 4696,
+                    "textRun": {
+                        "content": "2\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 4696
+    }
+]

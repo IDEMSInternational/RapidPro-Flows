@@ -1,0 +1,359 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 40,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 40,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Teen - Calm - Mirror\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.kqc00ybiy3vb",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 48,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 48,
+                    "startIndex": 40,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.wiegze2bqt89",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 40
+    },
+    {
+        "endIndex": 66,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 66,
+                    "startIndex": 48,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.f3on5pqxnmhs",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 48
+    },
+    {
+        "endIndex": 74,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 74,
+                    "startIndex": 66,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.2l44x93cf2wt",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 66
+    },
+    {
+        "endIndex": 81,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 81,
+                    "startIndex": 74,
+                    "textRun": {
+                        "content": "Mirror\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 74
+    },
+    {
+        "endIndex": 136,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 136,
+                    "startIndex": 81,
+                    "textRun": {
+                        "content": "\u2022\tThis game can be played in pairs or even as a group.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 81
+    },
+    {
+        "endIndex": 180,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 180,
+                    "startIndex": 136,
+                    "textRun": {
+                        "content": "\u2022\tStand facing each other or in a circle.  \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 136
+    },
+    {
+        "endIndex": 291,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 291,
+                    "startIndex": 180,
+                    "textRun": {
+                        "content": "\u2022\tOne person leads first while everyone else must copy, trying to move exactly at the same time as the leader.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 180
+    },
+    {
+        "endIndex": 419,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 419,
+                    "startIndex": 291,
+                    "textRun": {
+                        "content": "\u2022\tMake sure the leader moves slowly enough for everyone to follow! Explore moving different body parts and in different levels.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 291
+    },
+    {
+        "endIndex": 491,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 491,
+                    "startIndex": 419,
+                    "textRun": {
+                        "content": "\u2022\tAfter a while, switch who is leading. Give everyone a chance to lead.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 419
+    },
+    {
+        "endIndex": 517,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 517,
+                    "startIndex": 491,
+                    "textRun": {
+                        "content": "\u2022\tTry it with no leaders!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 491
+    },
+    {
+        "endIndex": 539,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 539,
+                    "startIndex": 517,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.7p4g6ubbejlr",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 517
+    },
+    {
+        "endIndex": 542,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 542,
+                    "startIndex": 539,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.x0l09wx49u",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 539
+    },
+    {
+        "endIndex": 579,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 579,
+                    "startIndex": 542,
+                    "textRun": {
+                        "content": "3d3cbf97-50b4-4021-b9cb-767e29e1b5e0\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 542
+    },
+    {
+        "endIndex": 593,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 593,
+                    "startIndex": 579,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.p60afphm71qt",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 579
+    },
+    {
+        "endIndex": 595,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 595,
+                    "startIndex": 593,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 593
+    }
+]

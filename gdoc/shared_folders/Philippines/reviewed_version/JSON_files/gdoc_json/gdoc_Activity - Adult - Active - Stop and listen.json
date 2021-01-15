@@ -1,0 +1,339 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 52,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 52,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Adult - Active - Stop and listen\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.2k93p9px6ioe",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 60,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 60,
+                    "startIndex": 52,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.2jv4o2m01hc",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 52
+    },
+    {
+        "endIndex": 78,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 78,
+                    "startIndex": 60,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.hrs2yeqygjwr",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 60
+    },
+    {
+        "endIndex": 86,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 86,
+                    "startIndex": 78,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.h6h3f1qmfrlh",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 78
+    },
+    {
+        "endIndex": 100,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 100,
+                    "startIndex": 86,
+                    "textRun": {
+                        "content": "Stop & Listen\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 86
+    },
+    {
+        "endIndex": 142,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 142,
+                    "startIndex": 100,
+                    "textRun": {
+                        "content": "\u2022 Stop for a moment and close your eyes. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 100
+    },
+    {
+        "endIndex": 271,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 271,
+                    "startIndex": 142,
+                    "textRun": {
+                        "content": "\u2022 How many sounds can you hear? Listen to sounds inside and outside the room. Count them on your fingers. (Pause for 10 seconds)\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 142
+    },
+    {
+        "endIndex": 333,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 333,
+                    "startIndex": 271,
+                    "textRun": {
+                        "content": "\u2022 How many fingers do you have up? What sounds did you hear? \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 271
+    },
+    {
+        "endIndex": 460,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 460,
+                    "startIndex": 333,
+                    "textRun": {
+                        "content": "\u2022 Let\u2019s try again. Can you hear any new sounds this time? Can you hear any sounds inside your own body? (Pause for 10 seconds)\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 333
+    },
+    {
+        "endIndex": 508,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 508,
+                    "startIndex": 460,
+                    "textRun": {
+                        "content": "\u2022 Open your eyes. What new sounds did you hear?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 460
+    },
+    {
+        "endIndex": 530,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 530,
+                    "startIndex": 508,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.x4pglxtev27t",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 508
+    },
+    {
+        "endIndex": 533,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 533,
+                    "startIndex": 530,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.5kzuxnbw6mti",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 530
+    },
+    {
+        "endIndex": 570,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 570,
+                    "startIndex": 533,
+                    "textRun": {
+                        "content": "693b004b-5a6c-4bf3-a78a-18935d10f4f2\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 533
+    },
+    {
+        "endIndex": 584,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 584,
+                    "startIndex": 570,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.gk0omnq04fvo",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 570
+    },
+    {
+        "endIndex": 586,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 586,
+                    "startIndex": 584,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 584
+    }
+]

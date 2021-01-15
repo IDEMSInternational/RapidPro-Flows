@@ -1,0 +1,88 @@
+category,subcategory,name,specification,text message,option 1,option 2,option 3,option 4,option 5,option 6,option 7,option 8,option 9,option 10,name of flow,flow id,node id
+Picker,Choose difficult age,,,Which child do you want tips for?,Baby,Other,,,,,,,,,PLH - Picker - Choose difficult age,08a07538-ab2a-49ae-883c-f98b2a2862d0,5950b09d-bd3b-43cd-8f1d-a29590bd43ed
+Picker,Choose difficult age,,,Which child do you want tips for?,Baby,Teen,Other,,,,,,,,PLH - Picker - Choose difficult age,08a07538-ab2a-49ae-883c-f98b2a2862d0,5eeff88e-7054-4d00-9f67-3fa58ec8e60b
+Picker,Choose difficult age,,,Which child do you want tips for?,Teen,Other,,,,,,,,,PLH - Picker - Choose difficult age,08a07538-ab2a-49ae-883c-f98b2a2862d0,2ae8d71a-0b80-45f4-bacc-687cf2fd53c1
+Picker,Choose difficult age,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Picker - Choose difficult age,08a07538-ab2a-49ae-883c-f98b2a2862d0,6c693f8d-afd4-4fd1-a2d1-f689851f8f07
+Picker,Choose difficult age,,,Which child do you want tips for?,Young child,Other,,,,,,,,,PLH - Picker - Choose difficult age,08a07538-ab2a-49ae-883c-f98b2a2862d0,ed5cc7d0-d4da-46d7-a3db-478589ef75e1
+Picker,Choose difficult age,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Picker - Choose difficult age,08a07538-ab2a-49ae-883c-f98b2a2862d0,ac601d90-cf51-4fd9-b3a0-fa60fa5de484
+Picker,Choose difficult age,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Picker - Choose difficult age,08a07538-ab2a-49ae-883c-f98b2a2862d0,062d8802-d8da-4695-bd0c-20da4eb794ea
+Picker,Choose difficult age,,,Which child do you want tips for?,Young child,Teen,Other,,,,,,,,PLH - Picker - Choose difficult age,08a07538-ab2a-49ae-883c-f98b2a2862d0,584c326e-60c0-4b05-a194-82796184e84b
+Picker,Choose difficult age,,,Which child do you want tips for?,Baby,Young child,Teen,,,,,,,,PLH - Picker - Choose difficult age,08a07538-ab2a-49ae-883c-f98b2a2862d0,53d7524a-ddd2-4d80-a6bc-98dd119725e7
+Picker,Choose difficult age,,,Which child do you want tips for?,Baby,Young child,Other,,,,,,,,PLH - Picker - Choose difficult age,08a07538-ab2a-49ae-883c-f98b2a2862d0,5f111dd2-c74e-4baa-82bd-f245c273433c
+Picker,Choose difficult age,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Picker - Choose difficult age,08a07538-ab2a-49ae-883c-f98b2a2862d0,886be1f4-b4fe-43d8-b09a-541482b2d623
+Picker,Choose difficult age,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Picker - Choose difficult age,08a07538-ab2a-49ae-883c-f98b2a2862d0,6810b2a9-19d8-412a-8739-53492f652fe8
+Picker,Choose difficult age,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Picker - Choose difficult age,08a07538-ab2a-49ae-883c-f98b2a2862d0,67358472-9ec7-418f-8edc-7d876cb3fa75
+Picker,Choose difficult age,,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Picker - Choose difficult age,08a07538-ab2a-49ae-883c-f98b2a2862d0,0c5d59ad-cc4f-4db2-91b4-27172fbdd860
+Content,Extra,Behave,,There are no bad children...only difficult behaviours! All children misbehave but these tips can help,,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,aa1846c7-2afb-4090-b366-02d952029383
+Content,Extra,Behave,,Which child do you want tips for?,Baby,Young child,Teen,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,caeb3f6e-699c-4294-99ce-b5d88ee4a150
+Content,Extra,Behave,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,fbcfa814-9ed7-41e3-8c9e-f694303da4fb
+Content,Extra,Behave,,"Please select the age of your child:
+A. Under 1 month
+B. 1-2 months
+C. 3-5 months
+D. 6-9 months
+E. 10 -14 months
+F. 15-18 months
+G. 19-23 months",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,0df51860-f586-4b04-ac40-cab245315767
+Content,Extra,Behave,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,5e56e6b6-dc9d-41cb-b787-e5fd96fb76f5
+Content,Extra,Behave,,Which behaviour is most like the one you want support for?,Refuses to obey,Temper tantrums,Disrespectful behaviour,Whining,"Hyperactivity, can’t sit still",Hitting others,Breaking things,Fighting with others,Teasing or bothering others,Does not apply,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,f27ba1c9-96a4-46b9-9c58-04eb9eb9da71
+Content,Extra,Behave,,Which behaviour is most like the one you want support for?,Refuses to obey,Gets angry often,"Rudeness, disrespectful behaviour",Irritable or frequent mood changes,Does not follow rules,Stubbornness,Breaking things,Fighting with others,Teasing or bothering others,Does not apply,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,9c5cffbc-b1be-4463-adc1-595574fd000d
+Content,Extra,Behave,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,e97c904e-44dc-4eb0-9275-c72a48fc56a1
+Content,Extra,Behave,,Which behaviour is most like the one you want support for?,Crying a lot,Problems sleeping,Clingy,Whining,Bad tempered or moody,Problems eating,Stubborn or fussy,Does not apply,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,14a97db7-6022-4257-a509-9c8188dfd63d
+Content,Extra,Behave,,Which behaviour is most like the one you want support for?,Crying a lot,Problems sleeping,Clingy,Whining,Bad tempered or moody,Problems eating,Stubborn or fussy,Naughty behaviour,Temper tantrums,Does not apply,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,a95f646f-0d93-4624-a112-66b94f508462
+Content,Extra,Behave,,Which behaviour is most like the one you want support for?,Crying a lot,Problems sleeping,Clingy,Does not apply,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,b38adc25-5bb5-4abe-8a9a-d30cbbebda6c
+Content,Extra,Behave,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,571517e0-ca85-460e-8535-f6d9f0f4619c
+Content,Extra,Behave,,"Here are 8 simple tips to help you with your teen: 
+1. Keep it positive
+2. Invest in time
+3. Create routines
+4. Be open to your children
+5. Use reasonable consequences
+6. Solve problems with your teen
+7. Keeping your teen safe online
+8. Resolving crises when they happen
+Type ""1"" to ""8"" if you want to learn more about a specific strategy.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,04055b69-b0fd-445e-b7b6-197858574b42
+Content,Extra,Behave,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,d3bf7c72-6710-48c1-a4b7-b58f8268d55b
+Content,Extra,Behave,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,6cf65da7-782d-4f6f-9cde-514bfc37e902
+Content,Extra,Behave,,"Here are 5 simple tips to help you with your babies: 
+1. Play with your baby
+2. Create routines
+3. Share books with your baby
+4. Cope with crying
+5. Redirect them to positive behaviours
+Type ""1"" to ""5"" if you want to learn more about a specific strategy.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,27b3c1e9-0581-44da-a69d-16e7b07b9658
+Content,Extra,Behave,,"Here are 9 simple tips to help you with your children: 
+1. Keep it positive
+2. Invest in time
+3. Create routines
+4. Be open to your children
+5. Redirect them to positive behaviours
+6. Ignore attention seeking and demanding behaviours
+7. Use reasonable consequences
+8. Solving problems with your child
+9. Keeping your child safe online
+Type ""1"" to ""9"" if you want to learn more about a specific strategy.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,7fc26734-ba99-4a47-b56b-c7a53d58e941
+Content,Extra,Behave,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,940f5dbd-6630-4004-8c84-5672183ff28d
+Content,Extra,Behave,,"It can be exhausting when your children have too much energy or can't focus on one thing. Sometimes, your children need opportunities to be very active and run around to help them be calm afterwards. ",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,a455dc0b-a74e-440b-a2c5-4e4c7c0ed011
+Content,Extra,Behave,,Would you like suggestions for active and calm things to do with your child?,Yes,No,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,2bd6f992-ea6a-405b-84f1-77a84a552f8f
+Content,Extra,Behave,,"Sorry, I don't understand what you mean. ",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,5513ca06-76f9-4e65-a6ac-87c328619478
+Content,Extra,Behave,,"That's okay! You can always type ""Help"" if you want to receive more tips about how to manage your child's behaviour.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,cff315ec-e866-4ccc-bf39-8919d22615d6
+Content,Extra,Behave,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,02122550-e3bb-465b-b456-9db5678128bd
+Content,Extra,Behave,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,38347f4e-eeae-4411-a3f7-b8a68e6b3d8e
+Content,Extra,Behave,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,71c4df10-6cf5-4d7b-b038-cc56c0a5e5c7
+Content,Extra,Behave,,"Help your baby learn through play.  Put objects in your baby’s grasping hand, show them different materials, and answer when they ‘talk’ to you. ",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,418a6d4d-172e-4fd7-a7e8-c801df1e2e14
+Content,Extra,Behave,,"Unfortunately, your baby will go through phases for the next 2 years of sleeping poorly. Try wearing your baby close to you, feeding them and carrying them in a sling. And hang in there, remember it’s a phase. You and your baby will get through it together!",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,6ece4928-9a25-4999-bd26-0c2a2bbb79bc
+Content,Extra,Behave,,Your baby will cry as soon as a caregiver’s attention is diverted and are cranky as well as clingy. Prioritise being there for them and give them physical contact when needed.,,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,fd8f47e3-ab7f-4a68-ab8a-83fadec6ab46
+Content,Extra,Behave,,Check to see why your baby is in a bad mood. Are they tired or hungry? Or maybe they are not feeling well? Or maybe they need some more loving attention. Be a reassuring presence for your baby when they are having a difficult day.,,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,80091546-452b-45e1-8a07-71e023ec942f
+Content,Extra,Behave,,"Remember that you’re in charge of what they eat, but not how much. Newborns have stomach the size of a grape! They need to eat often (sometimes in the middle of the night. 
+It’s important to build trust around eating, especially as your baby starts on solid food. Let them know you are listening to their wishes in the eating department. They’ll be ravenous again soon!",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,1d77af12-8d7a-4584-bf23-e663591b8133
+Content,Extra,Behave,,Do you need some ideas of what you can do with your child?,Yes,No,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,d687867c-0a1d-4c27-aa18-98de64756f92
+Content,Extra,Behave,,"Pay close attention to your baby in case they try something dangerous! Just because they are able to play on their own now, doesn’t mean you can look away for long. Redirect mischievous behaviours into practice waving, imitation games, singing and moving games and pretending to talk on the phone!",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,6ee819ce-90c8-4d14-baba-d8ddc3201c23
+Content,Extra,Behave,,Try to stay calm and support your toddler as they move through the tantrum. Your priority is to ensure that they don’t hurt themselves. Don’t add to your child’s anger by shouting and showing angry emotions. This won’t help.,,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,b777ea42-edc3-4117-93fc-0e5d1c24ef29
+Content,Extra,Behave,,"Sorry, I don't understand what you mean. ",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,fea16e06-f915-458b-be57-e9d8b97af0a6
+Content,Extra,Behave,,Babies are much more likely to want to do things if you make the activity fun and playful. Patience is also a must. Take a deep breath if you notice yourself getting frustrated by your baby.,,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,5649922f-a0f6-4cad-a0c5-6e43e5502f9a
+Content,Extra,Behave,,Would you like to learn more about this tip?,Yes,No,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,fa26f57d-f814-4f4e-a5be-e9f7cb76d0ef
+Content,Extra,Behave,,Would you like to learn more about this tip?,Yes,No,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,67a28a23-769c-42ca-b148-9c20f23a9fa6
+Content,Extra,Behave,,"Your baby or toddler may sometimes want something that they cannot have. If they start whining, first check to see if there is something wrong (are they actually hungry or tired)? If they continue, try to redirect their attention to something else. You should also try to ignore their behaviour while attending to them for comfort and support",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,9aaf15ec-f462-4ac6-97fe-d5e714d55e99
+Content,Extra,Behave,,"Sorry, I don't understand what you mean.",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,61b8327b-ba45-46ad-a126-8d73fa08ce2b
+Content,Extra,Behave,,"Sorry, I don't understand what you mean. ",,,,,,,,,,,PLH - Content - Extra - Behave,656f39c7-046b-47b6-b521-1813154eb0dd,aa1b25d6-407b-4919-bdff-81cdb1a7f053

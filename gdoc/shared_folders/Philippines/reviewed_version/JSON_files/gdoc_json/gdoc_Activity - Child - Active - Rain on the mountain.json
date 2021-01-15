@@ -1,0 +1,339 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 57,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 57,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Active - Rain on the mountain\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.xkjqb5kg3nms",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 65,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 65,
+                    "startIndex": 57,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.dos6gdrjxzk5",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 57
+    },
+    {
+        "endIndex": 83,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 83,
+                    "startIndex": 65,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.bvwk9na9delv",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 65
+    },
+    {
+        "endIndex": 91,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 91,
+                    "startIndex": 83,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.gekwe2jaiekf",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 83
+    },
+    {
+        "endIndex": 112,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 112,
+                    "startIndex": 91,
+                    "textRun": {
+                        "content": "Rain on the Mountain\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 91
+    },
+    {
+        "endIndex": 156,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 156,
+                    "startIndex": 112,
+                    "textRun": {
+                        "content": "\u2022\tCall out, \u201cThere\u2019s rain on the mountain.\u201d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 112
+    },
+    {
+        "endIndex": 229,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 229,
+                    "startIndex": 156,
+                    "textRun": {
+                        "content": "\u2022\tEveryone else replies \u201cRun, run, run\u201d while running around the space. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 156
+    },
+    {
+        "endIndex": 317,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 317,
+                    "startIndex": 229,
+                    "textRun": {
+                        "content": "\u2022\tCall out different instructions. For example, touch something red or hop like a frog.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 229
+    },
+    {
+        "endIndex": 372,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 372,
+                    "startIndex": 317,
+                    "textRun": {
+                        "content": "\u2022\tKeep playing and change the instructions each time. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 317
+    },
+    {
+        "endIndex": 439,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 439,
+                    "startIndex": 372,
+                    "textRun": {
+                        "content": "\u2022\tYou can use this as a fun way to learn colours or even tidy up! \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 372
+    },
+    {
+        "endIndex": 461,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 461,
+                    "startIndex": 439,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ari24ino9kuf",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 439
+    },
+    {
+        "endIndex": 464,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 464,
+                    "startIndex": 461,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.kx8jnx8uh41a",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 461
+    },
+    {
+        "endIndex": 501,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 501,
+                    "startIndex": 464,
+                    "textRun": {
+                        "content": "cfaea614-d431-4629-b743-7d0f5f52f434\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 464
+    },
+    {
+        "endIndex": 515,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 515,
+                    "startIndex": 501,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.wa1zqe4zj6bq",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 501
+    },
+    {
+        "endIndex": 517,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 517,
+                    "startIndex": 515,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 515
+    }
+]

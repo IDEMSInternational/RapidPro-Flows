@@ -1,0 +1,339 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 48,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 48,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Child - Active - Superpowers\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.8717ox8w0i20",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 56,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 56,
+                    "startIndex": 48,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.iipnfjyoa6v0",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 48
+    },
+    {
+        "endIndex": 74,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 74,
+                    "startIndex": 56,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.w8allo19lds6",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 56
+    },
+    {
+        "endIndex": 82,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 82,
+                    "startIndex": 74,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.6624a0az1yrq",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 74
+    },
+    {
+        "endIndex": 94,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 94,
+                    "startIndex": 82,
+                    "textRun": {
+                        "content": "Superpowers\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 82
+    },
+    {
+        "endIndex": 194,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 194,
+                    "startIndex": 94,
+                    "textRun": {
+                        "content": "\u2022\tThink of a superpower. For example, going anywhere instantly, travelling in time, reading minds. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 94
+    },
+    {
+        "endIndex": 267,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 267,
+                    "startIndex": 194,
+                    "textRun": {
+                        "content": "\u2022\tAsk your child \u201cIf you had the superpower to [\u2026] how would you use it?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 194
+    },
+    {
+        "endIndex": 337,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 337,
+                    "startIndex": 267,
+                    "textRun": {
+                        "content": "\u2022\tEncourage them to give themselves a superhero name and act it out. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 267
+    },
+    {
+        "endIndex": 382,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 382,
+                    "startIndex": 337,
+                    "textRun": {
+                        "content": "\u2022\tNow let them choose a super power for you!\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 337
+    },
+    {
+        "endIndex": 415,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 415,
+                    "startIndex": 382,
+                    "textRun": {
+                        "content": "\u2022\tMake sure you act it out too! \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 382
+    },
+    {
+        "endIndex": 437,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 437,
+                    "startIndex": 415,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.ocx7ths9lq06",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 415
+    },
+    {
+        "endIndex": 440,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 440,
+                    "startIndex": 437,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.p1rlesv5tem6",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 437
+    },
+    {
+        "endIndex": 477,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 477,
+                    "startIndex": 440,
+                    "textRun": {
+                        "content": "d12d1dd4-42b9-4084-a9e7-a43940bd5105\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 440
+    },
+    {
+        "endIndex": 491,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 491,
+                    "startIndex": 477,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.4o099swy1jn9",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 477
+    },
+    {
+        "endIndex": 493,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 493,
+                    "startIndex": 491,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 491
+    }
+]

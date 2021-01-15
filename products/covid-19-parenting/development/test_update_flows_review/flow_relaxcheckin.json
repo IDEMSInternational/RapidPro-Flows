@@ -1,0 +1,223 @@
+ {
+      "_ui": {
+        "nodes": {
+          "be226084-53bf-4980-b9f8-9bdece479cba": {
+            "position": {
+              "left": 460,
+              "top": 0
+            },
+            "type": "execute_actions"
+          },
+          "fca9d56c-350b-4725-b2bd-2b0463b6c01a": {
+            "config": {
+              "cases": {},
+              "operand": {
+                "id": "type_of_media",
+                "name": "type of media",
+                "type": "field"
+              }
+            },
+            "position": {
+              "left": 440,
+              "top": 260
+            },
+            "type": "split_by_contact_field"
+          },
+          "9845b619-2358-417a-8083-46b4100b3f72": {
+            "position": {
+              "left": 160,
+              "top": 400
+            },
+            "type": "execute_actions"
+          },
+          "d266ee06-bc0a-40d2-abff-4ff229ebccd0": {
+            "position": {
+              "left": 440,
+              "top": 420
+            },
+            "type": "execute_actions"
+          },
+          "0e812181-6519-4e42-99fe-933875e48631": {
+            "position": {
+              "left": 760,
+              "top": 460
+            },
+            "type": "execute_actions"
+          },
+          "cb22661e-3f60-4e66-b887-c505996e46e0": {
+            "position": {
+              "left": 480,
+              "top": 680
+            },
+            "type": "execute_actions"
+          }
+        },
+        "stickies": {}
+      },
+      "expire_after_minutes": 60,
+      "ignore_triggers": true,
+      "language": "eng",
+      "localization": {},
+      "metadata": {
+        "revision": 1
+      },
+      "name": "PLH - Content - Relax - CheckIn - Quick Pause",
+      "nodes": [
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "quick_replies": [],
+              "text": "Hi! How are you feeling right now? Are you feeling stressed and worried? Have you only got 30 seconds? Let's take a quick pause together. It might be helpful.",
+              "type": "send_msg",
+              "uuid": "08b53a0f-5e64-4ab2-a617-12386ed9adb0"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "fca9d56c-350b-4725-b2bd-2b0463b6c01a",
+              "uuid": "be981fb1-9ead-405d-a352-77319e849a8d"
+            }
+          ],
+          "uuid": "be226084-53bf-4980-b9f8-9bdece479cba"
+        },
+        {
+          "actions": [],
+          "exits": [
+            {
+              "destination_uuid": "9845b619-2358-417a-8083-46b4100b3f72",
+              "uuid": "74d3c083-c917-4958-a9ea-6fb0df10aa15"
+            },
+            {
+              "destination_uuid": "d266ee06-bc0a-40d2-abff-4ff229ebccd0",
+              "uuid": "6ba38051-174a-4226-ac44-a8a9b8e5301e"
+            },
+            {
+              "destination_uuid": "0e812181-6519-4e42-99fe-933875e48631",
+              "uuid": "98a66ab5-178a-4566-8ad4-1fb6c82e0332"
+            }
+          ],
+          "router": {
+            "cases": [
+              {
+                "arguments": [
+                  "high"
+                ],
+                "category_uuid": "1fbafcce-9dca-4b31-b4df-f113d601d97e",
+                "type": "has_any_word",
+                "uuid": "681a8be5-5723-47fa-9fd9-bd7db2ee5526"
+              },
+              {
+                "arguments": [
+                  "medium"
+                ],
+                "category_uuid": "3940bcf2-1f57-488c-a57c-1989bff6c5b9",
+                "type": "has_any_word",
+                "uuid": "5c7a75b2-6e2c-4bad-9c69-b8ea9cc2c247"
+              }
+            ],
+            "categories": [
+              {
+                "exit_uuid": "74d3c083-c917-4958-a9ea-6fb0df10aa15",
+                "name": "High",
+                "uuid": "1fbafcce-9dca-4b31-b4df-f113d601d97e"
+              },
+              {
+                "exit_uuid": "6ba38051-174a-4226-ac44-a8a9b8e5301e",
+                "name": "medium",
+                "uuid": "3940bcf2-1f57-488c-a57c-1989bff6c5b9"
+              },
+              {
+                "exit_uuid": "98a66ab5-178a-4566-8ad4-1fb6c82e0332",
+                "name": "Other",
+                "uuid": "1ad9da06-492b-4009-bd6f-98da1f0ec3b9"
+              }
+            ],
+            "default_category_uuid": "1ad9da06-492b-4009-bd6f-98da1f0ec3b9",
+            "operand": "@fields.type_of_media",
+            "type": "switch"
+          },
+          "uuid": "fca9d56c-350b-4725-b2bd-2b0463b6c01a"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [
+                "video:@(fields.video_script_path & \"Short_Pause.m4v\")"
+              ],
+              "quick_replies": [],
+              "text": "Here's a quick video to help you take a pause!",
+              "type": "send_msg",
+              "uuid": "5c09d1da-854a-41b4-aba8-879ee59be18f"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "cb22661e-3f60-4e66-b887-c505996e46e0",
+              "uuid": "d4376422-cbb4-4fa4-8950-53886ca8daea"
+            }
+          ],
+          "uuid": "9845b619-2358-417a-8083-46b4100b3f72"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "text": "Here's an audio message to help you take a pause!",
+              "type": "send_msg",
+              "all_urns": false,
+              "quick_replies": [],
+              "uuid": "7f66e652-448a-4884-89fa-86a55d61b535"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "cb22661e-3f60-4e66-b887-c505996e46e0",
+              "uuid": "dc41f8f2-2297-4914-ba8d-d52706208f83"
+            }
+          ],
+          "uuid": "d266ee06-bc0a-40d2-abff-4ff229ebccd0"
+        },
+        {
+          "actions": [
+            {
+              "attachments": [],
+              "text": "Sit down, close your eyes and listen to your breath as it goes in and out. Notice how you feel. When you are ready open your eyes again. Everything is okay.",
+              "type": "send_msg",
+              "quick_replies": [],
+              "uuid": "eba237a6-06dd-4ccb-bb74-d19825aa26a2"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": "cb22661e-3f60-4e66-b887-c505996e46e0",
+              "uuid": "32bcc401-2072-4816-982f-94aaf5a6ac35"
+            }
+          ],
+          "uuid": "0e812181-6519-4e42-99fe-933875e48631"
+        },
+        {
+          "actions": [
+            {
+              "all_urns": false,
+              "attachments": [],
+              "quick_replies": [],
+              "text": "We hope that was helpful! Remember you can always type \"Help\" at anytime if you need an activity to help you relax or reduce stress. Chat to you later!",
+              "type": "send_msg",
+              "uuid": "2cb3d190-7a41-484d-bfe4-27a61b10a0ab"
+            }
+          ],
+          "exits": [
+            {
+              "destination_uuid": null,
+              "uuid": "2c3d5a6a-342e-48ed-b5f8-80ac7991a9aa"
+            }
+          ],
+          "uuid": "cb22661e-3f60-4e66-b887-c505996e46e0"
+        }
+      ],
+      "spec_version": "13.1.0",
+      "type": "messaging",
+      "uuid": "1703b420-0de3-4b94-9436-000fb192b6c2",
+      "revision": 3
+    }

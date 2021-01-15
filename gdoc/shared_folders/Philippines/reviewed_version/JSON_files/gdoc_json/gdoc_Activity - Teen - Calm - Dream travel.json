@@ -1,0 +1,319 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 46,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 46,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Teen - Calm - Dream travel\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.whku4mci8ygo",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 54,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 54,
+                    "startIndex": 46,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.lqg9tsxkuma4",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 46
+    },
+    {
+        "endIndex": 72,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 72,
+                    "startIndex": 54,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.o71b0bc9dimi",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 54
+    },
+    {
+        "endIndex": 80,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 80,
+                    "startIndex": 72,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.6ti9d3qunf5y",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 72
+    },
+    {
+        "endIndex": 93,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 93,
+                    "startIndex": 80,
+                    "textRun": {
+                        "content": "Dream Travel\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 80
+    },
+    {
+        "endIndex": 162,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 162,
+                    "startIndex": 93,
+                    "textRun": {
+                        "content": "\u2022\tYou can\u2019t travel but you can dream! Ask your teen these questions.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 93
+    },
+    {
+        "endIndex": 277,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 277,
+                    "startIndex": 162,
+                    "textRun": {
+                        "content": "\u2022\tWhere do you want to travel? How long will you be away? What will you pack? What will you do? What will you see?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 162
+    },
+    {
+        "endIndex": 319,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 319,
+                    "startIndex": 277,
+                    "textRun": {
+                        "content": "\u2022\tLook at a map together if you have one.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 277
+    },
+    {
+        "endIndex": 398,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 398,
+                    "startIndex": 319,
+                    "textRun": {
+                        "content": "\u2022\tChoose a country that they\u2019ve never heard of and look it up together online.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 319
+    },
+    {
+        "endIndex": 420,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 420,
+                    "startIndex": 398,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.gw116aqi1h63",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 398
+    },
+    {
+        "endIndex": 423,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 423,
+                    "startIndex": 420,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.zckpgrvqn5nz",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 420
+    },
+    {
+        "endIndex": 460,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 460,
+                    "startIndex": 423,
+                    "textRun": {
+                        "content": "a405c2d3-e738-46fb-aed9-90fd69b26e7d\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 423
+    },
+    {
+        "endIndex": 474,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 474,
+                    "startIndex": 460,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.rm8kx7lvwru3",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 460
+    },
+    {
+        "endIndex": 476,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 476,
+                    "startIndex": 474,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 474
+    }
+]

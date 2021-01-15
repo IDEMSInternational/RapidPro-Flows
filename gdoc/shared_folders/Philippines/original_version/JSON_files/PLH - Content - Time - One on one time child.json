@@ -1,0 +1,62 @@
+{
+  "PLH - Content - Time - One on one time child": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message": "Today's tip is about spending One-on-One Time with Our Children.",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "Invest in One-on-One Time! The more time you spend with your children, the more likely they will listen to you and behave well at other times. It really works!",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour."
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video about spending one-on-one time with your child!",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/One_On_One_Time_Children.m4v"
+        }
+      },
+      "Set of messages 1": {
+        "Message": "One-on-One Time with your children is free and fun. It makes children feel loved and secure, and shows them that they are important. It also increases their confidence and self-esteem!",
+        "Interaction message": "Would you like to learn more?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" whenever you want to learn more about how to spend One-on-One Time with your child. Chat to you later!"
+      },
+      "List of tips": {
+        "Message": "Here are 6 tips to make One-on-One Time with your child a success:\n\n",
+        "Option 1: Spend at least five minutes with each child": {
+          "Message": "1. Spend at least five minutes with each child\nEven 5 minutes a day of quality time  makes a big difference. If you have more than one child, you can take turns or let each child choose an activity. It can be at the same time each day so your children look forward to it."
+        },
+        "Option 2: Give your child your full attention": {
+          "Message": "2. Give your child your full attention\nMake sure you will not be interrupted. Switch off the TV and put your phone on silent. It will show your child, they are important."
+        },
+        "Option 3: Let your child choose the activity": {
+          "Message 1": "3. Let your child choose the activity\nAsk your child what they would like to do. You can say, \"I have 5 minutes to spend One-on-One Time with you, what would you like to do?",
+          "Message 2": "Choosing builds their self confidence. If they want to do something that isn’t OK with COVID-19 rules, then this is a chance to talk with them about this.",
+          "Message 3": "If your child cannot think of anything, you can give them a choice of a couple things that you know they like."
+        },
+        "Option 4: Follow your child's lead": {
+          "Message": "4. Follow your child's lead\nChildren need to do things in their own time. Try to give them time to explore and be patient. Play alongside and copy what they are doing but try to let them keep the initiative."
+        },
+        "Option 5: Use words to describe what your child is doing": {
+          "Message": "5. Use words to describe what your child is doing\nListening to your child is more important than talking to them at this time. If you do talk you should describe what your child is doing. Use words to describe actions, colours, shapes, numbers, sizes, textures, temperatures, tastes, sounds, and anything else that is happening!"
+        },
+        "Option 6: Have fun!": {
+          "Message": "6. Have fun!\nOne-on-One Time with your child can be fun for you, too! You might even find that you feel less stressed after playing with your child."
+        },
+        "Message for choosing another tip": "Please select another number if you want to learn more about how to spend One-on-One Time with your child:\n\n"
+      },
+      "Set of messages 2": {
+        "Message": "Congratulations! You have added another skill to your Parenting Toolkit. Quality time with your children is the best gift that you can ever give them. ",
+        "Interaction message": "Would you like some suggestions for activities to do with your child?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need an activity. Chat to you later!"
+      }
+    },
+    "Technical information": {
+      "Id intro": "f9ce4053-38d5-4bf7-8131-f69b5cfba8df",
+      "Id tip": "bf5dd5e8-1a5b-433b-914e-5f9823308ad3",
+      "Template type": "4"
+    }
+  }
+}

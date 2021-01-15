@@ -1,0 +1,379 @@
+[
+    {
+        "endIndex": 1,
+        "sectionBreak": {
+            "sectionStyle": {
+                "columnSeparatorStyle": "NONE",
+                "contentDirection": "LEFT_TO_RIGHT",
+                "sectionType": "CONTINUOUS"
+            }
+        }
+    },
+    {
+        "endIndex": 2,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 2,
+                    "startIndex": 1,
+                    "textRun": {
+                        "content": "\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 1
+    },
+    {
+        "endIndex": 53,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 53,
+                    "startIndex": 2,
+                    "textRun": {
+                        "content": "PLH - Activity - Baby - Active - The sun is coming\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.nifl5mnpe5rt",
+                "namedStyleType": "HEADING_1"
+            }
+        },
+        "startIndex": 2
+    },
+    {
+        "endIndex": 61,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 61,
+                    "startIndex": 53,
+                    "textRun": {
+                        "content": "Content\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.p3k4efimnz9g",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 53
+    },
+    {
+        "endIndex": 79,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 79,
+                    "startIndex": 61,
+                    "textRun": {
+                        "content": "Set of messages 1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.wvnenyvq638f",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 61
+    },
+    {
+        "endIndex": 87,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 87,
+                    "startIndex": 79,
+                    "textRun": {
+                        "content": "Message\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.go9ufvsd0hld",
+                "namedStyleType": "HEADING_4"
+            }
+        },
+        "startIndex": 79
+    },
+    {
+        "endIndex": 107,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 107,
+                    "startIndex": 87,
+                    "textRun": {
+                        "content": "The Sun is Coming! \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 87
+    },
+    {
+        "endIndex": 182,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 182,
+                    "startIndex": 107,
+                    "textRun": {
+                        "content": "\u2022\tLie your baby on their back after washing them or changing their diaper.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 107
+    },
+    {
+        "endIndex": 302,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 302,
+                    "startIndex": 182,
+                    "textRun": {
+                        "content": "\u2022\tTell them the sun is coming! Wiggle your fingers like sun rays above their head and make your face a big smiling sun.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 182
+    },
+    {
+        "endIndex": 363,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 363,
+                    "startIndex": 302,
+                    "textRun": {
+                        "content": "\u2022\tTell them the wind is coming! Blow softly over their body.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 302
+    },
+    {
+        "endIndex": 470,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 470,
+                    "startIndex": 363,
+                    "textRun": {
+                        "content": "\u2022\tTell them the rain is coming! Use your fingers to gently pat over their whole body like light raindrops.\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 363
+    },
+    {
+        "endIndex": 574,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 574,
+                    "startIndex": 470,
+                    "textRun": {
+                        "content": "\u2022\tTell them the clouds are coming! Wrap the towel or cloth around them like a blanket and cuddle them. \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 470
+    },
+    {
+        "endIndex": 642,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 642,
+                    "startIndex": 574,
+                    "textRun": {
+                        "content": "\u2022\tPlay with different weathers. Which one does your baby like best?\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 574
+    },
+    {
+        "endIndex": 733,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 733,
+                    "startIndex": 642,
+                    "textRun": {
+                        "content": "\u2022\tAdd sound effects or make it into a little song. Use the tune of another song you know! \n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 642
+    },
+    {
+        "endIndex": 755,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 755,
+                    "startIndex": 733,
+                    "textRun": {
+                        "content": "Technical information\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.n6e0mre7nql9",
+                "namedStyleType": "HEADING_2"
+            }
+        },
+        "startIndex": 733
+    },
+    {
+        "endIndex": 758,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 758,
+                    "startIndex": 755,
+                    "textRun": {
+                        "content": "Id\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.mhmih9ay7qfn",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 755
+    },
+    {
+        "endIndex": 795,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 795,
+                    "startIndex": 758,
+                    "textRun": {
+                        "content": "3fa2c146-420a-403d-a0f1-97a4d2fa4b3b\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 758
+    },
+    {
+        "endIndex": 809,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 809,
+                    "startIndex": 795,
+                    "textRun": {
+                        "content": "Template_type\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "headingId": "h.karxk7u5zsjm",
+                "namedStyleType": "HEADING_3"
+            }
+        },
+        "startIndex": 795
+    },
+    {
+        "endIndex": 811,
+        "paragraph": {
+            "elements": [
+                {
+                    "endIndex": 811,
+                    "startIndex": 809,
+                    "textRun": {
+                        "content": "1\n",
+                        "textStyle": {}
+                    }
+                }
+            ],
+            "paragraphStyle": {
+                "direction": "LEFT_TO_RIGHT",
+                "namedStyleType": "NORMAL_TEXT"
+            }
+        },
+        "startIndex": 809
+    }
+]

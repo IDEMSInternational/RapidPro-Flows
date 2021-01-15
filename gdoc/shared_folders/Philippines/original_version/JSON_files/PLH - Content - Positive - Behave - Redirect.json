@@ -1,0 +1,43 @@
+{
+  "PLH - Content - Positive - Behave - Redirect": {
+    "Content": {
+      "Introduction for timed content": {
+        "Message 1": "Hello! All children misbehave sometimes. It is normal when they are tired, scared, hungry, or learning independence. Today's tips are all about what to do when our children misbehave…",
+        "Message 2": "Stop it before it starts! When your children get restless, you can distract them with something interesting or fun: \"Come, let's play a game together!\"",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Interaction message if already completed": "We know that you have already received this tip (well done!). Would you like to review it again?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" at anytime if you need any support with your children. Chat to you later!"
+      },
+      "Default introduction": {
+        "Message": "Try to redirect. Stop it before it starts! When your children get restless, you can distract them with something interesting or fun: \"Come, let's play a game together!\"",
+        "Interaction message": "Would you like to learn more about this tip?",
+        "Message for negative answer": "That's okay! You can always type \"Help\" if you want to receive more tips about how to manage your child's behaviour."
+      },
+      "Media": {
+        "Video": {
+          "Text": "Here's a video that helps you redirect your child's behaviour when they misbehave.",
+          "Link": "https://idems-media-recorder.web.app/storage/project/PLH/subproject/Rapidpro/deployment/Global/resourceGroup/videoScript/eng/Redirect.m4v"
+        }
+      },
+      "Set of messages 1": {
+        "Message": "Keep it positive. It is normal to want to say something about your child's negative behaviour, like “Don’t whine,” or “Stop running in the house.” Instead, just say something that you want your child to do, like \"Speak with a calm voice,\" or \"Remember to walk inside the house.\""
+      },
+      "Based on age group": {
+        "Message for baby": "If your baby is starting to crawl or walk, you can also redirect them by physically picking them up and focusing their attention on something else interesting. Use a lively and cheerful voice!",
+        "Message for other age groups": "none",
+        "Technical info": {
+          "Variable": "@fields.parent_baby",
+          "Type of split": "2"
+        }
+      },
+      "Set of messages 2": {
+        "Message": "Well done! You have added another tool to your Parenting Toolkit. Remember that redirecting your children only works before or at the beginning of a bad behaviour. \nYou can also always type \"Help\" for more tips."
+      }
+    },
+    "Technical information": {
+      "Id intro": "fe589144-7848-4727-aadc-4f6c06e797de",
+      "Id tip": "7e80c417-593d-43d6-973e-def42396e618",
+      "Template type": "8"
+    }
+  }
+}

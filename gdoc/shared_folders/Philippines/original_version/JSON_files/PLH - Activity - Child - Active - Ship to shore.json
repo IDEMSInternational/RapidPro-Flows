@@ -1,0 +1,13 @@
+{
+  "PLH - Activity - Child - Active - Ship to shore": {
+    "Content": {
+      "Set of messages 1": {
+        "Message": "Ship to Shore \n•\tA fun active game where children learn different parts of a boat. Everyone must go to the place or activity that you call out\n•\t“Bow” means run to the front of the boat (room)\n•\t“Stern” means run to the back of the boat\n•\t“Starboard” means run to the right side and “Port” means run to the right side\n•\t“Climb the rigging”: pretend to climb\n•\t“Clean the deck”: pretend to clean the floor\n•\t“Lifeboat, [number] people!”: hold hands in a circle with that many people and do knee bends\n•\tEveryone not in a lifeboat must swim!"
+      }
+    },
+    "Technical information": {
+      "Id": "72caf253-c74a-41eb-b6cf-806c01680b7a",
+      "Template_type": "1"
+    }
+  }
+}
